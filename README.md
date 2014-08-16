@@ -28,9 +28,9 @@ As Google has made a nice and beautifull Documentantion for each of their produc
 
 Building and Test is being carried out. As a sample for online demo that create a simple page applying the above scheme using Google App Engine with the Google Cloud Storage as well also use the following Google Products as below:
 
--Google AdWords to promote the front page
--Google Analitycs to measure the pageview
--Google Channel for online communication
+- Google AdWords to promote the front page
+- Google Analitycs to measure the pageview
+- Google Channel for online communication
 
 If you like to ses the demo, it can be visited [here](www.tophyips.info)
 
