@@ -32,14 +32,14 @@ Building and Test is being carried out. As a sample for online demo that create 
 - Google Analitycs to measure the pageview
 - Google Channel for online communication
 
-If you like to ses the demo, it can be visited [here](www.tophyips.info)
+If you like to see the demo, it can be visited [here](www.tophyips.info)
 
 **The following development is on the way**: 
--Build the Front Page using PHP Frame Work (Zend and Kohana)
--Generate Script Manipulation to Run Java Servlet using GWT (Google Web Toolkit)
+- Build the Front Page using PHP Frame Work (Zend and Kohana)
+- Generate Script Manipulation to Run Java Servlet using GWT (Google Web Toolkit)
 
 **On Going Development**:
--Generate Image Manipulation to Run Python FrameWorks such as Django
--Generate Styles Manipulation to Go Framework using Kubernetess/Docker
+- Generate Image Manipulation to Run Python FrameWorks such as Django
+- Generate Styles Manipulation to Go Framework using Kubernetess/Docker
 
 Feel free to try your hand at building other formats, any discusiion will be opened later once the application is meeting the most target as described above.
