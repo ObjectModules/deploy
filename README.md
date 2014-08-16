@@ -32,7 +32,7 @@ Building and Test is being carried out. As a sample for online demo that create 
 - Google Analitycs to measure the pageview
 - Google Channel for online communication
 
-If you like to see the demo, it can be visited [here](www.tophyips.info)
+If you like to see the demo, it can be visited [here](http://www.tophyips.info)
 
 **The following development is on the way**: 
 - Build the Front Page using PHP Frame Work (Zend and Kohana)
