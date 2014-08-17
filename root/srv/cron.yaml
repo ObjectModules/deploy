@@ -1,0 +1,4 @@
+cron:
+- description: daily cron
+  url: /cron/server
+  schedule: every 6 hours synchronized
