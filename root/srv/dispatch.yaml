@@ -1,0 +1,18 @@
+application: tophyips-info
+
+dispatch:
+# Send images input
+- url: "*/images/*"
+  module: images
+
+# Send styles input
+- url: "*/styles/**"
+  module: styles
+
+# Send scripts input
+- url: "*/scripts/*"
+  module: scripts
+
+# Send others to default
+- url: "*/*"
+  module: default
