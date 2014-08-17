@@ -6,7 +6,7 @@ dispatch:
   module: images
 
 # Send styles input
-- url: "*/styles/**"
+- url: "*/styles/*"
   module: styles
 
 # Send scripts input
