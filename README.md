@@ -1,7 +1,7 @@
 info
 ====
 
-This project is made in the purpose of getiing a possibility to build an interface to generate an **integrated info** from all [GOOGLE CLOUDS](https://cloud.google.com/developers/) including *API's, Application Sripts, Application Engine; Cloud Storage, Cloud Datastore, Cloud SQL, Cloud Endpoints* etc. 
+This project is made in the purpose of getiing a possibility to build an interface to generate an **integrated info** from all [GOOGLE CLOUDS](https://cloud.google.com/developers/) including *[API's](https://developers.google.com/apis-explorer/#p/), Application Sripts, Application Engine; Cloud Storage, Cloud Datastore, Cloud SQL, Cloud Endpoints* etc. 
 
 It aim to have the access and running all available program language like *Python, Java, PHP, Go* with possible also *Scala and Ruby* and run them in the **same time** in to a SINGLE PAGE using a SINGLE DOMAIN without even need any sub domains! 
 
