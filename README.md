@@ -12,7 +12,7 @@ Thanks to Google for bring this possibility to the world and making it happen.
 In order to run all program language in the same time then they are configurated as below:
 - **[Python](https://www.python.org/)** is used to access all images with an access to any Image Manipulation run from Phyton Frame such as *[Django](https://www.djangoproject.com/)* and compiled as 'images module'.
 - **[Java](https://www.java.com/en/)** is used to access all javascript file with an access to Servlet Application run from Java / Javascript Framework such as *[GWT](http://www.gwtproject.org/)* and compiled as 'scripts module'.
-- **[PHP](http://php.net/)** is used to generate the front page run from PHP Framework such as *[Zend]{http://www.zend.com/}, [Kohana](http://kohanaframework.org/)* etc and collected alltogether in a 'default module'.
+- **[PHP](http://php.net/)** is used to generate the front page run from PHP Framework such as *[Zend](http://www.zend.com/), [Kohana](http://kohanaframework.org/)* etc and collected alltogether in a 'default module'.
 - **[Go](http://golang.org/)** is used to access any application that Support for *[Docker images](https://www.docker.com/)* in Google Cloud Platform with an intention to have a possibility to run and gain access a global structure application that run in other languages such as *[Perl](http://www.perl.org/), [C, C++](http://en.wikipedia.org/wiki/C%2B%2B), etc*.
 
 
@@ -44,11 +44,11 @@ Building and Test is being carried out. As a sample for online demo that create 
 If you like to see the demo, it can be visited [here](http://tophyips.info)
 
 **The following development is on the way**: 
-- Build the Front Page using PHP Frame Work (Zend and Kohana)
+- Build the Front Page using PHP Frame Work ([Zend](http://stackoverflow.com/questions/19824594/zend-framework-1-x-on-google-app-engine) and [Kohana](http://raivoratsep.com/52/kohana-mvc-framework-on-google-app-engine-or-not/))
 - Generate Script Manipulation to Run Java Servlet using GWT (Google Web Toolkit)
 
 **On Going Development**:
 - Generate Image Manipulation to Run Python FrameWorks such as [Django](https://developers.google.com/appengine/articles/django-nonrel)
-- Generate Styles Manipulation to Go Framework using Kubernetess/Docker
+- Generate Styles Manipulation to Go Framework using [Kubernetess/Docker](https://developers.google.com/compute/docs/containers)
 
 Feel free to try your hand at building other formats, any discusiion will be opened later once the application is meeting the most target as described above.
