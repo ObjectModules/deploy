@@ -37,15 +37,15 @@ As Google has made a nice and beautifull documentantion for each of their produc
 
 Building and Test is being carried out. As a sample for online demo that create a simple page applying the above scheme using Google App Engine with the Google Cloud Storage as well also use the following Google Products as below:
 
-- Google AdWords to promote the front page
-- Google Analitycs to measure the pageview
-- Google Channel for online communication
+- [Google AdWords](https://adwords.google.com) to promote the front page
+- [Google Analitycs](https://www.google.com/analytics/) to measure the pageview
+- [Google Tall](http://www.google.com/talk/whatsnew_more.html) for online communication
 
 If you like to see the demo, it can be visited [here](http://tophyips.info)
 
 **The following development is on the way**: 
 - Build the Front Page using PHP Frame Work ([Zend](http://stackoverflow.com/questions/19824594/zend-framework-1-x-on-google-app-engine) and [Kohana](http://raivoratsep.com/52/kohana-mvc-framework-on-google-app-engine-or-not/))
-- Generate Script Manipulation to Run Java Servlet using GWT (Google Web Toolkit)
+- Generate Script Manipulation to Run Java Servlet using GWT compiled by [Eclipse](https://developers.google.com/eclipse/) or [Maven](https://developers.google.com/appengine/docs/java/tools/maven).
 
 **On Going Development**:
 - Generate Image Manipulation to Run Python FrameWorks such as [Django](https://developers.google.com/appengine/articles/django-nonrel)
