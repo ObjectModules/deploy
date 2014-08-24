@@ -1,7 +1,7 @@
 info
 ====
 
-This project is made in the purpose of getiing a possibility to build an interface to generate an **integrated info** from all [GOOGLE CLOUDS](https://cloud.google.com/developers/) including *[API's](https://developers.google.com/apis-explorer/#p/), [Application API](https://developers.google.com/google-apps/app-apis), [Application Sripts](https://developers.google.com/apps-script/), [Application Engine](https://developers.google.com/appengine/); [Cloud Storage](https://developers.google.com/storage/), [Cloud Datastore](https://developers.google.com/datastore/), [Cloud SQL](https://developers.google.com/cloud-sql/)* etc. 
+This project is made in the purpose of getiing a possibility to build an interface to generate an **integrated info** from all [GOOGLE CLOUDS PLATFORM](https://cloud.google.com/developers/) including *[API's](https://developers.google.com/apis-explorer/#p/), [Application API](https://developers.google.com/google-apps/app-apis), [Application Sripts](https://developers.google.com/apps-script/), [Application Engine](https://developers.google.com/appengine/); [Cloud Storage](https://developers.google.com/storage/), [Cloud Datastore](https://developers.google.com/datastore/), [Cloud SQL](https://developers.google.com/cloud-sql/)* etc. 
 
 It aim to have the access and running all available program language like *Python, Java, PHP, Go* with possible also *Scala and Ruby* and run them in the **same time** in to a SINGLE PAGE using a SINGLE DOMAIN without even need any sub domains! 
 
