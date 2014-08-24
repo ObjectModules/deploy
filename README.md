@@ -13,8 +13,8 @@ In order to run all program language in the same time then they are configurated
 - **[Python](https://www.python.org/)** is used to access all images with an access to any Image Manipulation run from Phyton Frame such as *[Django](https://www.djangoproject.com/)* and compiled as 'images module'.
 - **[Java](https://www.java.com/en/)** is used to access all javascript file with an access to Servlet Application run from Java / Javascript Framework such as *[GWT](http://www.gwtproject.org/)* and compiled as 'scripts module'.
 - **[PHP](http://php.net/)** is used to generate the front page run from PHP Framework such as *[Zend]{http://www.zend.com/}, [Kohana](http://kohanaframework.org/)* etc and collected alltogether in a 'default module'.
-- **[Go](http://golang.org/)** is used to access any application that Support for *[Docker images](https://www.docker.com/)* in Google Cloud Platform with an intention to have a possibility to run and gain access a global structure application that run in other languages such as *[Perl](http://www.perl.org/), [C, C++](http://en.wikipedia.org/wiki/C%2B%2B), etc*. 
-- 
+- **[Go](http://golang.org/)** is used to access any application that Support for *[Docker images](https://www.docker.com/)* in Google Cloud Platform with an intention to have a possibility to run and gain access a global structure application that run in other languages such as *[Perl](http://www.perl.org/), [C, C++](http://en.wikipedia.org/wiki/C%2B%2B), etc*.
+
 
 ##Application Structure
 Having possibility to run all language then we have no more resistant to gain a **simultaneously** access to any other [GOOGLE PRODUCT](https://developers.google.com/products/) including *Google Talk, Google Play Androids, Google Maps, Google Drive, Google Analytics, Google AdWords, Google Wallet, Youtube, etc* which also open an access to more **widely and global** application such as *[Compute Engine](https://developers.google.com/compute/) and [Big Query](https://developers.google.com/bigquery/)*.
