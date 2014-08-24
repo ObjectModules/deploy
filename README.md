@@ -45,10 +45,10 @@ If you like to see the demo, it can be visited [here](http://tophyips.info)
 
 **The following development is on the way**: 
 - Build the Front Page using PHP Frame Work ([Zend](http://stackoverflow.com/questions/19824594/zend-framework-1-x-on-google-app-engine) and [Kohana](http://raivoratsep.com/52/kohana-mvc-framework-on-google-app-engine-or-not/))
-- Generate Script Manipulation to Run Java Servlet using GWT compiled by [Eclipse](https://developers.google.com/eclipse/) or [Maven](https://developers.google.com/appengine/docs/java/tools/maven).
+- Generate Script Manipulation to run Java Servlet using GWT compiled by [Eclipse](https://developers.google.com/eclipse/) or [Maven](https://developers.google.com/appengine/docs/java/tools/maven).
 
 **On Going Development**:
-- Generate Image Manipulation to Run Python FrameWorks such as [Django](https://developers.google.com/appengine/articles/django-nonrel)
-- Generate Styles Manipulation to Go Framework using [Kubernetess/Docker](https://developers.google.com/compute/docs/containers)
+- Generate Image Manipulation to run Python FrameWorks such as [Django](https://developers.google.com/appengine/articles/django-nonrel)
+- Generate Styles Manipulation to run Go Framework using [Kubernetess/Docker](https://developers.google.com/compute/docs/containers)
 
 Feel free to try your hand at building other formats, any discusiion will be opened later once the application is meeting the most target as described above.
