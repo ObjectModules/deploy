@@ -17,7 +17,7 @@ In order to run all program language in the same time then they are configurated
 
 
 ##Application Structure
-Having possibility to run all language then we have no more resistant to gain a **simultaneously** access to any other [GOOGLE PRODUCT](https://developers.google.com/products/) including *Google Talk, Google Play Androids, Google Maps, Google Drive, Google Analytics, Google AdWords, Google Wallet, Youtube, etc* which also open an access to more **widely and global** application such as *[Compute Engine](https://developers.google.com/compute/) and [Big Query](https://developers.google.com/bigquery/)*.
+Having possibility to run all language then we have no more resistant to gain a **simultaneously** access to any other [GOOGLE PRODUCT](https://developers.google.com/products/) including *Google Talk, [Google Play Androids](https://developers.google.com/android/), [Google Maps](https://developers.google.com/maps/), [Google Drive](https://drive.google.com/), [Google Wallet](https://developers.google.com/wallet/), [Youtube](https://developers.google.com/youtube/), etc* which also open an access to more **widely and global** application such as *[Compute Engine](https://developers.google.com/compute/) and [Big Query](https://developers.google.com/bigquery/)*.
 
 Find More of Google Products [here](http://en.wikipedia.org/wiki/Google_Services).
 
@@ -39,7 +39,7 @@ Building and Test is being carried out. As a sample for online demo that create 
 
 - [Google AdWords](https://adwords.google.com) to promote the front page
 - [Google Analitycs](https://www.google.com/analytics/) to measure the pageview
-- [Google Tall](http://www.google.com/talk/whatsnew_more.html) for online communication
+- [Google Talk](http://www.google.com/talk/whatsnew_more.html) for online communication
 
 If you like to see the demo, it can be visited [here](http://tophyips.info)
 
