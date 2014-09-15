@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<module rename-to="scripts">
+  <!-- Inherit some Web Toolkit stuff.                            -->
+  <inherits name='com.google.gwt.core.Core'/>
+  <inherits name="com.google.gwt.json.JSON" />
+  <inherits name="com.google.gwt.user.User"/>
+  <inherits name='com.google.gwt.user.Window'/>
+  <inherits name="com.google.gwt.event.Event"/>
+  <inherits name="com.google.gwt.place.Place"/>
+
+  <!-- Do not inherit any GWT style sheet                         -->
+  <!-- We use our custom style                                    -->
+  <!-- <inherits name="com.google.gwt.user.theme.clean.Clean"/>   -->
+  <!-- <inherits name="com.google.gwt.user.theme.standard.Standard"/> -->
+  <!-- <inherits name="com.google.gwt.user.theme.chrome.Chrome"/> -->
+  <!-- <inherits name="com.google.gwt.user.theme.dark.Dark"/>     -->
+
+  <!-- Inherit GWTQuery                                       	  -->
+  <inherits name="com.google.gwt.query.Query"/>
+  <!-- Inherit GIN dependency injection                           -->
+  <inherits name="com.google.gwt.inject.Inject"/>
+  <!-- Inherit Guava for GWT                                      -->
+  <inherits name="com.google.common.collect.Collect" />
+  <!-- Inherit GAE channels                                       -->
+  <inherits name="com.google.gwt.appengine.channel.Channel"/>
+
+  <!-- Specify the app entry point class.                         -->
+  <entry-point class="com.todomvc.client.GwtGaeChannelToDo"/>
+
+  <!-- Specify the paths for translatable code                    -->
+  <source path="client"/>
+  <source path="shared"/>
+
+  <!-- Specify the paths for translatable code                    -->
+  <public path="public"/>
+
+  <!-- specify the paths for external style sheet files -->
+  <stylesheet src="/styles/tableSorter.css" />;	   
+  <stylesheet src="/styles/tabSlideOut.css" />;	   
+  <stylesheet src="/styles/validetta.css" />;	   
+
+  <!-- specify the paths for external javascript files -->
+  <script src="https://raw.githubusercontent.com/tophyips/info/master/root/srv/www/scripts/tools/mobile-detect.min.js"/>
+  <script src="http://modernizr.com/downloads/modernizr-latest.js"/>
+  <script src="/scripts/tools/mobile-detect-modernizr.js"/>
+  <script src="/scripts/tools/detect-zoom.js"/>  
+  <script src="/scripts/common/base.js"/>
+</module>
