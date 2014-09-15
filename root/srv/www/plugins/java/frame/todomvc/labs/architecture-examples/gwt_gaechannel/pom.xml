@@ -1,0 +1,327 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.todomvc</groupId>
+		<artifactId>parent</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>gwtgaechanneltodo</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
+	<name>TodoMVC :: GWT + GAE Channels implementation</name>
+
+    <properties>
+        <gwtVersion>2.6.1</gwtVersion>
+        <gae.version>1.9.8</gae.version>
+        <sdk.version>1.9.8</sdk.version>
+		<maven.compiler.source>1.6</maven.compiler.source>
+		<maven.compiler.target>1.6</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<appengine.target.version>${sdk.version}</appengine.target.version>
+		<hostedWebapp>${project.build.directory}/${project.build.finalName}</hostedWebapp>
+        <webappDirectory>${project.build.directory}/${project.build.finalName}</webappDirectory>
+		<appEngineSdk>${settings.localRepository}/com/google/appengine/appengine-java-sdk/${sdk.version}/appengine-java-sdk-${sdk.version}</appEngineSdk>
+    </properties>
+
+	<repositories>
+		<repository>
+			<name>project</name>
+			<id>project.local</id>
+			<url>file:${project.basedir}/repo</url>
+		</repository>
+		<!--other repositories if any-->
+	</repositories>
+
+	<pluginRepositories>
+		<pluginRepository>
+			<!-- Used to retrieve the Docco plugin -->
+			<id>atlassian-public</id>
+			<url>https://maven.atlassian.com/content/groups/public/</url>
+			<releases>
+				<checksumPolicy>fail</checksumPolicy>
+				<enabled>true</enabled>
+			</releases>
+			<snapshots>
+				<checksumPolicy>fail</checksumPolicy>
+			</snapshots>
+		</pluginRepository>
+
+		<pluginRepository>
+			<id>google-staging</id>
+			<name>Google Staging</name>
+			<url>https://oss.sonatype.org/content/repositories/comgoogleappengine-1004/</url>
+		</pluginRepository>
+	</pluginRepositories>
+
+	<dependencies>
+		<!-- JSR 330 @Inject, @Singleton and friends -->
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.8.1</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-all</artifactId>
+			<version>1.8.4</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>16.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava-gwt</artifactId>
+			<version>16.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.inject</groupId>
+			<artifactId>guice</artifactId>
+			<version>3.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.inject.extensions</groupId>
+			<artifactId>guice-servlet</artifactId>
+			<version>3.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.inject.extensions</groupId>
+			<artifactId>guice-assistedinject</artifactId>
+			<version>3.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.gwt.inject</groupId>
+			<artifactId>gin</artifactId>
+			<version>2.1.2</version>
+		</dependency>
+		<dependency>
+			<groupId>aopalliance</groupId>
+			<artifactId>aopalliance</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>javax.inject</groupId>
+			<artifactId>javax.inject</artifactId>
+			<version>1</version>
+		</dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+            <version>2.5</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>jstl</groupId>
+            <artifactId>jstl</artifactId>
+            <version>1.2</version>
+        </dependency>
+
+		<!-- GWT compile dependencies -->
+		<dependency>
+			<groupId>com.google.gwt</groupId>
+			<artifactId>gwt-servlet</artifactId>
+			<version>${gwtVersion}</version>
+			<scope>runtime</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.google.gwt</groupId>
+			<artifactId>gwt-user</artifactId>
+			<version>${gwtVersion}</version>
+			<scope>provided</scope>
+		</dependency>
+        <dependency>
+			<groupId>com.googlecode.gwtquery</groupId>
+			<artifactId>gwtquery</artifactId>
+			<version>1.4.2</version>
+			<scope>provided</scope>
+		</dependency>
+
+		<!-- App Engine Runtime Dependencies -->
+        <dependency>
+            <groupId>com.google.appengine</groupId>
+            <artifactId>appengine-tools-sdk</artifactId>
+            <version>${gae.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.appengine</groupId>
+            <artifactId>appengine-api-1.0-sdk</artifactId>
+            <version>${gae.version}</version>
+        </dependency>
+		<dependency>
+			<groupId>com.google.appengine</groupId>
+			<artifactId>appengine-remote-api</artifactId>
+			<version>${gae.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.google.appengine</groupId>
+			<artifactId>appengine-api-labs</artifactId>
+			<version>${gae.version}</version>
+		</dependency>
+        <dependency>
+            <groupId>com.google.appengine</groupId>
+            <artifactId>appengine-api-stubs</artifactId>
+            <version>${gae.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.google.appengine</groupId>
+            <artifactId>appengine-testing</artifactId>
+            <version>${gae.version}</version>
+            <scope>test</scope>
+        </dependency>
+		<dependency>
+			<groupId>com.google.appengine</groupId>
+			<!-- JSR 107 Java Temporary Caching -->
+			<artifactId>appengine-jsr107cache</artifactId>
+			<version>${gae.version}</version>
+		</dependency>
+		<!-- Please read http://stackoverflow.com/questions/364114/can-i-add-jars-to-maven-2-build-classpath-without-installing-them/
+		mvn deploy:deploy-file -Durl=file:repo/ -Dfile=lib/gwt-gae-channel-2.0.0.jar -DgroupId=com.google.appengine -DartifactId=gwt-gae-channel -Dpackaging=jar -Dversion=2.0.0  -->
+		<dependency>
+			<groupId>com.google.gwt.appengine</groupId>
+			<artifactId>gwt-gae-channel</artifactId>
+			<version>2.0.0</version>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<outputDirectory>${webappDirectory}/WEB-INF/classes</outputDirectory>
+		<pluginManagement>
+		  <plugins>
+			<plugin>
+			  <groupId>org.apache.maven.plugins</groupId>
+			  <artifactId>maven-compiler-plugin</artifactId>
+			  <version>3.1</version>
+			  <configuration>
+					<configuration>
+						<source>1.6</source>
+						<target>1.6</target>
+					</configuration>
+			   </configuration>
+			</plugin>
+		  </plugins>
+		</pluginManagement>
+
+		<!-- Compiler -->
+		<plugins>
+			<!-- Copying -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-dependency-plugin</artifactId>
+				<version>2.8</version>
+				<executions>
+					<execution>
+						<id>copy-deps-to-lib</id>
+						<goals>
+							<goal>copy-dependencies</goal>
+						</goals>
+						<configuration>
+							<includeArtifactIds>junit,mockito-all,aopalliance,javax.inject,jsr305,guava,guava-gwt,guice,guice-servlet,guice-assistedinject,gin</includeArtifactIds>
+							<outputDirectory>${basedir}/lib</outputDirectory>
+							<excludeTransitive>true</excludeTransitive>
+							<overWriteReleases>false</overWriteReleases>
+							<overWriteSnapshots>false</overWriteSnapshots>
+							<overWriteIfNewer>true</overWriteIfNewer>
+						</configuration>
+					</execution>
+					<execution>
+						<id>copy-deps-to-webapp-WEB-INF-lib</id>
+						<goals>
+							<goal>copy-dependencies</goal>
+						</goals>
+						<configuration>
+							<includeArtifactIds>servlet-api,aopalliance,gwt-servlet,guava,guava-gwt,guice-servlet,appengine-api-1.0-sdk,appengine-api-labs,appengine-jsr107cache</includeArtifactIds>
+							<outputDirectory>${basedir}/src/main/webapp/WEB-INF/lib</outputDirectory>
+							<excludeTransitive>true</excludeTransitive>
+							<overWriteReleases>false</overWriteReleases>
+							<overWriteSnapshots>false</overWriteSnapshots>
+							<overWriteIfNewer>true</overWriteIfNewer>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>com.atlassian.docco</groupId>
+				<artifactId>atlassian-docco-maven</artifactId>
+				<version>1.0-beta4</version>
+				<configuration>
+					<!--skipNoDocco>true</skipNoDocco -->
+					<indexTitle>TodoMVC :: GWT + GAE Channels</indexTitle>
+					<sourceDirectory>${basedir}/src/main</sourceDirectory>
+					<outputDirectory>${basedir}/docco</outputDirectory>
+					<excludes>
+						<exclude>docco/**</exclude>
+					</excludes>
+					<horizontalTemplate>${basedir}/src/main/docco/docco-h.soy</horizontalTemplate>
+					<customResources>
+						<customResource>${basedir}/src/main/docco/gwttodo.css</customResource>
+						<customResource>${basedir}/src/main/docco/gwttodo-atlassian-docco.js</customResource>
+						<customResource>${basedir}/src/main/docco/in-action.png</customResource>
+					</customResources>
+				</configuration>
+				<executions>
+					<execution>
+						<!-- Attachs to the early phase process-sources. You can generate annotated 
+							sources with command: $ mvn process-sources Output files will go to docco/ 
+							folder -->
+						<phase>process-sources</phase>
+						<goals>
+							<goal>docco</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<!-- Compile -->
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>gwt-maven-plugin</artifactId>
+				<version>${gwtVersion}</version>
+				<executions>
+					<execution>
+						<goals>
+							<goal>compile</goal>
+							<goal>test</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<module>com.todomvc.GwtGaeChannelToDo</module>
+					<runTarget>GwtGaeChannelToDo.html</runTarget>
+					<hostedWebapp>${hostedWebapp}</hostedWebapp>
+					<server>com.google.appengine.tools.development.gwt.AppEngineLauncher</server>
+					<appEngineVersion>${gae.version}</appEngineVersion>
+					<appEngineHome>${appEngineSdk}</appEngineHome>
+					<deploy>${webappDirectory}/WEB-INF/deploy</deploy>
+					<extraJvmArgs>-Xmx512M -Xss1024k</extraJvmArgs>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-war-plugin</artifactId>
+				<version>2.4</version>
+				<executions>
+					<execution>
+						<phase>compile</phase>
+						<goals>
+							<goal>exploded</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<webappDirectory>${webappDirectory}</webappDirectory>
+				</configuration>
+			</plugin>
+			<!-- Deploy -->
+            <plugin>
+                <groupId>com.google.appengine</groupId>
+                <artifactId>appengine-maven-plugin</artifactId>
+                <version>${gae.version}</version>
+            </plugin>
+		</plugins>
+	</build>
+</project>
