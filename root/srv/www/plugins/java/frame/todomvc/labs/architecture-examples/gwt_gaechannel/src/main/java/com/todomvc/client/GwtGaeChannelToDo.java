@@ -21,8 +21,7 @@ public class GwtGaeChannelToDo implements EntryPoint {
 
     public void onModuleLoad() {
 		$("body").removeClass("coda-slider-no-js");
-		Window.alert("Warm Welcome");
-		ToDoView mainPanel = injector.getMainPanel();Window.alert("Welcome to Site");
+		ToDoView mainPanel = injector.getMainPanel();
         RootPanel.get("drop").add(mainPanel);		
 		injectScript();
      }
