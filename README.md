@@ -31,6 +31,14 @@ The application development is limited until gain the access only means once the
 
 Others programming language like **[Scala](http://www.scala-lang.org/)** and **[Ruby](https://www.ruby-lang.org/en/)** will also brought in to the projects. 
 
+**The following development is on the way**: 
+- Build the Front Page using PHP Frame Work ([Zend](http://stackoverflow.com/questions/19824594/zend-framework-1-x-on-google-app-engine) and [Kohana](http://raivoratsep.com/52/kohana-mvc-framework-on-google-app-engine-or-not/))
+- Generate Script Manipulation to run Java Servlet using GWT compiled by [Eclipse](https://developers.google.com/eclipse/) or [Maven](https://developers.google.com/appengine/docs/java/tools/maven).
+
+**On Going Development**:
+- Generate Image Manipulation to run Python FrameWorks such as [Django](https://developers.google.com/appengine/articles/django-nonrel)
+- Generate Styles Manipulation to run Go Framework using [Kubernetess/Docker](https://developers.google.com/compute/docs/containers)
+
 
 ##Documentation Structure
 As Google has made a nice and beautifull documentantion for each of their product then the documentation of this project will be made as simple as possible in only to expalin a specific task on how to make the code running and succesfully gain the access to each Google Product. The link to develop in deeper will be provided in the discussed section.
@@ -41,6 +49,9 @@ Building and Test is being carried out. As a sample for online demo that create 
 - [Google Analitycs](https://www.google.com/analytics/) to measure the pageview
 - [Google Talk](http://www.google.com/talk/whatsnew_more.html) for online communication
 
+
+##Algorithm Structure
+
 For the time being this project is developed to generate an integrated information to score and rate a group of sites running in a same business category. Its quite hard to find such of business model that easily to be scored or whether our score is really represent the actual situation in the business live. To rectify that the script is correctly giving an correct result we need to test it on a kind of business model that can be measured in a short time period. Having reviewing many alternatives we came to a business category called hyip ([high-yield investment programs](http://en.wikipedia.org/wiki/High-yield_investment_program)) which we found as a perfect model for us to be started. Following are some reason behind this election to this busines model:
 
 - Site that running hyip business are mostly online within short period (a year or less) and Hyip business has to present their capability of giving an exact profit to the user in a short time basis to market their services.
@@ -48,13 +59,5 @@ For the time being this project is developed to generate an integrated informati
 - Most important is since the hyip is mostly a ponzi scheme so hyip site cannot be run in a long time period so we could  find whether our algorithm in our script is giving a correct scoring result in a short time as well.
 
 So base on the above measurement we can take all information of hyip service being offered compare to the trust of the domain put alltogether to rank, score the hyip sites, Despite we are still trying hard to predict how long a hyip site can be running online we have came to have a scoring that give a result of best site which is more or less are the same as represent by other site that comparing those hyp site. If you like to see the script in action, it can be visited to the site called [hyip monitor](http://tophyips.info), It is just a model how we are going to start. On the long time running we have also want to go to other widely busines such as scring of who is domain registrant, web design to be scored and present our scoring. We intent to be the best and trusted in scoring any business in the same way as Google on giving their search reault to the world.
-
-**The following development is on the way**: 
-- Build the Front Page using PHP Frame Work ([Zend](http://stackoverflow.com/questions/19824594/zend-framework-1-x-on-google-app-engine) and [Kohana](http://raivoratsep.com/52/kohana-mvc-framework-on-google-app-engine-or-not/))
-- Generate Script Manipulation to run Java Servlet using GWT compiled by [Eclipse](https://developers.google.com/eclipse/) or [Maven](https://developers.google.com/appengine/docs/java/tools/maven).
-
-**On Going Development**:
-- Generate Image Manipulation to run Python FrameWorks such as [Django](https://developers.google.com/appengine/articles/django-nonrel)
-- Generate Styles Manipulation to run Go Framework using [Kubernetess/Docker](https://developers.google.com/compute/docs/containers)
 
 Feel free to try your hand at building other formats, any discusiion will be opened later once the application is meeting the most target as described above.
