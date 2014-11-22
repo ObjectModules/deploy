@@ -41,7 +41,13 @@ Building and Test is being carried out. As a sample for online demo that create 
 - [Google Analitycs](https://www.google.com/analytics/) to measure the pageview
 - [Google Talk](http://www.google.com/talk/whatsnew_more.html) for online communication
 
-If you like to see the script in action, it can be visited to the site called [hyip monitor](http://tophyips.info)
+For the time being this project is developed to generate sn integrated information to score and rate a group of sites running in a same business category. Its quite hard to find such of business model that easily to be scored or whether our score is really represent the actual situation in the business live. To rectify that the script is correctly giving an correct result we need a kind of business model that can be measured in a short time period. Having reviewing many alternatives we came to a business category called hyip ([high-yield investment programs]')(http://en.wikipedia.org/wiki/High-yield_investment_program) which we found as a perfect model for us to be started. Following are some reason behind this election to this busines model:
+
+- Site that running hyip business are mostly online within short period (a year or less).
+- Hyip business has to present their capability of giving an exact profit to the uer in a short time basis.
+- Hyip site is easily to be considered as dead or as a hyip scam when the site is stop paying.
+
+So base on the above measurement we can take all information of hyip service being offered compare to the trust of the domain put alltogether to rank, score the hyip sites, Despite we are still trying hard to predict how long a hyip site can be running online we have came to have a scoring that give a result of best site which is more or less are the same as represent by other site that comparing those hyp site. If you like to see the script in action, it can be visited to the site called [hyip monitor](http://tophyips.info)
 
 **The following development is on the way**: 
 - Build the Front Page using PHP Frame Work ([Zend](http://stackoverflow.com/questions/19824594/zend-framework-1-x-on-google-app-engine) and [Kohana](http://raivoratsep.com/52/kohana-mvc-framework-on-google-app-engine-or-not/))
