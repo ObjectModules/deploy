@@ -41,7 +41,7 @@ Building and Test is being carried out. As a sample for online demo that create 
 - [Google Analitycs](https://www.google.com/analytics/) to measure the pageview
 - [Google Talk](http://www.google.com/talk/whatsnew_more.html) for online communication
 
-If you like to see the demo, it can be visited [here](http://tophyips.info)
+If you like to see the script in action, it can be visited to the site called [hyip monitor](http://tophyips.info)
 
 **The following development is on the way**: 
 - Build the Front Page using PHP Frame Work ([Zend](http://stackoverflow.com/questions/19824594/zend-framework-1-x-on-google-app-engine) and [Kohana](http://raivoratsep.com/52/kohana-mvc-framework-on-google-app-engine-or-not/))
