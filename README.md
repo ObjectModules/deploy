@@ -52,7 +52,7 @@ Building and Test is being carried out. As a sample for online demo that create 
 
 ##Algorithm Structure
 
-For the time being this project is developed to generate an integrated information to score and rate a group of sites running in **a same business category**. Its quite hard to find such of business model that easily to be scored or whether our score is really represent the actual situation in the business live. To rectify that the script is correctly giving an correct result we need to test it on a kind of business model that can be measured in a short time period.   
+For the time being this project is developed using all benefits on Google Products even all program code available in world  to generate an integrated information to score and rate a group of sites running in **a same business category**. Its quite hard to find such of business model that easily to be scored or whether our score is really represent the actual situation in the business live. To rectify that the script is correctly giving an correct result we need to test it on a kind of business model that can be measured in a short time period.   
 
 Having reviewing many alternatives we came to a business category called hyip ([high-yield investment programs](http://en.wikipedia.org/wiki/High-yield_investment_program)) which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
 
