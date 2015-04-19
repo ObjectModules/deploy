@@ -1,6 +1,6 @@
 # Gollum
 
-A simple, Git-powered wiki with a sweet API and local frontend.
+[Gollum](http://github.com/github/gollum/) is a simple, Git-powered wiki with a sweet API and local frontend.
 
 ## Repo Structure
 
