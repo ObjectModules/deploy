@@ -1,6 +1,6 @@
 # Gollum
 
-Testing
+A simple, Git-powered wiki with a sweet API and local frontend.
 
 ## Repo Structure
 
