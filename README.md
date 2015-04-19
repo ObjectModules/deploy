@@ -72,4 +72,4 @@ That is all what we want to go. We intent to be among the best and trusted compa
 
 At last but not least we welcome for your comments or opinion to our project. Please feel free to try your hand at building other formats; any discussion will be opened later once the application is meeting the most targets as described above.
 
-We have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer. You may start to browse the documentation. Usually people begin with a tutorial page titled 'Hello World'. Here we have a little bit different. Let call it ['Hyip World'](https://github.com/hyipworld/hyipworld.github.io)
+We have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer. You may start to browse the documentation. Usually people begin with a tutorial page titled 'Hello World'. Here we have a little bit different. Let call it ['*Hyip World*'](https://github.com/hyipworld/hyipworld.github.io)
