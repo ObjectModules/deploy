@@ -388,7 +388,7 @@ following syntax:
     }}}}}}
 
 You can replace the string "blue-modern" with any supported style.    
-Alternatively you can use [js-sequence-diagrams](http://bramp.github.io/js-sequence-diagrams/)
+Alternatively you can use [js-sequence-diagrams](http://bramp.github.io/js-sequence-diagrams/) & [umlet-github](https://github.com/CalumJEadie/umlet-github).
 
 
 ## Include other pages
