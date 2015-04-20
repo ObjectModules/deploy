@@ -387,7 +387,8 @@ following syntax:
       bob->alice: Test response
     }}}}}}
 
-You can replace the string "blue-modern" with any supported style.
+You can replace the string "blue-modern" with any supported style.    
+Alternatively you can use [js-sequence-diagrams](http://bramp.github.io/js-sequence-diagrams/)
 
 
 ## Include other pages
