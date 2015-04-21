@@ -68,7 +68,7 @@ This is just a model to give you a figure on how we are going to start. If you l
 
 On the long time running we have also want to go to **other widely business** such as scoring of who is *the best domain registrant*, who is *the best web designer*, who is *the best of seo provider*, who is *the best submission service* etc. We are going to present the result in the style as hyip scoring so even the user only have US$ 1 in their budget they could find our scoring is useful for them. As you know that it is really difficult to find such a good services when you have only a little budget. in the contrary you have to be more wise and careful to decide whether you still doing a business with your current partner or go to other more reputable business partner when your budget is growing up. 
 
-That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as Google on giving their amazing service on '*keyword base*' search result to the world.
+That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on '*keyword base*' search result to the world.
 
 At last but not least we welcome for your comments or opinion to our project. Please feel free to try your hand at building other formats; any discussion will be opened later once the application is meeting the most targets as described above.
 
