@@ -1,1 +1,1 @@
-[hyip](https://github.com/hyip) - [*Hyip Info*](https://github.com/hyip/info/wiki) - [[Reserved]] - [[Reserved]] - [[Reserved]] - [[Reserved]] - [*Hyip Info*](https://github.com/hyip/info/wiki) - [**info**](https://github.com/hyip/info) - [hyip](https://github.com/hyip)
+[hyip](https://github.com/hyip) - [*Hyip Info*](https://github.com/hyip/info/wiki) - [[Reserved]] - [[Reserved]] - [[Reserved]] - [[Reserved]] - [*Hyip Monitor*](https://github.com/hyip/monitor/wiki) - [hyip](https://github.com/hyip)
