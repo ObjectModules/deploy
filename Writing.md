@@ -5,8 +5,7 @@
 With wikis, you can write [content just like everywhere else on GitHub](https://help.github.com/articles/writing-on-github). We use our [open-source Markup library](https://github.com/github/markup) to convert different formats into HTML, so you can choose to write in Markdown, RST, Textile, or any other supported format when you craft wiki pages.
 
 Wikis can be edited directly on GitHub, or you can work with a text editor offline and simply push your changes. Wikis are collaborative by design. By default, every user can make changes to public wikis, but you can configure this to be enabled only for [collaborators on your repository](https://help.github.com/articles/changing-access-permissions-for-wikis).
-
-[Writing on GitHub](https://help.github.com/articles/writing-on-github/)     
+     
 See the list of [supported markup formats](https://github.com/github/markup#markups) below:   
 Markdown [syntax](http://daringfireball.net/projects/markdown/syntax) (with support for [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/))    
 Gollum    
