@@ -5,9 +5,9 @@ Using your site:
 * Adding content
 * Formatting content
   * Optimizing content
-* * Custom taxonomies
-* * * Custom landing pages
-* * * Largo post templates
+  * Custom taxonomies
+    * Custom landing pages
+    * Largo post templates
 Site setup:
 * Setup checklist
 * * General settings
