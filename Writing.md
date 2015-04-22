@@ -14,8 +14,9 @@ See the list of [supported markup formats](https://github.com/github/markup#mark
 *   [creole](http://www.wikicreole.org/wiki/Creole1.0) is a lightweight markup language, aimed at being a common markup language for wikis, enabling and simplifying the transfer of content between different [wiki engines](http://en.wikipedia.org/wiki/Wiki_software). 
 *   [mediawiki, .wiki](http://www.mediawiki.org/wiki/Help:Formatting) You can format your text by using wiki markup. This consists of normal characters like asterisks, apostrophes or equal signs which have a special function in the wiki, sometimes depending on their position. For example, to format a word in italic, you include it in two pairs of apostrophes like ''this''.
 *   [rst](http://docutils.sourceforge.net/rst.html) Markup Syntax and Parser Component of [Docutils](http://docutils.sourceforge.net/index.html)
-*   [pod](http://search.cpan.org/dist/perl/pod/perlpod.pod) -- Pod::Simple::HTML comes with Perl >= 5.10. Lower versions should install Pod::Simple from CPAN.    
-You can install them from [here](https://github.com/github/markup). There is also available a simple, Git-powered wiki with a sweet API and local frontend called [Gollum](https://github.com/gollum/gollum).
+*   [pod](http://search.cpan.org/dist/perl/pod/perlpod.pod) -- Pod::Simple::HTML comes with Perl >= 5.10. Lower versions should install Pod::Simple from CPAN.   
+    
+You can install them from [here](https://github.com/github/markup). There is also available a simple, Git-powered wiki with a sweet API and local frontend called [Gollum](https://github.com/gollum/gollum).    
 Beside the markup formats GitHub wiki also support [Emoji](http://www.emoji-cheat-sheet.com/), Japanese pronunciation: [emodʑi]) are the ideograms or smileys used in Japanese electronic messages and Web pages,          
 
 Markdown: Syntax
