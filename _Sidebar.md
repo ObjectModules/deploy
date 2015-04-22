@@ -3,7 +3,7 @@
 
 Using your site:
 * Adding content
-* Formatting content
+* [[Writing]]
   * Optimizing content
   * Custom taxonomies
     * Custom landing pages
