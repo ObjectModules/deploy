@@ -7,14 +7,14 @@ With wikis, you can write [content just like everywhere else on GitHub](https://
 Wikis can be edited directly on GitHub, or you can work with a text editor offline and simply push your changes. Wikis are collaborative by design. By default, every user can make changes to public wikis, but you can configure this to be enabled only for [collaborators on your repository](https://help.github.com/articles/changing-access-permissions-for-wikis).
      
 See the list of [supported markup formats](https://github.com/github/markup#markups) below:   
-Markdown [syntax](http://daringfireball.net/projects/markdown/syntax) (with support for [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/))    
-[RDoc](http://rdoc.sourceforge.net/) - Documentation from Ruby Source Files
-[Org](http://orgmode.org/) mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
-[mediawiki, .wiki](http://www.mediawiki.org/wiki/Help:Formatting) You can format your text by using wiki markup. This consists of normal characters like asterisks, apostrophes or equal signs which have a special function in the wiki, sometimes depending on their position. For example, to format a word in italic, you include it in two pairs of apostrophes like ''this''.
-[rst](http://docutils.sourceforge.net/rst.html) Markup Syntax and Parser Component of [Docutils](http://docutils.sourceforge.net/index.html)
-Gollum
-[pod](http://search.cpan.org/dist/perl/pod/perlpod.pod) -- Pod::Simple::HTML comes with Perl >= 5.10. Lower versions should install Pod::Simple from CPAN.    
-[Emoji](http://www.emoji-cheat-sheet.com/)          
+*   Markdown [syntax](http://daringfireball.net/projects/markdown/syntax) (with support for [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/))    
+*   [RDoc](http://rdoc.sourceforge.net/) - Documentation from Ruby Source Files
+*   [Org](http://orgmode.org/) mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
+*   [mediawiki, .wiki](http://www.mediawiki.org/wiki/Help:Formatting) You can format your text by using wiki markup. This consists of normal characters like asterisks, apostrophes or equal signs which have a special function in the wiki, sometimes depending on their position. For example, to format a word in italic, you include it in two pairs of apostrophes like ''this''.
+*   [rst](http://docutils.sourceforge.net/rst.html) Markup Syntax and Parser Component of [Docutils](http://docutils.sourceforge.net/index.html)
+*   Gollum
+*   [pod](http://search.cpan.org/dist/perl/pod/perlpod.pod) -- Pod::Simple::HTML comes with Perl >= 5.10. Lower versions should install Pod::Simple from CPAN.    
+*   [Emoji](http://www.emoji-cheat-sheet.com/)          
 
 Markdown: Syntax
 ================
