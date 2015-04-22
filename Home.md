@@ -1,6 +1,6 @@
 Welcome to the info wiki!
 
-Good documentation is key to the success of any project. Making documentation accessible enables people to learn about a project; making it easy to update ensures that documentation stays relevant. [Wikis](http://en.wikipedia.org/wiki/Wiki) on GitHub help you present information about your project in a useful way. You could find how to [mastering the wikis on GitHub](https://guides.github.com/features/wikis/).
+Good documentation is key to the success of any project. Making documentation accessible enables people to learn about a project; making it easy to update ensures that documentation stays relevant. [Wikis](http://en.wikipedia.org/wiki/Wiki) on GitHub help you present information about your project in a useful way. See how to [mastering the wikis on GitHub](https://guides.github.com/features/wikis/).
 
 ***
 
