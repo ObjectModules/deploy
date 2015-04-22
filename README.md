@@ -72,7 +72,7 @@ That is all what we want to go. We intent to be among the best and trusted compa
 
 At last but not least we welcome for your comments or opinion to our project. Please feel free to try your hand at building other formats; any discussion will be opened later once the application is meeting the most targets as described above.
 
-As an update we would like to announce that we have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer.    
+As an update we would like to announce that we have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer.:pray:    
 
 ***
 
