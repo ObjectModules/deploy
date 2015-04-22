@@ -1,6 +1,7 @@
 # GitHub Wiki
 
-Markdown syntax (with support for Github Flavored Markdown)
+Markdown [syntax](http://daringfireball.net/projects/markdown/syntax) (with support for [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/))       
+
 Markdown: Syntax
 ================
 
@@ -37,7 +38,7 @@ Markdown: Syntax
 **Note:** This document is itself written using Markdown; you
 can [see the source for it by adding '.text' to the URL][src].
 
-  [src]: /projects/markdown/syntax.text
+  [src]: http://daringfireball.net/projects/markdown/syntax.text
 
 * * *
 
