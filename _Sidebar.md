@@ -4,7 +4,7 @@
 Using your site:
 * Adding content
 * Formatting content
-* * Optimizing content
+  * Optimizing content
 * * Custom taxonomies
 * * * Custom landing pages
 * * * Largo post templates
