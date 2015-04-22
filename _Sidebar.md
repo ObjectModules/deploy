@@ -8,14 +8,14 @@ Using your site:
   * Custom taxonomies
     * Custom landing pages
     * Largo post templates
-Site setup:
+* Site setup:
 * Setup checklist
-* * General settings
-* * Adding users
+  * General settings
+  * Adding users
 * Theme options
 * Homepage top templates
 * Homepage bottom templates
-Menus
+* Menus
 * Contact pages
 * Sidebars and widgets
 * Using plugins
