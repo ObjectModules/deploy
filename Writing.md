@@ -1,6 +1,6 @@
 # GitHub Wiki
 
-[GitHub Wikis](https://help.github.com/articles/about-github-wikis/) are a place in your repository where you can share long-form content about your project, such as how to use it, how it's been designed, manifestos on its core principles, and so on. Whereas a README is intended to quickly orient readers as to what your project can do, wikis can be used to provide additional documentation.
+[GitHub Wikis](https://help.github.com/articles/about-github-wikis/) are a place in your repository where you can share long-form content about your project, such as [how to use it](https://guides.github.com/features/wikis/), how it's been designed, manifestos on its core principles, and so on. Whereas a README is intended to quickly orient readers as to what your project can do, wikis can be used to provide additional documentation.
 
 With wikis, you can write [content just like everywhere else on GitHub](https://help.github.com/articles/writing-on-github). We use our [open-source Markup library](https://github.com/github/markup) to convert different formats into HTML, so you can choose to write in Markdown, RST, Textile, or any other supported format when you craft wiki pages.
 
