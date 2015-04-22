@@ -2,20 +2,20 @@
 
 
 Using your site:
-Adding content
-Formatting content
-Optimizing content
-Custom taxonomies
-Custom landing pages
-Largo post templates
+* Adding content
+* Formatting content
+* * Optimizing content
+* * Custom taxonomies
+* * * Custom landing pages
+* * * Largo post templates
 Site setup:
-Setup checklist
-General settings
-Adding users
-Theme options
-Homepage top templates
-Homepage bottom templates
+* Setup checklist
+* * General settings
+* * Adding users
+* Theme options
+* Homepage top templates
+* Homepage bottom templates
 Menus
-Contact pages
-Sidebars and widgets
-Using plugins
+* Contact pages
+* Sidebars and widgets
+* Using plugins
