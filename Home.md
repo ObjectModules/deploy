@@ -3,5 +3,5 @@ Welcome to the info wiki!
 
 ***
 
-[[What next..|Reserved1]]
+[[What Next..|Reserved1]]
 
