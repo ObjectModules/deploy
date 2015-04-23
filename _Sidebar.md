@@ -5,7 +5,7 @@
 
 :scroll: Table of Content:
 * [[Home]]
-  * [[Overall Flow]]
+* [[Overall Flow]]
 * [[Writing]]
   * Optimizing content
   * Custom taxonomies
