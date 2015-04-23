@@ -1,3 +1,17 @@
+<table>
+  <thead>
+    <tr>
+      <th>[[:arrow_double_up: Up|https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved3]]</th>
+      <th>[[:rewind: Home|https://github.com/hyipinfo/hyipinfo.github.io/wiki/Home]]</th>
+      <th>[[:arrow_backward: Prev|https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved1]]</th>
+      <th>[[:repeat: Refresh|https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved2]]</th>
+      <th>[[Next :arrow_forward:|https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved3]]</th>
+      <th>[[Last :fast_forward:|https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved3]]</th>
+      <th>[[Down :arrow_double_down:|https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved3]]</th>
+    </tr>
+  </thead>
+</table>
+
 info
 ====
 
