@@ -78,5 +78,5 @@ As an update we would like to announce that we have started to make our project 
 
 You may start to browse the documentation. Usually people begin with a tutorial page titled '_Hello World!_'. Here we have a little bit different. Let call it ['*Hyip World*'](https://github.com/hyipworld/hyipworld.github.io)
 
-|[:arrow_double_up: Up](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved3)|[:rewind: Home](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Home)|[:arrow_backward: Prev](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved1)|[:repeat: Refresh](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved2)|[Next :arrow_forward:](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved3)|[Last :fast_forward:](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved3)|[Down :arrow_double_down:](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved3)|
-|----|----|----|----|----|----|----|
+|[:arrow_double_up: Up](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved3)|[Next :arrow_forward:](https://github.com/hyipinfo/hyipinfo.github.io/wiki/Reserved3)|
+|----|----|
