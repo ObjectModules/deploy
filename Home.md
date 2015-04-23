@@ -4,7 +4,8 @@ Good documentation is key to the success of any project. Making documentation ac
 
 First of all we would like to explain how our project documented. Introduction of a documentation shall have a tabulation of its contents. Here on wiki you could see we have provide the Table of Content on a sidebar which is placed on the right side by default of GitHub Wiki. On top of the tabulation you will see also a kind of diagram which is showing the location of document you are viewing. If you marked from the beginning you came in a correct way in to this page you could notice that you have been navigated following to the flow diagram as displayed below.
 
-![indoworld flow](https://hyipworld.github.io/images/github/doc/infoworld.png)
+![infoworld flow](https://hyipworld.github.io/images/github/doc/infoworld.png)
+
 
 ***
 
