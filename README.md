@@ -78,4 +78,4 @@ You may start to browse the documentation. Usually people begin with a tutorial 
 ***
 |:house: Home](https://github.com/hyip)|
 |[Next :arrow_forward:](https://github.com/hyipworld/hyipworld.github.io)|
-|----:|
+|:----|----:|
