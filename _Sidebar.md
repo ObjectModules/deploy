@@ -5,12 +5,12 @@
 
 :scroll: Table of Content:
 * [[Home]]
-* [[Overall Flow]]
 * [[Writing]]
   * Optimizing content
   * Custom taxonomies
     * Custom landing pages
     * Largo post templates
+* [[Overall Flow]]
 * Site setup:
 * Setup checklist
   * General settings
