@@ -1,9 +1,7 @@
 # GitHub Wiki
 
-[GitHub Wikis](https://help.github.com/articles/about-github-wikis/) are a place in your repository where you can share long-form content about your project, such as [how to use it](https://guides.github.com/features/wikis/), how it's been designed, manifestos on its core principles, and so on. Whereas a README is intended to quickly orient readers as to what your project can do, wikis can be used to provide additional documentation.
-
-Each GitHub wiki is in fact a Git repo. If you need a copy of the content you can just clone it via Git.
-`$ git clone git@github.com:username/repo_name.wiki.git`
+[GitHub Wikis](https://help.github.com/articles/about-github-wikis/) are a place in your repository where you can share long-form content about your project, such as [how to use it](https://guides.github.com/features/wikis/), how it's been designed, manifestos on its core principles, and so on. Whereas a README is intended to quickly orient readers as to what your project can do, wikis can be used to provide additional documentation. Each GitHub wiki is in fact a Git repo. If you need a copy of the content you can just clone it via Git.
+    $ git clone git@github.com:username/repo_name.wiki.git
 With wikis, you can write [content just like everywhere else on GitHub](https://help.github.com/articles/writing-on-github). We use our [open-source Markup library](https://github.com/github/markup) to convert different formats into HTML, so you can choose to write in Markdown, RST, Textile, or any other supported format when you craft wiki pages.
 
 Wikis can be edited directly on GitHub, or you can work with a text editor offline and simply push your changes. Wikis are collaborative by design. By default, every user can make changes to public wikis, but you can configure this to be enabled only for [collaborators on your repository](https://help.github.com/articles/changing-access-permissions-for-wikis).
