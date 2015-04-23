@@ -76,5 +76,5 @@ As an update we would like to announce that we have started to make our project 
 
 You may start to browse the documentation. Usually people begin with a tutorial page titled '_Hello World!_'. Here we have a little bit different. Let call it ['*Hyip World*'](https://github.com/hyipworld/hyipworld.github.io)
 ***
-|[:top: Top](https://github.com/hyip/info#info)|[Next :arrow_forward:](https://github.com/hyipworld/hyipworld.github.io)|
+|[:up: Top](https://github.com/hyip/info#info)|[Next :arrow_forward:](https://github.com/hyipworld/hyipworld.github.io)|
 |----|----|
