@@ -3,7 +3,7 @@ You are here :point_down:
 [![Flow](https://hyipworld.github.io/images/github/doc/hyipworld.png)](https://github.com/bramp/js-sequence-diagrams)
 
 
-Table of Content :scroll: 
+:scroll: Table of Content 
 * [[Home]]
 * [[Writing]]
   * Optimizing content
