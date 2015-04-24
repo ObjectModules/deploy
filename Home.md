@@ -4,7 +4,7 @@
       <th>[[:arrow_double_up: Up|https://github.com/hyipworld/hyipworld.github.io/wiki/Home]]</th>
       <th>[[:arrow_backward: Prev|https://github.com/hyipworld/hyipworld.github.io/wiki/Reserved5]]</th>
       <th>:rewind: Home</th>
-      <th>[[:repeat: Refresh|https://github.com/hyipworld/hyipworld.github.io/wiki/Home]]</th>
+      <th>[[:repeat: Refresh|https://github.com/hyip/info/wiki/Home]]</th>
       <th>[[Next :arrow_forward:|https://github.com/hyipworld/hyipworld.github.io/wiki/Jekyll]]</th>
       <th>[[Last :fast_forward:|https://github.com/hyipworld/hyipworld.github.io/wiki/Reserved5]]</th>
       <th>[[Down :arrow_double_down:|https://github.com/hyip/info/wiki]]</th>
