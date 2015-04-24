@@ -2,7 +2,7 @@
   <thead>
     <tr>
       <th>[[:arrow_double_up: Up|https://github.com/hyip/info]]</th>
-      <th>[[:arrow_backward: Prev|https://github.com/hyipworld/hyipworld.github.io]]</th>
+      <th>[[:arrow_backward: Prev|https://github.com/hyipworld/hyipworld.github.io/wiki/Reserved5]]</th>
       <th>:rewind: Home</th>
       <th>[[:repeat: Refresh|https://github.com/hyipworld/hyipworld.github.io/wiki/Home]]</th>
       <th>[[Next :arrow_forward:|https://github.com/hyipworld/hyipworld.github.io/wiki/Jekyll]]</th>
