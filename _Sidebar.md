@@ -1,4 +1,4 @@
-:point_down: You are here:
+You are here :point_down: 
 
 [![Flow](https://hyipworld.github.io/images/github/doc/hyipworld.png)](https://github.com/bramp/js-sequence-diagrams)
 
