@@ -1,3 +1,17 @@
+<table>
+  <thead>
+    <tr>
+      <th>[[:arrow_double_up: Up|https://github.com/hyipworld/hyipworld.github.io/wiki/Home]]</th>
+      <th>[[:arrow_backward: Prev|https://github.com/hyipworld/hyipworld.github.io/wiki/Reserved5]]</th>
+      <th>:rewind: Home</th>
+      <th>[[:repeat: Refresh|https://github.com/hyip/info/wiki/Home]]</th>
+      <th>[[Next :arrow_forward:|https://github.com/hyip/info/wiki/Writing]]</th>
+      <th>[[Last :fast_forward:|https://github.com/hyip/info/wiki/Reserved5]]</th>
+      <th>[[Down :arrow_double_down:|https://github.com/hyip/rating]]</th>
+    </tr>
+  </thead>
+</table>
+
 # GitHub Wiki
 
 [GitHub Wikis](https://help.github.com/articles/about-github-wikis/) are a place in your repository where you can share long-form content about your project, such as [how to use it](https://guides.github.com/features/wikis/), how it's been designed, manifestos on its core principles, and so on. Whereas a README is intended to quickly orient readers as to what your project can do, wikis can be used to provide additional documentation. Each GitHub wiki is in fact a Git repo. If you need a copy of the content you can just clone it via Git. 
