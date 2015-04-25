@@ -1,6 +1,6 @@
 You are here :point_down: 
 
-[![Flow](https://hyipworld.github.io/images/github/doc/hyipworld.png)](https://github.com/bramp/js-sequence-diagrams)
+[![Flow](https://hyipworld.github.io/images/github/doc/info.png)](https://github.com/bramp/js-sequence-diagrams)
 
 
 :scroll: Table of Content 
