@@ -1,7 +1,7 @@
 <table>
   <thead>
     <tr>
-      <th>[[:arrow_double_up:|https://github.com/hyipworld/hyipworld.github.io/wiki/Home]:arrow_up_small:]</th>
+      <th>[[:arrow_double_up:|https://github.com/hyipworld/hyipworld.github.io/wiki/Home]]</th>
       <th>[[:arrow_backward: Prev|https://github.com/hyipworld/hyipworld.github.io/wiki/Reserved5]]</th>
       <th>:rewind: Home</th>
       <th>[[:repeat: Refresh|https://github.com/hyip/info/wiki/Home]]</th>
