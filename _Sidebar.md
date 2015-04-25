@@ -1,5 +1,5 @@
 You are browsing **our wiki**:
-[![HYIP World](https://avatars2.githubusercontent.com/u/11951714?v=3&s=200)](https://github.com/hyipworld)
+[![HYIP Project](https://avatars2.githubusercontent.com/u/8466209?v=3&s=460)](https://github.com/hyip)
 
 You are here :point_down: 
 
