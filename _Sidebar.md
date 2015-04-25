@@ -1,3 +1,6 @@
+You are browsing **our wiki**:
+[![HYIP World](https://avatars2.githubusercontent.com/u/11951714?v=3&s=200)](https://github.com/hyipworld)
+
 You are here :point_down: 
 
 [![Flow](https://hyipworld.github.io/images/github/doc/info.png)](https://github.com/bramp/js-sequence-diagrams)
