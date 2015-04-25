@@ -1,8 +1,6 @@
-Here is our **info** wiki:
-[![HYIP Project](https://avatars2.githubusercontent.com/u/8466209?v=3&s=460)](https://github.com/hyip)
-
-You are here :point_down: 
-
+Here is our **info** wiki:    
+[![HYIP Project](https://avatars2.githubusercontent.com/u/8466209?v=3&s=460)](https://github.com/hyip)    
+You are here :point_down:     
 [![Flow](https://hyipworld.github.io/images/github/doc/info.png)](https://github.com/bramp/js-sequence-diagrams)
 
 
