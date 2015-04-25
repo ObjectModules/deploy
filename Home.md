@@ -1,7 +1,7 @@
 <table>
   <thead>
     <tr>
-      <th>[[:arrow_double_up:|https://github.com/hyipworld/hyipworld.github.io/wiki/Home]]</th>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Home]]</th>
       <th>:rewind: Home</th>
       <th>:arrow_backward: Prev</th>
