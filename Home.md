@@ -9,7 +9,7 @@
       <th>[[Next :arrow_forward:|https://github.com/hyip/info/wiki/Writing]]</th>
       <th>[[Last :fast_forward:|https://github.com/hyip/info/wiki/Reserved5]]</th>
       <th>:arrow_down_small:</th>
-      <th>[[:arrow_double_down:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki]]</th>
     </tr>
   </thead>
 </table>
