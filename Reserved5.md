@@ -1,16 +1,32 @@
 <table>
   <thead>
     <tr>
-      <th>[[:arrow_double_up: Up|https://github.com/hyipworld/hyipworld.github.io/wiki/Home]]</th>
-      <th>[[:rewind: Home|https://github.com/hyip/info/wiki/Home]]</th>
-      <th>[[:arrow_backward: Prev|https://github.com/hyip/info/wiki/Reserved4]]</th>
-      <th>[[:repeat: Refresh|https://github.com/hyip/info/wiki/Reserved5]]</th>
-      <th>Last :fast_forward:</th>
-      <th>[[Next :arrow_forward:|https://github.com/hyip/rating]]</th>
-      <th>[[Down :arrow_double_down:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
+      <th>[[:arrow_backward:|Reserved4]] [[Prev|Reserved4]]</th>
+      <th>[[:repeat:|Reserved5]] [[Reload|Reserved5]]</th>
+      <th>Last :arrow_forward:</th>
+      <th>Next :fast_forward:</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
   </thead>
 </table>
+Reserved4
 ***
-
-[What Next..](https://github.com/hyip/monitor)
+<table>
+  <thead>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
+      <th>[[:arrow_backward:|Reserved4]] [[Prev|Reserved4]]</th>
+      <th>[[:repeat:|Reserved5]] [[Reload|Reserved5]]</th>
+      <th>Last :arrow_forward:</th>
+      <th>Next :fast_forward:</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </thead>
+</table>
