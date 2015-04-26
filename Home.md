@@ -1,7 +1,7 @@
 <table>
   <thead>
     <tr>
-      <th>[[:arrow_double_up:|https://github.com/hyiprating/hyiprating.github.io/wiki/Home]]</th>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyip/info/wiki]]</th>
       <th>[[:rewind:|https://github.com/hyip/rating]] [[Key|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_backward:|https://github.com/hyipmonitor/hyipmonitor.github.io]] [[Repo|https://github.com/hyipmonitor/hyipmonitor.github.io]]</th>
@@ -49,7 +49,7 @@ Here :point_down: you are currently
 <table>
   <thead>
     <tr>
-      <th>[[:arrow_double_up:|https://github.com/hyiprating/hyiprating.github.io/wiki/Home]]</th>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyip/info/wiki]]</th>
       <th>[[:rewind:|https://github.com/hyip/rating]] [[Key|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_backward:|https://github.com/hyipmonitor/hyipmonitor.github.io]] [[Repo|https://github.com/hyipmonitor/hyipmonitor.github.io]]</th>
