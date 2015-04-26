@@ -1,8 +1,8 @@
 <table>
   <thead>
     <tr>
-      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki]]</th>
-      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Home]]</th>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>:rewind: Intro</th>
       <th>:arrow_backward: Prev</th>
       <th>[[:repeat: Reload|https://github.com/hyip/info/wiki/Introduction]]</th>
