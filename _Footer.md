@@ -1,8 +1,6 @@
-[hyip](https://github.com/hyip) - [**info**](https://github.com/hyip/info/wiki) - [[Home]] - [[Writing]] - [[Reserved2]] - [[Reserved3]] - [[Reserved4]] - [[Reserved5]] - [**monitor**](https://github.com/hyip/monitor) - [hyip](https://github.com/hyip)
-***
 ## License
 
-This documentation is license under Apache License, Version 2.0.
+This documentation is licensed under Apache License, Version 2.0.
 
 > Copyright (c) 2014-2015 The HYIP Project
 > 
