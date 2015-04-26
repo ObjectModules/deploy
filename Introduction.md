@@ -6,8 +6,8 @@
       <th>:rewind: Intro</th>
       <th>:arrow_backward: Prev</th>
       <th>[[:repeat:|Introduction]] [[Reload|Introduction]]</th>
-      <th>[[Next :arrow_forward:|https://github.com/hyip/info/wiki/Writing]]</th>
-      <th>[[Last :fast_forward:|https://github.com/hyip/info/wiki/Reserved5]]</th>
+      <th>[[Next|https://github.com/hyip/info/wiki/Writing]] [[:arrow_forward:|https://github.com/hyip/info/wiki/Writing]]</th>
+      <th>[[Last|https://github.com/hyip/info/wiki/Reserved5]] [[:fast_forward:|https://github.com/hyip/info/wiki/Reserved5]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
