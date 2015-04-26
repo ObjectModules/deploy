@@ -9,7 +9,7 @@
       <th>[[Next|Introduction]] [[:arrow_forward:|Introduction]]</th>
       <th>[[Last|Reserved3]] [[:fast_forward:|Reserved3]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating/wiki/Introduction]]</th>
-      <th>[[:arrow_double_down:|https://github.com/hyipteam/hyipteam.github.io/wiki/Home]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki]]</th>
     </tr>
   </thead>
 </table>
@@ -57,7 +57,7 @@ Here :point_down: you are currently
       <th>[[Next|Introduction]] [[:arrow_forward:|Introduction]]</th>
       <th>[[Last|Reserved3]] [[:fast_forward:|Reserved3]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating/wiki/Introduction]]</th>
-      <th>[[:arrow_double_down:|https://github.com/hyipteam/hyipteam.github.io/wiki/Home]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki]]</th>
     </tr>
   </thead>
 </table>
