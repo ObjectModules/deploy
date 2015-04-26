@@ -1,3 +1,18 @@
+<table>
+  <thead>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyiprating/hyiprating.github.io/wiki/Home]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyip/info/wiki]]</th>
+      <th>[[:rewind:|https://github.com/hyip/rating]] [[Key|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_backward:|https://github.com/hyipmonitor/hyipmonitor.github.io]] [[Repo|https://github.com/hyipmonitor/hyipmonitor.github.io]]</th>
+      <th>[[:repeat:|Home]] [[Reload|Home]]</th>
+      <th>[[Next|Introduction]] [[:arrow_forward:|Introduction]]</th>
+      <th>[[Last|Reserved3]] [[:fast_forward:|Reserved3]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyipteam/hyipteam.github.io/wiki/Home]]</th>
+    </tr>
+  </thead>
+</table>
 ## Organization
 You are browsing our **info** wiki:        
 [![HYIP Project](https://avatars2.githubusercontent.com/u/8466209?v=3&s=460)](https://github.com/hyip)    
@@ -29,4 +44,21 @@ You are browsing our **info** wiki:
 
 ###Mapping
 Here :point_down: you are currently         
-[![Flow](https://hyipworld.github.io/images/github/doc/info.png)](https://github.com/hyip/info/wiki/%5BFlow%5D-Overall-Flow-Diagram)    
+[![Flow](https://hyipworld.github.io/images/github/doc/info.png)](https://github.com/hyip/info/wiki/%5BFlow%5D-Overall-Flow-Diagram)   
+***
+<table>
+  <thead>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyiprating/hyiprating.github.io/wiki/Home]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyip/info/wiki]]</th>
+      <th>[[:rewind:|https://github.com/hyip/rating]] [[Key|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_backward:|https://github.com/hyipmonitor/hyipmonitor.github.io]] [[Repo|https://github.com/hyipmonitor/hyipmonitor.github.io]]</th>
+      <th>[[:repeat:|Home]] [[Reload|Home]]</th>
+      <th>[[Next|Introduction]] [[:arrow_forward:|Introduction]]</th>
+      <th>[[Last|Reserved3]] [[:fast_forward:|Reserved3]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyipteam/hyipteam.github.io/wiki/Home]]</th>
+    </tr>
+  </thead>
+</table>
+ 
