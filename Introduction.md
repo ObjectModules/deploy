@@ -5,7 +5,7 @@
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>:rewind: Intro</th>
       <th>:arrow_backward: Prev</th>
-      <th>[[:repeat: Reload|https://github.com/hyip/info/wiki/Introduction]]</th>
+      <th>[[:repeat: Reload|Introduction]]</th>
       <th>[[Next :arrow_forward:|https://github.com/hyip/info/wiki/Writing]]</th>
       <th>[[Last :fast_forward:|https://github.com/hyip/info/wiki/Reserved5]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
