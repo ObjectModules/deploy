@@ -148,9 +148,9 @@ Pretty handy for generating (simple) process diagrams.
 
 
 * Sources
-http://orgmode.org/worg/org-tutorials/org-dot-diagrams.org.html   
-http://orgmode.org/worg/org-tutorials/index.html   
-http://orgmode.org/worg/sources/   
+  - http://orgmode.org/worg/org-tutorials/org-dot-diagrams.org.html   
+  - http://orgmode.org/worg/org-tutorials/index.html   
+  - http://orgmode.org/worg/sources/   
 
 
 #+begin_html
