@@ -47,7 +47,7 @@ Recommended XHTML:
 {{{ <em>italics</em> }}}
 
 Sample Output:
-''italics''
+//italics//
 
 **Rationale:** A slash ({{{/}}}) looks like slanted italics, so it is intuitive and thus easier to remember. [[Bold and Italics Reasoning|More details]]
 
