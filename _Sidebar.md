@@ -19,7 +19,7 @@ You are browsing our **info** wiki:
     * [Pod]([Writing]-Pod)
     * [RDoc]([Writing]-RDoc)
     * [Textile]([Writing]-Textile)
-    * [reStructuredText]([Writing]-reStructuredText)
+    * [[reStructuredText|[Writing]-reStructuredText]]
 * [[Reserved1]]
 * [[Reserved2]]
 * [[Reserved3]]
