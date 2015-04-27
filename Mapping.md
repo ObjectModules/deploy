@@ -2,7 +2,7 @@
 An isogram is a word that doesn't contain any repeating letters.    
 en.wikipedia.org/wiki/Isogram
 
-
+The JavaScript tracking tag for Google's new Universal Analytics uses one letter variable names - i, s, o, g, r, a, m.
 The Google JavaScript Snippet [Advanced Configuration - Web Tracking (analytics.js)](https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced)
 
 ```js
