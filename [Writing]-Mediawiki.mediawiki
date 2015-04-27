@@ -1,868 +1,855 @@
-Source:
-http://www.mediawiki.org/wiki/Help:Formatting
+== Basic text formatting ==
+You can format the page using Wikitext special characters.
 
-== Text formatting markup == <!--T:2-->
+{|width="80%"  border="1" cellpadding="2" cellspacing="0"
 
-{| class="wikitable"
-! <!--T:3-->
-Description
-! width=40% | <!--T:4-->
-You type
-! width=40% | <!--T:5-->
-You get
+!What it looks like
+!What you type
 |-
-! colspan="3" style="background: #ABE" | <!--T:6-->
-Character (inline) formatting – ''applies anywhere''
-|-
-| <!--T:7-->
-Italic text
-| <pre>
-''<!--T:8-->
-italic''
-</pre>
 |
-''<!--T:9-->
-italic''
-|-
-| <!--T:10-->
-Bold text
-| <pre>
-'''<!--T:11-->
-bold'''
+You can ''italicize'' text by putting 2 
+apostrophes on ''each'' side. 
+
+3 apostrophes will '''bold''' the text.
+
+5 apostrophes will '''''bold and italicize''''' 
+the text.
+
+(Using 4 apostrophes doesn't do anything
+special -- <br /> 3 of them '''bold''' the text
+as usual; the others are ''''just'''' apostrophes
+around the text.) 
+
+|<pre>
+You can ''italicize'' text by putting 2 
+apostrophes on ''each'' side. 
+
+3 apostrophes will '''bold''' the text. 
+
+5 apostrophes will '''''bold and italicize''''' 
+the text.
+
+(Using 4 apostrophes doesn't do anything
+special -- <br /> 3 of them '''bold''' the text as
+usual; the others are ''''just'''' apostrophes 
+around the text.)
 </pre>
+|-
 |
-'''<!--T:12-->
-bold'''
-|-
-| <!--T:13-->
-Bold and italic
-| <pre>
-'''''<!--T:14-->
-bold & italic'''''
+A single newline
+generally has no effect on the layout.
+These can be used to separate
+sentences within a paragraph.
+Some editors find that this aids editing
+and improves the ''diff'' function
+(used internally to compare
+different versions of a page).
+
+But an empty line
+starts a new paragraph.
+
+When used in a list, a newline ''does'' affect the layout ([[#lists|see below]]).
+|<pre>
+A single newline
+generally has no effect on the layout.
+These can be used to separate
+sentences within a paragraph.
+Some editors find that this aids editing
+and improves the ''diff'' function
+(used internally to compare
+different versions of a page).
+
+But an empty line
+starts a new paragraph.
+
+When used in a list, a newline ''does''
+affect the layout ([[#lists|see below]]).
 </pre>
+|-
 |
-'''''<!--T:15-->
-bold & italic'''''
-|-
-| <!--T:16-->
-Strike text
-| <pre>
-<strike> <!--T:17-->
-strike text </strike>
+You can break lines<br/>
+without a new paragraph.<br/>
+Please use this sparingly.
+
+Please do not start a link or ''italics'' or '''bold''' text on one line and end on the next.
+|<pre>
+You can break lines<br/>
+without a new paragraph.<br/>
+Please use this sparingly.
+
+Please do not start a link or
+''italics'' or '''bold''' text on one line
+and end on the next.
 </pre>
-|<strike> <!--T:18-->
-strike text </strike>
 |-
-| <!--T:19-->
-Escape wiki markup
-| <pre>
-&lt;nowiki&gt;<!--T:20-->
-no ''markup''&lt;/nowiki&gt;
+
+|You should "sign" your comments on talk pages: <br/>
+* Three tildes gives your signature: [[User:Example|Example]] <br/>
+* Four tildes give your signature plus date/time: [[User:Example|Example]] 07:46, 27 November 2005 (UTC) <br/>
+* Five tildes gives the date/time alone: 07:46, 27 November 2005 (UTC) <br/>
+|<pre>
+You should "sign" your comments 
+on talk pages:
+* Three tildes gives your
+signature: ~~~
+* Four tildes give your 
+signature plus date/time: ~~~~
+* Five tildes gives the 
+date/time alone: ~~~~~
 </pre>
+|}
+
+== HTML tags ==
+{{TNT|main|Help:HTML in wikitext}}
+You can use some HTML tags, too. However, you should avoid HTML in favor of Wiki markup whenever possible.
+
+
+{| border="1" cellpadding="1" cellspacing="0"
+!width="1000"|What it looks like
+!width="500"|What you type
+|-
 |
-<!--T:155-->
-no ''markup''
-|-
-| <!--T:21-->
-Escape wiki markup once
-| <pre>
-[[Special:MyLanguage/API:Main page|API]]&lt;nowiki/>&nbsp;<!--T:22-->
-extension
+Put text in a <tt>typewriter
+font</tt>. The same font is 
+generally used for <code>
+computer code</code>.
+|<pre>
+Put text in a <tt>typewriter
+font</tt>. The same font is 
+generally used for <code>
+computer code</code>.
 </pre>
+|-
 |
-[[Special:MyLanguage/API:Main page|API]]<nowiki/>&nbsp;<!--T:23-->
-extension
-|-
-! colspan="3" style="background: #ABE" | <!--T:24-->
-Section formatting – ''only at the beginning of the line''
-|-
-| <!--T:25-->
-Headings of different levels 
-| <pre>
-
-== Level 2 == <!--T:26-->
-
-=== Level 3 === <!--T:27-->
-
-==== Level 4 ==== <!--T:28-->
-
-===== Level 5 ===== <!--T:29-->
-
-====== Level 6 ====== <!--T:30-->
-
+<strike>Strike out</strike>
+or <u>underline</u> text,
+or write it <span style=
+"font-variant:small-caps">
+in small caps</span>.
+|<pre>
+<strike>Strike out</strike>
+or <u>underline</u> text,
+or write it <span style=
+"font-variant:small-caps">
+in small caps</span>.
 </pre>
+|-
+|
+Superscripts and subscripts:
+X<sup>2</sup>, H<sub>2</sub>O
+|<pre>
+Superscripts and subscripts:
+X<sup>2</sup>, H<sub>2</sub>O
+</pre>
+|-
+|
+<center>Centered text</center>
+* Please note the American spelling of "center".
+|<pre>
+<center>Centered text</center>
+* Please note the American spelling of "center".
+</pre>
+|-
+|
+<blockquote>
+The '''blockquote''' command ''formats'' block 
+quotations, typically by surrounding them 
+with whitespace and a slightly different font.
+</blockquote>
+|<pre>
+<blockquote>
+The '''blockquote''' command ''formats'' block 
+quotations, typically by surrounding them 
+with whitespace and a slightly different font.
+</blockquote>
+</pre>
+|-
+|
+Invisible comments to editors (&lt;!-- --&gt;) 
+appear only while editing the page.
+<!-- Note to editors: blah blah blah. -->
+
+* If you wish to make comments to the public, you should usually use the [[help:Talk page|talk page]].
+|<pre>
+Invisible comments to editors (<!-- -->)
+appear only while editing the page.
+<!-- Note to editors: blah blah blah. -->
+</pre>
+|}
+
+== Organizing your writing ==
+:''See also: [[wikipediawikipedia:Picture tutorial|w:Picture tutorial]]''
+{| border="1" cellpadding="2" cellspacing="0"
+!width="1000"|What it looks like
+!width="500"|What you type
+|-
+|
+
+''Headings'' organize your writing into 
+sections. The ''Wiki'' software can automatically 
+generate a [[help:Section|table of contents]] from them.
+
+<!-- don't use standard since it will move the edit block -->
+
+<h3>Subsection</h3>
+Using more "equals" (=) signs creates a subsection.
+
+<h4>A smaller subsection</h4>
+
+Don't skip levels, like from two to four equals signs.
+
+Start with 2 equals signs not 1 because 1 creates H1 
+tags which should be reserved for page title.
+|<pre>
+== Section headings ==
+
+''Headings'' organize your writing into 
+sections. The ''Wiki'' software can automatically 
+generate a [[help:Section|table of contents]] from them.
+
+=== Subsection ===
+Using more "equals" (=) signs creates a subsection.
+
+==== A smaller subsection ====
+
+Don't skip levels, like from two to four equals signs.
+
+Start with 2 equals signs not 1 because 1 creates H1 
+tags which should be reserved for page title.
+</pre>
+|- id="lists"
+|
+* ''Unordered [[Help:List|list]]s'' are easy to do:
+** Start every line with a star.
+*** More stars indicate a deeper level.
+*: Previous item continues.
+** A newline
+* in a list  
+marks the end of the list.
+*Of course you can start again.
+|<pre>
+* ''Unordered lists'' are easy to do:
+** Start every line with a star.
+*** More stars indicate a deeper level.
+*: Previous item continues.
+** A newline
+* in a list  
+marks the end of the list.
+*Of course you can start again.
+</pre>
+|-
+|
+# ''Numbered lists'' are:
+## Very organized
+## Easy to follow
+A newline marks the end of the list.
+# New numbering starts with 1.
+
+|<pre>
+# ''Numbered lists'' are:
+## Very organized
+## Easy to follow
+A newline marks the end of the list.
+# New numbering starts with 1.
+</pre>
+|-
+|
+Here's a ''definition list'':
+; Word : Definition of the word
+; A longer phrase needing definition
+: Phrase defined
+; A word : Which has a definition
+: Also a second definition
+: And even a third
+
+Begin with a semicolon. One item per line; 
+a newline can appear before the colon, but 
+using a space before the colon improves 
+parsing.
+|<pre>
+Here's a ''definition list'':
+; Word : Definition of the word
+; A longer phrase needing definition
+: Phrase defined
+; A word : Which has a definition
+: Also a second definition
+: And even a third
+
+Begin with a semicolon. One item per line; 
+a newline can appear before the colon, but 
+using a space before the colon improves 
+parsing.
+</pre>
+|-
+|
+* You can even do mixed lists
+*# and nest them
+*# inside each other
+*#* or break lines<br>in lists.
+*#; definition lists
+*#: can be 
+*#:; nested : too
+|<pre>
+* You can even do mixed lists
+*# and nest them
+*# inside each other
+*#* or break lines<br>in lists.
+*#; definition lists
+*#: can be 
+*#:; nested : too
+</pre>
+|-
+|
+: A colon (:) indents a line or paragraph.
+A newline starts a new paragraph. <br>
+Should only be used on [[help:Talk page|talk pages]]. <br>
+For articles, you probably want the blockquote tag.
+: We use 1 colon to indent once.
+:: We use 2 colons to indent twice.
+::: 3 colons to indent 3 times, and so on.
+|<pre>
+: A colon (:) indents a line or paragraph.
+A newline starts a new paragraph.
+Should only be used on talk pages.
+For articles, you probably want the blockquote tag.
+: We use 1 colon to indent once.
+:: We use 2 colons to indent twice.
+::: 3 colons to indent 3 times, and so on.
+</pre>
+|-
+|
+You can make ''horizontal dividing lines'' 
+(----) to separate text.
 ----
-{{note|
-* <!--T:31-->
-[[<tvar|lv1>Special:MyLanguage/Help_talk:Formatting#Level_1</>|Skip Level 1]], it is page name level.
-* <!--T:33-->
-An article with 4 or more headings automatically creates a [[wikipedia:Wikipedia:Section#Table of contents (TOC)|table of contents]].
+But you should usually use sections instead,
+so that they go in the table of contents.
+|<pre>
+You can make ''horizontal dividing lines'' 
+(----) to separate text.
+----
+But you should usually use sections instead,
+so that they go in the table of contents.
+</pre>
+|-
+|
+You can add footnotes to sentences using the ''ref'' tag -- this is especially good for citing a source.
+
+:There are over six billion people in the world.<ref>CIA World Factbook, 2006.</ref>
+
+References: <references/>
+
+For details, see [[Wikipedia:Footnotes]] and [[Help:Footnotes]].
+|
+<pre>
+You can add footnotes to sentences using
+the ''ref'' tag -- this is especially good
+for citing a source.
+
+:There are over six billion people in the
+world.<ref>CIA World Factbook, 2006.</ref>
+
+References: <references/>
+
+For details, see [[Wikipedia:Footnotes]] 
+and [[Help:Footnotes]].
+</pre>
+|}
+
+== Links ==
+{{TNT|main|Help:Link}}
+You will often want to make clickable ''links'' to other pages.
+
+{|width="100%"  border="1" cellpadding="2" cellspacing="0"
+|-
+!What it looks like
+!What you type
+|-
+|
+Here's a link to a page named [[Official positions|Official position]].
+You can even say [[official positions]]
+and the link will show up correctly.
+|<pre>
+Here's a link to a page named [[Official positions|Official position]].
+You can even say [[official positions]]
+and the link will show up correctly.
+</pre>
+|-
+|
+You can put formatting around a link.
+Example: ''[[Wikipedia]]''.
+|<pre>
+You can put formatting around a link.
+Example: ''[[Wikipedia]]''.
+</pre>
+|-
+|
+The ''first letter'' of articles is automatically
+capitalized, so [[wikipedia]] goes to the same place
+as [[Wikipedia]]. Capitalization matters after the
+first letter.
+|<pre>
+The ''first letter'' of articles is automatically
+capitalized, so [[wikipedia]] goes to the same place
+as [[Wikipedia]]. Capitalization matters after the
+first letter.
+</pre>
+|-
+|
+[[Intentionally permanent red link]] is a page that doesn't exist
+yet. You could create it by clicking on the link.
+|<pre>
+[[Intentionally permanent red link]] is a page that doesn't exist
+yet. You could create it by clicking on the link.
+</pre>
+|-
+|
+You can link to a page section by its title:
+
+* [[Doxygen#Doxygen Examples]]..
+
+If multiple sections have the same title, add
+a number. [[#Example section 3]] goes to the
+third section named "Example section".
+|<pre>
+You can link to a page section by its title:
+
+* [[Doxygen#Doxygen Examples]].
+
+If multiple sections have the same title, add
+a number. [[#Example section 3]] goes to the
+third section named "Example section".
+</pre>
+|-
+|
+You can make a link point to a different place
+with a [[Help:Piped link|piped link]]. Put the link
+target first, then the pipe character "|", then
+the link text.
+
+* [[Help:Link|About Links]]
+* [[List of cities by country#Morocco|Cities in Morocco]]
+
+Or you can use the "pipe trick" so that a title that
+contains disambiguation text will appear with more concise
+link text.
+
+* [[Spinning (textiles)|Spinning]]
+* [[Boston, Massachusetts|Boston]]
+|<pre>
+You can make a link point to a different place
+with a [[Help:Piped link|piped link]]. Put the link
+target first, then the pipe character "|", then
+the link text.
+
+* [[Help:Link|About Links]]
+* [[List of cities by country#Morocco|Cities in Morocco]]
+
+Or you can use the "pipe trick" so that a title that
+contains disambiguation text will appear with more concise
+link text.
+
+* [[Spinning (textiles)|]]
+* [[Boston, Massachusetts|]]
+</pre>
+|-
+|
+You can make an external link just by typing a URL:
+http://www.nupedia.com
+
+You can give it a title:
+[http://www.nupedia.com Nupedia]
+
+Or leave the title blank:
+[http://www.nupedia.com]
+
+External link can be used to link to a wiki page that cannot be linked to with <nowiki>[[page]]</nowiki>:
+http://meta.wikimedia.org/w/index.php?title=Fotonotes&oldid=482030#Installation
+|
+<pre>
+You can make an external link just by typing a URL:
+http://www.nupedia.com
+
+You can give it a title:
+[http://www.nupedia.com Nupedia]
+
+Or leave the title blank:
+[http://www.nupedia.com]
+
+External link can be used to link to a wiki page that
+cannot be linked to with <nowiki><nowiki>[[page]]</nowiki></nowiki>:
+http://meta.wikimedia.org/w/index.php?title=Fotonotes
+&oldid=482030#Installation
+</pre>
+|-
+|
+Linking to an e-mail address works the same way:
+mailto:someone@example.com or [mailto:someone@example.com someone]
+|
+<pre>
+Linking to an e-mail address works the same way:
+mailto:someone@example.com or [mailto:someone@example.com someone]
+</pre>
+|-
+|
+You can [[Help:Redirect|redirect]] the user to another page.
+|<pre>
+#REDIRECT [[Official positions|Official position]]
+</pre>
+|-
+|
+[[Help:Category|Category links]] do not show up in line
+but instead at page bottom
+''and cause the page to be listed in the category.''
+
+Add an extra colon to ''link'' to a category in line
+without causing the page to be listed in the category:
+[[:Category:English documentation]]
+|<pre>
+[[Help:Category|Category links]] do not show up in line
+but instead at page bottom
+''and cause the page to be listed in the category.''
+[[Category:English documentation]]
+
+Add an extra colon to ''link'' to a category in line
+without causing the page to be listed in the category:
+[[:Category:English documentation]]
+</pre>
+|-
+|
+The Wiki reformats linked dates to match the reader's
+date preferences. These three dates will show up the
+same if you choose a format in your
+[[Special:Preferences|Preferences]]:
+* [[1969-07-20]]
+* [[July 20]], [[1969]]
+* [[20 July]] [[1969]]
+|<pre>
+The Wiki reformats linked dates to match the reader's
+date preferences. These three dates will show up the
+same if you choose a format in your
+[[Special:Preferences|]]:
+* [[1969-07-20]]
+* [[July 20]], [[1969]]
+* [[20 July]] [[1969]]
+</pre>
+|}
+
+==Just show what I typed==
+
+A few different kinds of formatting will tell the Wiki to display things as you typed them.
+
+{| border="1" cellpadding="2" cellspacing="0"
+!width="1000"|What it looks like
+!width="500"|What you type
+|-
+|
+<pre>
+The pre tag ignores [[Wiki]]
+ ''markup''.
+It also doesn't     reformat
+ text.
+It still interprets special
+characters: &rarr;
+</pre>
+|<pre>
+&lt;pre&gt;
+The pre tag ignores [[Wiki]]
+ ''markup''.
+It also doesn't     reformat
+ text.
+It still interprets special
+characters: &amp;rarr;
+&lt;/pre&gt;
+</pre>
+|-
+|
+<nowiki>
+The nowiki tag ignores 
+[[Wiki]] ''markup''.
+It reformats text by 
+removing
+newlines    and multiple
+ spaces.
+It still interprets special
+characters: &rarr;
+</nowiki>
+|<pre>
+&lt;nowiki&gt;
+The nowiki tag ignores 
+[[Wiki]] ''markup''.
+It reformats text by 
+removing
+newlines    and multiple
+ spaces.
+It still interprets special
+characters: &amp;rarr;
+&lt;/nowiki&gt;
+</pre>
+|-
+|
+[[Leading spaces]] are another way to preserve formatting.
+
+ Putting a space at the
+ beginning of each
+ line stops the text   
+ from being
+ reformatted.  It still 
+ interprets [[Wiki]]
+ ''markup'' and special
+ characters: &rarr;
+|<pre>
+ Putting a space at the
+ beginning of each
+ line stops the text
+ from being
+ reformatted.  It still 
+ interprets [[Wiki]]
+ ''markup'' and special
+ characters: &amp;rarr;
+</pre>
+|}
+
+As you can see in the examples above, all three formatting options
+still interpret special characters 
+(E.g. <code>&amp;rarr;</code> as &rarr;).
+If you want the displayed text to to appear as if this intrepretation
+was not happening, replace the ampersand in each of the special characters
+with <code>&amp;amp;</code>.  
+(E.g. <code>&amp;amp;rarr;</code> will display as &amp;rarr;)
+
+It's not necessary to replace the ampersand when 
+it's not part of a special character 
+(E.g. <code>Search & Replace</code> will appear as "Search & Replace").
+But it's fine to do so.
+(<code>Search &amp;amp; Replace</code> will appear as "Search &amp; Replace".)
+If you're creating a tool that generates mediawiki text,
+where special characters should appear as if they're not interpretted,
+it may be simplest to replace ''all'' ampersands with <code>&amp;amp;</code>.
+
+<code>&lt;pre></code> and <code>&lt;nowiki></code>
+are both terminated by the first matching end tag found
+(<code>&lt;/pre></code> or <code>&lt;/nowiki></code>).
+They don't nest;
+embedding another
+<code>&lt;pre></code> and <code>&lt;nowiki></code>
+start tag doesn't mean that next
+end tag will be ignored.
+If you want to include an end tag in the formatted text, 
+one way to create that appearance is to replace the less than character
+with <code>&amp;lt;</code>.
+(I.e. <code>&amp;lt;/pre></code> or <code>&amp;lt;/nowiki></code>
+will be displayed as
+&lt;/pre> or &lt;/nowiki>).
+If you're creating a tool that generates mediawiki text,
+where an end tag might appear in the formatted text,
+it may be simplest to replace ''all'' less than characters 
+with <code>&amp;lt;</code>.
+
+===Source code===
+{{TNT|main|mw:Extension:SyntaxHighlight GeSHi}}
+If the syntax highlighting extension is installed, you can display programming language [[w:source code|source code]] in a manner very similar to the HTML <code><nowiki><pre></nowiki></code> tag, except with the type of [[w:syntax highlighting|syntax highlighting]] commonly found in advanced text editing software.
+
+Here's an example of how to display some [[w:C Sharp (programming language)|C#]] source code:
+
+<pre>
+<source lang="csharp">
+// Hello World in Microsoft C# ("C-Sharp").
+
+using System;
+
+class HelloWorld
+{
+    public static int Main(String[] args)
+    {
+        Console.WriteLine("Hello, World!");
+        return 0;
+    }
+}
+</source>
+<nowiki></nowiki></pre>
+
+Results in:
+
+<source lang="bash">
+// Hello World in Microsoft C# ("C-Sharp").
+
+using System;
+
+class HelloWorld
+{
+    public static int Main(String[] args)
+    {
+        Console.WriteLine("Hello, World!");
+        return 0;
+    }
+}
+</source>
+
+==Images, tables, video, and sounds==
+<i>This is a very quick introduction. For more information, see:
+* [[Help:Images and other uploaded files]], for how to upload files;
+* [[w:en:Wikipedia:Extended image syntax]], for how to arrange images on the page;
+* [[Help:Table]], for how to create a table.</i>
+
+After uploading, just enter the filename, highlight it and press the "embedded image"-button of the edit_toolbar.
+
+This will produce the syntax for uploading a file '''<nowiki>[[Image:filename.png]]</nowiki>'''
+
+{| border="1" cellpadding="2" cellspacing="0"
+!width="1000"|What it looks like
+!width="500"|What you type
+|-
+|
+A picture, including alternate text:
+
+[[Image:Wiki.png|This is Wiki's logo]]
+
+You can put the image in a frame with a caption:
+[[Image:Wiki.png|frame|This is Wiki's logo]]
+|<pre>
+A picture, including alternate text:
+
+[[Image:Wiki.png|This is Wiki's logo]]
+
+You can put the image in a frame with a caption:
+[[Image:Wiki.png|frame|This is Wiki's logo]]
+</pre>
+|-
+|
+A link to Wikipedia's page for the image:
+[[:Image:Wiki.png]]
+
+Or a link directly to the image itself:
+[[Media:Wiki.png]]
+|<pre>
+A link to Wikipedia's page for the image:
+[[:Image:Wiki.png]]
+
+Or a link directly to the image itself:
+[[Media:Wiki.png]]
+</pre>
+|-
+|Use '''media:''' links to link 
+directly to sounds or videos: 
+[[media:Classical guitar scale.ogg|A sound file]]
+|<pre>
+Use '''media:''' links to link
+directly to sounds or videos:
+[[media:Classical guitar scale.ogg|A sound file]]
+</pre>
+|-
+|Provide a spoken rendition of some text in a template:
+{{listen
+ |title    = Flow my tears
+ |filename = Flow my tears.ogg
+ |filesize = 583KB
 }}
-|
-<!-- using HTML markup to avoid creating new sections -->
-
-<!--T:35-->
-<h2>Level 2</h2>
-
-<!--T:36-->
-<h3>Level 3</h3>
-
-<!--T:37-->
-<h4>Level 4</h4>
-
-<!--T:38-->
-<h5>Level 5</h5>
-
-<!--T:39-->
-<h6>Level 6</h6>
-
-|-
-| <!--T:40-->
-Horizontal rule
-| <pre>
-<!--T:41-->
-Text before
-----
-<!--T:42-->
-Text after
+|<pre>
+Provide a spoken rendition of some text in a template:
+{{listen
+ |title    = Flow my tears
+ |filename = Flow my tears.ogg
+ |filesize = 583KB
+}}
 </pre>
-|
-<!--T:43-->
-Text before
-----
-<!--T:44-->
-Text after
 |-
-| <!--T:45-->
-Bullet list
 |
-<pre>
-
-<!--T:46-->
-* Start each line
-* with an [[Wikipedia:asterisk|asterisk]] (*).
-** More asterisks give deeper
-*** and deeper levels.
-* Line breaks <br />don't break levels.
-*** But jumping levels creates empty space.
-Any other start ends the list.
-
-</pre>
-|
-
-<!--T:47-->
-* Start each line
-* with an [[Wikipedia:asterisk|asterisk]] (*).
-** More asterisks give deeper
-*** and deeper levels.
-* Line breaks <br />don't break levels.
-*** But jumping levels creates empty space.
-Any other start ends the list.
-
+{| border="1" cellspacing="0" cellpadding="5" align="center"
 |-
-| <!--T:48-->
-Numbered list
-|
-<pre>
-
-<!--T:49-->
-# Start each line
-# with a [[Wikipedia:Number_sign|number sign]] (#).
-## More number signs give deeper
-### and deeper
-### levels.
-# Line breaks <br />don't break levels.
-### But jumping levels creates empty space.
-# Blank lines
-
-<!--T:50-->
-# end the list and start another.
-Any other start also
-ends the list.
-
-</pre>
-|
-
-<!--T:51-->
-# Start each line
-# with a [[Wikipedia:Number_sign|number sign]] (#).
-## More number signs give deeper
-### and deeper
-### levels.
-# Line breaks <br />don't break levels.
-### But jumping levels creates empty space.
-# Blank lines
-
-<!--T:52-->
-# end the list and start another.
-Any other start also
-ends the list.
-
-|-
-| <!--T:53-->
-Definition list
-| <pre>
-
-<!--T:54-->
-;item 1
-: definition 1
-;item 2
-: definition 2-1
-: definition 2-2
-
-</pre>
-|
-
-<!--T:55-->
-;item 1
-: definition 1
-;item 2
-: definition 2-1
-: definition 2-2
-
-|-
-| <!--T:56-->
-Indent text
-| <pre>
-
-<!--T:57-->
-: Single indent
-:: Double indent
-::::: Multiple indent
-
-</pre>
-----
-{{Note|<!--T:58-->
-This workaround may harm accessibility.}}
-|
-
-<!--T:59-->
-: Single indent
-:: Double indent
-::::: Multiple indent
-
-|-
-| <!--T:60-->
-Mixture of different types of list
-|
-<pre>
-
-<!--T:61-->
-# one
-# two
-#* two point one
-#* two point two
-# three
-#; three item one
-#: three def one
-# four
-#: four def one
-#: this looks like a continuation
-#: and is often used
-#: instead <br />of &lt;nowiki><br />&lt;/nowiki>
-# five
-## five sub 1
-### five sub 1 sub 1
-## five sub 2
-
-</pre>
-----
-{{note|<!--T:62-->
-The usage of <code>#:</code> and <code>*:</code> for breaking a line within an item may also harm accessibility.}}
-|
-
-<!--T:63-->
-# one
-# two
-#* two point one
-#* two point two
-# three
-#; three item one
-#: three def one
-# four
-#: four def one
-#: this looks like a continuation
-#: and is often used
-#: instead <br />of <br />
-# five
-## five sub 1
-### five sub 1 sub 1
-## five sub 2{{anchor|pre}}
-
-|-
-| <!--T:64-->
-Preformatted text
-| <pre>
-
- <!--T:65-->
-Start each line with a space.
- Text is '''preformatted''' and
- ''markups'' '''''can''''' be done.
-
-</pre>
-----
-{{note|<!--T:66-->
-This way of preformatting only applies to section formatting. Character formatting markups are still effective.}}
-|
-
- <!--T:67-->
-Start each line with a space.
- Text is '''preformatted''' and
- ''markups'' '''''can''''' be done.
-
-|-
-| <!--T:68-->
-Preformatted text blocks
-| <pre> <!--T:69-->
-Start with a space in the first column,
-(before the ).
-
-<!--T:70-->
-Then your block format will be
-    maintained.
- 
-This is good for copying in code blocks:
-
-<!--T:71-->
-def function():
-    """documentation string"""
-
-    <!--T:72-->
-if True:
-        print True
-    else:
-        print False
-</pre>
-|
- <!--T:73-->
-Start with a space in the first column,
-(before the ).
-
-<!--T:74-->
-Then your block format will be
-    maintained.
-
-<!--T:75-->
-This is good for copying in code blocks:
-
-<!--T:76-->
-def function():
-    """documentation string"""
-
-    <!--T:77-->
-if True:
-        print True
-    else:
-        print False
+! This 
+! is 
+|- 
+| a 
+| table 
 |}
-
-== HTML tags == <!--T:80-->
-
-<!--T:81-->
-Some [[wikipedia:HTML|HTML]] tags are allowed in MediaWiki, for example <code>&lt;code></code>, <code>&lt;div></code>, <code><nowiki><span></nowiki></code> and <code><nowiki><font></nowiki></code>. These apply anywhere you insert them.
-
-{| class="wikitable"
-! <!--T:82-->
-Description
-! width=40% | <!--T:83-->
-You type
-! width=40% | <!--T:84-->
-You get
+|<pre>
+{| border="1" cellspacing="0" cellpadding="5" align="center"
 |-
-| <!--T:85-->
-Inserted <br />(Displays as underline in most browsers)
-| <pre>
-<ins><!--T:86-->
-Inserted</ins>
-
-<!--T:87-->
-or
-
-<u><!--T:88-->
-Underline</u>
-</pre>
-|
-<ins><!--T:89-->
-Inserted</ins>
-
-<!--T:90-->
-or
-
-<u><!--T:91-->
-Underline</u>
-|-
-| <!--T:92-->
-Deleted <br />(Displays as strikethrough in most browsers)
-| <pre>
-<s><!--T:93-->
-Struck out</s>
-
-<!--T:94-->
-or
-
-<del><!--T:95-->
-Deleted</del>
-
-</pre>
-|
-<s><!--T:96-->
-Struck out</s>
-
-<!--T:97-->
-or
-
-<del><!--T:98-->
-Deleted</del>
-|-
-| <!--T:99-->
-Fixed width text
-| <pre>
-<code><!--T:100-->
-Source code</code>
-
-<!--T:101-->
-or
-
-<tt><!--T:157-->
-Fixed width text</tt>
-</pre>
-|
-<code><!--T:154-->
-Source code</code>
-
-<!--T:102-->
-or
-
-<tt><!--T:103-->
-Fixed width text</tt>
-|-
-| <!--T:104-->
-Blockquotes
-| <pre>
-<!--T:105-->
-Text before
-<blockquote><!--T:106-->
-Blockquote</blockquote>
-<!--T:107-->
-Text after
-</pre>
-|
-<!--T:108-->
-Text before
-<blockquote><!--T:109-->
-Blockquote</blockquote>
-<!--T:110-->
-Text after
-|-
-| <!--T:111-->
-Comment
-| <pre>
-<!--T:112-->
-<!-- This is a comment -->
-Comments are visible only 
-in the edit zone.
-</pre>
-|
-
-<!--T:113-->
-<!-- This is a comment -->
-Comments are visible only 
-in the edit zone.
-
-|-
-| <!--T:114-->
-Completely preformatted text
-| <pre>
-<pre>
-<!--T:115-->
-Text is '''preformatted''' and 
-''markups'' '''''cannot''''' be done&lt;/pre>
-</pre>
-----
-{{note|<!--T:116-->
-For marking up of preformatted text, check the "Preformatted text" entry at the end of the previous table.}} 
-|
-<pre>
-<!--T:117-->
-Text is '''preformatted''' and 
-''markups'' '''''cannot''''' be done
-</pre>
-|-
-| <!--T:118-->
-'''Customized''' preformatted text
-| <pre>
-<pre style="color: red">
-<!--T:119-->
-Text is '''preformatted''' 
-with a style and 
-''markups'' '''''cannot''''' be done
-&lt;/pre>
-</pre>
-----
-{{note|<!--T:120-->
-A CSS style can be named within the <code>style</code> property.}}
-|
-<pre style="color: red">
-<!--T:121-->
-Text is '''preformatted''' 
-with a style and 
-''markups'' '''''cannot''''' be done
+! This
+! is
+|- 
+| a
+| table
+|}
 </pre>
 |}
 
-<!--T:122-->
-continued:
-{| class="wikitable"
-! <!--T:123-->
-Description
-! width=40% | <!--T:124-->
-You type
-! width=40% | <!--T:125-->
-You get
+===Galleries===
+:''Main article: [[wikipediawikipedia:Gallery tag|w:Gallery tag]]''
+
+Images can also be grouped into galleries using the <code><nowiki><gallery></nowiki></code> tag, such as the following:
+
+<gallery>
+Image:Wiki.png
+Image:Wiki.png|Captioned
+Image:Wiki.png
+Image:Wiki.png|[[Wikipedia|Links]] can be put in captions.
+</gallery>
+
+== Mathematical formulae ==
+{{TNT|main|Help:Displaying a formula}}
+You can format mathematical formulae with [[w:TeX|TeX]] markup.
+
+{| border="1" cellpadding="2" cellspacing="0"
+!width="1000"|What it looks like
+!width="500"|What you type
 |-
-| <!--T:126-->
-'''Customized''' preformatted text with text wrap according to available width
-| <pre>
-<pre style="white-space: pre-wrap; 
-white-space: -moz-pre-wrap; 
-white-space: -pre-wrap; 
-white-space: -o-pre-wrap; 
-word-wrap: break-word;">
-<!--T:127-->
-This long sentence is used to demonstrate text wrapping. This additional sentence makes the text even longer.
-&lt;/pre>
-</pre>
-|
-<pre style="white-space: pre-wrap; 
-white-space: -moz-pre-wrap; 
-white-space: -pre-wrap; 
-white-space: -o-pre-wrap; 
-word-wrap: break-word;">
-<!--T:128-->
-This long sentence is used to demonstrate text wrapping. This additional sentence makes the text even longer.
-</pre>
-|-
-| <!--T:129-->
-Preformatted text with text wrap according to available width
-| <pre>
-<code>
-<!--T:130-->
-This long sentence is used to demonstrate text wrapping. This additional sentence makes the text even longer.
-</code>
-</pre>
-| <code>
-<!--T:131-->
-This long sentence is used to demonstrate text wrapping. This additional sentence makes the text even longer.
-</code>
+|<math>\sum_{n=0}^\infty \frac{x^n}{n!}</math>
+|<pre><nowiki>
+<math>\sum_{n=0}^\infty \frac{x^n}{n!}</math>
+</nowiki></pre>
 |}
 
+==Templates==
+{{TNT|main|Help:Template}}
+Templates are segments of Wiki markup that are meant to be copied automatically ("transcluded") into a page.
+You add them by putting the template's name in <nowiki>{{double braces}}</nowiki>. It is also possible to transclude other pages by using <nowiki>{{:colon and double braces}}</nowiki>.
 
+Some templates take ''parameters'', as well, which you separate with the pipe character.
 
+{| border="1" cellpadding="2" cellspacing="0"
+!width="1000"|What it looks like
+!width="500"|What you type
+|-
+|
+{{Transclusion demo}}
+|<pre>
+{{Transclusion demo}}
+</pre>
+|-
+|
+{{Help:Transclusion Demo}}
+|<pre>
+{{Help:Transclusion Demo}}
+</pre>
+|-
+|
 
-== Inserting symbols == <!--T:132-->
+This template takes two parameters, and
+creates underlined text with a hover box
+for many modern browsers supporting CSS:
 
-<!--T:133-->
-Symbols and other special characters not available on your keyboard can be inserted through a special sequence of characters. Those sequences are called HTML entities. For example, the following sequence (entity) '''&amp;rarr;''' when inserted will be shown as <ins>right arrow</ins> HTML symbol &rarr; and '''&amp;mdash;''' when inserted will be shown as an <ins>em dash</ins> HTML symbol &mdash;. 
-----
-{{note|<!--T:134-->
-Hover over any character to find out the symbol that it produces.  Some symbols not available in the current font will appear as empty squares.}} 
+{{H:title|This is the hover text|
+Hover your mouse over this text}}
 
-{| class="wikitable" align=center width=100%
-! colspan=32 | HTML symbol entities
-|- align=center
-| '''<span title="&amp;Aacute;">&Aacute;</span>
-| '''<span title="&amp;aacute;">&aacute;</span>
-| '''<span title="&amp;Acirc;">&Acirc;</span>
-| '''<span title="&amp;acirc;">&acirc;</span>
-| '''<span title="&amp;acute;">&acute;</span>
-| '''<span title="&amp;AElig;">&AElig;</span>
-| '''<span title="&amp;aelig;">&aelig;</span>
-| '''<span title="&amp;Agrave;">&Agrave;</span>
-| '''<span title="&amp;agrave;">&agrave;</span>
-| '''<span title="&amp;alefsym;">&alefsym;</span>
-| '''<span title="&amp;Alpha;">&Alpha;</span>
-| '''<span title="&amp;alpha;">&alpha;</span>
-| '''<span title="&amp;amp;">&amp;</span>
-| '''<span title="&amp;and;">&and;</span>
-| '''<span title="&amp;ang;">&ang;</span>
-| '''<span title="&amp;Aring;">&Aring;</span>
-| '''<span title="&amp;aring;">&aring;</span>
-| '''<span title="&amp;asymp;">&asymp;</span>
-| '''<span title="&amp;Atilde;">&Atilde;</span>
-| '''<span title="&amp;atilde;">&atilde;</span>
-| '''<span title="&amp;Auml;">&Auml;</span>
-| '''<span title="&amp;auml;">&auml;</span>
-| '''<span title="&amp;bdquo;">&bdquo;</span>
-| '''<span title="&amp;Beta;">&Beta;</span>
-| '''<span title="&amp;beta;">&beta;</span>
-| '''<span title="&amp;brvbar;">&brvbar;</span>
-| '''<span title="&amp;bull;">&bull;</span>
-| '''<span title="&amp;cap;">&cap;</span>
-| '''<span title="&amp;Ccedil;">&Ccedil;</span>
-| '''<span title="&amp;ccedil;">&ccedil;</span>
-| '''<span title="&amp;cedil;">&cedil;</span>
-| '''<span title="&amp;cent;">&cent;</span>
-|- align=center
-| '''<span title="&amp;Chi;">&Chi;</span>
-| '''<span title="&amp;chi;">&chi;</span>
-| '''<span title="&amp;circ;">&circ;</span>
-| '''<span title="&amp;clubs;">&clubs;</span>
-| '''<span title="&amp;cong;">&cong;</span>
-| '''<span title="&amp;copy;">&copy;</span>
-| '''<span title="&amp;crarr;">&crarr;</span>
-| '''<span title="&amp;cup;">&cup;</span>
-| '''<span title="&amp;curren;">&curren;</span>
-| '''<span title="&amp;dagger;">&dagger;</span>
-| '''<span title="&amp;Dagger;">&Dagger;</span>
-| '''<span title="&amp;darr;">&darr;</span>
-| '''<span title="&amp;dArr;">&dArr;</span>
-| '''<span title="&amp;deg;">&deg;</span>
-| '''<span title="&amp;Delta;">&Delta;</span>
-| '''<span title="&amp;delta;">&delta;</span>
-| '''<span title="&amp;diams;">&diams;</span>
-| '''<span title="&amp;divide;">&divide;</span>
-| '''<span title="&amp;Eacute;">&Eacute;</span>
-| '''<span title="&amp;eacute;">&eacute;</span>
-| '''<span title="&amp;Ecirc;">&Ecirc;</span>
-| '''<span title="&amp;ecirc;">&ecirc;</span>
-| '''<span title="&amp;Egrave;">&Egrave;</span>
-| '''<span title="&amp;egrave;">&egrave;</span>
-| '''<span title="&amp;empty;">&empty;</span>
-| '''<span title="&amp;emsp;">&emsp;</span>
-| '''<span title="&amp;ensp;">&ensp;</span>
-| '''<span title="&amp;Epsilon;">&Epsilon;</span>
-| '''<span title="&amp;epsilon;">&epsilon;</span>
-| '''<span title="&amp;equiv;">&equiv;</span>
-| '''<span title="&amp;Eta;">&Eta;</span>
-| '''<span title="&amp;eta;">&eta;</span>
-|- align=center
-| '''<span title="&amp;ETH;">&ETH;</span>
-| '''<span title="&amp;eth;">&eth;</span>
-| '''<span title="&amp;Euml;">&Euml;</span>
-| '''<span title="&amp;euml;">&euml;</span>
-| '''<span title="&amp;euro;">&euro;</span>
-| '''<span title="&amp;exist;">&exist;</span>
-| '''<span title="&amp;fnof;">&fnof;</span>
-| '''<span title="&amp;forall;">&forall;</span>
-| '''<span title="&amp;frac12;">&frac12;</span>
-| '''<span title="&amp;frac14;">&frac14;</span>
-| '''<span title="&amp;frac34;">&frac34;</span>
-| '''<span title="&amp;frasl;">&frasl;</span>
-| '''<span title="&amp;Gamma;">&Gamma;</span>
-| '''<span title="&amp;gamma;">&gamma;</span>
-| '''<span title="&amp;ge;">&ge;</span>
-| '''<span title="&amp;gt;">&gt;</span>
-| '''<span title="&amp;harr;">&harr;</span>
-| '''<span title="&amp;hArr;">&hArr;</span>
-| '''<span title="&amp;hearts;">&hearts;</span>
-| '''<span title="&amp;hellip;">&hellip;</span>
-| '''<span title="&amp;Iacute;">&Iacute;</span>
-| '''<span title="&amp;iacute;">&iacute;</span>
-| '''<span title="&amp;Icirc;">&Icirc;</span>
-| '''<span title="&amp;icirc;">&icirc;</span>
-| '''<span title="&amp;iexcl;">&iexcl;</span>
-| '''<span title="&amp;Igrave;">&Igrave;</span>
-| '''<span title="&amp;igrave;">&igrave;</span>
-| '''<span title="&amp;image;">&image;</span>
-| '''<span title="&amp;infin;">&infin;</span>
-| '''<span title="&amp;int;">&int;</span>
-| '''<span title="&amp;Iota;">&Iota;</span>
-| '''<span title="&amp;iota;">&iota;</span>
-|- align=center
-| '''<span title="&amp;iquest;">&iquest;</span>
-| '''<span title="&amp;isin;">&isin;</span>
-| '''<span title="&amp;Iuml;">&Iuml;</span>
-| '''<span title="&amp;iuml;">&iuml;</span>
-| '''<span title="&amp;Kappa;">&Kappa;</span>
-| '''<span title="&amp;kappa;">&kappa;</span>
-| '''<span title="&amp;Lambda;">&Lambda;</span>
-| '''<span title="&amp;lambda;">&lambda;</span>
-| '''<span title="&amp;lang;">&lang;</span>
-| '''<span title="&amp;laquo;">&laquo;</span>
-| '''<span title="&amp;larr;">&larr;</span>
-| '''<span title="&amp;lArr;">&lArr;</span>
-| '''<span title="&amp;lceil;">&lceil;</span>
-| '''<span title="&amp;ldquo;">&ldquo;</span>
-| '''<span title="&amp;le;">&le;</span>
-| '''<span title="&amp;lfloor;">&lfloor;</span>
-| '''<span title="&amp;lowast;">&lowast;</span>
-| '''<span title="&amp;loz;">&loz;</span>
-| '''<span title="&amp;lrm;">&lrm;</span>
-| '''<span title="&amp;lsaquo;">&lsaquo;</span>
-| '''<span title="&amp;lsquo;">&lsquo;</span>
-| '''<span title="&amp;lt;">&lt;</span>
-| '''<span title="&amp;macr;">&macr;</span>
-| '''<span title="&amp;mdash;">&mdash;</span>
-| '''<span title="&amp;micro;">&micro;</span>
-| '''<span title="&amp;middot;">&middot;</span>
-| '''<span title="&amp;minus;">&minus;</span>
-| '''<span title="&amp;Mu;">&Mu;</span>
-| '''<span title="&amp;mu;">&mu;</span>
-| '''<span title="&amp;nabla;">&nabla;</span>
-| '''<span title="&amp;nbsp;">&nbsp;</span>
-| '''<span title="&amp;ndash;">&ndash;</span>
-|- align=center
-| '''<span title="&amp;ne;">&ne;</span>
-| '''<span title="&amp;ni;">&ni;</span>
-| '''<span title="&amp;not;">&not;</span>
-| '''<span title="&amp;notin;">&notin;</span>
-| '''<span title="&amp;nsub;">&nsub;</span>
-| '''<span title="&amp;Ntilde;">&Ntilde;</span>
-| '''<span title="&amp;ntilde;">&ntilde;</span>
-| '''<span title="&amp;Nu;">&Nu;</span>
-| '''<span title="&amp;nu;">&nu;</span>
-| '''<span title="&amp;Oacute;">&Oacute;</span>
-| '''<span title="&amp;oacute;">&oacute;</span>
-| '''<span title="&amp;Ocirc;">&Ocirc;</span>
-| '''<span title="&amp;ocirc;">&ocirc;</span>
-| '''<span title="&amp;OElig;">&OElig;</span>
-| '''<span title="&amp;oelig;">&oelig;</span>
-| '''<span title="&amp;Ograve;">&Ograve;</span>
-| '''<span title="&amp;ograve;">&ograve;</span>
-| '''<span title="&amp;oline;">&oline;</span>
-| '''<span title="&amp;Omega;">&Omega;</span>
-| '''<span title="&amp;omega;">&omega;</span>
-| '''<span title="&amp;Omicron;">&Omicron;</span>
-| '''<span title="&amp;omicron;">&omicron;</span>
-| '''<span title="&amp;oplus;">&oplus;</span>
-| '''<span title="&amp;or;">&or;</span>
-| '''<span title="&amp;ordf;">&ordf;</span>
-| '''<span title="&amp;ordm;">&ordm;</span>
-| '''<span title="&amp;Oslash;">&Oslash;</span>
-| '''<span title="&amp;oslash;">&oslash;</span>
-| '''<span title="&amp;Otilde;">&Otilde;</span>
-| '''<span title="&amp;otilde;">&otilde;</span>
-| '''<span title="&amp;otimes;">&otimes;</span>
-| '''<span title="&amp;Ouml;">&Ouml;</span>
-|- align=center
-| '''<span title="&amp;ouml;">&ouml;</span>
-| '''<span title="&amp;para;">&para;</span>
-| '''<span title="&amp;part;">&part;</span>
-| '''<span title="&amp;permil;">&permil;</span>
-| '''<span title="&amp;perp;">&perp;</span>
-| '''<span title="&amp;Phi;">&Phi;</span>
-| '''<span title="&amp;phi;">&phi;</span>
-| '''<span title="&amp;Pi;">&Pi;</span>
-| '''<span title="&amp;pi;">&pi;</span>
-| '''<span title="&amp;piv;">&piv;</span>
-| '''<span title="&amp;plusmn;">&plusmn;</span>
-| '''<span title="&amp;pound;">&pound;</span>
-| '''<span title="&amp;prime;">&prime;</span>
-| '''<span title="&amp;Prime;">&Prime;</span>
-| '''<span title="&amp;prod;">&prod;</span>
-| '''<span title="&amp;prop;">&prop;</span>
-| '''<span title="&amp;Psi;">&Psi;</span>
-| '''<span title="&amp;psi;">&psi;</span>
-| '''<span title="&amp;quot;">&quot;</span>
-| '''<span title="&amp;radic;">&radic;</span>
-| '''<span title="&amp;rang;">&rang;</span>
-| '''<span title="&amp;raquo;">&raquo;</span>
-| '''<span title="&amp;rarr;">&rarr;</span>
-| '''<span title="&amp;rArr;">&rArr;</span>
-| '''<span title="&amp;rceil;">&rceil;</span>
-| '''<span title="&amp;rdquo;">&rdquo;</span>
-| '''<span title="&amp;real;">&real;</span>
-| '''<span title="&amp;reg;">&reg;</span>
-| '''<span title="&amp;rfloor;">&rfloor;</span>
-| '''<span title="&amp;Rho;">&Rho;</span>
-| '''<span title="&amp;rho;">&rho;</span>
-| '''<span title="&amp;rlm;">&rlm;</span>
-|- align=center
-| '''<span title="&amp;rsaquo;">&rsaquo;</span>
-| '''<span title="&amp;rsquo;">&rsquo;</span>
-| '''<span title="&amp;sbquo;">&sbquo;</span>
-| '''<span title="&amp;Scaron;">&Scaron;</span>
-| '''<span title="&amp;scaron;">&scaron;</span>
-| '''<span title="&amp;sdot;">&sdot;</span>
-| '''<span title="&amp;sect;">&sect;</span>
-| '''<span title="&amp;shy;">&shy;</span>
-| '''<span title="&amp;Sigma;">&Sigma;</span>
-| '''<span title="&amp;sigma;">&sigma;</span>
-| '''<span title="&amp;sigmaf;">&sigmaf;</span>
-| '''<span title="&amp;sim;">&sim;</span>
-| '''<span title="&amp;spades;">&spades;</span>
-| '''<span title="&amp;sub;">&sub;</span>
-| '''<span title="&amp;sube;">&sube;</span>
-| '''<span title="&amp;sum;">&sum;</span>
-| '''<span title="&amp;sup;">&sup;</span>
-| '''<span title="&amp;sup1;">&sup1;</span>
-| '''<span title="&amp;sup2;">&sup2;</span>
-| '''<span title="&amp;sup3;">&sup3;</span>
-| '''<span title="&amp;supe;">&supe;</span>
-| '''<span title="&amp;szlig;">&szlig;</span>
-| '''<span title="&amp;Tau;">&Tau;</span>
-| '''<span title="&amp;tau;">&tau;</span>
-| '''<span title="&amp;there4;">&there4;</span>
-| '''<span title="&amp;Theta;">&Theta;</span>
-| '''<span title="&amp;theta;">&theta;</span>
-| '''<span title="&amp;thetasym;">&thetasym;</span>
-| '''<span title="&amp;thinsp;">&thinsp;</span>
-| '''<span title="&amp;THORN;">&THORN;</span>
-| '''<span title="&amp;thorn;">&thorn;</span>
-| '''<span title="&amp;tilde;">&tilde;</span>
-|- align=center
-| '''<span title="&amp;times;">&times;</span>
-| '''<span title="&amp;trade;">&trade;</span>
-| '''<span title="&amp;Uacute;">&Uacute;</span>
-| '''<span title="&amp;uacute;">&uacute;</span>
-| '''<span title="&amp;uarr;">&uarr;</span>
-| '''<span title="&amp;uArr;">&uArr;</span>
-| '''<span title="&amp;Ucirc;">&Ucirc;</span>
-| '''<span title="&amp;ucirc;">&ucirc;</span>
-| '''<span title="&amp;Ugrave;">&Ugrave;</span>
-| '''<span title="&amp;ugrave;">&ugrave;</span>
-| '''<span title="&amp;uml;">&uml;</span>
-| '''<span title="&amp;upsih;">&upsih;</span>
-| '''<span title="&amp;Upsilon;">&Upsilon;</span>
-| '''<span title="&amp;upsilon;">&upsilon;</span>
-| '''<span title="&amp;Uuml;">&Uuml;</span>
-| '''<span title="&amp;uuml;">&uuml;</span>
-| '''<span title="&amp;weierp;">&weierp;</span>
-| '''<span title="&amp;Xi;">&Xi;</span>
-| '''<span title="&amp;xi;">&xi;</span>
-| '''<span title="&amp;Yacute;">&Yacute;</span>
-| '''<span title="&amp;yacute;">&yacute;</span>
-| '''<span title="&amp;yen;">&yen;</span>
-| '''<span title="&amp;yuml;">&yuml;</span>
-| '''<span title="&amp;Yuml;">&Yuml;</span>
-| '''<span title="&amp;Zeta;">&Zeta;</span>
-| '''<span title="&amp;zeta;">&zeta;</span>
-| '''<span title="&amp;zwj;">&zwj;</span>
-| '''<span title="&amp;zwnj;">&zwnj;</span>'''
+Go to this page to see the H:title template
+itself: {{tl|H:title}}
+
+|<pre>
+This template takes two parameters, and
+creates underlined text with a hover box
+for many modern browsers supporting CSS:
+
+{{H:title|This is the hover text|
+Hover your mouse over this text}}
+
+Go to this page to see the H:title template
+itself: {{tl|H:title}}
+</pre>
 |}
 
-{| class="wikitable"
-! <!--T:135-->
-Description
-! width=40% | <!--T:136-->
-You type
-! width=40% | <!--T:137-->
-You get
-|-
-| <!--T:138-->
-Copyright symbol
-| <tt><pre>
-&amp;copy;
-</pre></tt>
-|
-:::'''&copy;'''
-|-
-| <!--T:139-->
-Greek delta letter symbol
-| <tt><pre>
-&amp;delta;
-</pre></tt>
-|
-:::'''&delta;'''
-|-
-| <!--T:140-->
-Euro currency symbol
-| <tt><pre>
-&amp;euro;
-</pre></tt>
-|
-:::'''&euro;'''
-|}
+[[Category:Editor handbook]]
+{{h:f|enname=Wikitext examples}}
 
-<!--T:141-->
-See the list of all HTML entities on the Wikipedia article [[wikipedia:List of HTML entities|List of HTML entities]]. Additionally, MediaWiki supports two non-standard entity reference sequences: <code>&amp;רלמ;</code> and <code>&amp;رلم;</code> which are both considered equivalent to <code>&amp;rlm;</code> which is a [[wikipedia:Right-to-left mark|right-to-left mark]]. (Used when combining right to left languages with left to right languages in the same page.)
+
+http://meta.wikimedia.org/w/index.php?title=Help:Wikitext_examples&action=edit
