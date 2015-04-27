@@ -7,7 +7,7 @@
       <th>[[:arrow_backward:|Reserved1]] [[Prev|Reserved1]]</th>
       <th>[[:repeat:|Reserved2]] [[Reload|Reserved2]]</th>
       <th>[[Next|Reserved3]] [[:arrow_forward:|Reserved5]]</th>
-      <th>[[Last|Reserved3]] [[:fast_forward:|Reserved5]]</th>
+      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
@@ -24,7 +24,7 @@ Reserved1
       <th>[[:arrow_backward:|Reserved1]] [[Prev|Reserved1]]</th>
       <th>[[:repeat:|Reserved2]] [[Reload|Reserved2]]</th>
       <th>[[Next|Reserved3]] [[:arrow_forward:|Reserved5]]</th>
-      <th>[[Last|Reserved3]] [[:fast_forward:|Reserved5]]</th>
+      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
