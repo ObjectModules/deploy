@@ -14,7 +14,6 @@ You are browsing our **info** wiki:
     * [[AsCiiDoc|[Writing]-AsCiiDoc]]
     * [[Creole|[Writing]-Creole]]
     * [[Markdown|[Writing]-Markdown]]
-    * [[Markdown (Flavored)|[Writing]-Markdown-(Flavored)]]
     * [[Mediawiki|[Writing]-Mediawiki]]
     * [[Org-mode|[Writing]-Org]]
     * [[Pod|[Writing]-Pod]]
