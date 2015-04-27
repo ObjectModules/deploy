@@ -7,7 +7,7 @@
       <th>:arrow_backward: Intro</th>
       <th>[[:repeat:|Introduction]] [[Reload|Introduction]]</th>
       <th>[[Next|Writing]] [[:arrow_forward:|Writing]]</th>
-      <th>[[Last|Reserved5]] [[:fast_forward:|Reserved5]]</th>
+      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
@@ -38,7 +38,7 @@ https://www.freepdfconvert.com/pdf-image
       <th>:arrow_backward: Intro</th>
       <th>[[:repeat:|Introduction]] [[Reload|Introduction]]</th>
       <th>[[Next|Reserved1]] [[:arrow_forward:|Reserved1]]</th>
-      <th>[[Last|Reserved5]] [[:fast_forward:|Reserved5]]</th>
+      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
