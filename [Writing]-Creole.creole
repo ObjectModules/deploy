@@ -32,7 +32,7 @@ Recommended XHTML:
 {{{ <strong>bold</strong> }}}
 
 Sample Output:
-__bold__
+**bold**
 
 **Rationale:** A star ({{{*}}}) is the most used symbol to emphasize text online.  Double symbols are generally used in Creole to avoid accidentally parsing text not meant to be parsed. [[Bold and Italics Reasoning|More details]]
 
