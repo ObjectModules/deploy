@@ -34,7 +34,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|Reserved5]] [[Prev|Reserved5]]</th>
-      <th>[[:repeat:|Mapping] [[Reload|Mapping]</th>
+      <th>[[:repeat:|Mapping]] [[Reload|Mapping]]</th>
       <th>[[Next|[Mapping]-Concept]] [[:arrow_forward:|[Mapping]-Concept]]</th>
       <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
