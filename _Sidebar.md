@@ -12,6 +12,7 @@ You are browsing our **info** wiki:
 * [[Introduction]]
 * [[Writing]]
 * [[Mapping]]
+    * [[Mapping]]
 * [[Reserved1]]
 * [[Reserved2]]
 * [[Reserved3]]
