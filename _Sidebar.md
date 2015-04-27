@@ -20,7 +20,7 @@ You are browsing our **info** wiki:
     * [Concept]([Mapping]-Concept)
     * [Employment]([Mapping]-Employment)
     * [Merging]([Mapping]-Merging)
-    * [Overall Flow Diagram]([Mapping]-Overall-Flow-Diagram)
+    * [Overall Flow Diagram]([Mapping]-Overall)
 
 ### Library
 * [Forked Application List](%5BHOW-TO%5D-Installation)
