@@ -7,7 +7,7 @@
       <th>[[:arrow_backward:|https://github.com/hyipmonitor/hyipmonitor.github.io]] [[Core|https://github.com/hyipmonitor/hyipmonitor.github.io]]</th>
       <th>[[:repeat:|Home]] [[Reload|Home]]</th>
       <th>[[Next|Introduction]] [[:arrow_forward:|Introduction]]</th>
-      <th>[[Last|Reserved3]] [[:fast_forward:|[Mapping]-Overall]]</th>
+      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating/wiki/Introduction]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki]]</th>
     </tr>
@@ -55,7 +55,7 @@ You are here :point_down: currently
       <th>[[:arrow_backward:|https://github.com/hyipmonitor/hyipmonitor.github.io]] [[Core|https://github.com/hyipmonitor/hyipmonitor.github.io]]</th>
       <th>[[:repeat:|Home]] [[Reload|Home]]</th>
       <th>[[Next|Introduction]] [[:arrow_forward:|Introduction]]</th>
-      <th>[[Last|Reserved3]] [[:fast_forward:|Reserved3]]</th>
+      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating/wiki/Introduction]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki]]</th>
     </tr>
