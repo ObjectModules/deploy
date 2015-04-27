@@ -14,7 +14,7 @@ You are browsing our **info** wiki:
     * [AsCiiDoc]([Writing]-AsCiiDoc)
     * [Creole]([Writing]-Creole)
     * [Markdown]([Writing]-Markdown)
-    * [Mediawiki]([Writing]-mediawiki)
+    * [Mediawiki]([Writing]-Mediawiki)
     * [Org-mode]([Writing]-Org)
     * [Pod]([Writing]-Pod)
     * [RDoc]([Writing]-RDoc)
