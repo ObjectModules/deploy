@@ -1,0 +1,200 @@
+== HTML tags == <!--T:80-->
+
+<!--T:81-->
+Some [[wikipedia:HTML|HTML]] tags are allowed in MediaWiki, for example <code>&lt;code></code>, <code>&lt;div></code>, <code><nowiki><span></nowiki></code> and <code><nowiki><font></nowiki></code>. These apply anywhere you insert them.
+</translate>
+{| class="wikitable"
+! <translate><!--T:82-->
+Description</translate>
+! width=40% | <translate><!--T:83-->
+You type</translate>
+! width=40% | <translate><!--T:84-->
+You get</translate>
+|-
+| <translate><!--T:85-->
+Inserted <br />(Displays as underline in most browsers)</translate>
+| <pre>
+<ins><translate><!--T:86-->
+Inserted</translate></ins>
+
+<translate><!--T:87-->
+or</translate>
+
+<u><translate><!--T:88-->
+Underline</translate></u>
+</pre>
+|
+<ins><translate><!--T:89-->
+Inserted</translate></ins>
+
+<translate><!--T:90-->
+or</translate>
+
+<u><translate><!--T:91-->
+Underline</translate></u>
+|-
+| <translate><!--T:92-->
+Deleted <br />(Displays as strikethrough in most browsers)</translate>
+| <pre>
+<s><translate><!--T:93-->
+Struck out</translate></s>
+
+<translate><!--T:94-->
+or</translate>
+
+<del><translate><!--T:95-->
+Deleted</translate></del>
+
+</pre>
+|
+<s><translate><!--T:96-->
+Struck out</translate></s>
+
+<translate><!--T:97-->
+or</translate>
+
+<del><translate><!--T:98-->
+Deleted</translate></del>
+|-
+| <translate><!--T:99-->
+Fixed width text</translate>
+| <pre>
+<code><translate><!--T:100-->
+Source code</translate></code>
+
+<translate><!--T:101-->
+or</translate>
+
+<tt><translate><!--T:157-->
+Fixed width text</translate></tt>
+</pre>
+|
+<code><translate><!--T:154-->
+Source code</translate></code>
+
+<translate><!--T:102-->
+or</translate>
+
+<tt><translate><!--T:103-->
+Fixed width text</translate></tt>
+|-
+| <translate><!--T:104-->
+Blockquotes</translate>
+| <pre>
+<translate><!--T:105-->
+Text before</translate>
+<blockquote><translate><!--T:106-->
+Blockquote</translate></blockquote>
+<translate><!--T:107-->
+Text after</translate>
+</pre>
+|
+<translate><!--T:108-->
+Text before</translate>
+<blockquote><translate><!--T:109-->
+Blockquote</translate></blockquote>
+<translate><!--T:110-->
+Text after</translate>
+|-
+| <translate><!--T:111-->
+Comment</translate>
+| <pre><translate>
+<!--T:112-->
+<!-- This is a comment -->
+Comments are visible only 
+in the edit zone.
+</translate></pre>
+|
+<translate>
+<!--T:113-->
+<!-- This is a comment -->
+Comments are visible only 
+in the edit zone.
+</translate>
+|-
+| <translate><!--T:114-->
+Completely preformatted text</translate>
+| <pre>
+<pre><translate>
+<!--T:115-->
+Text is '''preformatted''' and 
+''markups'' '''''cannot''''' be done&lt;/pre>
+</translate></pre>
+----
+{{note|<translate><!--T:116-->
+For marking up of preformatted text, check the "Preformatted text" entry at the end of the previous table.</translate>}} 
+|
+<pre><translate>
+<!--T:117-->
+Text is '''preformatted''' and 
+''markups'' '''''cannot''''' be done
+</translate></pre>
+|-
+| <translate><!--T:118-->
+'''Customized''' preformatted text</translate>
+| <pre>
+<pre style="color: red"><translate>
+<!--T:119-->
+Text is '''preformatted''' 
+with a style and 
+''markups'' '''''cannot''''' be done
+&lt;/pre>
+</translate></pre>
+----
+{{note|<translate><!--T:120-->
+A CSS style can be named within the <code>style</code> property.</translate>}}
+|
+<pre style="color: red"><translate>
+<!--T:121-->
+Text is '''preformatted''' 
+with a style and 
+''markups'' '''''cannot''''' be done
+</translate></pre>
+|}
+<translate>
+<!--T:122-->
+continued:</translate>
+{| class="wikitable"
+! <translate><!--T:123-->
+Description</translate>
+! width=40% | <translate><!--T:124-->
+You type</translate>
+! width=40% | <translate><!--T:125-->
+You get</translate>
+|-
+| <translate><!--T:126-->
+'''Customized''' preformatted text with text wrap according to available width</translate>
+| <pre>
+<pre style="white-space: pre-wrap; 
+white-space: -moz-pre-wrap; 
+white-space: -pre-wrap; 
+white-space: -o-pre-wrap; 
+word-wrap: break-word;">
+<translate><!--T:127-->
+This long sentence is used to demonstrate text wrapping. This additional sentence makes the text even longer.</translate>
+&lt;/pre>
+</pre>
+|
+<pre style="white-space: pre-wrap; 
+white-space: -moz-pre-wrap; 
+white-space: -pre-wrap; 
+white-space: -o-pre-wrap; 
+word-wrap: break-word;">
+<translate><!--T:128-->
+This long sentence is used to demonstrate text wrapping. This additional sentence makes the text even longer.</translate>
+</pre>
+|-
+| <translate><!--T:129-->
+Preformatted text with text wrap according to available width</translate>
+| <pre>
+<code>
+<translate><!--T:130-->
+This long sentence is used to demonstrate text wrapping. This additional sentence makes the text even longer.</translate>
+</code>
+</pre>
+| <code>
+<translate><!--T:131-->
+This long sentence is used to demonstrate text wrapping. This additional sentence makes the text even longer.</translate>
+</code>
+|}
+<translate>
