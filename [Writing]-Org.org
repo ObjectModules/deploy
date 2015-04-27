@@ -1,3 +1,6 @@
+Org-mode source documents of all Worg pages
+http://orgmode.org/worg/sources/
+
 #+TITLE: Sitemap for project worg-pages
 
    + code
