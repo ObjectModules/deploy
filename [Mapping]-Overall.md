@@ -25,7 +25,7 @@ https://github.com/bramp/js-sequence-diagrams
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Merging]] [[Prev|Mapping]-Merging]]</th>
+      <th>[[:arrow_backward:|Reserved4]] [[Prev|Reserved4]]</th>
       <th>[[:repeat:|[Mapping]-Overall]] [[Reload|[Mapping]-Overall]]</th>
       <th>Last :arrow_forward:</th>
       <th>[[Next|https://github.com/hyip/rating]] [[:fast_forward:|https://github.com/hyip/rating]]</th>
