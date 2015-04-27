@@ -3,7 +3,7 @@
     <tr>
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyip/info/wiki]]</th>
-      <th>[[:rewind:|https://github.com/hyip/rating]] [[Key|https://github.com/hyip/rating]]</th>
+      <th>[[:rewind:|https://github.com/hyip/rating]] [[Prev|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_backward:|https://github.com/hyipmonitor/hyipmonitor.github.io]] [[Core|https://github.com/hyipmonitor/hyipmonitor.github.io]]</th>
       <th>[[:repeat:|Home]] [[Reload|Home]]</th>
       <th>[[Next|Introduction]] [[:arrow_forward:|Introduction]]</th>
