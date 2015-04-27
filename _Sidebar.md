@@ -12,7 +12,7 @@ You are browsing our **info** wiki:
 * [[Introduction]]
 * [[Writing]]
 * [[Mapping]]
-    * [Concept]([Mapping]-Concept)
+    * [Concept]([Mapping] Concept)
     * [Employment]([Mapping]-Employment)
     * [Merging]([Mapping]-Merging)
     * [Overall-Flow-Diagram]([Mapping]Overall Flow Diagram)
