@@ -26,7 +26,7 @@ You are browsing our **info** wiki:
 * [[Reserved4]]
 * [[Reserved5]]
 * [[Mapping]]
-    * [Concept]([Mapping]-Concept)
+    * [[Concept]|[Mapping]-Concept]]
     * [Employment]([Mapping]-Employment)
     * [Merging]([Mapping]-Merging)
     * [Overall]([Mapping]-Overall)
