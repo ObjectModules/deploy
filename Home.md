@@ -43,7 +43,7 @@ You are browsing our **info** wiki:
 * [Update](%5BCOMMUNITY%5D-Themes)
 
 ###Mapping
-Here :point_down: you are currently         
+You are here :point_down: currently         
 [![Flow](https://hyipworld.github.io/images/github/doc/info.png)](https://github.com/hyip/info/wiki/%5BFlow%5D-Overall-Flow-Diagram)   
 ***
 <table>
