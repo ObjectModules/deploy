@@ -380,7 +380,7 @@ you wish to supply additional information, you may::
 
 See the full `image directive documentation`__ for more info.
 
-__ ../../ref/rst/directives.html
+__ http://docutils.sourceforge.net/docs/user/rst/directives.html
 __ ../../ref/rst/directives.html#images
 
 
