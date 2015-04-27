@@ -1,43 +1,257 @@
-#+STARTUP:    align fold nodlcheck hidestars oddeven lognotestate
-#+SEQ_TODO:   TODO(t) INPROGRESS(i) WAITING(w@) | DONE(d) CANCELED(c@)
-#+TAGS:       Write(w) Update(u) Fix(f) Check(c)
-#+TITLE:      TODO central file for Worg
-#+AUTHOR:     Worg people
-#+EMAIL:      mdl AT imapmail DOT org
-#+LANGUAGE:   en
-#+PRIORITIES: A C B
-#+CATEGORY:   worg
-#+OPTIONS:    H:3 num:nil toc:nil \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc
-#+ARCHIVE:    worg-todo_archive::
+#+TITLE: Sitemap for project worg-pages
 
-{Back to Worg's index}
-
-This file is the central page for inserting tasks related to Worg.
-
-If you keep a local copy of worg in =~/org/Worg/=, then you can
-add =~/org/Worg/worg-todo.org= to the list of your agenda files.
-
-Then a simple =git pull= will update the tasks in this file, and your
-agenda view will be populated with Worg-related tasks.
-
-* Tutorials
-  :PROPERTIES:
-  :Owner_ALL: bzg dominik dto clemente aspiers rustom phil bretfeld wacko hexmode pete
-  :END:
-** Gather examples of custom agenda views from the mailing list
-** Tutorial about links (export and abbrev)
-** Tutorial about the LaTeX exporter
-   :PROPERTIES:
-   :Owner:    bzg
-   :END:
-
-* General tasks
-  :PROPERTIES:
-  :Owner_ALL: bzg dominik dto clemente aspiers rustom phil bretfeld wacko hexmode pete zms
-  :END:
-
-** TODO Create a "user" directory where users can have their own pages
-** TODO Build the FAQ from the survey
-** TODO Define column views for important files in Worg
-** TODO Start a FAQ for Org from the mailing list
-** TODO Make a better .css file for the HTML export?
+   + code
+     + org-info-js
+       + org-slides
+         + Slides with Org-Mode and JavaScript
+       + EMACS ORG-INFO.JS
+       + ORG-INFO.JS: Changes
+   + dev
+     + Org Export Reference Documentation
+     + Org Syntax (draft)
+     + Org-mode Build System
+     + Org-mode for developers
+   + exporters
+     + beamer
+       + Beamer export with Org-mode
+       + Beamer presentations using the new export engine
+       + Writing Beamer presentations in org-mode
+       + Writing Beamer presentations in org-mode
+     + taskjuggler
+       + Exporting Gantt charts with Taskjuggler v3 (tj3)
+     + Freemind export
+     + Groff and PDF export
+     + Marking Up Elements to be Exported
+     + Org Exporters
+     + The New Org-mode Exporter Framework
+     + Using the Org-mode Fill-In-Blank exporter (ox-*)
+     + XOXO export
+   + org-configs
+     + Org configuration(s)
+     + Org Customization
+     + Org-Mode Beginners Customization Guide
+     + Org-Mode Survey Results
+   + org-contrib
+     + babel
+       + examples
+         + An Org-mode Demo
+         + Genetic drift
+         + [[file:org-contrib/babel/examples/finances.org][]]
+         + [[file:org-contrib/babel/examples/lob-table-operations.org][]]
+         + Org Mode: Data Collection and Analysis
+         + Org-babel-gnuplot
+         + Org-babel: Uses
+         + Org-babel: Uses
+         + Org-babel: Uses
+         + Pretty fontification of source code blocks
+         + Rpackage.org
+         + Verify an Org-mode environment
+       + languages
+         + R
+           + Org & R via Babel Example
+         + =Ditaa= Source Code Blocks in Org Mode
+         + Asymptote Source Code Blocks in Org Mode
+         + AWK Source Code Blocks in Org Mode
+         + Common Lisp Source Code Blocks in Org Mode
+         + CSS Source Code Blocks in Org Mode
+         + Dot Source Code Blocks in Org Mode
+         + Language Source Code Blocks in Org Mode
+         + LaTeX Source Code Blocks in Org Mode
+         + Makefile Source Code Blocks in Org Mode
+         + Maxima Source Code Blocks in Org Mode
+         + Mscgen: Message Sequence Charts
+         + Org-babel-clojure
+         + Org-babel-gnuplot
+         + Org-babel-lilypond
+         + Org-babel-mathomatic
+         + Org-babel-octave-matlab
+         + Org-babel-Oz
+         + org-babel-screen
+         + Org-babel-tcl
+         + PicoLisp Source Code Blocks in Org Mode
+         + Python Source Code Blocks in Org Mode
+         + R Source Code Blocks in Org Mode
+         + Using C and C++ code with Babel
+         + Using Ledger for Accounting in Org-mode with Babel
+         + ΕΥΚΛΕΙΔΗΣ Source Code Blocks in Org Mode
+       + Babel: active code in Org-mode
+       + Babel: Introduction
+       + Babel: Languages
+       + Header arguments and result types in Org Babel
+       + Org-babel: redirect
+       + Source Code Blocks: Uses
+       + The Library of Babel
+     + gsoc2012
+       + student-projects
+         + git-merge-tool
+           + Merge Tool for Org-Mode
+           + Merge Tool for Org-Mode
+           + Merge Tool for Org-Mode
+           + Merge Tool for Org-Mode
+           + Org Merge Driver
+           + Org-Merge-Driver Example Usage
+           + Org-Mode Merge Tool
+         + org-sync
+           + tutorial
+             + Org-sync tutorial
+           + Org-sync
+           + Org-sync
+           + Org-sync backends
+       + Google Summer of Code 2012
+       + Google Summer of Code 2012
+       + Google Summer of Code 2012
+       + Google Summer of Code 2012
+       + Google Summer of Code 2012
+     + BOM : Bills-of-materials
+     + Language Source Code Blocks in Org Mode
+     + [[file:org-contrib/ob-table-operations.org][]]
+     + Org Link  -- create Org-mode hyperlinks to Entourage mail messages
+     + org-annotation-helper.el -- using org-mode as a bookmark manager, a knowledge base, a research tool and more!
+     + org-checklist.el --- org functions for checklist handling
+     + org-choose.el -- decision management for org-mode
+     + [[file:org-contrib/org-collector-example.org][]]
+     + org-collector.el --- collect properties into tables
+     + org-depend.el -- TODO dependencies for Org-mode
+     + org-drill.el -- flashcards and spaced repetition for org-mode
+     + org-eval-light.el --- Display result of evaluating code in various languages (light)
+     + org-exp-blocks.el --- pre-process blocks when exporting org files
+     + org-export-generic.el -- export org files to anything!
+     + org-favtable.el --- Lookup table of favorite references and links
+     + org-feed.el -- add RSS feed items to Org files
+     + org-git-link.el -- link to specific git revisions
+     + org-mac-iCal.el -- import Mac OS X iCal.app events into Emacs diary
+     + org-mac-link-grabber.el -- Grab links from open Mac applications
+     + org-mac-message.el -- linking to messages in OS X Mail.app
+     + org-mime.el --- org html export for text/html MIME emails
+     + Org-mode Contributed Packages
+     + org-protocol.el -- Intercept calls from emacsclient to trigger custom actions
+     + org-special-blocks.el --- turn blocks into LaTeX envs and HTML divs
+     + org-track.el -- Keep current with Org-mode development: M-x org-track-update
+     + org-velocity.el --- something like Notational Velocity for Org
+     + org-wikinodes.el -- CamelCase wiki-like links to Org-mode nodes
+   + org-testimonies
+     + Your story about using Org
+   + org-tests
+     + example.org
+     + Testing Org
+   + org-tools
+     + Org Mode tools!
+   + org-tutorials
+     + org-beamer
+       + Beamer export with Org-mode
+       + Beamer presentations using the new export engine
+       + Writing Beamer presentations in org-mode
+       + Writing Beamer presentations in org-mode
+     + org-R
+       + [[file:org-tutorials/org-R/variable-popcon.org][]]
+       + org-R: Computing and data visualisation in Org-mode using R
+       + org-R: Computing and data visualisation in Org-mode using R
+       + [[file:org-tutorials/org-R/org-variables-counts.org][]]
+       + [[file:org-tutorials/org-R/org-variables-incidence.org][]]
+       + [[file:org-tutorials/org-R/variable-popcon-restricted.org][]]
+     + org-screencasts
+       + Episode 1 - The Basics - Org Screencasts
+       + GNU Hackers Meeting 2011 - Org Demo by Bastien
+       + Google Tech Talk by Carsten Dominik (2008)
+       + Org Screencasts
+     + A simple letter
+     + Advanced searching
+     + Agenda Filters and Limits
+     + Creating Gantt charts by Exporting to TaskJuggler
+     + Creating letters with KOMA =scrlttr2=
+     + Custom Agenda Commands
+     + Customizing Org-mode
+     + David O'Toole Org tutorial
+     + David O'Toole Org tutorial (Spanish Translation)
+     + Defining custom handlers for use with org-protocol
+     + Emacs Colour Theme Test File.
+     + Emacs Org's Column View
+     + Emacs Org's Column View
+     + Encrypting org Files.
+     + Google Calendar Synchronization
+     + Guía de Referencia Para el Modo Org
+     + How to use jsMath with org-mode
+     + Images and XHTML export
+     + Import items from remember the milk
+     + LaTeX Export
+     + Org appearance
+     + Org as a spreadsheet system: a short introduction
+     + Org as a spreadsheet system: using Emacs lisp as formulas
+     + Org tutorial for tables
+     + Org tutorial on table lookup functions
+     + Org tutorials
+     + [[file:org-tutorials/org-e-man-documentation.org][]]
+     + Org-mode beginning at the basics
+     + Org-mode outside Org-mode
+     + org-ruby
+     + Plotting tables in Org-Mode using org-plot
+     + Publishing Org-mode files to HTML
+     + Publishing Treemenus for Org-files
+     + Putting Your org Files Under Version Control.
+     + Tracking actions through a series of meetings
+     + Tracking Habits with Org-mode
+     + Tutoriel Org (emacs org-mode)
+     + Using org to Blog with Jekyll
+     + Using Org-Mode Table Formatting Functions
+     + Utiliser Org comme tableur: une courte introduction
+     + Writing Non-Beamer presentations in org-mode
+     + Кreiranje Gantt grafikona izvozom do TaskJuggler
+   + users
+     + Bastien's Worg page
+     + Christian Giménez's Worg Page
+     + David Arroyo Menéndez's Worg Page
+     + Matt's Worg page
+     + Org-mode users' page My org-mode workflow
+     + Org-mode users' page
+     + Sebastian's Worg page
+   + About Worg
+   + Advanced usage of git for Worg
+   + Agenda speedup and optimization
+   + Blorgit: Org-Mode based, git amenable, blogging engine
+   + Bugs
+   + Creating a SSH-key for a new user
+   + Documentation for Org hooks, commands and options
+   + Git commit statistics for Org and Worg
+   + Git'r Done!
+   + GTD Software comparison
+   + Hello Worg, the Org-Mode Community!
+   + How to contribute to Org?
+   + How to edit Worg files?
+   + How to use git to edit Worg files?
+   + [[file:org-blog-articles.org][]]
+   + Ongoing Development of Org Additions?
+   + Open issues with Org mode
+   + Org ad hoc code, quick hacks and workarounds
+   + Org and Mac OS X
+   + Org Blogs and Wikis
+   + Org Color Themes
+   + Org Contributed Artwork
+   + Org for GTD and other Task managment systems
+   + Org Glossary: An Explanation of Basic Org-Mode Concepts
+   + Org mailing list
+   + Org mode conference?
+   + Org Screenshots
+   + [[file:org-dependencies.org][]]
+   + org-info-js
+   + Org-mode Color Theme Screenshots
+   + Org-mode Community People
+   + Org-mode Frequently Asked Questions
+   + Org-mode Import/Export Tools
+   + Org-Mode Reference Card
+   + Org-Mode Survey Results
+   + OrgCamps around the world
+   + Patches
+   + People talking about Org on the web
+   + Quotes about Org-mode
+   + Symbols in Org-mode
+   + [[file:theindex.org][]]
+   + TODO central file for Worg
+   + Upgrading to Org 8.0 or the current master branch
+   + Web Pages Made with Org-Mode
+   + White Papers Relevant to Org-mode
+   + Worg Contribution Sandbox
+   + Worg maintainance
+   + Worg setup on the [http://orgmode.org] server
+   + Worg's ChangeLog file
+   + Worgers and their User Pages
+   + No title for now, please update
