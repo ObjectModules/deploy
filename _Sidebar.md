@@ -35,4 +35,4 @@ You are browsing our **info** wiki:
 
 ###Mapping
 Here :point_down: you are currently         
-[![Flow](https://hyipworld.github.io/images/github/doc/info.png)](https://github.com/hyip/info/wiki/%5BFlow%5D-Overall-Flow-Diagram)    
+[![Flow](https://hyipworld.github.io/images/github/doc/info.png)]([Mapping]-Overall)    
