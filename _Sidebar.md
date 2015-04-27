@@ -11,16 +11,16 @@ You are browsing our **info** wiki:
 ### Contents
 * [[Introduction]]
 * [[Writing]]
-* [[Mapping]]
-    * [Concept]([Mapping]-Concept)
-    * [Employment]([Mapping]-Employment)
-    * [Merging]([Mapping]-Merging)
-    * [Overall Flow Diagram]([Mapping]-Overall-Flow-Diagram)
 * [[Reserved1]]
 * [[Reserved2]]
 * [[Reserved3]]
 * [[Reserved4]]
 * [[Reserved5]]
+* [[Mapping]]
+    * [Concept]([Mapping]-Concept)
+    * [Employment]([Mapping]-Employment)
+    * [Merging]([Mapping]-Merging)
+    * [Overall Flow Diagram]([Mapping]-Overall-Flow-Diagram)
 
 ### Library
 * [Forked Application List](%5BHOW-TO%5D-Installation)
