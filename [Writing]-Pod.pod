@@ -1,18 +1,9 @@
-    =pod
-    =head1 Heading Text
-    =head2 Heading Text
-    =head3 Heading Text
-    =head4 Heading Text
-    =over indentlevel
-    =item stuff
-    =back
-    =begin format
-    =end format
-    =for format text...
-    =encoding type
-    =cut
 
-=head1 Heading Text
-=head2 Heading Text
-=head3 Heading Text
-=head4 Heading Text
+=for comment
+This document is in Pod format.  To read this, use a Pod formatter,
+like "perldoc perlpod".
+
+=head1 NAME
+X<POD> X<plain old documentation>
+
+perlpod - the Plain Old Documentation format
