@@ -11,16 +11,15 @@ You are browsing our **info** wiki:
 ### Contents
 * [[Introduction]]
 * [[Writing]]
-    * [Markdown syntax]([Writing]-Markdown-syntax)
-    * [Github Flavored Markdown]([Writing]-Github-Flavored-Markdown)
+    * [AsCiiDoc]([Writing]-AsCiiDoc)
+    * [Creole]([Writing]-Creole)
+    * [Markdown]([Writing]-Markdown)
+    * [Mediawiki]([Writing]-mediawiki)
+    * [Org-mode]([Writing]-Org)
+    * [Pod]([Writing]-Pod)
     * [RDoc]([Writing]-RDoc)
-    * [RDoc]([Writing]-RDoc)
-    * [RDoc]([Writing]-RDoc)
-    * [RDoc]([Writing]-RDoc)
-    * [RDoc]([Writing]-RDoc)
-    * [RDoc]([Writing]-RDoc)
-    * [RDoc]([Writing]-RDoc)
-    * [RDoc]([Writing]-RDoc)
+    * [Textile]([Writing]-Textile)
+    * [reStructuredText]([Writing]-reStructuredText)
 * [[Reserved1]]
 * [[Reserved2]]
 * [[Reserved3]]
