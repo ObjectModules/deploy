@@ -1,0 +1,355 @@
+== Text formatting markup == <!--T:2-->
+</translate>
+{| class="wikitable"
+! <translate><!--T:3-->
+Description</translate>
+! width=40% | <translate><!--T:4-->
+You type</translate>
+! width=40% | <translate><!--T:5-->
+You get</translate>
+|-
+! colspan="3" style="background: #ABE" | <translate><!--T:6-->
+Character (inline) formatting – ''applies anywhere''</translate>
+|-
+| <translate><!--T:7-->
+Italic text</translate>
+| <pre>
+''<translate><!--T:8-->
+italic</translate>''
+</pre>
+|
+''<translate><!--T:9-->
+italic</translate>''
+|-
+| <translate><!--T:10-->
+Bold text</translate>
+| <pre>
+'''<translate><!--T:11-->
+bold</translate>'''
+</pre>
+|
+'''<translate><!--T:12-->
+bold</translate>'''
+|-
+| <translate><!--T:13-->
+Bold and italic</translate>
+| <pre>
+'''''<translate><!--T:14-->
+bold & italic</translate>'''''
+</pre>
+|
+'''''<translate><!--T:15-->
+bold & italic</translate>'''''
+|-
+| <translate><!--T:16-->
+Strike text</translate>
+| <pre>
+<strike> <translate><!--T:17-->
+strike text</translate> </strike>
+</pre>
+|<strike> <translate><!--T:18-->
+strike text</translate> </strike>
+|-
+| <translate><!--T:19-->
+Escape wiki markup</translate>
+| <pre>
+&lt;nowiki&gt;<translate><!--T:20-->
+no ''markup''</translate>&lt;/nowiki&gt;
+</pre>
+|
+<translate><!--T:155-->
+<nowiki>no ''markup''</nowiki></translate>
+|-
+| <translate><!--T:21-->
+Escape wiki markup once</translate>
+| <pre>
+[[Special:MyLanguage/API:Main page|API]]&lt;nowiki/>&nbsp;<translate><!--T:22-->
+extension</translate>
+</pre>
+|
+[[Special:MyLanguage/API:Main page|API]]<nowiki/>&nbsp;<translate><!--T:23-->
+extension</translate>
+|-
+! colspan="3" style="background: #ABE" | <translate><!--T:24-->
+Section formatting – ''only at the beginning of the line''</translate>
+|-
+| <translate><!--T:25-->
+Headings of different levels</translate> 
+| <pre>
+<translate>
+== Level 2 == <!--T:26-->
+
+=== Level 3 === <!--T:27-->
+
+==== Level 4 ==== <!--T:28-->
+
+===== Level 5 ===== <!--T:29-->
+
+====== Level 6 ====== <!--T:30-->
+</translate>
+</pre>
+----
+{{note|
+* <translate><!--T:31-->
+[[<tvar|lv1>Special:MyLanguage/Help_talk:Formatting#Level_1</>|Skip Level 1]], it is page name level.</translate>
+* <translate><!--T:33-->
+An article with 4 or more headings automatically creates a [[wikipedia:Wikipedia:Section#Table of contents (TOC)|table of contents]].</translate>
+}}
+|
+<!-- using HTML markup to avoid creating new sections -->
+<translate>
+<!--T:35-->
+<h2>Level 2</h2>
+
+<!--T:36-->
+<h3>Level 3</h3>
+
+<!--T:37-->
+<h4>Level 4</h4>
+
+<!--T:38-->
+<h5>Level 5</h5>
+
+<!--T:39-->
+<h6>Level 6</h6>
+</translate>
+|-
+| <translate><!--T:40-->
+Horizontal rule</translate>
+| <pre>
+<translate><!--T:41-->
+Text before</translate>
+----
+<translate><!--T:42-->
+Text after</translate>
+</pre>
+|
+<translate><!--T:43-->
+Text before</translate>
+----
+<translate><!--T:44-->
+Text after</translate>
+|-
+| <translate><!--T:45-->
+Bullet list</translate>
+|
+<pre>
+<translate>
+<!--T:46-->
+* Start each line
+* with an [[Wikipedia:asterisk|asterisk]] (*).
+** More asterisks give deeper
+*** and deeper levels.
+* Line breaks <br />don't break levels.
+*** But jumping levels creates empty space.
+Any other start ends the list.
+</translate>
+</pre>
+|
+<translate>
+<!--T:47-->
+* Start each line
+* with an [[Wikipedia:asterisk|asterisk]] (*).
+** More asterisks give deeper
+*** and deeper levels.
+* Line breaks <br />don't break levels.
+*** But jumping levels creates empty space.
+Any other start ends the list.
+</translate>
+|-
+| <translate><!--T:48-->
+Numbered list</translate>
+|
+<pre>
+<translate>
+<!--T:49-->
+# Start each line
+# with a [[Wikipedia:Number_sign|number sign]] (#).
+## More number signs give deeper
+### and deeper
+### levels.
+# Line breaks <br />don't break levels.
+### But jumping levels creates empty space.
+# Blank lines
+
+<!--T:50-->
+# end the list and start another.
+Any other start also
+ends the list.
+</translate>
+</pre>
+|
+<translate>
+<!--T:51-->
+# Start each line
+# with a [[Wikipedia:Number_sign|number sign]] (#).
+## More number signs give deeper
+### and deeper
+### levels.
+# Line breaks <br />don't break levels.
+### But jumping levels creates empty space.
+# Blank lines
+
+<!--T:52-->
+# end the list and start another.
+Any other start also
+ends the list.
+</translate>
+|-
+| <translate><!--T:53-->
+Definition list</translate>
+| <pre>
+<translate>
+<!--T:54-->
+;item 1
+: definition 1
+;item 2
+: definition 2-1
+: definition 2-2
+</translate>
+</pre>
+|
+<translate>
+<!--T:55-->
+;item 1
+: definition 1
+;item 2
+: definition 2-1
+: definition 2-2
+</translate>
+|-
+| <translate><!--T:56-->
+Indent text</translate>
+| <pre>
+<translate>
+<!--T:57-->
+: Single indent
+:: Double indent
+::::: Multiple indent
+</translate>
+</pre>
+----
+{{Note|<translate><!--T:58-->
+This workaround may harm accessibility.</translate>}}
+|
+<translate>
+<!--T:59-->
+: Single indent
+:: Double indent
+::::: Multiple indent
+</translate>
+|-
+| <translate><!--T:60-->
+Mixture of different types of list</translate>
+|
+<pre>
+<translate>
+<!--T:61-->
+# one
+# two
+#* two point one
+#* two point two
+# three
+#; three item one
+#: three def one
+# four
+#: four def one
+#: this looks like a continuation
+#: and is often used
+#: instead <br />of &lt;nowiki><br />&lt;/nowiki>
+# five
+## five sub 1
+### five sub 1 sub 1
+## five sub 2
+</translate>
+</pre>
+----
+{{note|<translate><!--T:62-->
+The usage of <code>#:</code> and <code>*:</code> for breaking a line within an item may also harm accessibility.</translate>}}
+|
+<translate>
+<!--T:63-->
+# one
+# two
+#* two point one
+#* two point two
+# three
+#; three item one
+#: three def one
+# four
+#: four def one
+#: this looks like a continuation
+#: and is often used
+#: instead <br />of <nowiki><br /></nowiki>
+# five
+## five sub 1
+### five sub 1 sub 1
+## five sub 2{{anchor|pre}}
+</translate>
+|-
+| <translate><!--T:64-->
+Preformatted text</translate>
+| <pre>
+<translate>
+ <!--T:65-->
+Start each line with a space.
+ Text is '''preformatted''' and
+ ''markups'' '''''can''''' be done.
+</translate>
+</pre>
+----
+{{note|<translate><!--T:66-->
+This way of preformatting only applies to section formatting. Character formatting markups are still effective.</translate>}}
+|
+<translate>
+ <!--T:67-->
+Start each line with a space.
+ Text is '''preformatted''' and
+ ''markups'' '''''can''''' be done.
+</translate>
+|-
+| <translate><!--T:68-->
+Preformatted text blocks</translate>
+| <pre> <translate><!--T:69-->
+<nowiki><nowiki>Start with a space in the first column,
+(before the <nowiki>).
+
+<!--T:70-->
+Then your block format will be
+    maintained.
+ 
+This is good for copying in code blocks:
+
+<!--T:71-->
+def function():
+    """documentation string"""
+
+    <!--T:72-->
+if True:
+        print True
+    else:
+        print False</nowiki></nowiki></translate>
+</pre>
+|
+ <translate><!--T:73-->
+<nowiki>Start with a space in the first column,
+(before the <nowiki>).
+
+<!--T:74-->
+Then your block format will be
+    maintained.
+
+<!--T:75-->
+This is good for copying in code blocks:
+
+<!--T:76-->
+def function():
+    """documentation string"""
+
+    <!--T:77-->
+if True:
+        print True
+    else:
+        print False</nowiki></translate>
+|}
+<translate>
