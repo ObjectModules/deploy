@@ -93,7 +93,7 @@ created.
 You can remove the dot-comment (~//~) in front of ~rankdir~ in order
 to switch to a horizontal layout of the diagram.
 
-file:../images/org-dot/example-diagram.png
+[[http://orgmode.org/worg/images/org-dot/example-diagram.png]]
 
 * Re-using the code snippet with call-statements
 
