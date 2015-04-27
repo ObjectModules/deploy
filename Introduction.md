@@ -3,8 +3,8 @@
     <tr>
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
-      <th>:rewind: Intro</th>
-      <th>:arrow_backward: Prev</th>
+      <th>:rewind: Prev</th>
+      <th>:arrow_backward: Intro</th>
       <th>[[:repeat:|Introduction]] [[Reload|Introduction]]</th>
       <th>[[Next|Reserved1]] [[:arrow_forward:|Reserved1]]</th>
       <th>[[Last|Reserved5]] [[:fast_forward:|Reserved5]]</th>
