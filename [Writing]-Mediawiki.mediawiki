@@ -59,7 +59,7 @@ no ''markup''&lt;/nowiki&gt;
 </pre>
 |
 <!--T:155-->
-<nowiki>no ''markup''</nowiki>
+no ''markup''
 |-
 | <!--T:21-->
 Escape wiki markup once
@@ -281,7 +281,7 @@ The usage of <code>#:</code> and <code>*:</code> for breaking a line within an i
 #: four def one
 #: this looks like a continuation
 #: and is often used
-#: instead <br />of <nowiki><br /></nowiki>
+#: instead <br />of <br />
 # five
 ## five sub 1
 ### five sub 1 sub 1
@@ -312,8 +312,8 @@ Start each line with a space.
 | <!--T:68-->
 Preformatted text blocks
 | <pre> <!--T:69-->
-<nowiki><nowiki>Start with a space in the first column,
-(before the <nowiki>).
+Start with a space in the first column,
+(before the ).
 
 <!--T:70-->
 Then your block format will be
@@ -329,12 +329,12 @@ def function():
 if True:
         print True
     else:
-        print False</nowiki></nowiki>
+        print False
 </pre>
 |
  <!--T:73-->
-<nowiki>Start with a space in the first column,
-(before the <nowiki>).
+Start with a space in the first column,
+(before the ).
 
 <!--T:74-->
 Then your block format will be
@@ -351,6 +351,6 @@ def function():
 if True:
         print True
     else:
-        print False</nowiki>
+        print False
 |}
 
