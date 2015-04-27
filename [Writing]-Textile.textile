@@ -1,18 +1,55 @@
-h1. Using this tool
 
-This page lets you create HTML by entering text in a simple format that's easy to read and write.
+h2. level 2 heading
 
-* Type Textile text in the left window
-* See the HTML in the right
+h3. level 3 heading
 
-Textile is a lightweight markup language billed as a "humane web text editor". It originated in the blogging software Textpattern. 
+h4. level 4 heading
 
-"It is described as":http://textile.thresholdstate.com/:
+bq. this is blockquoted text
 
-bq. Textile takes plain text with *simple* markup and produces valid XHTML. It's used in web applications, content management systems, blogging software and online forums. Try it for yourself with the Textile quick reference and preview.
+fn1. footnote 1
 
-This document is written in Textile; you can see the plain-text version on the left.  To get a feel for Textile's syntax, type some text into the left window and watch the results in the right.  You can see a Textile syntax guide by switching the right-hand window from _Preview_ to _Syntax Guide_.
+fn2. footnote 2
 
-Textile-js is a JavaScript port of Textile.  You can get the full source code from its "GitHub repository":https://github.com/borgar/js-textile.
+This text refernces a footnote[1]
 
-**Start with a "(clear)blank page (clear text)":# or edit this document in the left window.**
+# numbered list item 1
+# numbered list item 2
+
+* bulleted list first item
+* bulleted list second item
+
+_emphasis_
+*strong*
+??citation??
+-deleted text-
++inserted text+
+^superscript^
+~subscript~
+%span%
+
+p(class). paragraph with a classname
+
+p(#id). paragraph with an ID
+
+p{color:red}. paragrah with a CSS style
+
+p[fr]. paragraphe en français
+
+p<. right aligned paragraph
+
+p>. left aligned paragraph
+
+p=. centered aligned paragraph
+
+p<>. justified text paragraph
+
+|_. head |_. table |_. row |
+| a | table | row 1 |
+| a | table | row 2 |
+
+"linktext":url
+
+!imageurl!
+
+ABBR(Abbreviation)
