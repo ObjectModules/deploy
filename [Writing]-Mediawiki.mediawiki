@@ -354,3 +354,513 @@ if True:
         print False
 |}
 
+== HTML tags == <!--T:80-->
+
+<!--T:81-->
+Some [[wikipedia:HTML|HTML]] tags are allowed in MediaWiki, for example <code>&lt;code></code>, <code>&lt;div></code>, <code><nowiki><span></nowiki></code> and <code><nowiki><font></nowiki></code>. These apply anywhere you insert them.
+
+{| class="wikitable"
+! <!--T:82-->
+Description
+! width=40% | <!--T:83-->
+You type
+! width=40% | <!--T:84-->
+You get
+|-
+| <!--T:85-->
+Inserted <br />(Displays as underline in most browsers)
+| <pre>
+<ins><!--T:86-->
+Inserted</ins>
+
+<!--T:87-->
+or
+
+<u><!--T:88-->
+Underline</u>
+</pre>
+|
+<ins><!--T:89-->
+Inserted</ins>
+
+<!--T:90-->
+or
+
+<u><!--T:91-->
+Underline</u>
+|-
+| <!--T:92-->
+Deleted <br />(Displays as strikethrough in most browsers)
+| <pre>
+<s><!--T:93-->
+Struck out</s>
+
+<!--T:94-->
+or
+
+<del><!--T:95-->
+Deleted</del>
+
+</pre>
+|
+<s><!--T:96-->
+Struck out</s>
+
+<!--T:97-->
+or
+
+<del><!--T:98-->
+Deleted</del>
+|-
+| <!--T:99-->
+Fixed width text
+| <pre>
+<code><!--T:100-->
+Source code</code>
+
+<!--T:101-->
+or
+
+<tt><!--T:157-->
+Fixed width text</tt>
+</pre>
+|
+<code><!--T:154-->
+Source code</code>
+
+<!--T:102-->
+or
+
+<tt><!--T:103-->
+Fixed width text</tt>
+|-
+| <!--T:104-->
+Blockquotes
+| <pre>
+<!--T:105-->
+Text before
+<blockquote><!--T:106-->
+Blockquote</blockquote>
+<!--T:107-->
+Text after
+</pre>
+|
+<!--T:108-->
+Text before
+<blockquote><!--T:109-->
+Blockquote</blockquote>
+<!--T:110-->
+Text after
+|-
+| <!--T:111-->
+Comment
+| <pre>
+<!--T:112-->
+<!-- This is a comment -->
+Comments are visible only 
+in the edit zone.
+</pre>
+|
+
+<!--T:113-->
+<!-- This is a comment -->
+Comments are visible only 
+in the edit zone.
+
+|-
+| <!--T:114-->
+Completely preformatted text
+| <pre>
+<pre>
+<!--T:115-->
+Text is '''preformatted''' and 
+''markups'' '''''cannot''''' be done&lt;/pre>
+</pre>
+----
+{{note|<!--T:116-->
+For marking up of preformatted text, check the "Preformatted text" entry at the end of the previous table.}} 
+|
+<pre>
+<!--T:117-->
+Text is '''preformatted''' and 
+''markups'' '''''cannot''''' be done
+</pre>
+|-
+| <!--T:118-->
+'''Customized''' preformatted text
+| <pre>
+<pre style="color: red">
+<!--T:119-->
+Text is '''preformatted''' 
+with a style and 
+''markups'' '''''cannot''''' be done
+&lt;/pre>
+</pre>
+----
+{{note|<!--T:120-->
+A CSS style can be named within the <code>style</code> property.}}
+|
+<pre style="color: red">
+<!--T:121-->
+Text is '''preformatted''' 
+with a style and 
+''markups'' '''''cannot''''' be done
+</pre>
+|}
+
+<!--T:122-->
+continued:
+{| class="wikitable"
+! <!--T:123-->
+Description
+! width=40% | <!--T:124-->
+You type
+! width=40% | <!--T:125-->
+You get
+|-
+| <!--T:126-->
+'''Customized''' preformatted text with text wrap according to available width
+| <pre>
+<pre style="white-space: pre-wrap; 
+white-space: -moz-pre-wrap; 
+white-space: -pre-wrap; 
+white-space: -o-pre-wrap; 
+word-wrap: break-word;">
+<!--T:127-->
+This long sentence is used to demonstrate text wrapping. This additional sentence makes the text even longer.
+&lt;/pre>
+</pre>
+|
+<pre style="white-space: pre-wrap; 
+white-space: -moz-pre-wrap; 
+white-space: -pre-wrap; 
+white-space: -o-pre-wrap; 
+word-wrap: break-word;">
+<!--T:128-->
+This long sentence is used to demonstrate text wrapping. This additional sentence makes the text even longer.
+</pre>
+|-
+| <!--T:129-->
+Preformatted text with text wrap according to available width
+| <pre>
+<code>
+<!--T:130-->
+This long sentence is used to demonstrate text wrapping. This additional sentence makes the text even longer.
+</code>
+</pre>
+| <code>
+<!--T:131-->
+This long sentence is used to demonstrate text wrapping. This additional sentence makes the text even longer.
+</code>
+|}
+
+
+
+
+== Inserting symbols == <!--T:132-->
+
+<!--T:133-->
+Symbols and other special characters not available on your keyboard can be inserted through a special sequence of characters. Those sequences are called HTML entities. For example, the following sequence (entity) '''&amp;rarr;''' when inserted will be shown as <ins>right arrow</ins> HTML symbol &rarr; and '''&amp;mdash;''' when inserted will be shown as an <ins>em dash</ins> HTML symbol &mdash;. 
+----
+{{note|<!--T:134-->
+Hover over any character to find out the symbol that it produces.  Some symbols not available in the current font will appear as empty squares.}} 
+
+{| class="wikitable" align=center width=100%
+! colspan=32 | HTML symbol entities
+|- align=center
+| '''<span title="&amp;Aacute;">&Aacute;</span>
+| '''<span title="&amp;aacute;">&aacute;</span>
+| '''<span title="&amp;Acirc;">&Acirc;</span>
+| '''<span title="&amp;acirc;">&acirc;</span>
+| '''<span title="&amp;acute;">&acute;</span>
+| '''<span title="&amp;AElig;">&AElig;</span>
+| '''<span title="&amp;aelig;">&aelig;</span>
+| '''<span title="&amp;Agrave;">&Agrave;</span>
+| '''<span title="&amp;agrave;">&agrave;</span>
+| '''<span title="&amp;alefsym;">&alefsym;</span>
+| '''<span title="&amp;Alpha;">&Alpha;</span>
+| '''<span title="&amp;alpha;">&alpha;</span>
+| '''<span title="&amp;amp;">&amp;</span>
+| '''<span title="&amp;and;">&and;</span>
+| '''<span title="&amp;ang;">&ang;</span>
+| '''<span title="&amp;Aring;">&Aring;</span>
+| '''<span title="&amp;aring;">&aring;</span>
+| '''<span title="&amp;asymp;">&asymp;</span>
+| '''<span title="&amp;Atilde;">&Atilde;</span>
+| '''<span title="&amp;atilde;">&atilde;</span>
+| '''<span title="&amp;Auml;">&Auml;</span>
+| '''<span title="&amp;auml;">&auml;</span>
+| '''<span title="&amp;bdquo;">&bdquo;</span>
+| '''<span title="&amp;Beta;">&Beta;</span>
+| '''<span title="&amp;beta;">&beta;</span>
+| '''<span title="&amp;brvbar;">&brvbar;</span>
+| '''<span title="&amp;bull;">&bull;</span>
+| '''<span title="&amp;cap;">&cap;</span>
+| '''<span title="&amp;Ccedil;">&Ccedil;</span>
+| '''<span title="&amp;ccedil;">&ccedil;</span>
+| '''<span title="&amp;cedil;">&cedil;</span>
+| '''<span title="&amp;cent;">&cent;</span>
+|- align=center
+| '''<span title="&amp;Chi;">&Chi;</span>
+| '''<span title="&amp;chi;">&chi;</span>
+| '''<span title="&amp;circ;">&circ;</span>
+| '''<span title="&amp;clubs;">&clubs;</span>
+| '''<span title="&amp;cong;">&cong;</span>
+| '''<span title="&amp;copy;">&copy;</span>
+| '''<span title="&amp;crarr;">&crarr;</span>
+| '''<span title="&amp;cup;">&cup;</span>
+| '''<span title="&amp;curren;">&curren;</span>
+| '''<span title="&amp;dagger;">&dagger;</span>
+| '''<span title="&amp;Dagger;">&Dagger;</span>
+| '''<span title="&amp;darr;">&darr;</span>
+| '''<span title="&amp;dArr;">&dArr;</span>
+| '''<span title="&amp;deg;">&deg;</span>
+| '''<span title="&amp;Delta;">&Delta;</span>
+| '''<span title="&amp;delta;">&delta;</span>
+| '''<span title="&amp;diams;">&diams;</span>
+| '''<span title="&amp;divide;">&divide;</span>
+| '''<span title="&amp;Eacute;">&Eacute;</span>
+| '''<span title="&amp;eacute;">&eacute;</span>
+| '''<span title="&amp;Ecirc;">&Ecirc;</span>
+| '''<span title="&amp;ecirc;">&ecirc;</span>
+| '''<span title="&amp;Egrave;">&Egrave;</span>
+| '''<span title="&amp;egrave;">&egrave;</span>
+| '''<span title="&amp;empty;">&empty;</span>
+| '''<span title="&amp;emsp;">&emsp;</span>
+| '''<span title="&amp;ensp;">&ensp;</span>
+| '''<span title="&amp;Epsilon;">&Epsilon;</span>
+| '''<span title="&amp;epsilon;">&epsilon;</span>
+| '''<span title="&amp;equiv;">&equiv;</span>
+| '''<span title="&amp;Eta;">&Eta;</span>
+| '''<span title="&amp;eta;">&eta;</span>
+|- align=center
+| '''<span title="&amp;ETH;">&ETH;</span>
+| '''<span title="&amp;eth;">&eth;</span>
+| '''<span title="&amp;Euml;">&Euml;</span>
+| '''<span title="&amp;euml;">&euml;</span>
+| '''<span title="&amp;euro;">&euro;</span>
+| '''<span title="&amp;exist;">&exist;</span>
+| '''<span title="&amp;fnof;">&fnof;</span>
+| '''<span title="&amp;forall;">&forall;</span>
+| '''<span title="&amp;frac12;">&frac12;</span>
+| '''<span title="&amp;frac14;">&frac14;</span>
+| '''<span title="&amp;frac34;">&frac34;</span>
+| '''<span title="&amp;frasl;">&frasl;</span>
+| '''<span title="&amp;Gamma;">&Gamma;</span>
+| '''<span title="&amp;gamma;">&gamma;</span>
+| '''<span title="&amp;ge;">&ge;</span>
+| '''<span title="&amp;gt;">&gt;</span>
+| '''<span title="&amp;harr;">&harr;</span>
+| '''<span title="&amp;hArr;">&hArr;</span>
+| '''<span title="&amp;hearts;">&hearts;</span>
+| '''<span title="&amp;hellip;">&hellip;</span>
+| '''<span title="&amp;Iacute;">&Iacute;</span>
+| '''<span title="&amp;iacute;">&iacute;</span>
+| '''<span title="&amp;Icirc;">&Icirc;</span>
+| '''<span title="&amp;icirc;">&icirc;</span>
+| '''<span title="&amp;iexcl;">&iexcl;</span>
+| '''<span title="&amp;Igrave;">&Igrave;</span>
+| '''<span title="&amp;igrave;">&igrave;</span>
+| '''<span title="&amp;image;">&image;</span>
+| '''<span title="&amp;infin;">&infin;</span>
+| '''<span title="&amp;int;">&int;</span>
+| '''<span title="&amp;Iota;">&Iota;</span>
+| '''<span title="&amp;iota;">&iota;</span>
+|- align=center
+| '''<span title="&amp;iquest;">&iquest;</span>
+| '''<span title="&amp;isin;">&isin;</span>
+| '''<span title="&amp;Iuml;">&Iuml;</span>
+| '''<span title="&amp;iuml;">&iuml;</span>
+| '''<span title="&amp;Kappa;">&Kappa;</span>
+| '''<span title="&amp;kappa;">&kappa;</span>
+| '''<span title="&amp;Lambda;">&Lambda;</span>
+| '''<span title="&amp;lambda;">&lambda;</span>
+| '''<span title="&amp;lang;">&lang;</span>
+| '''<span title="&amp;laquo;">&laquo;</span>
+| '''<span title="&amp;larr;">&larr;</span>
+| '''<span title="&amp;lArr;">&lArr;</span>
+| '''<span title="&amp;lceil;">&lceil;</span>
+| '''<span title="&amp;ldquo;">&ldquo;</span>
+| '''<span title="&amp;le;">&le;</span>
+| '''<span title="&amp;lfloor;">&lfloor;</span>
+| '''<span title="&amp;lowast;">&lowast;</span>
+| '''<span title="&amp;loz;">&loz;</span>
+| '''<span title="&amp;lrm;">&lrm;</span>
+| '''<span title="&amp;lsaquo;">&lsaquo;</span>
+| '''<span title="&amp;lsquo;">&lsquo;</span>
+| '''<span title="&amp;lt;">&lt;</span>
+| '''<span title="&amp;macr;">&macr;</span>
+| '''<span title="&amp;mdash;">&mdash;</span>
+| '''<span title="&amp;micro;">&micro;</span>
+| '''<span title="&amp;middot;">&middot;</span>
+| '''<span title="&amp;minus;">&minus;</span>
+| '''<span title="&amp;Mu;">&Mu;</span>
+| '''<span title="&amp;mu;">&mu;</span>
+| '''<span title="&amp;nabla;">&nabla;</span>
+| '''<span title="&amp;nbsp;">&nbsp;</span>
+| '''<span title="&amp;ndash;">&ndash;</span>
+|- align=center
+| '''<span title="&amp;ne;">&ne;</span>
+| '''<span title="&amp;ni;">&ni;</span>
+| '''<span title="&amp;not;">&not;</span>
+| '''<span title="&amp;notin;">&notin;</span>
+| '''<span title="&amp;nsub;">&nsub;</span>
+| '''<span title="&amp;Ntilde;">&Ntilde;</span>
+| '''<span title="&amp;ntilde;">&ntilde;</span>
+| '''<span title="&amp;Nu;">&Nu;</span>
+| '''<span title="&amp;nu;">&nu;</span>
+| '''<span title="&amp;Oacute;">&Oacute;</span>
+| '''<span title="&amp;oacute;">&oacute;</span>
+| '''<span title="&amp;Ocirc;">&Ocirc;</span>
+| '''<span title="&amp;ocirc;">&ocirc;</span>
+| '''<span title="&amp;OElig;">&OElig;</span>
+| '''<span title="&amp;oelig;">&oelig;</span>
+| '''<span title="&amp;Ograve;">&Ograve;</span>
+| '''<span title="&amp;ograve;">&ograve;</span>
+| '''<span title="&amp;oline;">&oline;</span>
+| '''<span title="&amp;Omega;">&Omega;</span>
+| '''<span title="&amp;omega;">&omega;</span>
+| '''<span title="&amp;Omicron;">&Omicron;</span>
+| '''<span title="&amp;omicron;">&omicron;</span>
+| '''<span title="&amp;oplus;">&oplus;</span>
+| '''<span title="&amp;or;">&or;</span>
+| '''<span title="&amp;ordf;">&ordf;</span>
+| '''<span title="&amp;ordm;">&ordm;</span>
+| '''<span title="&amp;Oslash;">&Oslash;</span>
+| '''<span title="&amp;oslash;">&oslash;</span>
+| '''<span title="&amp;Otilde;">&Otilde;</span>
+| '''<span title="&amp;otilde;">&otilde;</span>
+| '''<span title="&amp;otimes;">&otimes;</span>
+| '''<span title="&amp;Ouml;">&Ouml;</span>
+|- align=center
+| '''<span title="&amp;ouml;">&ouml;</span>
+| '''<span title="&amp;para;">&para;</span>
+| '''<span title="&amp;part;">&part;</span>
+| '''<span title="&amp;permil;">&permil;</span>
+| '''<span title="&amp;perp;">&perp;</span>
+| '''<span title="&amp;Phi;">&Phi;</span>
+| '''<span title="&amp;phi;">&phi;</span>
+| '''<span title="&amp;Pi;">&Pi;</span>
+| '''<span title="&amp;pi;">&pi;</span>
+| '''<span title="&amp;piv;">&piv;</span>
+| '''<span title="&amp;plusmn;">&plusmn;</span>
+| '''<span title="&amp;pound;">&pound;</span>
+| '''<span title="&amp;prime;">&prime;</span>
+| '''<span title="&amp;Prime;">&Prime;</span>
+| '''<span title="&amp;prod;">&prod;</span>
+| '''<span title="&amp;prop;">&prop;</span>
+| '''<span title="&amp;Psi;">&Psi;</span>
+| '''<span title="&amp;psi;">&psi;</span>
+| '''<span title="&amp;quot;">&quot;</span>
+| '''<span title="&amp;radic;">&radic;</span>
+| '''<span title="&amp;rang;">&rang;</span>
+| '''<span title="&amp;raquo;">&raquo;</span>
+| '''<span title="&amp;rarr;">&rarr;</span>
+| '''<span title="&amp;rArr;">&rArr;</span>
+| '''<span title="&amp;rceil;">&rceil;</span>
+| '''<span title="&amp;rdquo;">&rdquo;</span>
+| '''<span title="&amp;real;">&real;</span>
+| '''<span title="&amp;reg;">&reg;</span>
+| '''<span title="&amp;rfloor;">&rfloor;</span>
+| '''<span title="&amp;Rho;">&Rho;</span>
+| '''<span title="&amp;rho;">&rho;</span>
+| '''<span title="&amp;rlm;">&rlm;</span>
+|- align=center
+| '''<span title="&amp;rsaquo;">&rsaquo;</span>
+| '''<span title="&amp;rsquo;">&rsquo;</span>
+| '''<span title="&amp;sbquo;">&sbquo;</span>
+| '''<span title="&amp;Scaron;">&Scaron;</span>
+| '''<span title="&amp;scaron;">&scaron;</span>
+| '''<span title="&amp;sdot;">&sdot;</span>
+| '''<span title="&amp;sect;">&sect;</span>
+| '''<span title="&amp;shy;">&shy;</span>
+| '''<span title="&amp;Sigma;">&Sigma;</span>
+| '''<span title="&amp;sigma;">&sigma;</span>
+| '''<span title="&amp;sigmaf;">&sigmaf;</span>
+| '''<span title="&amp;sim;">&sim;</span>
+| '''<span title="&amp;spades;">&spades;</span>
+| '''<span title="&amp;sub;">&sub;</span>
+| '''<span title="&amp;sube;">&sube;</span>
+| '''<span title="&amp;sum;">&sum;</span>
+| '''<span title="&amp;sup;">&sup;</span>
+| '''<span title="&amp;sup1;">&sup1;</span>
+| '''<span title="&amp;sup2;">&sup2;</span>
+| '''<span title="&amp;sup3;">&sup3;</span>
+| '''<span title="&amp;supe;">&supe;</span>
+| '''<span title="&amp;szlig;">&szlig;</span>
+| '''<span title="&amp;Tau;">&Tau;</span>
+| '''<span title="&amp;tau;">&tau;</span>
+| '''<span title="&amp;there4;">&there4;</span>
+| '''<span title="&amp;Theta;">&Theta;</span>
+| '''<span title="&amp;theta;">&theta;</span>
+| '''<span title="&amp;thetasym;">&thetasym;</span>
+| '''<span title="&amp;thinsp;">&thinsp;</span>
+| '''<span title="&amp;THORN;">&THORN;</span>
+| '''<span title="&amp;thorn;">&thorn;</span>
+| '''<span title="&amp;tilde;">&tilde;</span>
+|- align=center
+| '''<span title="&amp;times;">&times;</span>
+| '''<span title="&amp;trade;">&trade;</span>
+| '''<span title="&amp;Uacute;">&Uacute;</span>
+| '''<span title="&amp;uacute;">&uacute;</span>
+| '''<span title="&amp;uarr;">&uarr;</span>
+| '''<span title="&amp;uArr;">&uArr;</span>
+| '''<span title="&amp;Ucirc;">&Ucirc;</span>
+| '''<span title="&amp;ucirc;">&ucirc;</span>
+| '''<span title="&amp;Ugrave;">&Ugrave;</span>
+| '''<span title="&amp;ugrave;">&ugrave;</span>
+| '''<span title="&amp;uml;">&uml;</span>
+| '''<span title="&amp;upsih;">&upsih;</span>
+| '''<span title="&amp;Upsilon;">&Upsilon;</span>
+| '''<span title="&amp;upsilon;">&upsilon;</span>
+| '''<span title="&amp;Uuml;">&Uuml;</span>
+| '''<span title="&amp;uuml;">&uuml;</span>
+| '''<span title="&amp;weierp;">&weierp;</span>
+| '''<span title="&amp;Xi;">&Xi;</span>
+| '''<span title="&amp;xi;">&xi;</span>
+| '''<span title="&amp;Yacute;">&Yacute;</span>
+| '''<span title="&amp;yacute;">&yacute;</span>
+| '''<span title="&amp;yen;">&yen;</span>
+| '''<span title="&amp;yuml;">&yuml;</span>
+| '''<span title="&amp;Yuml;">&Yuml;</span>
+| '''<span title="&amp;Zeta;">&Zeta;</span>
+| '''<span title="&amp;zeta;">&zeta;</span>
+| '''<span title="&amp;zwj;">&zwj;</span>
+| '''<span title="&amp;zwnj;">&zwnj;</span>'''
+|}
+
+{| class="wikitable"
+! <!--T:135-->
+Description
+! width=40% | <!--T:136-->
+You type
+! width=40% | <!--T:137-->
+You get
+|-
+| <!--T:138-->
+Copyright symbol
+| <tt><pre>
+&amp;copy;
+</pre></tt>
+|
+:::'''&copy;'''
+|-
+| <!--T:139-->
+Greek delta letter symbol
+| <tt><pre>
+&amp;delta;
+</pre></tt>
+|
+:::'''&delta;'''
+|-
+| <!--T:140-->
+Euro currency symbol
+| <tt><pre>
+&amp;euro;
+</pre></tt>
+|
+:::'''&euro;'''
+|}
+
+<!--T:141-->
+See the list of all HTML entities on the Wikipedia article [[wikipedia:List of HTML entities|List of HTML entities]]. Additionally, MediaWiki supports two non-standard entity reference sequences: <code>&amp;רלמ;</code> and <code>&amp;رلم;</code> which are both considered equivalent to <code>&amp;rlm;</code> which is a [[wikipedia:Right-to-left mark|right-to-left mark]]. (Used when combining right to left languages with left to right languages in the same page.)
