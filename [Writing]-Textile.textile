@@ -48,7 +48,7 @@ p<>. justified text paragraph
 | a | table | row 1 |
 | a | table | row 2 |
 
-"linktext":url
+"linktext":%5BWriting%5D-Textile
 
 !imageurl!
 
