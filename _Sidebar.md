@@ -13,7 +13,7 @@ You are browsing our **info** wiki:
 * [[Writing]]
 * [[Mapping]]
     * [Concept]([Mapping]-Concept)
-    * [Enployment]([Mapping]-Enployment)
+    * [Employment]([Mapping]-Employment)
     * [Merging]([Mapping]-Merging)
     * [Overall-Flow-Diagram]([Mapping]-Overall-Flow-Diagram)
 * [[Reserved1]]
