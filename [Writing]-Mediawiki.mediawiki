@@ -1,3 +1,4 @@
+<translate>
 == Text formatting markup == <!--T:2-->
 </translate>
 {| class="wikitable"
@@ -352,4 +353,4 @@ if True:
     else:
         print False</nowiki></translate>
 |}
-<translate>
+
