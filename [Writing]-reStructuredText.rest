@@ -372,7 +372,7 @@ you wish to appear in the document. There's no restriction placed on
 the image (format, size etc).  If the image is to appear in HTML and
 you wish to supply additional information, you may::
 
-  .. image:: images/biohazard.png
+  .. image:: http://docutils.sourceforge.net/docs/user/rst/images/biohazard.png
      :height: 100
      :width: 200
      :scale: 50
