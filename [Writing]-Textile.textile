@@ -1,0 +1,314 @@
+Writing in Textile
+A single paragraph.
+
+Followed by another.
+→	
+A single paragraph.
+Followed by another.
+I am <b>very</b> serious.
+
+<pre>
+  I am <b>very</b> serious.
+</pre>
+→	
+I am very serious.
+  I am <b>very</b> serious.
+I spoke.
+And none replied.
+→	
+I spoke. And none replied.
+"Observe!"
+→	
+“Observe!”
+Observe -- very nice!
+→	
+Observe—very nice!
+Observe - tiny and brief.
+→	
+Observe – tiny and brief.
+Observe...
+→	
+Observe…
+Observe: 2 x 2.
+→	
+Observe: 2×2.
+one(TM), two(R), three(C).
+→	
+one™, two®, three©.
+Quick Block Modifiers
+h1. Header 1
+→	
+Header 1
+
+h2. Header 2
+→	
+Header 2
+
+h3. Header 3
+→	
+Header 3
+
+An old text
+
+bq. A block quotation.
+
+Any old text
+→	
+An old text
+A block quotation.
+Any old text
+This is covered elsewhere[1].
+→	
+This is covered elsewhere1.
+fn1. Down here, in fact.
+→	
+1 Down here, in fact.
+Quick Phrase Modifiers
+I _believe_ every word.
+→	
+I believe every word.
+And then? She *fell*!
+→	
+And then? She fell!
+I __know__.
+I **really** __know__.
+→	
+I know. I really know.
+??Cat's Cradle?? by Vonnegut
+→	
+Cat’s Cradle by Vonnegut
+Convert with @r.to_html@
+→	
+Convert with r.to_html
+I'm -sure- not sure.
+→	
+I’m sure not sure.
+You are a +pleasant+ child.
+→	
+You are a pleasant child.
+a ^2^ + b ^2^ = c ^2^
+→	
+a 2 + b 2 = c 2
+log ~2~ x
+→	
+log 2 x
+I'm %unaware% of most soft drinks.
+→	
+I’m unaware of most soft drinks.
+I'm %{color:red}unaware%
+of most soft drinks.
+→	
+I’m unaware of most soft drinks.
+Attributes
+p(example1). An example
+→	
+An example
+p(#big-red). Red here
+→	
+Red here
+p(example1#big-red2). Red here
+→	
+Red here
+p{color:blue;margin:30px}. Spacey blue
+→	
+Spacey blue
+
+p[fr]. rouge
+→	
+rouge
+I seriously *{color:red}blushed*
+when I _(big)sprouted_ that
+corn stalk from my
+%[es]cabeza%.
+→	
+I seriously blushed when I sprouted that corn stalk from my cabeza.
+p<. align left
+→	
+align left
+p>. align right
+→	
+align right
+p=. centered
+→	
+centered
+p<>. justified
+→	
+justified
+p(. left ident 1em
+→	
+left ident 1em
+p((. left ident 2em
+→	
+left ident 2em
+p))). right ident 3em
+→	
+right ident 3em
+h2()>. Bingo.
+→	
+Bingo.
+
+h3()>[no]{color:red}. Bingo
+→	
+Bingo
+
+<pre>
+<code>
+  a.gsub!( /</, '' )
+</code>
+</pre>
+→	
+
+  a.gsub!( /</, '' )
+
+<div style="float:right;">
+
+h3. Sidebar
+
+"Hobix":http://hobix.com/
+"Ruby":http://ruby-lang.org/
+
+</div>
+
+The main text of the
+page goes here and will 
+stay to the left of the 
+sidebar.
+→	
+Sidebar
+
+Hobix Ruby
+The main text of the page goes here and will stay to the left of the sidebar.
+Lists
+# A first item
+# A second item
+# A third
+→	
+A first item
+A second item
+A third
+# Fuel could be:
+## Coal
+## Gasoline
+## Electricity
+# Humans need only:
+## Water
+## Protein
+→	
+Fuel could be:
+Coal
+Gasoline
+Electricity
+Humans need only:
+Water
+Protein
+* A first item
+* A second item
+* A third
+→	
+A first item
+A second item
+A third
+* Fuel could be:
+** Coal
+** Gasoline
+** Electricity
+* Humans need only:
+** Water
+** Protein
+→	
+Fuel could be:
+Coal
+Gasoline
+Electricity
+Humans need only:
+Water
+Protein
+External References
+I searched "Google":http://google.com.
+→	
+I searched Google.
+I am crazy about "Hobix":hobix
+and "it's":hobix "all":hobix I ever
+"link to":hobix!
+
+[hobix]http://hobix.com
+→	
+I am crazy about Hobix and it’s all I ever link to!
+!http://redcloth.org/hobix.com/textile/sample.jpg!
+→	
+
+!openwindow1.gif(Bunny.)!
+→	
+Bunny.
+!openwindow1.gif!:http://hobix.com/
+→	
+
+!>obake.gif!
+
+And others sat all round the small
+machine and paid it to sing to them.
+→	
+And others sat all round the small machine and paid it to sing to them.
+We use CSS(Cascading Style Sheets).
+→	
+We use CSS.
+Tables
+| name | age | sex |
+| joan | 24 | f |
+| archie | 29 | m |
+| bella | 45 | f |
+→	
+name	age	sex
+joan	24	f
+archie	29	m
+bella	45	f
+|_. name |_. age |_. sex |
+| joan | 24 | f |
+| archie | 29 | m |
+| bella | 45 | f |
+→	
+name	age	sex
+joan	24	f
+archie	29	m
+bella	45	f
+|_. attribute list |
+|<. align left |
+|>. align right|
+|=. center |
+|<>. justify |
+|^. valign top |
+|~. bottom |
+→	
+attribute list
+align left
+align right
+center
+justify
+valign top
+bottom
+|\2. spans two cols |
+| col 1 | col 2 |
+→	
+spans two cols
+col 1	col 2
+|/3. spans 3 rows | a |
+| b |
+| c |
+→	
+spans 3 rows	a
+b
+c
+|{background:#ddd}. Grey cell|
+→	
+Grey cell
+table{border:1px solid black}.
+|This|is|a|row|
+|This|is|a|row|
+→	
+This	is	a	row
+This	is	a	row
+|This|is|a|row|
+{background:#ddd}. |This|is|grey|row|
+→	
+This	is	a	row
+This	is	grey	row
