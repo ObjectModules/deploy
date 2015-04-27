@@ -12,9 +12,9 @@ You are browsing our **info** wiki:
 * [[Introduction]]
 * [[Writing]]
 * [[Mapping]]
-    * [Concept](%5Mapping%5D-Concept)
-    * [Enployment]
-    * [Merging]
+    * [Concept]([Mapping]-Concept)
+    * [Enployment]([Mapping]-Enployment)
+    * [Merging]([Mapping]-Merging)
     * [Overall-Flow-Diagram]([Mapping]-Overall-Flow-Diagram)
 * [[Reserved1]]
 * [[Reserved2]]
