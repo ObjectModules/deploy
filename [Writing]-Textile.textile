@@ -50,6 +50,6 @@ p<>. justified text paragraph
 
 "linktext":%5BWriting%5D-Textile
 
-!imageurl!
+!https://hyipworld.github.io/images/github/doc/figure16.png!
 
 ABBR(Abbreviation)
