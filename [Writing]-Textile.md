@@ -1,1 +1,0 @@
-Textile was conceived by Dean Allen at around the same time he created Textpattern. Still today, Textile is being updated in parallel with Textpattern. Therefore, Textile for Textpattern is more advanced than other versions of Textile, and some of the examples shown in this manual may not work with other Textile processors.
