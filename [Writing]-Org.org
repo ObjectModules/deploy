@@ -140,7 +140,7 @@ By invoking the call statement (place the cursor on it and use the
 usual ~C-c C-c~ command to execute), you generate the diagram for our
 process 42:
 
-file:http://orgmode.org/worg/images/org-dot/diagram-process42.png
+[[http://orgmode.org/worg/images/org-dot/diagram-process42.png]]
 
 That's it.
 
