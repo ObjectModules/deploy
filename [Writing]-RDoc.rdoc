@@ -1,5 +1,5 @@
 This document contains example output to show RDoc styling.  This file was
-created from a [RDoc Markup file](https://github.com/rdoc/rdoc/edit/master/ExampleRDoc.rdoc).
+created from a {RDoc Markup file}[https://github.com/rdoc/rdoc/edit/master/ExampleRDoc.rdoc].
 
 == Headings
 
