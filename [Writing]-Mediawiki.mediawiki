@@ -1,3 +1,5 @@
+Source:
+http://www.mediawiki.org/wiki/Help:Formatting
 
 == Text formatting markup == <!--T:2-->
 
