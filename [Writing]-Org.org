@@ -1,0 +1,43 @@
+#+STARTUP:    align fold nodlcheck hidestars oddeven lognotestate
+#+SEQ_TODO:   TODO(t) INPROGRESS(i) WAITING(w@) | DONE(d) CANCELED(c@)
+#+TAGS:       Write(w) Update(u) Fix(f) Check(c)
+#+TITLE:      TODO central file for Worg
+#+AUTHOR:     Worg people
+#+EMAIL:      mdl AT imapmail DOT org
+#+LANGUAGE:   en
+#+PRIORITIES: A C B
+#+CATEGORY:   worg
+#+OPTIONS:    H:3 num:nil toc:nil \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc
+#+ARCHIVE:    worg-todo_archive::
+
+{Back to Worg's index}
+
+This file is the central page for inserting tasks related to Worg.
+
+If you keep a local copy of worg in =~/org/Worg/=, then you can
+add =~/org/Worg/worg-todo.org= to the list of your agenda files.
+
+Then a simple =git pull= will update the tasks in this file, and your
+agenda view will be populated with Worg-related tasks.
+
+* Tutorials
+  :PROPERTIES:
+  :Owner_ALL: bzg dominik dto clemente aspiers rustom phil bretfeld wacko hexmode pete
+  :END:
+** Gather examples of custom agenda views from the mailing list
+** Tutorial about links (export and abbrev)
+** Tutorial about the LaTeX exporter
+   :PROPERTIES:
+   :Owner:    bzg
+   :END:
+
+* General tasks
+  :PROPERTIES:
+  :Owner_ALL: bzg dominik dto clemente aspiers rustom phil bretfeld wacko hexmode pete zms
+  :END:
+
+** TODO Create a "user" directory where users can have their own pages
+** TODO Build the FAQ from the survey
+** TODO Define column views for important files in Worg
+** TODO Start a FAQ for Org from the mailing list
+** TODO Make a better .css file for the HTML export?
