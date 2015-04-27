@@ -737,5 +737,6 @@ L<perlnewmod>, L<perldoc>, L<pod2html>, L<pod2man>, L<podchecker>.
 =head1 AUTHOR
 
 Larry Wall, Sean M. Burke
+http://cpansearch.perl.org/src/SHAY/perl-5.20.2/pod/perlpod.pod
 
 =cut
