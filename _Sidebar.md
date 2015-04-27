@@ -8,7 +8,7 @@ You are browsing our **info** wiki:
 * [Current Repository](https://github.com/hyip/info)
 * [Document Repository](https://github.com/hyip/info/wiki)
 
-## Contents
+### Contents
 * [[Introduction]]
 * [[Reserved1]]
 * [[Reserved2]]
