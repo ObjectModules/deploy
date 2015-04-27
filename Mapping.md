@@ -1,5 +1,5 @@
 
-An isogram is a word that doesn't contain any repeating letters.
+An isogram is a word that doesn't contain any repeating letters.    
 en.wikipedia.org/wiki/Isogram
 
 ```js
