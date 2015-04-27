@@ -1,4 +1,4 @@
-Sourcecode of this page:   
+Sourcecode of this page:      
 http://www.wikicreole.org/attach/Creole1.0/wikicreole1.txt
 
 <<ALLOW edit Editor, Admin>> [[UnlockMe]]
