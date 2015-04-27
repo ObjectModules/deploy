@@ -11,6 +11,8 @@ You are browsing our **info** wiki:
 ### Contents
 * [[Introduction]]
 * [[Writing]]
+* [[Mapping]]
+* [[Reserved1]]
 * [[Reserved2]]
 * [[Reserved3]]
 * [[Reserved4]]
