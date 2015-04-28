@@ -1,4 +1,4 @@
-| node | labe | shap | fill | node | node | labe | shap | fill |
+| node | labe | shap | fill | node | node | labe | shap | [[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]] |
 |------+------+------+------+------+------+------+------+------|
 <table>
   <thead>
