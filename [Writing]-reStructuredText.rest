@@ -1,5 +1,5 @@
 =========  ========
-  :arrow_double_up:  [[:rewind: Home|https://github.com/hyip/info/wiki/Home]]
+:arrow_double_up:   [[:rewind: Home|https://github.com/hyip/info/wiki/Home]]
 ===================
 
 
