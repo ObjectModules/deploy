@@ -13,7 +13,7 @@
     </tr>
   </thead>
 </table>
-[{{SERVER}}/hyip/info/wiki/%5BWriting%5D-Mediawiki|:arrow_double_down:]
+[[{{SERVER}}/hyip/info/wiki/%5BWriting%5D-Mediawiki|:arrow_double_down:]]
 == Basic text formatting ==
 You can format the page using Wikitext special characters.
 
