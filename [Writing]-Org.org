@@ -1,5 +1,5 @@
-| node | labe | shap | fill |
-|------+------+------+------|
+| node | labe | shap | fill | node | node | labe | shap | fill |
+|------+------+------+------+------+------+------+------+------|
 <table>
   <thead>
     <tr>
