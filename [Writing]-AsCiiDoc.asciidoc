@@ -1,3 +1,6 @@
+NOTE: Color and text decorator attributes are rendered for XHTML and
+HTML 5 outputs using CSS stylesheets.
+
 AsciiDoc User Guide
 ===================
 Stuart Rackham <srackham@gmail.com>
