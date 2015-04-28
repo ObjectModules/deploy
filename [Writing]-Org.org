@@ -1,6 +1,6 @@
 | *node*  | *label*             | *shape* | *fillcolor* |
 |---------+---------------------+---------+-------------|
-| mystart | start               | ellipse | yellow      |
+
 
 <table>
   <thead>
