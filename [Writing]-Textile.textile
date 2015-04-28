@@ -67,7 +67,7 @@ p<>. justified text paragraph
 !https://hyipworld.github.io/images/github/doc/figure16.png!
 
 ABBR(Abbreviation)
-***
+
 <table>
   <thead>
     <tr>
