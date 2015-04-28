@@ -1,4 +1,4 @@
-cat:: cat
+cat:: [[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]
 <table>
   <thead>
     <tr>
