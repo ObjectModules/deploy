@@ -1,4 +1,3 @@
-cat:: A 
 cat:: A cat
 <table>
   <thead>
