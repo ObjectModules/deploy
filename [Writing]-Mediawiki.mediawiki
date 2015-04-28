@@ -3,6 +3,7 @@
     <tr>
       <th>[[https://github.com/hyip/world/wiki/Introduction|:arrow_double_up:]]</th>
       <th>[[https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction|:arrow_up_small:]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
     </tr>
   </thead>
 </table>
