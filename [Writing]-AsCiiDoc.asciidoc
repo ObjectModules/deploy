@@ -1,4 +1,4 @@
-Color: and text decorator attributes are rendered for XHTML and
+NOTE: and text decorator attributes are rendered for XHTML and
 HTML 5 outputs using CSS stylesheets.
 
 AsciiDoc User Guide
