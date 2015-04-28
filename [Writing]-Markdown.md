@@ -10,7 +10,8 @@
       <th>[[Down :arrow_double_down:|https://github.com/hyip/rating]]</th>
     </tr>
   </thead>
-</table>Markdown: Syntax
+</table>
+Markdown: Syntax
 ================
 
 <ul id="ProjectSubmenu">
