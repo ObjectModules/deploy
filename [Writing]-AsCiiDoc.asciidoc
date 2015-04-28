@@ -1,3 +1,21 @@
+[cols="3*",frame="topbot",options="header"]
+|====================================================================
+|'stylesdir' attribute
+|Linked location ('linkcss' attribute defined)
+|Embedded location ('linkcss' attribute undefined)
+
+|Undefined (default).
+|Same directory as the output document.
+|`stylesheets` subdirectory in the AsciiDoc configuration directory
+(the directory containing the backend conf file).
+
+|Absolute or relative directory name.
+|Absolute or relative to the output document.
+|Absolute or relative to the AsciiDoc configuration directory (the
+directory containing the backend conf file).
+
+|====================================================================
+
 AsciiDoc User Guide
 ===================
 Stuart Rackham <srackham@gmail.com>
