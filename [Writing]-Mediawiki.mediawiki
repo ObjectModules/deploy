@@ -13,7 +13,7 @@
     </tr>
   </thead>
 </table>
-
+[{{SERVER}}/relative/url]
 == Basic text formatting ==
 You can format the page using Wikitext special characters.
 
