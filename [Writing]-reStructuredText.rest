@@ -1,5 +1,5 @@
 ========  ========
-column 1  [[:rewind: Home|https://github.com/hyip/info/wiki/Home]]
+[[:arrow_double_up: Up|https://github.com/hyipworld/hyipworld.github.io/wiki/Home]]  [[:rewind: Home|https://github.com/hyip/info/wiki/Home]]
 ========  ========
 
 
