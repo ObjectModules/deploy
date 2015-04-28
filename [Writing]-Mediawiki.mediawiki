@@ -7,7 +7,7 @@
       <th>[[Introduction|:arrow_backward:]] [[Introduction|Prev]]</th>
       <th>[[Reserved1|:repeat:]] [[Reserved1|Reload]]</th>
       <th>[[Reserved2|Next]] [[Reserved2|:arrow_forward:]]</th>
-      <th>[[Writing-Mediawiki|Last]] [[//github.com/hyip/info/wiki/[Writing]-Mediawiki|:fast_forward:]]</th>
+      <th>[[Writing-Mediawiki|Last]] [[{{SERVER}}/[Writing]-Mediawiki|:fast_forward:]]</th>
       <th>[[https://github.com/hyip/rating|:arrow_down_small:]]</th>
       <th>[[https://github.com/hyip/rating/wiki/Introduction|:arrow_double_down:]]</th>
     </tr>
