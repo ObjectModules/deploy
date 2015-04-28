@@ -1,4 +1,4 @@
-cat::
+cat::cat::
   A cat
   A cat
 <table>
