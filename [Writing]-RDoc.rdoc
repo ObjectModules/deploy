@@ -1,5 +1,5 @@
 cat::
-  A cat is a small mammal that is commonly kept as a pet.
+  A cat
 <table>
   <thead>
     <tr>
