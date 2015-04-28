@@ -1,4 +1,4 @@
-| node | labe | shap | fill | node | node | labe | shap | [[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]] |
+| [[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]] | [[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]] | [[:rewind:|Introduction]] [[Intro|Introduction]] | [[:arrow_backward:|Introduction]] [[Prev|Introduction]] | [[:repeat:|Reserved1]] [[Reload|Reserved1]] | [[Next|Reserved2]] [[:arrow_forward:|Reserved2]] | [[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]] | [[:arrow_down_small:|https://github.com/hyip/rating]] | [[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]] |
 |------+------+------+------+------+------+------+------+------|
 <table>
   <thead>
