@@ -2,7 +2,7 @@
   <thead>
     <tr>
       <th>[[https://github.com/hyip/world/wiki/Introduction|:arrow_double_up:]]</th>
-      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction|:arrow_up_small:]]</th>
       <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
       <th>[[:arrow_backward:|Introduction]] [[Prev|Introduction]]</th>
       <th>[[:repeat:|Reserved1]] [[Reload|Reserved1]]</th>
