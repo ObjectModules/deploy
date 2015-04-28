@@ -1,3 +1,9 @@
+[cat]
+  A cat is a small mammal that is commonly kept as a pet.
+
+[dog]
+  A dog is a mammal that is also kept as a pet.  A dog may range in size from
+
 <table>
   <thead>
     <tr>
