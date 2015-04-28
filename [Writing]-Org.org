@@ -1,20 +1,6 @@
 | [[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]] | [[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]] | [[:rewind:|Introduction]] [[Intro|Introduction]] | [[:arrow_backward:|Introduction]] [[Prev|Introduction]] | [[:repeat:|Reserved1]] [[Reload|Reserved1]] | [[Next|Reserved2]] [[:arrow_forward:|Reserved2]] | [[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]] | [[:arrow_down_small:|https://github.com/hyip/rating]] | [[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]] |
 |------+------+------+------+------+------+------+------+------|
-<table>
-  <thead>
-    <tr>
-      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
-      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
-      <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|Introduction]] [[Prev|Introduction]]</th>
-      <th>[[:repeat:|Reserved1]] [[Reload|Reserved1]]</th>
-      <th>[[Next|Reserved2]] [[:arrow_forward:|Reserved2]]</th>
-      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
-      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
-      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
-    </tr>
-  </thead>
-</table>
+
 #+OPTIONS:    H:3 num:nil toc:t \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc
 #+STARTUP:    align fold nodlcheck hidestars oddeven lognotestate
 #+SEQ_TODO:   TODO(t) INPROGRESS(i) WAITING(w@) | DONE(d) CANCELED(c@)
