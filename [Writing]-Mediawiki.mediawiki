@@ -3,13 +3,6 @@
     <tr>
       <th>[[https://github.com/hyip/world/wiki/Introduction|:arrow_double_up:]]</th>
       <th>[[https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction|:arrow_up_small:]]</th>
-      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
-      <th>[[Introduction|:arrow_backward:]] [[Introduction|Prev]]</th>
-      <th>[[Reserved1|:repeat:]] [[Reserved1|Reload]]</th>
-      <th>[[Reserved2|Next]] [[Reserved2|:arrow_forward:]]</th>
-      <th>[[[Mapping]-Overall|Last]] [[[Mapping]-Overall|:fast_forward:]]</th>
-      <th>[[https://github.com/hyip/rating|:arrow_down_small:]]</th>
-      <th>[[https://github.com/hyip/rating/wiki/Introduction|:arrow_double_down:]]</th>
     </tr>
   </thead>
 </table>
