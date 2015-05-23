@@ -33,7 +33,7 @@ See the list of [supported markup formats](https://github.com/github/markup#mark
 *   [pod](http://search.cpan.org/dist/perl/pod/perlpod.pod) -- Pod::Simple::HTML comes with Perl >= 5.10. Lower versions should install Pod::Simple from CPAN.   
     
 You can install them from [here](https://github.com/github/markup). There is also available a simple, Git-powered wiki with a sweet API and local frontend called [Gollum](https://github.com/gollum/gollum).    
-Beside the markup formats GitHub wiki also support [Emoji](http://www.emoji-cheat-sheet.com/), Japanese pronunciation: [emodʑi]) are the ideograms or [smileys](http://en.wikipedia.org/wiki/Smiley) used in Japanese electronic messages and Web pages similar with the one used in forum like <a href=http://www.rusmmg.ru/misc.php?do=getsmilies&editorid=vB_Editor_001 target=_blank><i>this</i></a> for example,          
+Beside the markup formats GitHub wiki also support [Emoji](http://www.emoji-cheat-sheet.com/), Japanese pronunciation: [emodʑi]) are the ideograms or [smileys](http://en.wikipedia.org/wiki/Smiley) used in Japanese electronic messages and Web pages similar with the one used in forum like <a href=http://www.rusmmg.ru/misc.php?do=getsmilies&editorid=vB_Editor_001 target=_blank><i>this</i></a> or <a href=http://profit-maker.org/misc.php?do=getsmilies&editorid=vB_Editor_QR target=_blank><i>this</i></a> for example,          
 
 
 # Gollum
