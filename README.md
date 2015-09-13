@@ -68,9 +68,9 @@ Despite we are still trying hard to predict how long a hyip site can be running 
 
 However as additional features compares to others we are providing the score with a numbers of category base on the investment or **budget level** start from as low as US$ 1. 
 
-This is just a model to give you a figure on how we are going to start. You can find the update and development of this plan by visiting our main site named [The World of High Yield Investment Program (HYIP)](http://hyip.world/). You may also get in detail later, in our tutorial below, on how we started to get this site Up and Running on Github.
+You can find the update and development of this plan by visiting our main site named [The World of High Yield Investment Program (HYIP)](http://hyip.world/). You may also get in detail later, in our tutorial below, on how we started to get this site Up and Running on Github.
 
-On the long time running we also want to go to **other widely business** such as scoring of who is *the best domain registrant*, who is *the best web designer*, who is *the best of seo provider*, who is *the best submission service* etc. 
+This is just a model to give you a figure on how we are going to start. On the long time running we also want to go to **other widely business** such as scoring of who is *the best domain registrant*, who is *the best web designer*, who is *the best of seo provider*, who is *the best submission service* etc. 
 
 We are going to present the result in the style as hyip scoring so even the user only have US$ 1 in their budget they could find our scoring is useful for them. As you know that it is really difficult to find such a good services when you have only a little budget. 
 
