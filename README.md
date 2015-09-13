@@ -62,11 +62,19 @@ Having reviewing many alternatives we came to a business category called hyip ([
 - Most important is since the hyip is mostly a *ponzi scheme* so hyip site cannot be run in a long time period so we could  find whether our algorithm in our script is giving a correct scoring result in a short time as well.
 - Hyip site is easily to be considered as dead or as a *hyip scam* when the site is stop paying so we consider that they could not blame our scoring (as we still on start to test it) in the same way that we cannot blame when they collapse or even run and take our investment away.
 
-So base on the above measurement we can take all information of hyip service being offered compare to the trust of the domain that can be put altogether to score and rank the hyip sites, Despite we are still trying hard to predict how long a hyip site can be running online we have came to have a scoring result of best site which is more or less are the same as represent by other site that comparing those hyip sites. However as additional features compares to others we are providing the score with a numbers of category base on the investment or **budget level** start from as low as US$ 1. 
+So base on the above measurement we can take all information of hyip service being offered compare to the trust of the domain that can be put altogether to score and rank the hyip sites. 
 
-This is just a model to give you a figure on how we are going to start. You can find the update and development of this plan by visiting our main site about [The World of High Yield Investment Program (HYIP)](http://hyip.world/) which you can get in detail later, in our tutorial below, on how we started to get it Up and Running on Github.
+Despite we are still trying hard to predict how long a hyip site can be running online we have came to have a scoring result of best site which is more or less are the same as represent by other site that comparing those hyip sites. 
 
-On the long time running we also want to go to **other widely business** such as scoring of who is *the best domain registrant*, who is *the best web designer*, who is *the best of seo provider*, who is *the best submission service* etc. We are going to present the result in the style as hyip scoring so even the user only have US$ 1 in their budget they could find our scoring is useful for them. As you know that it is really difficult to find such a good services when you have only a little budget. in the contrary you have to be more wise and careful to decide whether you still doing a business with your current partner or go to other more reputable business partner when your budget is growing up. 
+However as additional features compares to others we are providing the score with a numbers of category base on the investment or **budget level** start from as low as US$ 1. 
+
+This is just a model to give you a figure on how we are going to start. You can find the update and development of this plan by visiting our main site about [The World of High Yield Investment Program (HYIP)](http://hyip.world/). You may also get in detail later, in our tutorial below, on how we started to get this site Up and Running on Github.
+
+On the long time running we also want to go to **other widely business** such as scoring of who is *the best domain registrant*, who is *the best web designer*, who is *the best of seo provider*, who is *the best submission service* etc. 
+
+We are going to present the result in the style as hyip scoring so even the user only have US$ 1 in their budget they could find our scoring is useful for them. As you know that it is really difficult to find such a good services when you have only a little budget. 
+
+In the contrary you have to be more wise and careful to decide whether you still doing a business with your current partner or go to other more reputable business partner when your budget is growing up. 
 
 That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on '*keyword base*' search result to the world.
 
