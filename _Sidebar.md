@@ -4,6 +4,7 @@ You are browsing our **info** wiki:
 ## Navigation
 * [Home](https://github.com/hyip)
 * [Project Info](https://github.com/hyip/info)
+* [Our Main Site](http://hyip.world/)
 * [Our Repositories](https://github.com/hyip?tab=repositories)
 * [Current Repository](https://github.com/hyip/info)
 * [Document Repository](https://github.com/hyip/info/wiki)
