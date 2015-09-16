@@ -17,8 +17,9 @@
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png)
 
 TODO  
-http://hyip.world/GoJS/  
-http://hyip.world/js-sequence-diagrams  
+http://hyip.world/GoJS  
+http://hyip.world/js-sequence-diagrams
+http://hyip.world/railroad-diagrams/generator.html  
 
 ***
 <table>
