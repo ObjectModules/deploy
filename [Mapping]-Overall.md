@@ -18,7 +18,7 @@
 
 TODO  
 http://hyip.world/GoJS  
-http://hyip.world/js-sequence-diagrams
+http://hyip.world/js-sequence-diagrams  
 http://hyip.world/railroad-diagrams/generator.html  
 
 ***
