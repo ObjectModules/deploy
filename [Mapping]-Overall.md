@@ -16,9 +16,9 @@
 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png)
 
-TODO
-http://hyip.world/GoJS/
-http://hyip.world/js-sequence-diagrams
+TODO  
+http://hyip.world/GoJS/  
+http://hyip.world/js-sequence-diagrams  
 
 ***
 <table>
