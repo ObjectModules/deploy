@@ -13,7 +13,7 @@
     </tr>
   </thead>
 </table>
-## Organization
+## Hyip Info
 You are browsing our **info** wiki:        
 [![HYIP Project](https://avatars2.githubusercontent.com/u/8466209?v=3&s=460)](https://github.com/hyip)    
 ## Navigation
