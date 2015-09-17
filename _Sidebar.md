@@ -6,6 +6,7 @@ You are browsing our **info** wiki:
 * [Project Info](https://github.com/hyip/info)
 * [Our Main Site](http://hyip.world/)
 * [Our Main Blog](https://tophyipmonitor.wordpress.com/)
+* [Our Main Blog](https://tophyipmonitor.wordpress.com/)
 * [Our Repositories](https://github.com/hyip?tab=repositories)
 * [Current Repository](https://github.com/hyip/info)
 * [Document Repository](https://github.com/hyip/info/wiki)
