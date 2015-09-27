@@ -78,7 +78,7 @@ This software will be the basic core of our project used for further development
 
 This is just a model to give you a figure on how we are going to start. On the long time running we also want to go to **other widely business** such as scoring of who is *the best domain registrant*, who is *the best web designer*, who is *the best of seo provider*, who is *the best submission service* etc. 
 
-We are going to present the result in the style as business scoring so even the user only have a little ammount in their budget they could find our scoring is useful for them. 
+We are going to present the result in the style as business scoring so even the user only have a small amount in their budget they could find our scoring is useful for them. 
 
 As you know that it is really difficult to find such a good services when you have only a little budget. In the contrary you have to be more wise and careful to decide whether you still doing a business with your current partner or go to other more reputable business partner when your budget is growing up. 
 
