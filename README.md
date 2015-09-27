@@ -68,13 +68,13 @@ Despite we are still trying hard to predict how long a hyip site can be running 
 
 However as additional features compares to others we are providing the score with a numbers of category base on the investment or **budget level** start from as low as US$ 1. 
 
-Here we have released our first project so far:
+[*Here*](https://tophyipmonitor.wordpress.com/2015/05/17/hyip-analysis/) we have released our first project so far:
 
 <a href="http://all.hyip.world/" title="HYIP Score Analysis v1.2" target="_blank">
 **HYIP Score Analysis v1.2**</a>  
 [![Version](https://hyip-world.appspot.com/UA-51930984-2/github/info?gif=v1.2)](http://all.hyip.world/)  
 
-You can find the update and development of this plan by visiting our main site named [The World of High Yield Investment Program (HYIP)](http://hyip.world/). You may also get in detail later in our tutorial on how we started to get this site *Up and Running on Github*.
+his is a basic core and background philosophy of the project in general. You can find the update and development of this plan by visiting our main site named [The World of High Yield Investment Program (HYIP)](http://hyip.world/). You may also get in detail later in our tutorial on how we started to get this site *Up and Running on Github*.
 
 This is just a model to give you a figure on how we are going to start. On the long time running we also want to go to **other widely business** such as scoring of who is *the best domain registrant*, who is *the best web designer*, who is *the best of seo provider*, who is *the best submission service* etc. 
 
