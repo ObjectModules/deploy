@@ -68,6 +68,7 @@ Despite we are still trying hard to predict how long a hyip site can be running 
 
 However as additional features compares to others we are providing the score with a numbers of category base on the investment or **budget level** start from as low as US$ 1. 
 
+##Released Software
 [*Here*](https://tophyipmonitor.wordpress.com/2015/05/17/hyip-analysis/) we have released our first project so far:
 
 <a href="http://all.hyip.world/" title="HYIP Score Analysis v1.2" target="_blank">
@@ -75,6 +76,8 @@ However as additional features compares to others we are providing the score wit
 [![Version](https://hyip-world.appspot.com/UA-51930984-2/github/info?gif=v1.2)](http://all.hyip.world/)  
 
 This software will be the basic core of our project used for further development and to be widely open to the world on the future at our main site called [The World of High Yield Investment Program (HYIP)](http://hyip.world/). You may also get in detail later in [*our tutorial*](https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md) on how we started to get this site *Up and Running on Github*.
+
+We have also setup our [Official Blog](https://tophyipmonitor.wordpress.com/) for public discussion. The project discussion will not only cover the [HYIP Sites and Rating Analysis](https://tophyipmonitor.wordpress.com/hyip-rating/) but also the [HYIP Forum](https://tophyipmonitor.wordpress.com/hyip-forums/), [HYIP Monitor](https://tophyipmonitor.wordpress.com/hyip-monitors/), [HYIP Script](https://tophyipmonitor.wordpress.com/hyip-scripts/, and every other sources that are involved in this business model.
 
 This is just a model to give you a figure on how we are going to start. On the long time running we also want to go to **other widely business** such as scoring of who is *the best domain registrant*, who is *the best web designer*, who is *the best of seo provider*, who is *the best submission service* etc. 
 
