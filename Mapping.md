@@ -13,6 +13,29 @@
     </tr>
   </thead>
 </table>
+
+#Background
+Here you come to our section that we gonna explain our concept in detail about our project.
+
+As we have named this project as 'The HYIP Project' then we would like you to visit [Our Official Page](https://tophyipmonitor.wordpress.com/hyip-world/) here that describe in general of what we want to achieve.
+
+To achieve on what we have planned there shall be a process involved.
+
+Every process from an input to became the output will need an entry and exit points
+
+To make it more clear, let take an example on our daily live. Say that we are hungry so we need to eat in order to continue our living.
+
+Here we make a mapping of the process from the hungry.
+
+Hungry will became an entry point.
+Food is what we need.
+Eat is the process.
+Exit point
+
+As we have mentioned in our project description, we want to be the best qualified company in giving scoring result in the same what people see Google on giving their services base on keyword.
+
+Say you hungry. You want the best food to eat. So try to put a keyword 'best food' on Google Search. You will find a huge result which may be in million or billion pages to choose. So which one you gonna eat?
+
 #isogram
 An isogram is a word that doesn't contain any repeating letters.    
 en.wikipedia.org/wiki/Isogram
