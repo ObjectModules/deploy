@@ -38,7 +38,7 @@ Others programming language like **[Scala](http://www.scala-lang.org/)** and **[
 **On Going Development**:
 - Generate Image Manipulation to run Python FrameWorks such as [Django](https://developers.google.com/appengine/articles/django-nonrel)
 - Generate Styles Manipulation to run Go Framework using [Kubernetess/Docker](https://developers.google.com/compute/docs/containers)
-
+- Automate software deployments on Amazon Platform using [AWS CodeDeploy](https://github.com/integrations/aws-codedeploy) avalaible at [GitHub Integration](https://github.com/integrations)
 
 ##Documentation Structure
 As Google has made a nice and beautiful documentation for each of their product then the documentation of this project will be made as simple as possible in only to explain a specific task on how to make the code running and successfully gain the access to each Google Product. The link to develop in deeper will be provided in the discussed section.
