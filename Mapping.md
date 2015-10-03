@@ -27,10 +27,10 @@ To make it more clear, let take an example on our daily live. Say that we are hu
 
 Here we make a mapping of the process from the hungry.
 
-Hungry will became an entry point.
-Food is what we need.
-Eat is the process.
-Exit point
+Hungry will became an entry point.  
+Food is what we need.  
+Eat is the process.  
+Exit point  
 
 As we have mentioned in our project description, we want to be the best qualified company in giving scoring result in the same what people see Google on giving their services base on keyword.
 
