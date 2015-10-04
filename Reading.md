@@ -4,7 +4,7 @@
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|Introduction]] [[Prev|Introduction]]</th>
+      <th>[[:arrow_backward:|Writing]] [[Prev|Writing]]</th>
       <th>[[:repeat:|Reading]] [[Reload|Reading]]</th>
       <th>[[Next|Discussion]] [[:arrow_forward:|Discussion]]</th>
       <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
@@ -21,7 +21,7 @@ Reserved1
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|Introduction]] [[Prev|Introduction]]</th>
+      <th>[[:arrow_backward:|Writing]] [[Prev|Writing]]</th>
       <th>[[:repeat:|Reading]] [[Reload|Reading]]</th>
       <th>[[Next|Discussion]] [[:arrow_forward:|Discussion]]</th>
       <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
