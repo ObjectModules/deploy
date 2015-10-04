@@ -14,7 +14,8 @@
   </thead>
 </table>
 
-#Background
+#Mapping
+##Background
 Here you come to our section that we gonna explain our concept in detail about our project.
 
 As we have named this project as 'The HYIP Project' then we would like you to visit a page [*here*](https://tophyipmonitor.wordpress.com/hyip-world/) that describe in general of what we want to achieve.
@@ -36,7 +37,7 @@ This process is a simple case. It will become more concern if we put a parameter
 
 Let try to put a keyword 'best food' on Google Search. You will find a huge result which is processed by Google from may be in million or billion pages to choose. So which one you gonna eat?
 
-#isogram
+##isogram
 An isogram is a word that doesn't contain any repeating letters.    
 en.wikipedia.org/wiki/Isogram
 
