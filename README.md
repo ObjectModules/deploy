@@ -62,7 +62,7 @@ Having reviewing many alternatives we came to a business category called hyip ([
 - Most important is since the hyip is mostly a *ponzi scheme* so hyip site cannot be run in a long time period so we could  find whether our algorithm in our script is giving a correct scoring result in a short time as well.
 - Hyip site is easily to be considered as dead or as a *hyip scam* when the site is stop paying so we consider that they could not blame our scoring (as we still on start to test it) in the same way that we cannot blame when they collapse or even run and take our investment away.
 
-So base on the above measurement we can take all information of hyip service being offered compare to the trust of the domain that can be put altogether to score and rank the hyip sites. 
+So base on the above measurement we can take all information of hyip service being offered compare to the trust of the domain that can be put altogether to [*score and rank the hyip sites*](https://tophyipmonitor.wordpress.com/hyip-rating/). 
 
 Despite we are still trying hard to predict how long a hyip site can be running online we have came to have a scoring result of best site which is more or less are the same as represent by other site that comparing those hyip sites. 
 
