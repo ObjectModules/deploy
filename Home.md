@@ -30,6 +30,7 @@ You are browsing our **info** wiki:
 * [[Writing]]
 * [[Reading]]
 * [[Discussion]]
+* [[Library]]
 * [[Category]]
 * [[Appearance]]
 * [[Mapping]]
