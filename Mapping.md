@@ -32,7 +32,7 @@ Exit point
 
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
-Say you are hungry. You want the best food to eat. So try to put a keyword 'best food' on Google Search. You will find a huge result which may be in million or billion pages to choose. So which one you gonna eat?
+Say you are hungry. You want the best food to eat. So try to put a keyword 'best food' on Google Search. You will find a huge result which is processed by Google from may be in million or billion pages to choose. So which one you gonna eat?
 
 #isogram
 An isogram is a word that doesn't contain any repeating letters.    
