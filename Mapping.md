@@ -27,9 +27,9 @@ To make it more clear, let take an example on our daily live. We have to take an
 
 Here we make a mapping of the process from the *the hungry*:
 
-* Hungry will became an entry point.  
-* Food is what we need.  
-* Eat is the process.  
+* Hungry will became an entry point
+* Food is what we need 
+* Eat is the process
 * Exit point  
 
 This process is a simple case. It will become more concern if we put a parameter. Say you are hungry. You want the best food to eat. What we need to do? 
