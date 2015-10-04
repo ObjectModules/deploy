@@ -5,8 +5,8 @@
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|Introduction]] [[Prev|Introduction]]</th>
-      <th>[[:repeat:|Reserved1]] [[Reload|Reserved1]]</th>
-      <th>[[Next|Reserved2]] [[:arrow_forward:|Reserved2]]</th>
+      <th>[[:repeat:|Reading]] [[Reload|Reading]]</th>
+      <th>[[Next|Discussion]] [[:arrow_forward:|Discussion]]</th>
       <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
@@ -22,8 +22,8 @@ Reserved1
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|Introduction]] [[Prev|Introduction]]</th>
-      <th>[[:repeat:|Reserved1]] [[Reload|Reserved1]]</th>
-      <th>[[Next|Reserved2]] [[:arrow_forward:|Reserved2]]</th>
+      <th>[[:repeat:|Reading]] [[Reload|Reading]]</th>
+      <th>[[Next|Discussion]] [[:arrow_forward:|Discussion]]</th>
       <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
