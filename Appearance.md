@@ -21,8 +21,8 @@ Reserved5
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|Reserved4]] [[Prev|Reserved4]]</th>
-      <th>[[:repeat:|Reserved5]] [[Reload|Reserved5]]</th>
+      <th>[[:arrow_backward:|Category]] [[Prev|Category]]</th>
+      <th>[[:repeat:|Appearance]] [[Reload|Appearance]]</th>
       <th>[[Next|Mapping]] [[:arrow_forward:|Mapping]]</th>
       <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
