@@ -17,7 +17,7 @@
 #Background
 Here you come to our section that we gonna explain our concept in detail about our project.
 
-As we have named this project as 'The HYIP Project' then we would like you to visit [Our Official Page](https://tophyipmonitor.wordpress.com/hyip-world/) here that describe in general of what we want to achieve.
+As we have named this project as 'The HYIP Project' then we would like you to visit a page [*here*](https://tophyipmonitor.wordpress.com/hyip-world/) that describe in general of what we want to achieve.
 
 To achieve on what we have planned there shall be a process involved. Every process from an input to became the output will need an entry and exit points
 
