@@ -24,7 +24,9 @@ As we have mentioned in our project description, we intent to be among the best 
 
 To achieve on what we have planned there shall be a process involved. Every process from an input to became the output will need an entry and exit points
 
-To make it more clear, let take an example on our daily live. We have to take an example that definitely has an entry and exit points. An easy case is when we are hungry so that we need a food to eat. If we don't eat *the hungry* will not became and end point, it is stack there. It will need to be settled in order to continue our living. This process will end when take a food to eat.
+To make it more clear, let take an example on our daily live. We have to take an example that definitely has an entry and exit points. 
+
+An easy case is when we are hungry so that we need a food to eat. If we don't eat *the hungry* will not became and end point, it is stack there. It will need to be settled in order to continue our living. This process will end when take a food to eat.
 
 Here we make a mapping of the process from the *the hungry*:
 
