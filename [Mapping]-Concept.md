@@ -20,7 +20,7 @@ We have explained the [background of our concept](https://github.com/hyip/info/w
 1. Straigth line for entry points
 2. Dot line for exit point
 3. A box for process
-4. Info by text  
+4. Identification 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)
 
 ##Identification
