@@ -14,6 +14,9 @@
   </thead>
 </table>
 #Merging
+
+Here we will explain about the employment in our concept. Please be prepared your self as this section is the hardest part to follow. Here we do our best to explain as you might get confused.
+
 ![Flow](https://hyipworld.github.io/images/github/doc/figure10.png)
 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure11.png)
