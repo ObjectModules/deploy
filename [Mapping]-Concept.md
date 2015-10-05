@@ -30,7 +30,10 @@ Here we need to describe about the info. So we do the identification on reposito
 ##Processing  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure3.png)
 
-##Expansion 
+##Expansion
+Since we took parameter of best for the food so we shall map again the process of getting the best food. Because the best food for you will not be the same one for others.
+
+Here we shall put your criteria inside the parameter. For instance, the parameter shall at least include, your age, your location, your budget, and also your preferences.   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)
 
 ##Parameter
