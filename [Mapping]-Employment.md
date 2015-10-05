@@ -27,7 +27,8 @@ _Here we do our best to explain as you might get confused. However we recommend 
 
 Employment can be more deeper or wider depend on our need. We consider these three (3) Employment are suitable enough to start the process on getting it work. 
 
-So let stop the employment until this point and start merging them. Let continue now with the concept of _[[Merging|[Mapping]-Merging]]_.
+So let stop the employment until this point and start merging them.  
+Let continue now with the concept of _[[Merging|[Mapping]-Merging]]_.
 ***
 <table>
   <thead>
