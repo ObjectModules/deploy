@@ -25,7 +25,7 @@ _Here we do our best to explain as you might get confused. However we recommend 
 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure9.png)
 
-Let continue now with _[[Next|[Mapping]-Merging]]_.
+Let continue now with the concept of _[[Merging|[Mapping]-Merging]]_.
 ***
 <table>
   <thead>
