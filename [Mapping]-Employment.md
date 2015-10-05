@@ -25,6 +25,11 @@ _Here we do our best to explain as you might get confused. However we recommend 
 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure9.png)
 
+Combining with the first Employment we have now 3
+1. info - world
+2. monitor - rating
+3. script - team
+
 Employment can be more deeper or wider depend on our need. We consider these three (3) Employment are suitable enough to start the process on getting it work. 
 
 So let stop the employment until this point and start merging them.  
