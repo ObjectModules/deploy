@@ -57,28 +57,28 @@
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
-      <td><code>info</code></td>
-      <td>hyip <code>world</code></td>
+      <td><code>team</code></td>
+      <td>hyip <code>script</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
-      <td><code>info</code></td>
-      <td>hyip <code>world</code></td>
+      <td><code>team</code></td>
+      <td>hyip <code>script</code></td>
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
-      <td><code>info</code></td>
-      <td>hyip <code>world</code></td>
+      <td><code>script</code></td>
+      <td>hyip <code>team</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
-      <td><code>info</code></td>
-      <td>hyip <code>world</code></td>
+      <td><code>script</code></td>
+      <td>hyip <code>team</code></td>
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
-      <td><code>info</code></td>
-      <td>hyip <code>world</code></td>
+      <td><code>script</code></td>
+      <td>hyip <code>team</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
