@@ -16,7 +16,7 @@
 #Concept
 
 We have explained the [background of our concept](https://github.com/hyip/info/wiki/Mapping). Now we will explain the mapping of this project. Please be prepared your self as we are going deeper ongoing forward.
-##Mapping Symbol
+##Symbol
 1. Straigth line for entry points
 2. Dot line for exit point
 3. A box for process
@@ -24,6 +24,8 @@ We have explained the [background of our concept](https://github.com/hyip/info/w
 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)
 
+##Description
+Here we need to describe about the food. So we take description of info on the wiki documentation.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure2.png)
 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure3.png)
