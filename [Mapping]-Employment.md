@@ -19,10 +19,13 @@ In this section we will explain about the employment in our concept. Please note
 
 _Here we do our best to explain as you might get confused. However we recommend you to make clear your self to our [[previous section|[Mapping]-Concept]] in order to get easier on following this section._
 ##Standardization  
+As you may see, every process will be a different. All is unique. So we can now put the mapping schema into a standardization as shown below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure7.png)
 ##HYIP Monitoring & Rating  
+To became a valuable info then we need to rate the info. The info it self is got from searching and investigation which in hyip business is known as hyip site monitoring or in a short: hyip monitor.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure8.png)
-##Scripting and Team Work  
+##Scripting and Team Work
+An important thing is what we will do with achieve it. Rating is process of sorting and Monitoring is process to gain the data. So the rating will need a script and monitoring will need a team.    
 ![Flow](https://hyipworld.github.io/images/github/doc/figure9.png)
 
 Combining with the first Employment we have now 3 kind of them which are:  
