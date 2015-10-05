@@ -21,6 +21,7 @@ We have explained the [background of our concept](https://github.com/hyip/info/w
 2. Dot line for exit point
 3. A box for process
 4. Info by text
+
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)
 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure2.png)
