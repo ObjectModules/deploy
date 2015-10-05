@@ -30,7 +30,7 @@ Here we need to describe about the food. So we take description of info on the w
 ##Expansion  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure3.png)
 
-##Parameter  
+##Expansion 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)
 
 ##Parameter
