@@ -60,8 +60,13 @@ For instance, let say you have eat the food, then you got that it is not suit to
 #What's Next
 
 ##Employment
-##Merging
+To became a valuable info then we need to rate the info. The info it self is got from searching and investigation which in hyip business is known as hyip site monitoring or in a short: _hyip monitor_.
 
+An important thing is what we will do with achieve it. Rating is process of sorting and Monitoring is process to gain the data. So the rating will need a script and monitoring will need a team. This will be a different process. So all is also unique.
+##Merging
+Employment of this method can be more deeper depend to our need. We considered this plan is suitable enough to start the process on getting it work. So let stop the employment until this point and start merging them. 
+
+We will explain to how to do the both of in a different section, let start first on [[Employment|[Mapping]-Employment]].
 ***
 <table>
   <thead>
