@@ -25,7 +25,7 @@ _Here we do our best to explain as you might get confused. However we recommend 
 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure9.png)
 
-Combining with the first Employment we have now 3
+Combining with the first Employment we have now 3  
 1. info - world
 2. monitor - rating
 3. script - team
