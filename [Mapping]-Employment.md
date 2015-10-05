@@ -17,8 +17,6 @@
 
 In this section we will explain about the employment in our concept. Please be prepared your self as we are going deeper and deeper. You have to have an open mind. If you're not enjoying it, don't do it.
 
-Read more at http://www.brainyquote.com/quotes/quotes/d/debbiemeye198242.html#DihOHlY8qmgmW8VB.99
-
 Here we do our best to explain as you might get confused. However we recommend you to make clear your self to our [[previous section|[Mapping]-Concept]] in order to get easier on following this section.
 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure7.png)
