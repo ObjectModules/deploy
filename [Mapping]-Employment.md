@@ -24,14 +24,14 @@ As you may see, every process will be a different. All is unique. So we can now 
 ##HYIP Monitoring & Rating  
 To became a valuable info then we need to rate the info. The info it self is got from searching and investigation which in hyip business is known as hyip site monitoring or in a short: hyip monitor.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure8.png)
-##Scripting and Team Work
+##Scripting & Team Work
 An important thing is what we will do with achieve it. Rating is process of sorting and Monitoring is process to gain the data. So the rating will need a script and monitoring will need a team.    
 ![Flow](https://hyipworld.github.io/images/github/doc/figure9.png)
 
 Combining with the first Employment we have now 3 kind of them which are:  
-1. [[Prev|[Mapping]-Concept#settlement]]: info - world  
-2. <a href="#hyip-monitoring--rating">HYIP Monitoring & Rating</a>: monitor - rating  
-3. <a href="#scripting-and-team-work">Scripting and Team Work</a>: script - team  
+1. [[HYIP Info & World|[Mapping]-Concept#settlement]]: info - world  
+2. [[HYIP Monitoring & Rating|#hyip-monitoring--rating]]</a>: monitor - rating  
+3. [[Scripting and Team Work|#scripting--team-work]]: script - team  
 
 Employment can be more deeper or wider depend on our need. We consider these three (3) are suitable enough to start our project on getting it work. 
 
