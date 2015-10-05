@@ -28,6 +28,7 @@ Here we need to describe about the info. So we do the identification on reposito
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure2.png)
 
 ##Processing  
+Then how to map the process?
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure3.png)
 
 ##Expansion
