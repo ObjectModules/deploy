@@ -29,6 +29,10 @@ Combining with the first Employment we have now 3
 1. info - world
 2. monitor - rating
 3. script - team
+1. Straigth line for entry points
+2. Dot line for exit point
+3. A box for process
+4. Identification  
 
 Employment can be more deeper or wider depend on our need. We consider these three (3) Employment are suitable enough to start the process on getting it work. 
 
