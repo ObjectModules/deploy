@@ -17,7 +17,7 @@
 
 Now we will explain about the merging in our concept. We are going to put the concept all together. Please be prepared your self as this section is the hardest part to follow. 
 
-Here we do our best to explain as you might get confused. However we recommend you to make clear your self to our [[previous section|[Mapping]-Employment]] in order to get easier on following this section.
+_Here we do our best to explain as you might get confused. However we recommend you to make clear your self to our [[previous section|[Mapping]-Employment]] in order to get easier on following this section._
 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure10.png)
 
