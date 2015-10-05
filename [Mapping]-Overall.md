@@ -45,6 +45,46 @@
       <td><code>info</code></td>
       <td>hyip <code>world</code></td>
     </tr>
+    <tr>
+      <th scope="row"><code>repo</code></th>
+      <td><code>info</code></td>
+      <td>hyip <code>world</code></td>
+    </tr>
+    <tr>
+      <th scope="row"><code>wiki</code></th>
+      <td><code>info</code></td>
+      <td>hyip <code>world</code></td>
+    </tr>
+    <tr>
+      <th scope="row"><code>repo</code></th>
+      <td><code>info</code></td>
+      <td>hyip <code>world</code></td>
+    </tr>
+    <tr>
+      <th scope="row"><code>wiki</code></th>
+      <td><code>info</code></td>
+      <td>hyip <code>world</code></td>
+    </tr>
+    <tr>
+      <th scope="row"><code>repo</code></th>
+      <td><code>info</code></td>
+      <td>hyip <code>world</code></td>
+    </tr>
+    <tr>
+      <th scope="row"><code>wiki</code></th>
+      <td><code>info</code></td>
+      <td>hyip <code>world</code></td>
+    </tr>
+    <tr>
+      <th scope="row"><code>repo</code></th>
+      <td><code>info</code></td>
+      <td>hyip <code>world</code></td>
+    </tr>
+    <tr>
+      <th scope="row"><code>wiki</code></th>
+      <td><code>info</code></td>
+      <td>hyip <code>world</code></td>
+    </tr>
   </tbody>
 </table>
 
