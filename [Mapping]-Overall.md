@@ -28,7 +28,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td>[[<code>info</code>|Introduction]]</td>
-      <td>hyip <code>world</code></td>
+      <td>hyip <code>world</code> :cinema:</td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
