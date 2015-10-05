@@ -17,7 +17,7 @@
 
 In this section we will explain about the employment in our concept. Please note that we are going deeper and deeper. You have to have an open mind. If you're not enjoying it, don't do it.
 
-_Here we do our best to explain as you might get confused. However we recommend you to make clear your self to our [[previous section|[Mapping]-Basic-Concept]] in order to get easier on following this section._
+_Here we do our best to explain as you might get confused. However we recommend you to make clear your self to our [[previous section|[Mapping]-Concept]] in order to get easier on following this section._
 ##Standardization  
 As you may see, every process will be a different. All is unique. So we can now put the mapping schema into a standardization as shown below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure7.png)
