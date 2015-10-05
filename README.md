@@ -1,5 +1,5 @@
-info
-====
+Project Info
+============
 
 This project is made in the purpose of getting a possibility to build an interface to generate an **integrated info** from all [GOOGLE CLOUDS PLATFORM](https://cloud.google.com/developers/) including *[API's](https://developers.google.com/apis-explorer/#p/), [Application API](https://developers.google.com/google-apps/app-apis), [Application Sripts](https://developers.google.com/apps-script/), [Application Engine](https://developers.google.com/appengine/); [Cloud Storage](https://developers.google.com/storage/), [Cloud Datastore](https://developers.google.com/datastore/), [Cloud SQL](https://developers.google.com/cloud-sql/)* etc. 
 
