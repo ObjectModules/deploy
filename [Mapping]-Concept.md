@@ -13,7 +13,7 @@
     </tr>
   </thead>
 </table>
-#Concept
+#Basic Concept
 
 We have explained the [background of our concept](https://github.com/hyip/info/wiki/Mapping). Now we will explain the mapping of this project. Please be prepared your self as we are going deeper ongoing forward.
 ##Symbol
