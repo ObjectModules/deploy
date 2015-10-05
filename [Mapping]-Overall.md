@@ -37,23 +37,23 @@
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
-      <td><code>info</code></td>
-      <td>hyip <code>world</code></td>
+      <td><code>rating</code></td>
+      <td>hyip <code>monitor</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
-      <td><code>info</code></td>
-      <td>hyip <code>world</code></td>
+      <td><code>rating</code></td>
+      <td>hyip <code>monitor</code></td>
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
-      <td><code>info</code></td>
-      <td>hyip <code>world</code></td>
+      <td><code>monitor</code></td>
+      <td>hyip <code>rating</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
-      <td><code>info</code></td>
-      <td>hyip <code>world</code></td>
+      <td><code>monitor</code></td>
+      <td>hyip <code>rating</code></td>
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
