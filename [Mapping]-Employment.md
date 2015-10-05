@@ -18,11 +18,11 @@
 In this section we will explain about the employment in our concept. Please note that we are going deeper and deeper. You have to have an open mind. If you're not enjoying it, don't do it.
 
 _Here we do our best to explain as you might get confused. However we recommend you to make clear your self to our [[previous section|[Mapping]-Concept]] in order to get easier on following this section._
-
+##Standardization  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure7.png)
-
+##HYIP Monitoring & Rating  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure8.png)
-
+##Scripting and Team Work  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure9.png)
 
 Combining with the first Employment we have now 3  
