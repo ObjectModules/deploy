@@ -36,12 +36,12 @@ Here we need to describe about the info. So we do the identification on reposito
 ##Parameter
 One thing to be noted that every process above is unique.  
   
-_Food_ and the way to getting the best of _food_ is different scheme.  
+_Food_ and the way on getting the _food_ is different scheme.  
 The way that the _food_ is reached by _you_ is also different.  
 
 Let try to replace the word of _food_ to _info_, and change _you_ to _the world_:  
 
-_Info_ and the way to getting the best of _info_ is different scheme.  
+_Info_ and the way to getting the _info_ is different scheme.  
 The way that the _info _ is reached by _the world_ is also different.  
  
 So when applying this all together then the diagram will be shown as below:  
