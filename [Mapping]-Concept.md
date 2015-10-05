@@ -42,7 +42,7 @@ The way that the _food_ is reached by _you_ is also different.
 Let try to replace the word of _food_ to _info_, and change _you_ to _the world_:  
 
 _Info_ and the way to getting the _info_ is different scheme.  
-The way that the _info _ is reached by _the world_ is also different.  
+The way that the _info_ is reached by _the world_ is also different.  
  
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
