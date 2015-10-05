@@ -38,6 +38,7 @@ One thing to be noted that every process above is unique. _Food_ and the way to 
 
 Let try to replace the word of _food_ to _info_:  
 _Info_ and the way to getting the best of _info_ is different scheme. The way that the _info _is reached by you is also different.  
+ 
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 
