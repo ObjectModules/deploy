@@ -77,13 +77,13 @@
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
-      <td><code>script</code></td>
-      <td>hyip <code>team</code></td>
+      <td><code>world</code></td>
+      <td>hyip <code>info</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
-      <td><code>info</code></td>
-      <td>hyip <code>world</code></td>
+      <td><code>world</code></td>
+      <td>hyip <code>info</code></td>
     </tr>
   </tbody>
 </table>
