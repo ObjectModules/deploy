@@ -27,7 +27,7 @@ We have explained the [background of our concept](https://github.com/hyip/info/w
 Here we need to describe about the food. So we take description of info on the wiki documentation.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure2.png)
 
-##Expansion  
+##Processing  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure3.png)
 
 ##Expansion 
