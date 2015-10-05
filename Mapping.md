@@ -39,7 +39,7 @@ Here we make a mapping of the process from the *the hungry*:
 
 This process is a simple case. It will become more concern if we put a parameter. Say you are hungry. You want the best food to eat. What we need to do? 
 
-Let try to put a keyword 'best food' on Google Search. You will find a huge result which is processed by Google from may be in million or billion pages to choose. So which one you gonna eat?
+Let go searching then. Try to put a keyword 'best food' on Google Search. You will find a huge result which is processed by Google from may be in million or billion pages to choose. So which one you gonna eat?
 
 ##isogram
 An isogram is a word that doesn't contain any repeating letters.    
