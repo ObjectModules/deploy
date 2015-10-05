@@ -27,7 +27,7 @@
   <tbody>
     <tr>
       <th scope="row"><code>repo</code></th>
-      <td><code>info</code></td>
+      <td><code>info</code>[[Intro|Introduction]]</td>
       <td>hyip <code>world</code></td>
     </tr>
     <tr>
