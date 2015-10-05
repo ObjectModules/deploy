@@ -30,8 +30,8 @@ An important thing is what we will do with achieve it. Rating is process of sort
 
 Combining with the first Employment we have now 3 kind of them which are:  
 1. [[HYIP Info & World|[Mapping]-Concept#settlement]]: info - world  
-2. [[HYIP Monitoring & Rating|#hyip-monitoring--rating]]</a>: monitor - rating  
-3. [[Scripting and Team Work|#scripting--team-work]]: script - team  
+2. [[HYIP Monitoring & Rating|[Mapping]-Employment#hyip-monitoring--rating]]</a>: monitor - rating  
+3. [[HYIP Scripting & Team Work|[Mapping]-Employment#scripting--team-work]]: script - team  
 
 Employment can be more deeper or wider depend on our need. We consider these three (3) are suitable enough to start our project on getting it work. 
 
