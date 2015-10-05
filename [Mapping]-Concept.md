@@ -33,7 +33,7 @@ Here we need to describe about the food. So we take description of info on the w
 ##Parameter  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)
 
-##Processsing
+##Parameter
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 
 ##Settlement
