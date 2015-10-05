@@ -30,8 +30,8 @@ An important thing is what we will do with achieve it. Rating is process of sort
 
 Combining with the first Employment we have now 3 kind of them which are:  
 1. : info - world  
-2. <href="#scripting-and-team-work">HYIP Monitoring & Rating</a>: monitor - rating  
-3. <href="#scripting-and-team-work">Scripting and Team Work</a>: script - team  
+2. <a href="#scripting-and-team-work">HYIP Monitoring & Rating</a>: monitor - rating  
+3. <a href="#scripting-and-team-work">Scripting and Team Work</a>: script - team  
 
 Employment can be more deeper or wider depend on our need. We consider these three (3) are suitable enough to start our project on getting it work. 
 
