@@ -24,7 +24,7 @@ We have explained the [background of our concept](https://github.com/hyip/info/w
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)
 
 ##Identification
-Here we need to describe about the food. So we take description of info on the wiki documentation.  
+Here we need to describe about the info. So we do the identification on repository and put description of info on the wiki documentation.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure2.png)
 
 ##Processing  
