@@ -14,6 +14,9 @@
   </thead>
 </table>
 #Employment
+
+Here we will explain about the employment in our concept. Please be prepared your self as we are going deeper ongoing forward.
+
 ![Flow](https://hyipworld.github.io/images/github/doc/figure7.png)
 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure8.png)
