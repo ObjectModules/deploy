@@ -16,7 +16,7 @@
 #Concept
 
 We have explained the [background of our concept](https://github.com/hyip/info/wiki/Mapping). Now we will explain the mapping of this project. Please be prepared your self as we are going deeper ongoing forward.
-
+##Mapping Symbol
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)
 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure2.png)
