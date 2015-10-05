@@ -56,6 +56,12 @@ A process is considered as settled whenever it can be run or return to the entry
 
 For instance, let say you have eat the food, then you got that it is not suit to your need. Means it is not the best one for you. So you need to do the searching again at which the process back to the entry point again.   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)
+
+#What's Next
+
+##Employment
+##Merging
+
 ***
 <table>
   <thead>
