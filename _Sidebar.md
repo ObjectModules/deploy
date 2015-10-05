@@ -28,7 +28,7 @@ You are browsing our **info** wiki:
 * [[Category]]
 * [[Appearance]]
 * [[Mapping]]
-    * [[Concept|[Mapping]-Basic-Concept]]
+    * [[Basic Concept|[Mapping]-Basic-Concept]]
     * [Employment]([Mapping]-Employment)
     * [Merging]([Mapping]-Merging)
     * [Overall]([Mapping]-Overall)
