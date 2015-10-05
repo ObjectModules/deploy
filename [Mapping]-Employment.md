@@ -30,7 +30,7 @@ Combining with the first Employment we have now 3 kind of them which are:
 2. monitor - rating  
 3. script - team  
 
-Employment can be more deeper or wider depend on our need. We consider these three (3) Employment are suitable enough to start our project on getting it work. 
+Employment can be more deeper or wider depend on our need. We consider these three (3) are suitable enough to start our project on getting it work. 
 
 So let stop getting the employment until this point and start merging them.  
 Let continue now with the concept of _[[Merging|[Mapping]-Merging]]_.
