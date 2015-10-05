@@ -17,7 +17,7 @@
 
 In this section we will explain about the employment in our concept. We are going deeper and deeper. You have to have an open mind. If you're not enjoying it, don't do it.
 
-Here we do our best to explain as you might get confused. However we recommend you to make clear your self to our [[previous section|[Mapping]-Concept]] in order to get easier on following this section.
+_Here we do our best to explain as you might get confused. However we recommend you to make clear your self to our [[previous section|[Mapping]-Concept]] in order to get easier on following this section._
 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure7.png)
 
