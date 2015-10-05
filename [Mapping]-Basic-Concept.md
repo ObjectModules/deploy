@@ -5,7 +5,7 @@
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</th>
-      <th>[[:repeat:|[Mapping]Basic-Concept]] [[Reload|[Mapping]Basic-Concept]]</th>
+      <th>[[:repeat:|[Mapping]-Basic-Concept]] [[Reload|[Mapping]-Basic-Concept]]</th>
       <th>[[Next|[Mapping]-Employment]] [[:arrow_forward:|[Mapping]-Employment]]</th>
       <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
@@ -75,7 +75,7 @@ We will explain to how to do the both of in a different section, let start first
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</th>
-      <th>[[:repeat:|[Mapping]-Concept]] [[Reload|[Mapping]-Concept]]</th>
+      <th>[[:repeat:|[Mapping]-Basic-Concept]] [[Reload|[Mapping]-Basic-Concept]]</th>
       <th>[[Next|[Mapping]-Employment]] [[:arrow_forward:|[Mapping]-Employment]]</th>
       <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
