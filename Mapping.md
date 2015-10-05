@@ -6,7 +6,7 @@
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|Appearance]] [[Prev|Appearance]]</th>
       <th>[[:repeat:|Mapping]] [[Reload|Mapping]]</th>
-      <th>[[Next|[Mapping]-Basic-Concept]] [[:arrow_forward:|[Mapping]-Basic-Concept]]</th>
+      <th>[[Next|[Mapping]-Concept]] [[:arrow_forward:|[Mapping]-Concept]]</th>
       <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
@@ -63,7 +63,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|Appearance]] [[Prev|Appearance]]</th>
       <th>[[:repeat:|Mapping]] [[Reload|Mapping]]</th>
-      <th>[[Next|[Mapping]-Basic-Concept]] [[:arrow_forward:|[Mapping]-Basic-Concept]]</th>
+      <th>[[Next|[Mapping]-Concept]] [[:arrow_forward:|[Mapping]-Concept]]</th>
       <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
