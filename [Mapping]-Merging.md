@@ -22,7 +22,7 @@ _Here we do our best to explain as you might get confused. However we recommend 
 ##Concept of Merging
 Let put again the diagram we have got on [[previous section|[Mapping]-Concept]] 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)  
-
+See that there is a separated line. Here we can place another employment.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure10.png)
 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure11.png)
