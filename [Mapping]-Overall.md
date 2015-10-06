@@ -85,12 +85,12 @@ Here are the tabulation showing the list of all the process that are involved. Y
     <tr>
       <th scope="row"><code>repo</code></th>
       <td>[[<code>world</code>|https://github.com/hyip/world]]</td>
-      <td>[[:house:|https://github.com/hyipinfo]] hyip <code>info</code></td>
+      <td>[[:house:|https://github.com/hyipinfo]] [[hyip <code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io]]</td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
       <td>[[<code>world</code>|https://github.com/hyip/world/wiki]]</td>
-      <td>[[:cinema:|http://info.hyip.world/]] hyip <code>info</code></td>
+      <td>[[:cinema:|http://info.hyip.world/]] [[hyip <code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io/wiki]]</td>
     </tr>
   </tbody>
 </table>
