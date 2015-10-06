@@ -32,6 +32,12 @@ letter c stand as hyip
 ```
 ##HYIP Monitoring & Rating  
 To became a valuable info then we need to rate the info. The info it self is got from searching and investigation which in hyip business is known as hyip site monitoring or in a short: hyip monitor.  
+```js
+letter a stand as info  
+letter b stand as world  
+letter c stand as hyip  
+```
+
 ![Flow](https://hyipworld.github.io/images/github/doc/figure8.png)
 ##Scripting & Team Work
 An important thing is what we will do with achieve it. Rating is process of sorting and Monitoring is process to gain the data. So the rating will need a script and monitoring will need a team.    
