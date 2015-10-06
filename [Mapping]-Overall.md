@@ -14,7 +14,7 @@
   </thead>
 </table>
 #Overall Mapping
-This page is the last page of this section. From what we have explained about the _[[Employment|[Mapping]-Employment]]_  & _[[Merging|[Mapping]-Merging]]_ concept, here we are going to display the overall result all together. 
+This page is the last page of this section. From the _[[Employment|[Mapping]-Employment]]_  & _[[Merging|[Mapping]-Merging]]_ concept, here we are going to display the overall result all together. 
 
 _Hopefully you can follow and enable to understand to what we have explained. Please check your self if you can answer our question on the last of this page._
 
