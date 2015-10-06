@@ -66,7 +66,7 @@ letter a stand as s.createElement(o)
 letter m stand as s.getElementsByTagName(o)[0]  
 ```
 
-We found it is an amazing function made as little but compact that enable Google to use it for a broadway utilization. See that each letter has a different assignment, each of them hold a unique task but important to make a result when they are combined. 
+We found it is an amazing function made as little but compact that enable Google to use it for a broadway utilization. See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important to make a result when they are combined. 
 
 Unfortunately we cannot find if Google made it with the word of `isogram` is in a purpose to what the word means it self into the function. Nevertheless, this is really an exact sample that close match with what we will explain further about our concept. 
 ***
