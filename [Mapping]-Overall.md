@@ -28,7 +28,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td>[[<code>info</code>|https://github.com/hyip/info]]</td>
-      <td>[[:house:|http://hyip.world/]] hyip <code>world</code></td>
+      <td>[[:house:|https://github.com/hyipworld]] hyip <code>world</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
@@ -38,7 +38,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td><code>rating</code></td>
-      <td>[[:house:|http://hyipmonitors.info/]] hyip <code>monitor</code> </td>
+      <td>[[:house:|https://github.com/hyiprating]] hyip <code>monitor</code> </td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
@@ -48,7 +48,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td><code>monitor</code></td>
-      <td>[[:house:|http://tophyips.info/]] hyip <code>rating</code></td>
+      <td>[[:house:|https://github.com/hyipmonitor]] hyip <code>rating</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
@@ -58,7 +58,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td><code>team</code></td>
-      <td>[[:house:|http://hyipscript.info/]] hyip <code>script</code></td>
+      <td>[[:house:|https://github.com/hyipteam]] hyip <code>script</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
@@ -68,7 +68,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td><code>script</code></td>
-      <td>[[:house:|http://team.hyip.world/]] hyip <code>team</code></td>
+      <td>[[:house:|https://github.com/hyipscript]] hyip <code>team</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
@@ -78,7 +78,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td><code>world</code></td>
-      <td>[[:house:|http://info.hyip.world/]] hyip <code>info</code></td>
+      <td>[[:house:|https://github.com/hyipworld]] hyip <code>info</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
