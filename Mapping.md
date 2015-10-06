@@ -54,7 +54,9 @@ The Google JavaScript Snippet [Advanced Configuration - Web Tracking (analytics.
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-letter _i_ stand as window  
+
+
+letter `i` stand as window  
 letter `s` stand as document  
 letter `o` stand as 'script'  
 letter `g` stand as '//www.google-analytics.com/analytics.js'  
