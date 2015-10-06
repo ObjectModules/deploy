@@ -44,7 +44,9 @@ Let go searching then. Try to put a keyword 'best food' on Google Search. You wi
 ##isogram
 Having make a research on what people has do a similar with the concept, we found this on _[[isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating letters. isogram it self is a good sample of the word. You will not find any repeating on it.
 
-Luckily we found that Google has made a single function using this word, this function is used worldwide since many years on their JavaScript Snippet called [Advanced Configuration - Web Tracking (analytics.js)](https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced), The JavaScript tracking tag for Google's new Universal Analytics uses one letter variable names - i, s, o, g, r, a, m.
+Luckily we found that Google has made a single function using this word, this function is used worldwide since many years on their JavaScript Snippet called [Advanced Configuration - Web Tracking (analytics.js)](https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced).
+
+The JavaScript tracking tag for Google's new Universal Analytics uses one letter variable names - i, s, o, g, r, a, m.
 
 ```js
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
