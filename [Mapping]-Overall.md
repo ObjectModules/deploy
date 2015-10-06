@@ -104,7 +104,7 @@ http://hyip.world/railroad-diagrams/generator.html
 #Question for you
 So base on the mapping, could you define where we are currently?  What section will we go next? What topic is supposed to be found there?   
  
-Just carefully observe once again about the mapping before you answer it. If you are sure with your answer just click the _Next Button_ below, see if your answer is correct..
+Just carefully observe the mapping once again before you answer it. If you are sure with your answer just click the _Next Button_ below, see if your answer is correct..
 ***
 <table>
   <thead>
