@@ -105,7 +105,7 @@ http://hyip.world/railroad-diagrams/generator.html
 So base on the mapping, could you define where we are currently?  
 What section will we go next?  
  
-Just carefully observe once again about the mapping before you answer it. If you are sure with your answer just click the Next Button below, see if your answer is correct..
+Just carefully observe once again about the mapping before you answer it. If you are sure with your answer just click the _Next Button_ below, see if your answer is correct..
 ***
 <table>
   <thead>
