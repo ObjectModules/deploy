@@ -42,9 +42,9 @@ This process is a simple case. It will become more concern if we put a parameter
 Let go searching then. Try to put a keyword 'best food' on Google Search. You will find a huge result which is processed by Google from may be in million or billion pages to choose. So which one you gonna eat?
 
 ##isogram
-Having make a research on what people has do a similar with the concept, we found this on _[[isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating letters. isogram it self is a good sample of the word. You will not find any repeating on it.
+Having make a research on what people has do a similar with the concept, we found this on _[[isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating letters. isogram it self is a good sample of the word. You will not find any repeating on it. So all of them is unique.
 
-Luckily we found that Google has made a single function using this word, this function is used worldwide since many years on their JavaScript Snippet called [Advanced Configuration - Web Tracking (analytics.js)](https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced).
+Luckily we found also that Google has made a single function using this word, this function is used worldwide since many years on their JavaScript Snippet called [Advanced Configuration - Web Tracking (analytics.js)](https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced).
 
 The JavaScript tracking tag for Google's new Universal Analytics uses one letter variable names - i, s, o, g, r, a, m.
 
@@ -65,6 +65,8 @@ letter r stand as 'ga'
 letter a stand as s.createElement(o)  
 letter m stand as s.getElementsByTagName(o)[0]  
 ```
+
+This is really an exact sample that close match with what we will explain about our concept. We found it is an amazing function made as little but compact with enable Google to use it for a broadway utilization. Unfortunately we cannot find if Google made it with the word of `isogram` is in purpose to what the word means it self.
 ***
 <table>
   <thead>
