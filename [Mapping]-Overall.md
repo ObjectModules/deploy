@@ -33,7 +33,7 @@
     <tr>
       <th scope="row"><code>wiki</code></th>
       <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
-      <td>[[:cinema:|http://hyip.world/]] hyip <code>world</code></td>
+      <td>[[:cinema:|http://hyip.world/]] [[hyip <code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
