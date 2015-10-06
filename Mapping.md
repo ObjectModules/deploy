@@ -42,7 +42,7 @@ This process is a simple case. It will become more concern if we put a parameter
 Let go searching then. Try to put a keyword _<a href="https://www.google.com/search?q=best+food" target="_blank">'best food'</a>_ on Google Search. You will find a huge result which is processed by Google from may be more than a billion pages to choose. So which one you gonna eat?
 
 ##Nonpattern Word (isogram)
-Having make a research on what people has do a similar with the concept, we found this on _[[isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating la etters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
+Having make a research on what people has do a similar with the concept, we found this on _[[isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating letters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
 
 Luckily we found also that Google has made a single function using this word, this function is used worldwide since many years on their JavaScript Snippet called [Advanced Configuration - Web Tracking (analytics.js)](https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced).
 
