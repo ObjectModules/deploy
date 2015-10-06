@@ -44,52 +44,52 @@ Here are the tabulation showing the list of all the process that are involved. Y
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
-      <td><code>rating</code></td>
+      <td>[[<code>rating</code>|https://github.com/hyip/rating]]</td>
       <td>[[:house:|https://github.com/hyipmonitor]] hyip <code>monitor</code> </td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
-      <td><code>rating</code></td>
+      <td>[[<code>rating</code>|https://github.com/hyip/rating/wiki]]</td>
       <td>[[:cinema:|http://hyipmonitors.info/]] hyip <code>monitor</code></td>
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
-      <td><code>monitor</code></td>
+      <td>[[<code>monitor</code>|https://github.com/hyip/monitor]]</td>
       <td>[[:house:|https://github.com/hyiprating]] hyip <code>rating</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
-      <td><code>monitor</code></td>
+      <td>[[<code>monitor</code>|https://github.com/hyip/monitor/wiki]]</td>
       <td>[[:cinema:|http://tophyips.info/]] hyip <code>rating</code></td>
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
-      <td><code>team</code></td>
+      <td>[[<code>team</code>|https://github.com/hyip/team]]</td>
       <td>[[:house:|https://github.com/hyipscript]] hyip <code>script</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
-      <td><code>team</code></td>
+      <td>[[<code>team</code>|https://github.com/hyip/team/wiki]]</td>
       <td>[[:cinema:|http://hyipscript.info/]] hyip <code>script</code></td>
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
-      <td><code>script</code></td>
+      <td>[[<code>script</code>|https://github.com/hyip/script]]</td>
       <td>[[:house:|https://github.com/hyipteam]] hyip <code>team</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
-      <td><code>script</code></td>
+      <td>[[<code>script</code>|https://github.com/hyip/script/wiki]]</td>
       <td>[[:cinema:|http://team.hyip.world/]] hyip <code>team</code></td>
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
-      <td><code>world</code></td>
+      <td>[[<code>world</code>|https://github.com/hyip/world]]</td>
       <td>[[:house:|https://github.com/hyipinfo]] hyip <code>info</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
-      <td><code>world</code></td>
+      <td>[[<code>world</code>|https://github.com/hyip/world/wiki]]</td>
       <td>[[:cinema:|http://info.hyip.world/]] hyip <code>info</code></td>
     </tr>
   </tbody>
