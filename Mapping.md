@@ -48,6 +48,7 @@ Luckily we found also that Google has made a single function using this word, th
 
 `The JavaScript tracking tag for Google's new Universal Analytics uses one letter variable names - i, s, o, g, r, a, m.`
 
+Here is the function look likes:
 ```js
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
