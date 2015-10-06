@@ -17,10 +17,12 @@
 
 We have explained the [[background of our concept|Mapping]]. Now we will explain the mapping of this project. Please be prepared your self as we are going deeper ongoing forward.
 ##Symbol
+```
 1. Straigth line for entry points
 2. Dot line for exit point
 3. A box for process
-4. Identification  
+4. Identification 
+``` 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)
 
 ##Identification
