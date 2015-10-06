@@ -95,11 +95,17 @@ Here are the tabulation showing the location on each of the process.
   </tbody>
 </table>
 
-#TODO  List
+#TODO List
+#Further Development
+We are going to develop further
 http://hyip.world/GoJS  
 http://hyip.world/js-sequence-diagrams  
 http://hyip.world/railroad-diagrams/generator.html  
-
+#Question for you
+So base on the mapping, could you define where we are currently?  
+What section will we go next?  
+ 
+Just carefully observe once again about the mapping before you answer it. If you are sure with your answer just click the Next Button below, see if your answer is correct..
 ***
 <table>
   <thead>
