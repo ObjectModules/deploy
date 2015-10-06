@@ -38,7 +38,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td><code>rating</code></td>
-      <td>hyip <code>monitor</code> [[:cinema:|http://hyip.world/]]</td>
+      <td>hyip <code>monitor</code> [[:cinema:|http://hyipmonitors.info/]]</td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
@@ -48,7 +48,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td><code>monitor</code></td>
-      <td>hyip <code>rating</code> [[:cinema:|http://hyipmonitors.info/]]</td>
+      <td>hyip <code>rating</code> [[:cinema:|http://tophyips.info/]]</td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
