@@ -29,7 +29,7 @@ Let start put the Employment of [[HYIP Monitoring & Rating|[Mapping]-Employment#
 ![Flow](https://hyipworld.github.io/images/github/doc/figure11.png)  
 See that a _dotted line_ is meeting a _straight line_ which not correct. You cannot put another Employment that breaking in the middle into a process that are still not settled.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure12.png)  
-See that the Employment has also a dotted line. Here you can break it, let try to put _the rating_ first into the Merging. So thr result will be as below:   
+See that the Employment has also a dotted line. Here you can break it, let try to put _the rating_ first into the Merging. So the result will be as below:   
 ![Flow](https://hyipworld.github.io/images/github/doc/figure13.png)    
 Here you will get the correct merging!
 ##Further Step
@@ -37,7 +37,7 @@ Start again to place another employment.
 ![Flow](https://hyipworld.github.io/images/github/doc/figure14.png)  
 Let put the 3rd Employment: [[HYIP Scripting & Team Work|[Mapping]-Employment#scripting--team-work]]  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure15.png)  
-See that the meeting points off all dotted lines and straight lines are correct.
+See that the meeting points off all dotted lines and straight lines are correct. All settled.
 
 #What's Next
 You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained. 
