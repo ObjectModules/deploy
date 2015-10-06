@@ -40,7 +40,7 @@ Here we make a mapping of the process from the *the hungry*:
 This process is a simple case. It will become more concern if we put a parameter. Say you are hungry. You want the best food to eat. What are you going to do? 
 
 Let go searching then. Try to put a keyword _<a href="https://www.google.com/search?q=best+food" target="_blank">'best food'</a>_ on Google Search. You will find a huge result which is processed by Google from may be more than a billion pages to choose. So which one you gonna eat? The top result? Are you sure if that is the best food for you?
-##What we are offering?
+##What we offer
 #What's Next
 ##How to put the parameter?
 ##Nonpattern Word (isogram)
