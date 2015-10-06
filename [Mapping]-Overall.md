@@ -27,7 +27,7 @@
   <tbody>
     <tr>
       <th scope="row"><code>repo</code></th>
-      <td>[[<code>info</code>|Introduction]]</td>
+      <td>[[<code>info</code>|https://github.com/hyip/info]]</td>
       <td>hyip <code>world</code> [[:cinema:|http://hyip.world/]]</td>
     </tr>
     <tr>
