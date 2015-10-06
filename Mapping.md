@@ -68,7 +68,7 @@ letter m stand as s.getElementsByTagName(o)[0]
 
 See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important when they are combined. 
 
-We found it is an amazing function. It's built really small on used character but compact that enable Google to use it for a broadway _[[utilization|https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits]]_. 
+We found it is an amazing function. It's built really small and use only a few characters but compact that enable Google to use it for their broadway _[[utilization|https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits]]_. 
 
 Unfortunately we cannot find if Google made it with the word of `isogram` is in a purpose to what the word means it self into what they want with the function. Nevertheless, this is really an exact sample that close match with what we will explain further about our concept. 
 ***
