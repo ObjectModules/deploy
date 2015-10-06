@@ -97,7 +97,9 @@ Here are the tabulation showing the list of all the process that are involved. Y
 
 #TODO List
 #Further Development
-We are going to develop further our concept on mapping. We would like to have it displayed using a programmatic way. Following is the list of URL of our forked project we found on GitHub.
+We are going to develop further our concept on mapping. We would like to have it displayed using a programmatic way. 
+
+Following is the list of URL of our forked project we found on GitHub.
  
 http://hyip.world/GoJS  
 http://hyip.world/js-sequence-diagrams  
