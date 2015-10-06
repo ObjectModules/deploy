@@ -73,7 +73,7 @@ We found it is an amazing function. It's built small as it use only a few charac
 
 Unfortunately we could not find if Google made it with the word of `isogram` is in a purpose to what the word means it self into what they want with the function. 
 
-Nevertheless, this is really an exact sample that close enough with what we will explain further in more details on the next section titled _[[mapping the concept|[Mapping]-Concept]]_. 
+Nevertheless, this is really an exact sample that close enough with what we will explain further in more details on the next section titled _[[Mapping the Concept|[Mapping]-Concept]]_. 
 ***
 <table>
   <thead>
