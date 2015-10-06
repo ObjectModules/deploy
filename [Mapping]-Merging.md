@@ -30,6 +30,8 @@ _Here we do our best to explain as you might get confused. However we recommend 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure14.png)
 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure15.png)
+
+You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained. Please check the appearance of the result as we have explained on _[[Overall Mapping|[Mapping]-Overall]]_
 ***
 <table>
   <thead>
