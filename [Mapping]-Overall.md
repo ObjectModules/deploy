@@ -28,7 +28,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td>[[<code>info</code>|https://github.com/hyip/info]]</td>
-      <td>[[:house:|https://github.com/hyipworld]] hyip <code>world</code></td>
+      <td>[[:house:|https://github.com/hyipworld]] [[hyip <code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
