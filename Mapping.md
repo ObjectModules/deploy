@@ -32,10 +32,10 @@ Consider our living is the global process. If you don't eat then it will jeopard
 
 Here we make a mapping of the process from the *the hungry*:
 
-* Hungry will became an entry point
-* Food is what we need 
-* Eat is the process
-* Exit point  
+`* Hungry will became an entry point`
+`* Food is what we need `
+`* Eat is the process`
+`* Exit point  `
 
 This process is a simple case. It will become more concern if we put a parameter. Say you are hungry. You want the best food to eat. What are you going to do? 
 
