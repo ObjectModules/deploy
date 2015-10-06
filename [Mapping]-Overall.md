@@ -106,7 +106,7 @@ http://hyip.world/js-sequence-diagrams
 http://hyip.world/railroad-diagrams/generator.html 
  
 #Question for you
-So we have mention our TODO List. Now we have a little TODO List for you which is our question to answer as below: 
+So we have mention our TODO List. As we have mentioned on the top of this page, now we have a little TODO List for you which is our question to answer as below: 
 
 Base on the mapping you may guess on what of our section that you are currently reading. So would please you define for the followings:   ```
 * What _Section_ will we go next? 
