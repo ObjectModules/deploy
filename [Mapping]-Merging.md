@@ -37,7 +37,7 @@ Start again to place another employment.
 ![Flow](https://hyipworld.github.io/images/github/doc/figure14.png)  
 Let put the 3rd Employment: [[HYIP Scripting & Team Work|[Mapping]-Employment#scripting--team-work]]  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure15.png)  
-See that the meeting points off all dotted lines and straight lines are correct. All settled.
+See that the meeting points off all dotted lines and straight lines are correct. All is settled.
 
 #What's Next
 You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained. 
