@@ -33,7 +33,8 @@ Let try to put _the rating_ first. Here you will get the correct merging.
 Here we can place another employment.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure14.png)  
 Let put the 3rd Employment: [[HYIP Scripting & Team Work|[Mapping]-Employment#scripting--team-work]]  
-![Flow](https://hyipworld.github.io/images/github/doc/figure15.png)
+![Flow](https://hyipworld.github.io/images/github/doc/figure15.png)  
+See that the meeting points off all dotted lines and straight lines are correct.
 
 #What's Next
 You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained. 
