@@ -15,7 +15,7 @@
 </table>
 #Mapping the Concept
 
-We have explained the [[background of our concept]|Mapping]]. Now we will explain the mapping of this project. Please be prepared your self as we are going deeper ongoing forward.
+We have explained the [[background of our concept|Mapping]]. Now we will explain the mapping of this project. Please be prepared your self as we are going deeper ongoing forward.
 ##Symbol
 1. Straigth line for entry points
 2. Dot line for exit point
