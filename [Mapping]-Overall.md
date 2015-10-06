@@ -108,7 +108,10 @@ http://hyip.world/railroad-diagrams/generator.html
 #Question for you
 So we have mention our TODO List. Now we have a little TODO List for you which is the question as below: 
 
-Base on the mapping, could you define where we are currently?  What _Section_ will we go next? What _Topic_ is supposed to be found there?   
+Base on the mapping, could you define the followings: 
+* What _Section_ are we currently?  
+* What _Section_ will we go next? 
+* What _Topic_ is supposed to be found there?   
  
 Just carefully observe the mapping once again before you answer it. If you are sure with your answer just click the _Next Button_ below, see if your answer is correct..
 ***
