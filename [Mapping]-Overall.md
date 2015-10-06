@@ -38,7 +38,7 @@ Here are the tabulation showing the list of all the process that are involved. Y
       <td>[[:house:|https://github.com/hyipworld]] [[hyip <code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
     </tr>
     <tr>
-      <th scope="row">_wiki_</th>
+      <th scope="row"><code>info</code></th>
       <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
       <td>[[:cinema:|http://hyip.world/]] [[hyip <code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
     </tr>
