@@ -25,9 +25,9 @@ Let put again the diagram we have got on [[previous section|[Mapping]-Concept]]
 See that there is a separated line. Here we can place another employment.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure10.png)  
 Let start put the Employment of [[HYIP Monitoring & Rating|[Mapping]-Employment#hyip-monitoring--rating]]
-![Flow](https://hyipworld.github.io/images/github/doc/figure11.png)
-
-![Flow](https://hyipworld.github.io/images/github/doc/figure12.png)
+![Flow](https://hyipworld.github.io/images/github/doc/figure11.png)  
+See that a _dotted line_ is meeting a _straight line_ which not correct.  
+![Flow](https://hyipworld.github.io/images/github/doc/figure12.png)  
 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure13.png)
 
