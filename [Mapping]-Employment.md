@@ -55,6 +55,7 @@ _1. [[HYIP Info & World|[Mapping]-Concept#settlement]]: info - world_
 _2. [[HYIP Monitoring & Rating|[Mapping]-Employment#hyip-monitoring--rating]]</a>: monitor - rating_  
 _3. [[HYIP Scripting & Team Work|[Mapping]-Employment#scripting--team-work]]: script - team_  
 
+#What's Next
 Employment can be more deeper or wider depend on our need. We consider these three (3) are suitable enough to start our project on getting it work. 
 
 So let stop getting the employment until this point and start merging them.  
