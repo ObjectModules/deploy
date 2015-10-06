@@ -14,8 +14,13 @@
   </thead>
 </table>
 #Overall Mapping
-##By Diagram
+From what we have explained about the employment & merging concept, here we are going to display the overall result all together. This page is the last page of this section. Hopefully you can follow and enable to understand to what we have explained. 
 
+Please check your self if you can answer our question on the last of this page. 
+
+_Here we do our best to explain as you might get confused. However we recommend you to make clear your self to our [[previous section|[Mapping]-Merging]] in order to get easier on following this section._
+##By Diagram
+Now it is your turn to familiar with the flow on our concept. If you have followed the last section you can easily figure out the overall result as shown below. 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png)
 ##By Tabulation
 Here are the tabulation showing the location on each of the process.
@@ -91,9 +96,7 @@ Here are the tabulation showing the location on each of the process.
   </tbody>
 </table>
 
-
-
-TODO  
+#TODO  List
 http://hyip.world/GoJS  
 http://hyip.world/js-sequence-diagrams  
 http://hyip.world/railroad-diagrams/generator.html  
