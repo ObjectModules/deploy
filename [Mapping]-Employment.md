@@ -50,6 +50,7 @@ Then diagram will be shown as below:
 ![Flow](https://hyipworld.github.io/images/github/doc/figure9.png)
 
 Combining all together we have now 3 kind of Employments which are:  
+ 
 _1. [[HYIP Info & World|[Mapping]-Concept#settlement]]: info - world_  
 _2. [[HYIP Monitoring & Rating|[Mapping]-Employment#hyip-monitoring--rating]]</a>: monitor - rating_  
 _3. [[HYIP Scripting & Team Work|[Mapping]-Employment#scripting--team-work]]: script - team_  
