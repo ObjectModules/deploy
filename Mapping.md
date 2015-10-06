@@ -57,13 +57,13 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
 WE can breakdown as below
 ```js
-letter `i` stand as window  
-letter `s` stand as document  
-letter `o` stand as 'script'  
-letter `g` stand as '//www.google-analytics.com/analytics.js'  
-letter `r` stand as 'ga'  
-letter `a` stand as s.createElement(o)  
-letter `m` stand as s.getElementsByTagName(o)[0]  
+letter i stand as window  
+letter s stand as document  
+letter o stand as 'script'  
+letter g stand as '//www.google-analytics.com/analytics.js'  
+letter r stand as 'ga'  
+letter a stand as s.createElement(o)  
+letter m stand as s.getElementsByTagName(o)[0]  
 ```
 ***
 <table>
