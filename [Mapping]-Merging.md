@@ -29,10 +29,10 @@ Let start put the Employment of [[HYIP Monitoring & Rating|[Mapping]-Employment#
 See that a _dotted line_ is meeting a _straight line_ which not correct.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure12.png)  
 Let try to put _the rating_ first. Here you will get the correct merging.  
-![Flow](https://hyipworld.github.io/images/github/doc/figure13.png)
-Here we can place another employment. 
-![Flow](https://hyipworld.github.io/images/github/doc/figure14.png)
-Let put the 3rd Employment: [[HYIP Scripting & Team Work|[Mapping]-Employment#scripting--team-work]]
+![Flow](https://hyipworld.github.io/images/github/doc/figure13.png)  
+Here we can place another employment.  
+![Flow](https://hyipworld.github.io/images/github/doc/figure14.png)  
+Let put the 3rd Employment: [[HYIP Scripting & Team Work|[Mapping]-Employment#scripting--team-work]]  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure15.png)
 
 #What's Next
