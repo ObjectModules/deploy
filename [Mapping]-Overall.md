@@ -22,7 +22,7 @@ _Hopefully you can follow and enable to understand to what we have explained. Pl
 Now it is your turn to familiar with the flow on our concept. If you have followed the last section you can easily figure out the overall result as shown below. 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png)
 ##By Tabulation
-Here are the tabulation showing the location on each of the process.
+Here are the tabulation showing the list of all the process that are involved. You may check location on each of the process by clicking on each item.
 <table>
   <thead>
     <tr>
