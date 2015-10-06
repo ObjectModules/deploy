@@ -22,7 +22,13 @@ _Here we do our best to explain as you might get confused. However we recommend 
 Let see again the diagram  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)  
 As you may see, every process will be a different. All is unique. So we can now put the mapping schema into a standardization as shown below:  
-![Flow](https://hyipworld.github.io/images/github/doc/figure7.png)
+![Flow](https://hyipworld.github.io/images/github/doc/figure7.png)  
+
+```js
+letter a stand as info  
+letter b stand as world  
+letter c stand as hyip  
+```
 ##HYIP Monitoring & Rating  
 To became a valuable info then we need to rate the info. The info it self is got from searching and investigation which in hyip business is known as hyip site monitoring or in a short: hyip monitor.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure8.png)
