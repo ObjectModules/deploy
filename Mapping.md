@@ -45,7 +45,9 @@ Let go searching then. Try to put a keyword _<a href="https://www.google.com/sea
 ##What we offer
 We can say that from what we have explained above, there is a little chance you find your best food from the result. One thing you should aware that Google and other search engines is concern with the page not the food.
 
-When the page has a good scoring in term of their algorithm then the food page will go up on the result. It might be a page contains really your best food but only has poor score on the page they are presented, so you can't find it everywhere. It could even never happen on your whole live!
+When the page has a good scoring in term of their algorithm then the food page will go up on the result. It might be a page contains really your best food but only has poor score on the page they are presented, so you can't find it everywhere. 
+
+Other thing is how to be sure that when you find an information about your best food is really your best food. It could even never ever happen on your whole live that you find your best food!
 
 `Just do the way they want. Not of what you think.`
 #What's Next
