@@ -24,7 +24,7 @@ Let see again the diagram
 As you may see, every process will be a different. All is unique. So we can now put the mapping schema into a standardization as shown below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure7.png)  
 
-So in line to what he have explained about _[[isogram|Mapping#nonpattern-word-isogram]]_ here you can see the breakdown as below: 
+So in line to what he have explained about _[[isogram|Mapping#nonpattern-word-isogram]]_ here you can see the breakdown of the assigned letter as below: 
 ```js
 letter a stand as info  
 letter b stand as world  
