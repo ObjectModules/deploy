@@ -26,7 +26,7 @@ See that there is a separated line. The line is separating a dotted line. Means 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure10.png)  
 Let start put the Employment of [[HYIP Monitoring & Rating|[Mapping]-Employment#hyip-monitoring--rating]]
 ![Flow](https://hyipworld.github.io/images/github/doc/figure11.png)  
-See that a _dotted line_ is meeting a _straight line_ which not correct. You cannot put another Employment that breaking in the middle into a process that are still running.  
+See that a _dotted line_ is meeting a _straight line_ which not correct. You cannot put another Employment that breaking in the middle into a process that are still not settled.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure12.png)  
 Let try to put _the rating_ first. Here you will get the correct merging.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure13.png)  
