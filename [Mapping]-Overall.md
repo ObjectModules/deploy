@@ -65,12 +65,12 @@ Here are the tabulation showing the list of all the process that are involved. Y
     <tr>
       <th scope="row"><code>repo</code></th>
       <td>[[<code>team</code>|https://github.com/hyip/team]]</td>
-      <td>[[:house:|https://github.com/hyipscript]] hyip <code>script</code></td>
+      <td>[[:house:|https://github.com/hyipscript]] [[hyip <code>script|https://github.com/hyipscript/hyipscript.github.io]]</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
       <td>[[<code>team</code>|https://github.com/hyip/team/wiki]]</td>
-      <td>[[:cinema:|http://hyipscript.info/]] hyip <code>script</code></td>
+      <td>[[:cinema:|http://hyipscript.info/]] [[hyip <code>script|https://github.com/hyipscript/hyipscript.github.io/wiki]]</code></td>
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
