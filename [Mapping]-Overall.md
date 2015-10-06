@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
-      <td><code>info</code></td>
+      <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
       <td>hyip <code>world</code></td>
     </tr>
     <tr>
