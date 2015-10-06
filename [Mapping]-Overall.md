@@ -13,9 +13,12 @@
     </tr>
   </thead>
 </table>
+#Overall Mapping
+##By Diagram
 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png)
-
+##By Tabulation
+Here are the tabulation showing the location on each of the process.
 <table>
   <thead>
     <tr>
