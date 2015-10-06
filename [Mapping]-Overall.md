@@ -55,12 +55,12 @@ Here are the tabulation showing the list of all the process that are involved. Y
     <tr>
       <th scope="row"><code>repo</code></th>
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor]]</td>
-      <td>[[:house:|https://github.com/hyiprating]] hyip <code>rating</code></td>
+      <td>[[:house:|https://github.com/hyiprating]] [[hyip <code>rating|https://github.com/hyiprating/hyiprating.github.io]]</code></td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor/wiki]]</td>
-      <td>[[:cinema:|http://tophyips.info/]] hyip <code>rating</code></td>
+      <td>[[:cinema:|http://tophyips.info/]] [[hyip <code>rating|https://github.com/hyiprating/hyiprating.github.io/wiki]]</code></td>
     </tr>
     <tr>
       <th scope="row"><code>repo</code></th>
