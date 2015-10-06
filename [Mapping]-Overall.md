@@ -38,7 +38,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td><code>rating</code></td>
-      <td>hyip <code>monitor</code></td>
+      <td>hyip <code>monitor</code> [[:cinema:|http://hyip.world/]]</td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
@@ -48,7 +48,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td><code>monitor</code></td>
-      <td>hyip <code>rating</code></td>
+      <td>hyip <code>rating</code> [[:cinema:|http://hyipmonitors.info/]]</td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
@@ -58,7 +58,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td><code>team</code></td>
-      <td>hyip <code>script</code></td>
+      <td>hyip <code>script</code> [[:cinema:|http://hyipscript.info/]]</td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
@@ -68,7 +68,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td><code>script</code></td>
-      <td>hyip <code>team</code></td>
+      <td>hyip <code>team</code> [[:cinema:|http://team.hyip.world/]]</td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
@@ -78,7 +78,7 @@
     <tr>
       <th scope="row"><code>repo</code></th>
       <td><code>world</code></td>
-      <td>hyip <code>info</code></td>
+      <td>hyip <code>info</code> [[:cinema:|http://info.hyip.world/]]</td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
