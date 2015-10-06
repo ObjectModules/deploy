@@ -67,7 +67,7 @@ letter a stand as s.createElement(o)
 letter m stand as s.getElementsByTagName(o)[0]  
 ```
 
-See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important when they are combined. 
+See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined. 
 
 We found it is an amazing function. It's built small as it use only a few characters but it is really compact which enable Google to use it for their broadway _[[utilization|https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits]]_. 
 
