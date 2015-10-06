@@ -42,9 +42,9 @@ This process is a simple case. It will become more concern if we put a parameter
 Let go searching then. Try to put a keyword _<a href="https://www.google.com/search?q=best+food" target="_blank">'best food'</a>_ on Google Search. You will find a huge result which is processed by Google from may be more than a billion pages to choose. So which one you gonna eat? The top result? Are you sure if that is the best food for you?
 ##What we offer
 `Just do the way they want. Not of what you think.`
-`Let them find their way to help you get what you want.`
 #What's Next
 ##How to put the parameter?
+`Let them find their way to help you get what you want.`
 ##Nonpattern Word (isogram)
 Having make a research on what people has do a similar with the concept, we found this on _[[isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating letters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
 
