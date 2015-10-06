@@ -26,7 +26,7 @@ To achieve on what we have planned there shall be a process involved. Every proc
 
 To make it more clear, let take an example on our daily live. We have to take an example that definitely has an entry and exit points. 
 
-An easy case is when we are hungry so that we need a food to eat. If we don't eat *the hungry* will not became and end point, it is stack there. You can see easily find that this process will need to be settled in order to continue our living. 
+An easy case is when we are hungry so that we need a food to eat. If we don't eat *the hungry* will not became an end point, it is stack there. You can see easily find that this process will need to be settled in order to continue our living. 
 
 Consider our living is the global process. If you don't eat then it will jeopardize the global process. So this particular process need to be settled and it will end when take a food to eat. So then global process is run normally.
 
