@@ -19,6 +19,8 @@ Now we will explain about the merging in our concept. We are going to put the co
 
 _Here we do our best to explain as you might get confused. However we recommend you to make clear your self to our [[previous section|[Mapping]-Employment]] in order to get easier on following this section._
 
+##Concept of Merging
+Let put again the diagram we have got on [[previous section|[Mapping]-Concept]] 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure10.png)
 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure11.png)
