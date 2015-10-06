@@ -42,7 +42,7 @@ This process is a simple case. It will become more concern if we put a parameter
 Let go searching then. Try to put a keyword 'best food' on Google Search. You will find a huge result which is processed by Google from may be in million or billion pages to choose. So which one you gonna eat?
 
 ##isogram
-Having make a research on what people has do a similar with the concept we found this on [isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating letters.    
+Having make a research on what people has do a similar with the concept we found this on _[[isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating letters.    
 
 The JavaScript tracking tag for Google's new Universal Analytics uses one letter variable names - i, s, o, g, r, a, m.
 The Google JavaScript Snippet [Advanced Configuration - Web Tracking (analytics.js)](https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced)
