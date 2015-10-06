@@ -96,7 +96,7 @@ Here are the tabulation showing the list of all the process that are involved. Y
 </table>
 
 #TODO List
-#Further Development
+##Further Development
 We are going to develop further our concept on mapping. We would like to have it displayed using a programmatic way. 
 
 Following is the list of URL of our forked project we found on GitHub.
@@ -105,7 +105,7 @@ http://hyip.world/GoJS
 http://hyip.world/js-sequence-diagrams  
 http://hyip.world/railroad-diagrams/generator.html 
  
-#Question for you
+##Question for you
 So we have mention our TODO List. As we have mentioned on the top of this page, now we have a little TODO List for you which is our question to answer as below: 
 
 Base on the mapping you may guess on what of our section that you are currently reading. So would you please define for the followings:
