@@ -70,7 +70,7 @@ It is quite amazing because usually when people put different criteria then the 
 
 But when people asked what is the best search engine, then mostly probably you will find that Google is the answer whatever criteria they use. 
 
-_People can have a different criteria but they have the same answer._
+_How come that people have a different criteria but they got the same answer._
 
 Are you with us? We would think so. But it sound unfair.. Why?  
 Because you have already the answer to your best search engine easily.  
