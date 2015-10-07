@@ -25,7 +25,7 @@ _Please note that the figure above is only valid for [[This Section|https://gith
 ##By Tabulation
 Here are the tabulation showing the list of all the process that are involved. You may check location on each of the process by clicking on each item.
 
-_Please note that [[This Project|https://github.com/hyip]] is still Under Construction. The following URL's are just to demonstrate on how we manage the Repositories in correlation to the Mapping Concept._
+_Please note that [[This Project|https://github.com/hyip]] is still Under Construction. The following URL's are just to demonstrate on how we manage the Repositories in correlation to the [[Mapping Concept|[Mapping]-Concept]]._
 <table>
   <thead>
     <tr>
