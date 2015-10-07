@@ -15,12 +15,10 @@
 </table>
 
 #Mapping
-##Background
 Here you come to our section that we gonna explain our concept in detail about our project.
+##Background
 
 As we have named this project as 'The HYIP Project' then we would like you to visit a page [*here*](https://tophyipmonitor.wordpress.com/hyip-world/) that describe in general of what we want to achieve.
-
-As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
 To achieve on what we have planned there shall be a process involved. Every process from an input to became the output will need an entry and exit points
 
@@ -53,6 +51,8 @@ _It could even never ever happen on your whole live that you find your best food
 
 `Just do the way they want. Not of what you think.`
 #What's Next
+As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
+
 ##How to put the parameter?
 `Let them find their way to help you get what you want.`
 ##Nonpattern Word (isogram)
