@@ -62,8 +62,10 @@ Here are what we got. We put here just for example:
 * [[Bing vs. Google: Which Search Engine is Best?|http://www.entrepreneur.com/article/224639]]
 * [[http://www.businessinsider.com/accurate-contrarian-theories-2011-5?IR=T&|http://www.businessinsider.com/accurate-contrarian-theories-2011-5?IR=T&]]
 * [[Google Still World's Most Popular Search Engine By Far|http://searchengineland.com/google-worlds-most-popular-search-engine-148089]]
-* [[Why is Google the best search engine|http://www.answers.com/Q/Why_is_Google_the_best_search_engine]]
+* [[Why is Google the best search engine|http://www.answers.com/Q/Why_is_Google_the_best_search_engine]] 
+
 `Let them find their way to help you get what you want.`
+
 ##Nonpattern Word (isogram)
 Having make a research on what people has do a similar with the concept, we found this on _[[isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating letters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
 
