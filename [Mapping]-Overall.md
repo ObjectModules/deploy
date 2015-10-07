@@ -16,7 +16,7 @@
 #Overall Mapping
 This page is the last page of this section. From the _[[Employment|[Mapping]-Employment]]_  & _[[Merging|[Mapping]-Merging]]_ concept, here we are going to display the overall result all together. 
 
-_Hopefully you can follow and enable to understand to what we have explained. Please check if you have clear your self by answering our question located on the last of this page._
+_Hopefully you can follow and enable to understand to what we have explained. You may check if you have clear your self by answering our question located on the last of this page._
 
 ##By Diagram
 Now it is your turn to familiar with the flow on our concept. If you have followed the last section you can easily figure out the overall result as shown below. 
