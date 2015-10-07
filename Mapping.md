@@ -68,7 +68,9 @@ Here you can see that there are a number of reasons or parameters that people sa
 
 It is quite amazing because usually when people put different criteria then the result can be different, let take an example, say what is the best food now in the world? Every one can give different answer base on their parameter or criteria. 
 
-But when people asked what is the best search engine, then mostly probably you will find that Google is the answer whatever criteria they use. Means different criteria but the same answer.
+But when people asked what is the best search engine, then mostly probably you will find that Google is the answer whatever criteria they use. 
+
+_People can have a different criteria but they have the same answer._
 
 Sound unfair.. Why? Because you have already the answer to your best search engine easily. How about your best food? Do you have find one? 
 
@@ -104,7 +106,7 @@ letter m stand as s.getElementsByTagName(o)[0]
 
 See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined. 
 
-We found this as an amazing concept. It's built small as it use only a few characters but it is really compact which enable Google to use it for their broadway _<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="_blank">utilization</a>_. 
+We found this as a beautiful concept. It's built small as it use only a few characters but it is really compact which enable Google to use it for their broadway _<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="_blank">utilization</a>_. 
 
 Unfortunately we could not find if Google made it with the word of `isogram` is in a purpose to correlate what _the word means_ it self into _what they want_ with the function. 
 
