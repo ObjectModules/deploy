@@ -95,9 +95,9 @@ Here are the tabulation showing the list of all the process that are involved. Y
   </tbody>
 </table>
 
-Note:
-- :house: Organization Page
-- :cinema: Displaying Page
+**_Note:_**  
+:house: _Organization, Listing all Repositories including Forked Ones_  
+:cinema: _Website URL, Demonstrate the content of each process on web_  
 
 #TODO List
 ##Further Development
