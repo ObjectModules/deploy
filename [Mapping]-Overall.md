@@ -96,8 +96,8 @@ Here are the tabulation showing the list of all the process that are involved. Y
 </table>
 
 Note:
-* :house: Organization Page
-* :cinema: Displaying Page
+- :house: Organization Page
+- :cinema: Displaying Page
 
 #TODO List
 ##Further Development
