@@ -19,7 +19,7 @@ This page is the last page of this section. From the _[[Employment|[Mapping]-Emp
 _Hopefully you can follow and enable to understand to what we have explained. You may check if you have clear your self by answering our question located on the last of this page._
 
 ##By Diagram
-Now it is your turn to familiar with the flow on our concept. If you have followed the last section you can easily figure out the overall result as shown below. 
+Now it is your turn to familiar with the flow on our concept. If you have followed the _[[last section|[Mapping]-Merging]]_ you can easily figure out the overall result as shown below. 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
 _Please note that the figure above is only valid for [[This Section|https://github.com/hyip/info/wiki]] where this documentation is reside. You can find the Mapping of each section at the Bottom of Right Side Bar._
 ##By Tabulation
