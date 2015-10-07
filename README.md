@@ -92,7 +92,7 @@ At last but not least we welcome for your comments or [opinion to our project](h
 
 As an update we would like to announce that we have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer.:pray:    
 
-You may start to browse the documentation. Usually people begin with a tutorial page titled '_Hello World!_'. Here we have a little bit different. Let call it ['*Hyip World!*'](https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md)
+You may start to browse the documentation. Usually people begin with a tutorial page titled '_Hello World!_'. Here we have a little bit different. Let's call it ['*Hyip World!*'](https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md)
 ***
 |[:house:](https://github.com/hyip) [Home](https://github.com/hyip)|[Next](https://github.com/hyipworld/hyipworld.github.io) [:arrow_forward:](https://github.com/hyipworld/hyipworld.github.io)|
 |:----|----:|
