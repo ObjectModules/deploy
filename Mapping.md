@@ -54,6 +54,8 @@ _It could even never ever happen on your whole live that you find your best food
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
 ##How to put the parameter?
+Most probably we can say that Google Still World's Most Popular Search Engine By Far. Why is Google successful?\
+
 `Let them find their way to help you get what you want.`
 ##Nonpattern Word (isogram)
 Having make a research on what people has do a similar with the concept, we found this on _[[isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating letters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
