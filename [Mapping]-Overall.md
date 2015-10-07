@@ -21,7 +21,7 @@ _Hopefully you can follow and enable to understand to what we have explained. Pl
 ##By Diagram
 Now it is your turn to familiar with the flow on our concept. If you have followed the last section you can easily figure out the overall result as shown below. 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
-_Please note that the figure above is valid for [[This Section|https://github.com/hyip/info/wiki]] where this documentation is reside. Location of each section will be shown he Right Side Bar._
+_Please note that the figure above is only valid for [[This Section|https://github.com/hyip/info/wiki]] where this documentation is reside. Location of each section will be shown on the Bottom of Right Side Bar._
 ##By Tabulation
 Here are the tabulation showing the list of all the process that are involved. You may check location on each of the process by clicking on each item.
 
