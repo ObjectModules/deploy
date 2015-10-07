@@ -39,7 +39,7 @@ Here we make a mapping of the process from the *the hungry*:
 
 This process is a simple case. It will become more concern if we put a parameter. Say you are hungry. You want the best food to eat. What are you going to do? 
 
-Let go searching then. Try to put a keyword _<a href="https://www.google.com/search?q=best+food" target="_blank">'best food'</a>_ on Google Search. You will find a huge result which is processed by Google from may be more than a billion pages to choose. So which one you gonna eat? The top result? Are you sure if that is the best food for you?
+Let's go searching then. Try to put a keyword _<a href="https://www.google.com/search?q=best+food" target="_blank">'best food'</a>_ on Google Search. You will find a huge result which is processed by Google from may be more than a billion pages to choose. So which one you gonna eat? The top result? Are you sure if that is the best food for you?
 ##What we offer
 We can say that from what we have explained above, there is a little chance you find your best food from the result. One thing you should aware that Google and other search engines is concern with the page not the food.
 
@@ -54,8 +54,15 @@ _It could even never ever happen on your whole live that you find your best food
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
 ##How to put the parameter?
-Most probably we can say that Google Still World's Most Popular Search Engine By Far. Why is Google successful?\
+Most probably we can say that Google Still World's Most Popular Search Engine By Far. Why is Google successful? Let's try _[[searching|https://www.google.com/q=what+makes+google+the+best+search+engine]]_ again. 
 
+Here are what we got. We put here just for example:
+* [[Why is Google Popular?|]]
+* [[Why is Google successful?|http://www.todayszaman.com/blog/mustafa-gerdan/why-is-google-successful_337734.html]]
+* [[Bing vs. Google: Which Search Engine is Best?|http://www.entrepreneur.com/article/224639]]
+* [[http://www.businessinsider.com/accurate-contrarian-theories-2011-5?IR=T&|http://www.businessinsider.com/accurate-contrarian-theories-2011-5?IR=T&]]
+* [[Google Still World's Most Popular Search Engine By Far|http://searchengineland.com/google-worlds-most-popular-search-engine-148089]]
+* [[Why is Google the best search engine|http://www.answers.com/Q/Why_is_Google_the_best_search_engine]]
 `Let them find their way to help you get what you want.`
 ##Nonpattern Word (isogram)
 Having make a research on what people has do a similar with the concept, we found this on _[[isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating letters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
