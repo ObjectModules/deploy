@@ -54,15 +54,15 @@ _It could even never ever happen on your whole live that you find your best food
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
 ##How to put the parameter?
-Most probably we can say that Google Still World's Most Popular Search Engine By Far. Why is Google successful?  As usual, open your [Google] (http://www.google.com){target="_blank"}. Let's try _<a href="https://www.google.com/search?q=what+makes+google+the+best+search+engine" target="_blank">searching</a>_ again. [link](https://example.org/){:target="_blank"}
+Most probably we can say that Google Still World's Most Popular Search Engine By Far. Why is Google successful?  As usual, Let's try _<a href="https://www.google.com/search?q=what+makes+google+the+best+search+engine" target="_blank">searching</a>_ again.
 
 Here are what we got. We put here just for example:
-* [[Why is Google Popular?|http://www.googleguide.com/searchLeader.html]]
-* [[Why is Google successful?|http://www.todayszaman.com/blog/mustafa-gerdan/why-is-google-successful_337734.html]]
-* [[Why is Google the best search engine|http://www.answers.com/Q/Why_is_Google_the_best_search_engine]] 
-* [[Bing vs. Google: Which Search Engine is Best?|http://www.entrepreneur.com/article/224639]]
-* [[Google Still World's Most Popular Search Engine By Far|http://searchengineland.com/google-worlds-most-popular-search-engine-148089]]
-* [[Why Google Succeeded Where Other Search Engines Failed|http://www.businessinsider.com/accurate-contrarian-theories-2011-5?IR=T&]]
+* <a href="searchLeader.html" target="_blank">Why is Google Popular?</a>
+* <a href="why-is-google-successful_337734.html" target="_blank">Why is Google successful?</a>
+* <a href="Why_is_Google_the_best_search_engine" target="_blank">Why is Google the best search engine</a> 
+* <a href="224639" target="_blank">Bing vs. Google: Which Search Engine is Best?</a>
+* <a href="google-worlds-most-popular-search-engine-148089" target="_blank">Google Still World's Most Popular Search Engine By Far</a>
+* <a href="accurate-contrarian-theories-2011-5" target="_blank">Why Google Succeeded Where Other Search Engines Failed</a>
 
 `Let them find their way to help you get what you want.`
 
