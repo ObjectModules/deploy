@@ -118,7 +118,7 @@ Base on the mapping you may guess on what of our section that you are currently 
 * What _Section_ will we go next? 
 * What _Topic_ is supposed to be found there?   
  
-Just carefully observe the mapping or better _[[back again|Mapping]]_ before you answer it. If you are sure with your answer just click the _Next Button_ below, see if your answer is correct..
+_Just carefully observe the mapping or better [[back again|Mapping]] before you answer it. If you are sure with your answer just click the **Next** Button below, see if your answer is correct.._
 ***
 <table>
   <thead>
