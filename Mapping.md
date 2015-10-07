@@ -59,10 +59,10 @@ Most probably we can say that Google Still World's Most Popular Search Engine By
 Here are what we got. We put here just for example:
 * [[Why is Google Popular?|http://www.googleguide.com/searchLeader.html]]
 * [[Why is Google successful?|http://www.todayszaman.com/blog/mustafa-gerdan/why-is-google-successful_337734.html]]
-* [[Bing vs. Google: Which Search Engine is Best?|http://www.entrepreneur.com/article/224639]]
-* [[http://www.businessinsider.com/accurate-contrarian-theories-2011-5?IR=T&|http://www.businessinsider.com/accurate-contrarian-theories-2011-5?IR=T&]]
-* [[Google Still World's Most Popular Search Engine By Far|http://searchengineland.com/google-worlds-most-popular-search-engine-148089]]
 * [[Why is Google the best search engine|http://www.answers.com/Q/Why_is_Google_the_best_search_engine]] 
+* [[Bing vs. Google: Which Search Engine is Best?|http://www.entrepreneur.com/article/224639]]
+* [[Why Google Succeeded Where Other Search Engines Failed|http://www.businessinsider.com/accurate-contrarian-theories-2011-5?IR=T&]]
+* [[Google Still World's Most Popular Search Engine By Far|http://searchengineland.com/google-worlds-most-popular-search-engine-148089]]
 
 `Let them find their way to help you get what you want.`
 
