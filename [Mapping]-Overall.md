@@ -109,9 +109,9 @@ We are going to develop further our concept on mapping. We would like to have it
 
 We have found some projects on GitHub that we can start to do so. Following are the list of URL's which is generated from our forked repository of said projects.
  
-http://hyip.world/GoJS  
-http://hyip.world/js-sequence-diagrams  
-http://hyip.world/railroad-diagrams/generator.html 
+- http://hyip.world/GoJS  
+- http://hyip.world/js-sequence-diagrams  
+- http://hyip.world/railroad-diagrams/generator.html 
  
 ##Question for you
 We have mentioned our TODO List. Now we have a little TODO List for you which is our question to answer as below: 
