@@ -60,9 +60,9 @@ Here are what we got. We put here just for example:
 * <a href="http://www.googleguide.com/searchLeader.html" target="_blank">Why is Google Popular?</a>
 * <a href="http://www.todayszaman.com/blog/mustafa-gerdan/why-is-google-successful_337734.html" target="_blank">Why is Google successful?</a>
 * <a href="http://www.answers.com/Q/Why_is_Google_the_best_search_engine" target="_blank">Why is Google the best search engine</a> 
-* <a href="224639" target="_blank">Bing vs. Google: Which Search Engine is Best?</a>
-* <a href="google-worlds-most-popular-search-engine-148089" target="_blank">Google Still World's Most Popular Search Engine By Far</a>
-* <a href="accurate-contrarian-theories-2011-5" target="_blank">Why Google Succeeded Where Other Search Engines Failed</a>
+* <a href="http://www.entrepreneur.com/article/224639" target="_blank">Bing vs. Google: Which Search Engine is Best?</a>
+* <a href="http://searchengineland.com/google-worlds-most-popular-search-engine-148089" target="_blank">Google Still World's Most Popular Search Engine By Far</a>
+* <a href="http://www.businessinsider.com/accurate-contrarian-theories-2011-5" target="_blank">Why Google Succeeded Where Other Search Engines Failed</a>
 
 `Let them find their way to help you get what you want.`
 
