@@ -57,7 +57,7 @@ As we have mentioned in our project description, we intent to be among the best 
 Most probably we can say that Google Still World's Most Popular Search Engine By Far. Why is Google successful? Let's try _<a href="https://www.google.com/search?q=what+makes+google+the+best+search+engine" target="_blank">searching</a>_ again. 
 
 Here are what we got. We put here just for example:
-* [[Why is Google Popular?|]]
+* [[Why is Google Popular?|http://www.googleguide.com/searchLeader.html]]
 * [[Why is Google successful?|http://www.todayszaman.com/blog/mustafa-gerdan/why-is-google-successful_337734.html]]
 * [[Bing vs. Google: Which Search Engine is Best?|http://www.entrepreneur.com/article/224639]]
 * [[http://www.businessinsider.com/accurate-contrarian-theories-2011-5?IR=T&|http://www.businessinsider.com/accurate-contrarian-theories-2011-5?IR=T&]]
