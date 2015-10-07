@@ -120,7 +120,7 @@ Base on the mapping you may find on what section that you are currently reading.
 * What _Section_ shall we get next? 
 * What _Topic_ is supposed to be found there?   
  
-_Just carefully observe the mapping or better [[back again|Mapping]] before you answer it. If you are sure with your answer just click the **Next** Button below, see if your answer is correct.._
+_Just carefully observe the mapping or consider to go [[back again|Mapping]] before you answer it. If you are sure with your answer just click the **Next** Button below, see if your answer is correct.._
 ***
 <table>
   <thead>
