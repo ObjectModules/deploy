@@ -23,6 +23,8 @@ Now it is your turn to familiar with the flow on our concept. If you have follow
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png)
 ##By Tabulation
 Here are the tabulation showing the list of all the process that are involved. You may check location on each of the process by clicking on each item.
+
+_Please note that [[This Project|https://github.com/hyip]] is still Under Construction. The following URL is just to demonstrate on how we manage the Repositories in correlation to the Mapping Concept._
 <table>
   <thead>
     <tr>
@@ -95,7 +97,7 @@ Here are the tabulation showing the list of all the process that are involved. Y
   </tbody>
 </table>
 
-**_Note:_**  
+**_Legend:_**  
 :house: _Organization, Listing all Repositories including Forked Ones_  
 :cinema: _Website URL, Demonstrate the content of each process on web_  
 
