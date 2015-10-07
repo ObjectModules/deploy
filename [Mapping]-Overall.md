@@ -103,6 +103,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still Under Constr
 :cinema: _Website URL, Assigned Page to demonstrate the content of each process on web_  
 
 #TODO List
+No matter whether your lists are work related or just for fun. No matter what you’re planning, how big or small the task may be, TODO list makes it easy to get stuff done. 
 ##Further Development
 We are going to develop further our concept on mapping. We would like to have it displayed using a programmatic way. 
 
