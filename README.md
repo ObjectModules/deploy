@@ -41,7 +41,7 @@ Others programming language like **[Scala](http://www.scala-lang.org/)** and **[
 - Automate deployments on [Amazon Platform](https://aws.amazon.com/) using [AWS CodeDeploy](https://github.com/integrations/aws-codedeploy) avalaible at [GitHub Integration](https://github.com/integrations)
 
 ##Documentation Structure
-As Google has made a nice and beautiful documentation for each of their product then the documentation of this project will be made as simple as possible in only to explain a specific task on how to make the code running and successfully gain the access to each Google Product. The link to develop in deeper will be provided in the discussed section.
+As Google has made a nice and beautiful documentation for each of their product then the documentation of this project will be [mapped](https://github.com/hyip/info/wiki/%5BMapping%5D-Concept) as simple as possible in only to explain a specific task on how to make the code running and successfully gain the access to each Google Product. 
 
 Building and Test is being carried out. As a sample for online demo that create a simple page applying the above scheme using Google App Engine with the Google Cloud Storage as well also use the following Google Products as below:
 
@@ -49,6 +49,7 @@ Building and Test is being carried out. As a sample for online demo that create 
 - [Google Analitycs](https://www.google.com/analytics/) to measure the pageview
 - [Google Talk](http://www.google.com/talk/whatsnew_more.html) for online communication
 
+The link to develop in deeper will be provided in the discussed section.
 
 ##Algorithm Structure
 
