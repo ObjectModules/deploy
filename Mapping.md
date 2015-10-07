@@ -70,7 +70,7 @@ It is quite amazing because usually when people put different criteria then the 
 
 But when people asked what is the best search engine, then mostly probably you will find that Google is the answer whatever criteria they use. Means different criteria but the same answer.
 
-Sound unfair.. Why? Because you have already the answer to your best search engine easily. How about your best food? Do you find one? 
+Sound unfair.. Why? Because you have already the answer to your best search engine easily. How about your best food? Do you have find one? 
 
 This is the real world.
 
