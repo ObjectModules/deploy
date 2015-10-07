@@ -24,7 +24,7 @@ Now it is your turn to familiar with the flow on our concept. If you have follow
 ##By Tabulation
 Here are the tabulation showing the list of all the process that are involved. You may check location on each of the process by clicking on each item.
 
-_Please note that [[This Project|https://github.com/hyip]] is still Under Construction. The following URL is just to demonstrate on how we manage the Repositories in correlation to the Mapping Concept._
+_Please note that [[This Project|https://github.com/hyip]] is still Under Construction. The following URL's are just to demonstrate on how we manage the Repositories in correlation to the Mapping Concept._
 <table>
   <thead>
     <tr>
