@@ -64,6 +64,16 @@ Here are what we got. We put here just for example:
 * <a href="http://searchengineland.com/google-worlds-most-popular-search-engine-148089" target="_blank">Google Still World's Most Popular Search Engine By Far</a>
 * <a href="http://www.businessinsider.com/accurate-contrarian-theories-2011-5" target="_blank">Why Google Succeeded Where Other Search Engines Failed</a>
 
+Here you can see that there are a number of reasons or parameters that people say to describe how Google become the best search engine.
+
+It is quite amazing because usually when people put different criteria then the result can be different, let take an example, say what is the best food now in the world? Every one can give different answer base on their parameter or criteria. 
+
+But when people asked what is the best search engine, then mostly probably you will find that Google is the answer whatever criteria they use. Means different criteria but the same answer.
+
+Sound unfair.. Why? Because you have already the answer to your best search engine easily. How about your best food? Do you find one? 
+
+This is the real world.
+
 `Let them find their way to help you get what you want.`
 
 ##Nonpattern Word (isogram)
