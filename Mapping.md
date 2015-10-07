@@ -54,7 +54,7 @@ _It could even never ever happen on your whole live that you find your best food
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
 ##How to put the parameter?
-Most probably we can say that Google Still World's Most Popular Search Engine By Far. Why is Google successful? Let's try _[[searching|https://www.google.com/?q=what+makes+google+the+best+search+engine]]_ again. 
+Most probably we can say that Google Still World's Most Popular Search Engine By Far. Why is Google successful? Let's try _<a href="https://www.google.com/search?q=what+makes+google+the+best+search+engine" target="_blank">searching</a>_ again. 
 
 Here are what we got. We put here just for example:
 * [[Why is Google Popular?|]]
