@@ -114,10 +114,10 @@ http://hyip.world/js-sequence-diagrams
 http://hyip.world/railroad-diagrams/generator.html 
  
 ##Question for you
-We have mentioned our TODO List. As we have mentioned on the top of this page, so now we have a little TODO List for you which is our question to answer as below: 
+We have mentioned our TODO List. Now we have a little TODO List for you which is our question to answer as below: 
 
-Base on the mapping you may find on what section that you are currently reading. So would you please define for the followings:
-* What _Section_ shall we go next? 
+Base on the mapping you may find on what section that you are currently reading. As we have mentioned on the top of this page, this page is the last page of current section. So would you please define for the followings:
+* What _Section_ shall we get next? 
 * What _Topic_ is supposed to be found there?   
  
 _Just carefully observe the mapping or better [[back again|Mapping]] before you answer it. If you are sure with your answer just click the **Next** Button below, see if your answer is correct.._
