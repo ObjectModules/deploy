@@ -95,6 +95,10 @@ Here are the tabulation showing the list of all the process that are involved. Y
   </tbody>
 </table>
 
+Note:
+* :house: Organization Page
+* :cinema: Displaying Page
+
 #TODO List
 ##Further Development
 We are going to develop further our concept on mapping. We would like to have it displayed using a programmatic way. 
