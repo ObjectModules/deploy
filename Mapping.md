@@ -69,7 +69,7 @@ Here are what we got. We put here just for example:
 ##Nonpattern Word (isogram)
 Having make a research on what people has do a similar with the concept, we found this on _[[isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating letters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
 
-Luckily we found also that Google has made a single function using this word, this function is used worldwide since many years on their JavaScript Snippet called [Advanced Configuration - Web Tracking (analytics.js)](https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced).
+Luckily we found also that Google has made a single function using this word, this function is used worldwide since many years on their JavaScript Snippet called <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced" target="_blank>Advanced Configuration - Web Tracking (analytics.js)</a>.
 
 `The JavaScript tracking tag for Google's new Universal Analytics uses one letter variable names - i, s, o, g, r, a, m.`
 
@@ -94,7 +94,7 @@ letter m stand as s.getElementsByTagName(o)[0]
 
 See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined. 
 
-We found this as an amazing concept. It's built small as it use only a few characters but it is really compact which enable Google to use it for their broadway _[[utilization|https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits]]_. 
+We found this as an amazing concept. It's built small as it use only a few characters but it is really compact which enable Google to use it for their broadway _<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="_blank>utilization</a>_. 
 
 Unfortunately we could not find if Google made it with the word of `isogram` is in a purpose to correlate what _the word means_ it self into _what they want_ with the function. 
 
