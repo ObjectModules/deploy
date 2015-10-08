@@ -40,7 +40,7 @@ Here we make a mapping of the process from the *the hungry*:
 This process is a simple case. It will become more concern if we put a parameter. Say you are hungry. You want the best food to eat. What are you going to do? 
 
 Let's go searching then. Try to put a keyword _<a href="https://www.google.com/search?q=best+food" target="_blank">'best food'</a>_ on Google Search. You will find a huge result which is processed by Google from may be more than a billion pages to choose. So which one you gonna eat? The top result? Are you sure if that is the best food for you?
-##What we offer
+##How to find it?
 We can say that from what we have explained above, there is a little chance you find your best food from the result. One thing you should aware that Google and other search engines is concern with the page not the food.
 
 When the page has a good scoring in term of their algorithm then the food page will go up on the result. It might be a page contains really your best food but only has poor score on the page they are presented, so you can't find it everywhere. 
@@ -49,6 +49,15 @@ Another thing that you will need to concern is how to be sure that when you find
 
 _It could even never ever happen on your whole live that you find your best food!_
 
+So you can't get it here. Let say you better go to a doctor to know what is the best food for you. Would you define what is your doctor going to do? 
+
+Of course he will first check what do you need, what do you want. Then if he is agree with then he will do examine your self and find the food on his library that match to your data. Here is the important think is he will choose the food base on your data. 
+
+It is really different with what if you getting the food by your self, you will find the food with the food you want, not the food that match to your data. 
+
+`Just do the way they want. Not of what you think.`
+
+##What we offer
 We have to sorted out all information in related to the food. We also need all of your data. Then we can define your best food.  
 
 Getting the data of the food is one process. Getting the data of you is also another process. Both are different.
@@ -76,7 +85,6 @@ Then we need also the mapping about your self:
 ```
 See that each of the process has a different assignment, none of them is meaningless, each of them hold a unique task, nothing is repeated. 
  
-`Just do the way they want. Not of what you think.`
 #What's Next
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
