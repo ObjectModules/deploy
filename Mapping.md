@@ -159,7 +159,8 @@ So how to become the best one then?
 Let's find first how people define about the best it self is. 
 
 ##How to become the best?
-Most probably we can say that Google Still World's Most Popular Search Engine By Far. Why is Google successful?  As usual, Let's try _<a href="https://www.google.com/search?q=what+makes+google+the+best+search+engine" target="_blank">searching</a>_ again.
+Most probably we can say that Google Still World's Most Popular Search Engine By Far.  
+Why is Google successful?  As usual, Let's try _<a href="https://www.google.com/search?q=what+makes+google+the+best+search+engine" target="_blank">searching</a>_ again.
 
 Here are what we got. We put here just for example:
 * <a href="http://www.googleguide.com/searchLeader.html" target="_blank">Why is Google Popular?</a>
