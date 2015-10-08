@@ -116,7 +116,7 @@ We have found some projects on GitHub that we can start to do so. Following are 
 ##Question for you
 We have mentioned our TODO List. Now we have a little TODO List for you which is our question to answer as below: 
 
-As we have mentioned on the top of this page, this page is the last page of [[The Current Section|https://github.com/hyip/info/wiki]]. So would you please define for the followings:
+As we have mentioned on the top of this page, this page is the last page of _[[The Current Section|https://github.com/hyip/info/wiki]]_. So would you please define for the followings:
 * What _Section_ shall we get next? 
 * What _Topic_ is supposed to be found there?   
  
