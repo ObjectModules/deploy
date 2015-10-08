@@ -142,7 +142,7 @@ You are correct. We need to get a library of the business. Then we can find the 
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
 That is where we want to go.  
-How to become the best then?  
+How to become the best one then?  
 Let's find first how people define about the best it self is. 
 
 ##How to become the best?
