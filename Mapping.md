@@ -177,7 +177,7 @@ But when people asked what is the best search engine, then mostly probably you w
 
 _How come that people have a different criteria but they got the same answer._
 
-Are you with us? We would think so. But it sound unfair.. Why?  
+Are you with us? We would think so. But it sound unfair, right? Why?  
 Because you have already the answer to your best search engine easily.  
 How about your best food? Do you have already find one? 
 
