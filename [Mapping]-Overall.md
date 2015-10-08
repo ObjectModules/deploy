@@ -99,7 +99,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 </table>
 
 **_Legend:_**  
-:house: _Organization Page, Contain the List of the Repositories including Forked Ones_  
+:house: _Organization Page, Contain the List of Repositories including Forked Ones_  
 :cinema: _Assigned Page to demonstrate the content of each process on web_  
 
 #TODO List
