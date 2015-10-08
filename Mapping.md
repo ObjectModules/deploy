@@ -83,14 +83,14 @@ Let's put again the mapping here:
 * Eat is the process
 * Exit point  
 ```
-Mapping of the process on getting the data in related with the food:
+Mapping of the process on getting the library in related with the food:
 ```
 * Food will became an entry point
 * Library is what we need 
 * Collect is the process
 * Exit point  
 ```
-Then we need also the mapping about your self:
+Then we need also the mapping about getting the data about your self:
 ```
 * You will became an entry point
 * Your data is what we need 
