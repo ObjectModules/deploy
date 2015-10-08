@@ -133,7 +133,7 @@ Why are we intend to do it then?
 Simple, it is because you cannot find your best food on search engine, correct?  
 If you can find easily there then for sure this project will never come to exist. No point for us.
 
-Unfortunately we are not making this project to give an information about your best food, we want to go wider. What is really people deeply seeking? Yes, money. How to get the money then. Yes, we have to do some business. Which business then? 
+Unfortunately we are not making this project to give an information about your best food, we want to go wider. What is really people deeply seeking? A best food? No. Yes, money. How to get the money then. Yes, we have to do some business. Which business then? 
 
 Here a big question mark is coming again. What shall we do? Are we going for searching again? Of course not. Let's do the same way as the method of finding your best food. 
 
