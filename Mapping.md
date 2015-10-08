@@ -102,7 +102,7 @@ See that each of the process has a different assignment, none of them is meaning
 ##Settlement
 One think you shall note here is that when you have eat the food then the food is 'no more best food' it is just a food. It is only the one which is the best for you. Not for every body. So it is just a normal food. 
 
-So when you eat the food. Then it is a normal process. It is only a routines. It will become the same routine just the same as before we put the parameter:
+So when you eat the food. Then it is a normal process. So other process is no more required. It will become the same routine just the same as before we put the parameter: 
 ```
 * Hungry will became an entry point
 * Food is what we need 
