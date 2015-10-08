@@ -107,7 +107,7 @@ No matter whether your lists are work related or just for fun. No matter what yo
 ##Further Development
 We are going to develop further our concept on mapping. We would like to have it displayed on the mapping section of _[[our main site|http://hyip.world/#templatemo-contact]]_ using a programmatic way. 
 
-We have found some projects on GitHub that we can start to do so. Following are the list of URL's which is generated from our forked repository of said projects.
+We have found some projects on GitHub that we can start to do so. Following are the list of URL's which is generated from our forked repository of the said projects.
  
 - http://hyip.world/GoJS  
 - http://hyip.world/js-sequence-diagrams  
