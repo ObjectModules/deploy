@@ -74,7 +74,8 @@ Then we need also the mapping about your self:
 * Eat is the process
 * Exit point  
 ```
-
+See that all of the process is unique. Nothing is repeated. See that each process has a different assignment, each of them hold a unique task. None of them is meaningless.
+ 
 `Just do the way they want. Not of what you think.`
 #What's Next
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
