@@ -134,9 +134,10 @@ Why are we intend to do it then?
 Simple, it is because you cannot find your best food on search engine, correct?  
 If you can find easily there then for sure this project will never come to exist. No point for us.
 
-Unfortunately we are not making this project to give an information about your best food, we want to go wider. 
-
+Unfortunately we are not making this project to give an information about your best food. 
 What is really people deeply seeking? A best food? Nope..  
+We want to go wider. 
+
 Money? Yes! How to get the money then.  
 Yes, we have to do some business.  
 Which business then? 
