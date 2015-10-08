@@ -71,7 +71,7 @@ So here, because you are the president, it is not only the doctors but the count
 `Let them find their way to help you get what you want.`
 
 ##What we offer
-Here we are going to do the same way when you go a doctor. We have to sorted out all information in related to all kind of the food to become a library. We will also need to examine all of your data. Hopefully then you can follow the method on getting your best food.  
+Here we are going to do the same way when you go to a doctor. We have to sorted out all information in related to all kind of the food to become a library. We will also need to examine all of your data. Hopefully then you can follow the method on getting your best food.  
 
 Getting the library of the food is one process. Getting the data of your self is also another process. Both are different.
 
@@ -103,7 +103,7 @@ See that each of the process has a different assignment, none of them is meaning
 ##Settlement
 Let's map about the process of getting the best food for you the same way as your doctor do:
 ```
-* Both library and your data will become an entry point
+* Both food library and your data will become the entry points
 * A best food on library for you is what we need 
 * Matching the data is the process
 * Exit point  
