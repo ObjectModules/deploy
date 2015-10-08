@@ -49,7 +49,7 @@ Another thing that you will need to concern is how to be sure that when you find
 
 _It could even never ever happen on your whole live that you find your best food!_
 
-So you can't get it here. Let say you better go to a doctor to know what is the best food for you. Would you define what is your doctor going to do? 
+So here you can't get it, but you really need to get it. Let say you better go to a doctor to know what is the best food for you. Would you define what is your doctor going to do? 
 
 Of course he will first check what do you need, what do you want. Then if he is agree with you then he will do examine your self and find the food on his library that match to your data. Here is the important think is he will choose the food base what he got on your data.
 
