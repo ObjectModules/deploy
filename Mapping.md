@@ -109,7 +109,7 @@ Let's map about the process of getting the best food for you the same way as you
 ```
 At this point it is a big chance that the best food for you is founded !
 
-One think you shall note here is that when you already get to know what is the best food for you then the food is _no more best food_. It is only the one which is the best for you. Not for every body. So it is just a food. 
+One think you shall note here is that when you already get to know what is the best food for you then the food is _no more best food_. It is only the one which is the best for you.
 
 So now you can you eat your best food. Your life will become more valuable. Congrats! 
 
