@@ -130,11 +130,11 @@ Settled.
 
 Hopefully you have clear enough to what we have explained above. You see here that we are not going to give your best food, nor even an information about your best food. We just give you a method of how to get an information about your best food.
 
+##What is this project stand for?
 Why are we intend to do it then?  
 Simple, it is because you cannot find your best food on search engine, correct?  
 If you can find easily there then for sure this project will never come to exist. No point for us.
 
-##What is this project stand for?
 Unfortunately we are not making this project to give an information about your best food.  
 What is really people deeply seeking? A best food? Nope..   
 We want to go wider. 
