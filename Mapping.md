@@ -45,7 +45,7 @@ We can say that from what we have explained above, there is a little chance you 
 
 When the page has a good scoring in term of their algorithm then the food page will go up on their result so you can easily find it. 
 
-It might be some where a page contains from someone that present really your best food but only has poor score on the page they are presented, so chance is little for you to find it. The worst case it might be no page about it so you can't find it anywhere. 
+It might be some where a page contains from someone that present really your best food but only has poor score on the page they are presented, so chance is little for you to find it. The worst case is it might be no page about it so you can't find it anywhere. 
 
 Another thing that you will need to concern is how to be sure that when you find an information about your best food is really your best food. Here chance is also little. None of search engine can guarantee that their result is really the answer to your need. 
 
