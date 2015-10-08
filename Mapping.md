@@ -227,7 +227,7 @@ We found this as a beautiful concept. It's built small as it use only a few char
 
 Unfortunately we could not find if Google made it with the word of `isogram` is in a purpose to correlate _what the word means_ it self into _what they really want_ with the function. 
 
-Nevertheless, this is really an exact sample that close enough with what we will explain further in more details on the next section titled _[[Mapping the Concept|[Mapping]-Concept]]_. 
+Nevertheless, this is really an exact sample that close enough with our concept, We will explain further in more details on the next section titled _[[Mapping the Concept|[Mapping]-Concept]]_. 
 ***
 <table>
   <thead>
