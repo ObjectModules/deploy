@@ -17,7 +17,7 @@
 
 In this section we will explain about the employment in our concept. Please note that we are going deeper and deeper. 
 
-_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Employment]]._
+_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Concept]]._
 ##Standardization  
 Let put again the diagram we have got on [[previous section|[Mapping]-Concept]]   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)  
