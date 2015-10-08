@@ -93,7 +93,7 @@ Mapping of the process on getting the data in related with the food:
 Then we need also the mapping about your self:
 ```
 * You will became an entry point
-* Library is what we need 
+* Your data is what we need 
 * Examine is the process
 * Exit point  
 ```
