@@ -55,7 +55,7 @@ Of course he will first check what do you need, what do you want. Then if he is 
 
 It is really different with what if you getting the food by your self, you will find the food with the food you want, _not the food that match to your data_. 
 
-So here the best way you shall do is take the food that the doctor want you to eat. Not the food that you think it is the best one for you.
+So here the best way you shall do is take the food that the _doctor want_ you to eat. Not the food that _you think_ it is the best one for you.
 
 `Just do the way they want. Not of what you think.`
 
