@@ -137,7 +137,7 @@ Unfortunately we are not making this project to give an information about your b
 
 Here a big question mark is coming again. What shall we do? Are we going for searching again? Of course not. Let's do the same way as the method of finding your best food. 
 
-You are correct. We need to get a library of the business. Then we can find the best business. How to define the best one then. You are correct. We have to score them. This is our point!
+You are correct. We need to get a library of the business. Then we can find the best business. How to define the best one then. No other way, we have to score them. This is our point!
 
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
