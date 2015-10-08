@@ -131,7 +131,7 @@ Hopefully you have clear enough to what we have explained above. You see here th
 
 Why are we intend to do it then?  
 Simple, it is because you cannot find your best food on search engine, correct?  
-When you can find easily there then for sure this project will never come to exist. It is no point for us.
+If you can find easily there then for sure this project will never come to exist. No point for us.
 
 Unfortunately we are not making this project to give an information about your best food, we want to go wider. What is really people deeply seeking? Yes, money. How to get the money then. Yes, we have to do some business. Which business then? 
 
