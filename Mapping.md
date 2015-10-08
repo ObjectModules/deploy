@@ -70,7 +70,7 @@ So here, because you are the president, it is not only the doctors but the count
 `Just do the way they want. Not of what you think.`
 
 ##What we offer
-Here we are going to do the same way when you go a doctor. We have to sorted out all information in related to all kind of the food to become a library. We will also need to examine all of your data. Hopefully then we can define your best food.  
+Here we are going to do the same way when you go a doctor. We have to sorted out all information in related to all kind of the food to become a library. We will also need to examine all of your data. Hopefully then you can follow the method on getting your best food.  
 
 Getting the library of the food is one process. Getting the data of your self is also another process. Both are different.
 
@@ -107,6 +107,8 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
+At this point it is a big chance that the best food for you is founded !
+
 One think you shall note here is that when you already get to know what is the best food for you then the food is _no more best food_. It is only the one which is the best for you. Not for every body. So it is just a food. 
 
 So when you eat the food. Then it is a normal process. Other process is no more required. It will become the same routine just the same as before we put the parameter: 
