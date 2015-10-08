@@ -100,7 +100,7 @@ Then we need also the mapping about your self:
 See that each of the process has a different assignment, none of them is meaningless, each of them hold a unique task, nothing is repeated. 
 
 ##Settlement
-One think you shall note here is that when you have eat the food then the food is _no more best food_ it is just a food. It is only the one which is the best for you. Not for every body. So it is just a normal food. 
+One think you shall note here is that when you have eat the food then the food is _no more best food_. It is only the one which is the best for you. Not for every body. So it is just a food. 
 
 So when you eat the food. Then it is a normal process. So other process is no more required. It will become the same routine just the same as before we put the parameter: 
 ```
