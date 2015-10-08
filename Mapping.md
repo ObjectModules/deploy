@@ -103,7 +103,7 @@ See that each of the process has a different assignment, none of them is meaning
 ##Settlement
 Let's map about the process of getting the best food for you the same way as your doctor do:
 ```
-* Both food library and your data will become the entry points
+* Both of food library and your data will become the entry point
 * A best food on library for you is what we need 
 * Matching the data is the process
 * Exit point  
