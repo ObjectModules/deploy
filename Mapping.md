@@ -188,6 +188,8 @@ This is the real world.
 ##Our concept
 Here you almost come to the end story behind our concept. You can say that this project is about a mapping system. A unique mapping system to define between what we do want with the way that we are going to achieve it.  
 
+We are going to manage a different assignment on our section, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined to achieve what we want.
+
 You can find our explanation about this concept in more detail. We will start to explain on how we make the mapping to manage our repositories of this project follow to the concept.
 
 You will also find later that we are going to test our concept in such a way that you can find easily whether it is work on real world or not.  
