@@ -68,6 +68,7 @@ In an extreme case it will be the same. Say you are a very important person. You
 So here, because you are the president, it is not only the doctors but the country and most probably the world also want you to eat the food base on the recommendation from the doctors. _Not the food that match to what you think it is the best one for you._
 
 `Just do the way they want. Not of what you think.`
+`Let them find their way to help you get what you want.`
 
 ##What we offer
 Here we are going to do the same way when you go a doctor. We have to sorted out all information in related to all kind of the food to become a library. We will also need to examine all of your data. Hopefully then you can follow the method on getting your best food.  
@@ -151,8 +152,6 @@ Because you have already the answer to your best search engine easily.
 How about your best food? Do you have already find one? 
 
 This is the real world.
-
-`Let them find their way to help you get what you want.`
 
 ##Nonpattern Word (isogram)
 Having make a research on what people has do a similar with the concept, we found this on _[[isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating letters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
