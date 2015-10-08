@@ -37,9 +37,13 @@ Here we make a mapping of the process from the *the hungry*:
 * Exit point  
 ```
 
-This is just a simple case. It is a normal process in you live. It is a routine. It will become to your concern if we put a parameter. Say you are hungry. You want to have the best food to eat but you don't know yet which the one is. What are you going to do? 
+This is just a simple case. It is a normal process in you live. It is a routine. 
 
-Let's go searching then. Try to put a keyword _<a href="https://www.google.com/search?q=best+food" target="_blank">'best food'</a>_ on Google Search. You will find a huge result which is processed by Google from may be more than a billion pages to choose. So which one you gonna eat? The top result? Are you sure if that is the best food for you?
+It will become to your concern if we put a parameter. Say you are hungry. You want to have the best food to eat but you don't know yet which the one is. What are you going to do? 
+
+Let's go for a simple way then. We are going for searching. Try to put a keyword _<a href="https://www.google.com/search?q=best+food" target="_blank">'best food'</a>_ on Google Search. You will find a huge result which is processed by Google from may be more than a billion pages to choose. 
+
+So which one you gonna eat? The top result? Are you sure if that is the best food for you?
 ##How to find it?
 We can say that from what we have explained above, there is a little chance you find your best food from the result. One thing you should aware that Google and other search engines is concern with the page not the food.
 
