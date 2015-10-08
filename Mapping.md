@@ -99,9 +99,18 @@ Then we need also the mapping about your self:
 ```
 See that each of the process has a different assignment, none of them is meaningless, each of them hold a unique task, nothing is repeated. 
 
-One think you shall note here is that when you have eat the food then the food is 'no more best food' it is just a food. Normal food. Normal eat. Normal process. It is only a routines. 
+##Settlement
+One think you shall note here is that when you have eat the food then the food is 'no more best food' it is just a food. It is only the one which is the best for you. Not for every body. So it is just a normal food. 
 
-All back to normal. Exit.
+So when you eat the food. Then is normal process. It is only a routines. It will be the same routine:
+```
+* Hungry will became an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+See that when get the food every thing is back to normal.
+All back to routines. Exit.
  
 #What's Next
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
