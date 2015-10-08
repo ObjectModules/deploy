@@ -31,7 +31,7 @@ Consider our living is the global process. If you don't eat then it will jeopard
 Here we make a mapping of the process from the *the hungry*:
 
 ```
-* Hungry will became an entry point
+* Hungry will become an entry point
 * Food is what we need 
 * Eat is the process
 * Exit point  
@@ -78,21 +78,21 @@ Let's define how we are going to get the library in related with the food and th
 
 Let's put again the mapping here:
 ```
-* Hungry will became an entry point
+* Hungry will become an entry point
 * Food is what we need 
 * Eat is the process
 * Exit point  
 ```
 Mapping of the process to collect the library in related with the food:
 ```
-* Food will became an entry point
+* Food will become an entry point
 * Library is what we need 
 * Collect is the process
 * Exit point  
 ```
 Then we need also the mapping to examine your self to get your data:
 ```
-* You will became an entry point
+* You will become an entry point
 * Your data is what we need 
 * Examine is the process
 * Exit point  
@@ -104,7 +104,7 @@ One think you shall note here is that when you have eat the food then the food i
 
 So when you eat the food. Then it is a normal process. So other process is no more required. It will become the same routine just the same as before we put the parameter: 
 ```
-* Hungry will became an entry point
+* Hungry will become an entry point
 * Food is what we need 
 * Eat is the process
 * Exit point  
