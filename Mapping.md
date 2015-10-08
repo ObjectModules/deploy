@@ -116,7 +116,7 @@ So when you eat the food. Then it is a normal process. Other process is no more 
 * Eat is the process
 * Exit point  
 ```
-See that when get the food every thing is back to normal.  
+See that every thing is back to normal.  
 All back to routines. Exit.  
 Settled.
  
