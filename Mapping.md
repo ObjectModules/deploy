@@ -107,7 +107,7 @@ Let's map about the process of getting the best food for you here
 * Matching the data is the process
 * Exit point  
 ```
-One think you shall note here is that when you have eat the food then the food is _no more best food_. It is only the one which is the best for you. Not for every body. So it is just a food. 
+One think you shall note here is that when you already get to know what is the best food for you then the food is _no more best food_. It is only the one which is the best for you. Not for every body. So it is just a food. 
 
 So when you eat the food. Then it is a normal process. Other process is no more required. It will become the same routine just the same as before we put the parameter: 
 ```
