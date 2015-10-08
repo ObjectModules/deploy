@@ -174,7 +174,7 @@ Here you can see that there are a number of reasons or parameters that people sa
 
 It is quite amazing because usually when people put different criteria then the result can be different, let take an example, say what is the best food now in the world? Every one can give different answer base on their parameter or criteria. 
 
-But when people asked what is the best search engine, although there are so may search engines in the world, most probably you will find that Google is the answer whatever criteria that people use. 
+But when people asked what is the best search engine, although there are so many search engines in the world, most probably you will find that Google is the answer whatever criteria that people use. 
 
 _How come that people have a different criteria but they got the same answer._
 
