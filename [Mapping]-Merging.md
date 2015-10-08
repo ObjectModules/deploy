@@ -17,7 +17,7 @@
 
 Now we will explain about the merging in our concept. We are going to put the diagrams all together. Please be prepared your self as this section is the hardest part to follow. 
 
-_Here we do our best to explain as you might get confused. However we recommend you to make clear your self to our [[previous section|[Mapping]-Employment]] in order to get easier on following this section._
+_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Employment]]._
 
 ##Concept of Merging
 ###Basic Rules
