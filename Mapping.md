@@ -15,7 +15,9 @@
 </table>
 
 #Mapping
-Here you come to our section that we gonna explain our concept in detail about our project.
+Here you come to our section that we gonna explain our concept in detail about our project.  
+You have to have an open mind. If you're not enjoying it, don't do it.
+
 ##Background
 
 As we have named this project as 'The HYIP Project' then we would like you to visit a page [*here*](https://tophyipmonitor.wordpress.com/hyip-world/) that describe in general of what we want to achieve.
