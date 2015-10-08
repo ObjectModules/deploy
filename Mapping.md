@@ -59,7 +59,7 @@ It is really different with what if you are going to get the food by your self, 
 
 So here the best way you shall do is take the food that the _doctor want_ you to eat. Not the food that _you think_ it is the best one for you.
 
-In an extreme case it will be the same. Say you are a very important person. You are the president of a country. The country will for sure provide you a team of best doctors in the country. 
+In an extreme case it will be the same. Say you are a very important person. You are the president of a country. The country will for sure provide you a team of best doctors in the country. They will do their best to find the best food for you.
 
 So here not only the doctors but the country or may be the world also want you to eat the food base on your data.
 
