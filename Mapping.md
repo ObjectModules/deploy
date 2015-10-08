@@ -70,7 +70,7 @@ So here, because you are the president, it is not only the doctors but the count
 `Just do the way they want. Not of what you think.`
 
 ##What we offer
-We have to sorted out all information in related to the food. We also need all of your data. Then we can define your best food.  
+Here we are going to do the same way when you go a doctor. We have to sorted out all information in related to the food. We also need all of your data. Hopefully then we can define your best food.  
 
 Getting the data of the food is one process. Getting the data of you is also another process. Both are different.
 
