@@ -121,7 +121,7 @@ Then it is back to a normal process. Other process is no more required. It will 
 * Exit point  
 ```
 See that every thing is back to normal.  
-All back to routines. Exit.  
+All back to routines. 
 Settled.
  
 #What's Next
