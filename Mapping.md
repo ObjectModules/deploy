@@ -61,7 +61,7 @@ So here the best way you shall do is take the food that the _doctor want_ you to
 
 In an extreme case it will be the same. Say you are a very important person. You are the president of a country. The country will for sure provide you a team of the best doctors in the country. They will do their best to find and recommend the best food for you.
 
-So here not only the doctors but the country or may be the world also want you to eat the food base on the recommendation from the doctors as the result of your data. _Not the food that match to what you think it is the best one for you._
+So here, because you are the president, it is not only the doctors but the country or may be the world also want you to eat the food base on the recommendation from the doctors as the result of your data. _Not the food that match to what you think it is the best one for you._
 
 `Just do the way they want. Not of what you think.`
 
