@@ -131,9 +131,11 @@ Hopefully you have clear enough to what we have explained above. You see here th
 
 Why are we intend to do it then? Simple, it is because you cannot find your best food on search engine, correct? When you can find easily there then for sure this project will never come to exist.
 
-Unfortunately we are not making this project to give an information about your best food, we want to go wider. What is really people deeply seeking? Yes, money. How to get the money then. Yes, we have to do some business. Which business then? Here a big question mark is coming. 
+Unfortunately we are not making this project to give an information about your best food, we want to go wider. What is really people deeply seeking? Yes, money. How to get the money then. Yes, we have to do some business. Which business then? 
 
-What we shall do? Are you going to searching again? Of course not. Let's do the same way as the method of finding your best food. You are correct. We need to get a library of the business. Then we can find the best business. How to define the best one then. You are correct. We have to score them.
+Here a big question mark is coming again. What we shall do? Are you going to searching again? Of course not. Let's do the same way as the method of finding your best food. 
+
+You are correct. We need to get a library of the business. Then we can find the best business. How to define the best one then. You are correct. We have to score them. This is our point!
 
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
