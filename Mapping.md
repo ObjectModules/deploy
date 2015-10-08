@@ -60,7 +60,7 @@ Let's define how we are going to get the data in related with the food in the sa
 * Eat is the process
 * Exit point  
 ```
-Get the data in related with the food:
+Mapping of the process on getting the data in related with the food:
 ```
 * Hungry will became an entry point
 * Food is what we need 
