@@ -74,7 +74,7 @@ Then we need also the mapping about your self:
 * Eat is the process
 * Exit point  
 ```
-See that all of the process is unique. Nothing is repeated. See that each process has a different assignment, each of them hold a unique task. None of them is meaningless.
+See that each of the process has a different assignment, each of them hold a unique task, none of them is meaningless. Most important thing here is that _nothing is repeated_. 
  
 `Just do the way they want. Not of what you think.`
 #What's Next
