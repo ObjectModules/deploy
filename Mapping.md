@@ -109,7 +109,7 @@ Let's map about the process of getting the best food for you here
 ```
 One think you shall note here is that when you have eat the food then the food is _no more best food_. It is only the one which is the best for you. Not for every body. So it is just a food. 
 
-So when you eat the food. Then it is a normal process. So other process is no more required. It will become the same routine just the same as before we put the parameter: 
+So when you eat the food. Then it is a normal process. Other process is no more required. It will become the same routine just the same as before we put the parameter: 
 ```
 * Hungry will become an entry point
 * Food is what we need 
