@@ -113,7 +113,7 @@ One think you shall note here is that when you already get to know what is the b
 
 So now you can you eat your best food. Your life will become more valuable. Congrats! 
 
-Then it is back to a normal process. Other process is no more required. It will become the same routine just the same as before we put the parameter: 
+Then it is back to a normal process. Other process is no more required. It will become the same routine just the same as before we put the parameter of _best_ to the food: 
 ```
 * Hungry will become an entry point
 * Food is what we need 
