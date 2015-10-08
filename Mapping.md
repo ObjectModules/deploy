@@ -49,6 +49,25 @@ Another thing that you will need to concern is how to be sure that when you find
 
 _It could even never ever happen on your whole live that you find your best food!_
 
+We have to sorted out all information in related to the food. We also need all of your data. Then we can define your best food.  
+
+Getting the data of the food is one process. Getting the data of you is also another process. Both are different.
+
+Let's define how we are going to get the data in related with the food in the same way as we make a mapping of the process from the *the hungry*
+```
+* Hungry will became an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+Then we need also the mapping about your self.
+```
+* Hungry will became an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+
 `Just do the way they want. Not of what you think.`
 #What's Next
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
