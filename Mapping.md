@@ -37,7 +37,7 @@ Here we make a mapping of the process from the *the hungry*:
 * Exit point  
 ```
 
-This is just a simple case. It is a normal process in you live. It is a routine. 
+This is just a simple case. It is a normal process in your live. It is just a routine. 
 
 It will become to your concern if we put a parameter. Say you are hungry. You want to have the best food to eat but you don't know yet which the one is. What are you going to do? 
 
