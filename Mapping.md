@@ -111,7 +111,7 @@ At this point it is a big chance that the best food for you is founded !
 
 One think you shall note here is that when you already get to know what is the best food for you then the food is _no more best food_. It is only the one which is the best for you. Not for every body. So it is just a food. 
 
-So when you eat the food. Then it is a normal process. Other process is no more required. It will become the same routine just the same as before we put the parameter: 
+So now you can when you eat your best food. Congrats! Then it is back to a normal process. Other process is no more required. It will become the same routine just the same as before we put the parameter: 
 ```
 * Hungry will become an entry point
 * Food is what we need 
