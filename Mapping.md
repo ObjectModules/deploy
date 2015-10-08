@@ -133,7 +133,7 @@ Why are we intend to do it then? Simple, it is because you cannot find your best
 
 Unfortunately we are not making this project to give an information about your best food, we want to go wider. What is really people deeply seeking? Yes, money. How to get the money then. Yes, we have to do some business. Which business then? 
 
-Here a big question mark is coming again. What we shall do? Are you going to searching again? Of course not. Let's do the same way as the method of finding your best food. 
+Here a big question mark is coming again. What shall we do? Are we going for searching again? Of course not. Let's do the same way as the method of finding your best food. 
 
 You are correct. We need to get a library of the business. Then we can find the best business. How to define the best one then. You are correct. We have to score them. This is our point!
 
