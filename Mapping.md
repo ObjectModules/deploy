@@ -186,7 +186,12 @@ How about your best food? Do you have already find one?
 This is the real world.
 
 ##Nonpattern Word (isogram)
-Having make a research on what people has do a similar with the concept, we found this on _<a href="https://en.wikipedia.org/wiki/Isogram" target="_blank">isogram</a>_ which is a word that doesn't contain any repeating letters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
+
+Here you almost come to the end story behind our concept. You can say that this project is about a mapping system. A unique mapping system to define between what we do want with the way that we are going to achieve it.  
+
+You will also find later that we are going to test our concept in such a way that you can find easily whether it is work on real world or not.  
+
+Having make a research on what people has do a similar with our concept, we found this on _<a href="https://en.wikipedia.org/wiki/Isogram" target="_blank">isogram</a>_ which is a word that doesn't contain any repeating letters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
 
 Luckily we found also that Google has made a single function using this word, this function is used worldwide since many years on their JavaScript Snippet called <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced" target="_blank">Advanced Configuration - Web Tracking (analytics.js)</a>.
 
