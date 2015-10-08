@@ -53,7 +53,7 @@ So you can't get it here. Let say you better go to a doctor to know what is the 
 
 Of course he will first check what do you need, what do you want. Then if he is agree with you then he will do examine your self and find the food on his library that match to your data. Here is the important think is he will choose the food base what he got on your data.
 
-It is really different with what if you getting the food by your self, you will find the food with the food you want, _not the food that match to your data_. 
+It is really different with what if you getting the food by your self, you will find the food with the food you want, the one that you can easily find and buy,  _not the food that match to your data_. 
 
 `Just do the way they want. Not of what you think.`
 
