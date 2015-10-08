@@ -53,14 +53,21 @@ We have to sorted out all information in related to the food. We also need all o
 
 Getting the data of the food is one process. Getting the data of you is also another process. Both are different.
 
-Let's define how we are going to get the data in related with the food in the same way as we make a mapping of the process from the *the hungry*
+Let's define how we are going to get the data in related with the food in the same way as we make a mapping of the process from the *the hungry*. Let's put again the mapping here:
 ```
 * Hungry will became an entry point
 * Food is what we need 
 * Eat is the process
 * Exit point  
 ```
-Then we need also the mapping about your self.
+get the data in related with the food:
+```
+* Hungry will became an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+Then we need also the mapping about your self:
 ```
 * Hungry will became an entry point
 * Food is what we need 
