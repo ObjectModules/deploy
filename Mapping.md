@@ -127,7 +127,7 @@ Settled.
  
 #What's Next
 
-Hopefully you have clear enough to what we have explained above. You see here that we are going to give your best food, nor even an information about your best food. We just give you a method of how to get an information about your best food.
+Hopefully you have clear enough to what we have explained above. You see here that we are not going to give your best food, nor even an information about your best food. We just give you a method of how to get an information about your best food.
 
 Why are we intend to do it then? Simple, it is because you cannot find your best food on search engine, correct? When you can find easily there then for sure this project will never come to exist.
 
