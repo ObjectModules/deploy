@@ -85,16 +85,16 @@ Let's put again the mapping here:
 ```
 Mapping of the process on getting the data in related with the food:
 ```
-* Hungry will became an entry point
-* Food is what we need 
-* Eat is the process
+* Food will became an entry point
+* Library is what we need 
+* Collect is the process
 * Exit point  
 ```
 Then we need also the mapping about your self:
 ```
-* Hungry will became an entry point
-* Food is what we need 
-* Eat is the process
+* You will became an entry point
+* Library is what we need 
+* Examine is the process
 * Exit point  
 ```
 See that each of the process has a different assignment, none of them is meaningless, each of them hold a unique task, nothing is repeated. 
