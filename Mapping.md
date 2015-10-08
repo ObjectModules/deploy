@@ -141,7 +141,9 @@ You are correct. We need to get a library of the business. Then we can find the 
 
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
-That is where we want to go. How to become the best then? Let's find first how people define about the best it self is. 
+That is where we want to go.  
+How to become the best then?  
+Let's find first how people define about the best it self is. 
 
 ##How to become the best?
 Most probably we can say that Google Still World's Most Popular Search Engine By Far. Why is Google successful?  As usual, Let's try _<a href="https://www.google.com/search?q=what+makes+google+the+best+search+engine" target="_blank">searching</a>_ again.
