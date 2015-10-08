@@ -67,7 +67,7 @@ In an extreme case it will be the same. Say you are a very important person. You
 
 So here, because you are the president, it is not only the doctors but the country and most probably the world also want you to eat the food base on the recommendation from the doctors. _Not the food that match to what you think it is the best one for you._
 
-`Just do the way they want. Not of what you think.`
+`Just do the way they want. Not of what you think.`  
 `Let them find their way to help you get what you want.`
 
 ##What we offer
