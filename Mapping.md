@@ -120,7 +120,7 @@ Then it is back to a normal process. Other process is no more required. It will 
 * Eat is the process
 * Exit point  
 ```
-See that every thing is back to normal.  
+See that everything is back to normal.  
 All back to routines.  
 Settled.
  
