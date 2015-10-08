@@ -185,7 +185,7 @@ How about your best food? Do you have already find one?
 This is the real world.
 
 ##Nonpattern Word (isogram)
-Having make a research on what people has do a similar with the concept, we found this on _[[isogram|https://en.wikipedia.org/wiki/Isogram]]_ which is a word that doesn't contain any repeating letters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
+Having make a research on what people has do a similar with the concept, we found this on _<a href="https://en.wikipedia.org/wiki/Isogram" traget="_blank">isogram</a>_ which is a word that doesn't contain any repeating letters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
 
 Luckily we found also that Google has made a single function using this word, this function is used worldwide since many years on their JavaScript Snippet called <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced" target="_blank">Advanced Configuration - Web Tracking (analytics.js)</a>.
 
