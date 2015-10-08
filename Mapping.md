@@ -15,8 +15,8 @@
 </table>
 
 #Mapping
-Here you come to our section that we gonna explain our concept in detail about our project.  
-You have to have an open mind. If you're not enjoying it, don't do it.
+You come to our section that we gonna explain our concept in detail about our project.  
+Here we want you have to have an open mind. If you're not enjoying it, don't do it.
 
 ##Background
 
