@@ -45,7 +45,7 @@ Let's go for a simple way then. We are going for searching. Try to put a keyword
 
 So which one you think the best food for you to eat? Are you going to take the food on top result? Are you sure if that is the best one for you?
 ##How to find it?
-We can say that from what we have explained above, there is a little chance you find your best food from the result. One thing you should aware that Google and other search engines is concern with the page not the food.
+We can say that from what we have explained above, there is a little chance you find your best food from the result. One thing you should need to aware is that Google and other search engines is concern with the page not the food.
 
 When the page has a good scoring in term of their algorithm then the food page will go up on their result so you can easily find it. 
 
