@@ -15,7 +15,7 @@
 </table>
 #Employment
 
-In this section we will explain about the employment in our concept. Please note that we are going deeper and deeper. You have to have an open mind. If you're not enjoying it, don't do it.
+In this section we will explain about the employment in our concept. Please note that we are going deeper and deeper. 
 
 _Here we do our best to explain as you might get confused. However we recommend you to make clear your self to our [[previous section|[Mapping]-Concept]] in order to get easier on following this section._
 ##Standardization  
