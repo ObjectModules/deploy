@@ -127,7 +127,9 @@ Settled.
  
 #What's Next
 
-Here we just give you a method of how to get an information about your best food.
+Hopefully you have clear enough to what we have explained above. You see here that we are going to give your best food, nor even an information about your best food. We just give you a method of how to get an information about your best food.
+
+Why are we intend to do it then? Simple, it is because you cannot find your best food on search engine, correct? When you can find easily there then for sure this project will never come to exist.
 
 As we have mentioned in our project description, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
