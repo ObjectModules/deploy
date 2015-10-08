@@ -100,7 +100,7 @@ Then we need also the mapping to examine your self to get your data:
 See that each of the process has a different assignment, none of them is meaningless, each of them hold a unique task, nothing is repeated. 
 
 ##Settlement
-Let's map about the process of getting the best food for you here
+Let's map about the process of getting the best food for you the same way as your doctor do:
 ```
 * Both library and your data will become an entry point
 * A best food on library for you is what we need 
