@@ -228,7 +228,7 @@ letter a stand as s.createElement(o)
 letter m stand as s.getElementsByTagName(o)[0]  
 ```
 
-See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined. You may try to eliminate one or more characters see if the function is still work.
+See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined. You may try to eliminate one or more characters or elements, see if the function is still work.
 
 Compare to what we have seen. We found this as a beautiful concept. It's built really short but the `isogram` itself is compact that made Google able to asynchronously loads their library called `analytics.js` onto a page and use it for a broad way _<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="_blank">utilization</a>_. 
 
