@@ -75,7 +75,7 @@ So let's put a repo and a wiki inside the box.
 As we are going to make a flow system on this project then in order to have a clear navigation we need to define a flowing diagram between the repo and the wiki. Let's put it this way:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure3.png)
 ##Displaying
-We will need also to display the process to the web. Here we make a separation between the flowing of the process inside with the way to get it displayed.  
+We will need also to display the process to the web. Here we make a separation between the flowing of the process to become displayed.  
 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)
 
