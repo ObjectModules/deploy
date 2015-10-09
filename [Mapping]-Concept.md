@@ -57,7 +57,9 @@ See that all of the mappings are consist of 4 elements which function in all of 
 ``` 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)
 ##Identification
-The diagram as shown in Figure 1 is valid for all the above mappings
+The diagram as shown in Figure 1 has 4 elements. Each represent each element inside the mapping. So it is valid for all the above mappings. We just need to put what we need as a text above the box. 
+
+On our case the text can be each of `Food`, `Library`, `Your Data` or `A best food on library for you`. To simplify the display here we just the word `info` to identify them. 
 ```
 * Hungry will become an entry point
 * Food is what we need 
