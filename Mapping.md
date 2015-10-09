@@ -57,11 +57,11 @@ Another thing that you will need to concern is how to be sure that when you find
 
 _It could even never ever happen on your whole live that you find your best food!_
 
-So here you can't get it, but you really need to get it. Let say you better go to a doctor to know what is the best food for you. Would you define what is your doctor going to do? 
+Say here you agree that you can't get it but you insist to get it. So you better then go to a doctor to know what is the best food for you. Would you define what is your doctor going to do? 
 
-Of course he will first check what do you want. Once he is agree with you then he will do examine your self and find the food on his library that match to your data. Here the important think is that he will define base on what he got from your data, _not the food that you want_.
+Of course he will first check what you want. Once he is agree then he will do examine your self and find the food on his library that match to your data. Here the important think is that he will define the food base on what he got from your data, _not the food that you want_.
 
-It is really different with what if you are going to get the food by your self, you will find the food with the food you want, _not the food that match to your data_. 
+It is really different with what if you are going to get the food by your self, you will find the food with the one you want, _not the food that best match to your data_. 
 
 So here the best way you shall do is take the food that the _doctor want_ you to eat. Not the food that _you think_ it is the best one for you.
 
