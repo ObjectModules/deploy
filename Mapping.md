@@ -229,7 +229,7 @@ letter m stand as s.getElementsByTagName(o)[0]
 
 See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined. You may try to eliminate one or more characters see if the function is still work.
 
-Compare to what we have seen. We found this as a beautiful concept. It's built really short but the `isogram` itself is compact that able to asynchronously loads Google `analytics.js` library onto a page and use it for a broad way _<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="_blank">utilization</a>_. 
+Compare to what we have seen. We found this as a beautiful concept. It's built really short but the `isogram` itself is compact that made Google able to asynchronously loads their `analytics.js` library onto a page and use it for a broad way _<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="_blank">utilization</a>_. 
 
 Unfortunately we could not find if Google made it with the word of `isogram` is in a purpose to correlate _what the word means_ it self into _what they really want_ with the function. 
 
