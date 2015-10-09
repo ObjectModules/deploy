@@ -17,7 +17,7 @@
 
 We have explained the [[background of our concept|Mapping]]. Now we will explain the mapping of this project. Please be prepared your self as we are going deeper ongoing forward.
 
-#Basic Rules
+##Basic Rules
 Let's put again the mapping here:
 ```
 * Hungry will become an entry point
