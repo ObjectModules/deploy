@@ -18,7 +18,7 @@
 In this section we will explain about the employment in our concept. Please note that we are going deeper and deeper. 
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Concept]]._
-##Basic Rules  
+##Basic  
 Let's put again the mapping here:
 ```
 * Hungry will become an entry point
