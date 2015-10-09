@@ -48,6 +48,7 @@ Let's map about the process of getting the best food for you the same way as you
 ```
 Here on this section, we will explain about our way on making the mapping using layout diagram. The method of mapping that we are going to explain here will be valid for all the above mappings.
 ##Symbol
+See that all of the mapping are consist of 4 elements which function an all mappings are the same.
 ```
 1. Straigth line for entry points
 2. Dot line for exit point
