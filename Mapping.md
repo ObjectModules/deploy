@@ -73,7 +73,9 @@ So here, because you are the president, it is not only the doctors but the count
 `Let them find their way to help you get what you want.`
 
 ##Our concept
-Here we are going to do the same way when you go to a doctor. We have to collect out all information in related to all kind of the food and make it to become a library. We will also need to examine all of your data, including your age, your genre, your blood structure and everything else that required to find your best food. 
+Here we are going to do the same way when you go to a doctor. We have to collect out all information in related to all kind of the food and make it to become a library. 
+
+We will also need to examine all of your data, including your age, your genre, your blood structure and everything else that required to find your best food. 
 
 Hopefully then you can follow all the method on getting your best food. See that, getting the library of all kind of the food is one process. Getting the data of yourself is also another process. Both are different.   
 
