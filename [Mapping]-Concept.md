@@ -59,7 +59,12 @@ See that all of the mappings are consist of 4 elements which function in all of 
 ##Identification
 The diagram as shown in _Figure 1_ has 4 elements. Each represent each element inside the mapping. So it is valid for all the above mappings. We just need to put what we need as a text above the box. 
 
-On our case this text can be each of `Food`, `Library`, `Your Data` or `A best food on library for you`. To simplify on the method of making the mapping, here we just put the word `info` to identify each of them. 
+On our case this text can be each of 
+* `Food`
+* `Library`
+* `Your Data`
+* `A best food on library for you` 
+To simplify on the method of making the mapping, here we just put the word `info` to identify each of them. 
 ```
 * Hungry will become an entry point
 * Food is what we need 
