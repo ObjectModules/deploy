@@ -117,9 +117,9 @@ One thing you shall note here is that when you already get to know what is the b
 
 You may see also that whole process is divided to _four (4) mappings_, these mappings all together are required to give the result that we are going to achieve. 
 
-When it is going to end whole process it will return the original mapping which also consist of _four (4) elements_. Means all back to the routines. In our concept this we can call as _the settlement_. 
+When it is going to end whole process it will return the original mapping which also consist of _four (4) elements_. Means all back to the routines. Other process is no more required. In our concept this we can call as _the settlement_. 
  
-So then it is back to a normal process. Just a process of eating the food. Other process is no more required. It will become the same routine just the same as before we put the parameter of _best_ to the food: 
+So then it is back to a normal process. Just a process of eating the food. It will become the same routine just the same as before we put the parameter of _best_ to the food: 
 ```
 * Hungry will become an entry point
 * Food is what we need 
