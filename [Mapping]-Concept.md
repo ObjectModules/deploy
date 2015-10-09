@@ -96,6 +96,7 @@ Let put again one of the mapping here.
 * Exit point  
 ```
 Take a look at the process. Eat is the process. How to make sure that the process of eating is done? We have to know it in order that this process is done. This for sure it will become another process.
+
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 ```
