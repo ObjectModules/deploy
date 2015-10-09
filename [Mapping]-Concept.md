@@ -82,7 +82,7 @@ To make clear separation to the process here we take a new repo and wiki for the
 So just simply make the same diagram but add another word to the process of this displaying. Here is now the diagram will look like: 
 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
-Here we put our project name `hyip` as our choice of the new word. 
+Here we put our project name `hyip` as our choice on the displaying process. 
 
 ##Expansion
 ```
