@@ -19,7 +19,7 @@ Now we will explain about the merging in our concept. We are going to put the di
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Employment]]._
 
-##Concept of Merging
+##Basic  
 Let's put again the mapping here:
 ```
 * Hungry will become an entry point
