@@ -87,7 +87,7 @@ Until this points the diagram for a mapping is completed.
 
 ##Separation
 Now we are going to explain the behaviour of a mapping when a parameter is putting inside.
-Le's take mapping of _Figure 4_ as the routines one.
+Le's take mapping of _Figure 4_ as the routines one.  
 Let put again one of a mapping here.
 ```  
 * Hungry will become an entry point
