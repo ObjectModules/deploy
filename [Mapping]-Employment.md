@@ -59,7 +59,7 @@ letter a stand as info
 letter b stand as world  
 letter c stand as hyip  
 ```
-##HYIP Monitoring & Rating  
+##Monitor & Rating  
 To became a valuable info then we need to rate the info. The info it self is got from searching and investigation which in hyip business is known as hyip site monitoring or in a short: hyip monitor.  
 ```js
 letter a stand as monitor  
@@ -80,9 +80,9 @@ Then diagram will be shown as below:
 
 Combining all together we have now 3 kind of Employments which are:  
  
-_1. [[HYIP Info & World|[Mapping]-Concept#settlement]]: info - world_  
-_2. [[HYIP Monitoring & Rating|[Mapping]-Employment#hyip-monitoring--rating]]</a>: monitor - rating_  
-_3. [[HYIP Scripting & Team Work|[Mapping]-Employment#scripting--team-work]]: script - team_  
+_1. [[Info & World|[Mapping]-Concept#settlement]]: info - world_  
+_2. [[Monitor & Rating|[Mapping]-Employment#hyip-monitoring--rating]]</a>: monitor - rating_  
+_3. [[Script & Team|[Mapping]-Employment#scripting--team-work]]: script - team_  
 
 #What's Next
 Employment can be more deeper or wider depend on our need. We consider these three (3) are suitable enough to start our project on getting it work. 
