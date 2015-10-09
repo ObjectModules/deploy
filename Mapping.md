@@ -183,7 +183,7 @@ It is quite amazing because usually when people put different criteria then the 
 
 But when people asked what is the best search engine, although there are so many search engines in the world, most probably you will find that Google is the answer whatever criteria that people use. 
 
-_Here we can define the best is when people have a different criteria but they got the same answer._
+_We can define the best is when people have a different criteria but they got the same answer._
 
 Are you with us? We would think so. But it sound unfair, right? Why?  
 You have already the answer to your best search engine easily.  
