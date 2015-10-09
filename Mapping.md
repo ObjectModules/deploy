@@ -123,7 +123,7 @@ One thing you shall note here is that when you already get to know what is the b
 
 Since the other processes are no more required so the whole process will return back the original mapping which you may count that number of elements is also _four (4)_. In our concept, when four mappings is going to return to its original four elements, we call it as _a settlement_.  
  
-So here all is back to a normal process. Just a process of eating the food. It will become the same routine just the same as before we put the parameter of _best_ to the food. 
+So here all is back to a normal process. Just a process of eating the food. It will become the same routine just exactly the same as before we put the parameter of _best_ to the food. 
 ```
 * Hungry will become an entry point
 * Food is what we need 
@@ -196,7 +196,7 @@ This is the real world.
 ##What we offer
 Here you almost come to the end story behind our concept. You can say that this project is about a mapping system. A unique mapping system to define between what we do want with the way that we are going to achieve it.  
 
-You may agree that _[[this concept|Mapping#our-concept]]_, as we have explained above, is basically applicable for general case. Since we decided to port our project on GitHub, then we are going to manage our repositories of this project follow to the concept.
+You may agree that _[[this concept|Mapping#our-concept]]_, as we have explained above, is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to manage our repositories of the project follow to the concept.
 
 You can find our explanation about this concept in more detail. We will start to explain on how we make the mapping. We are going also to manage a different assignment on our section, each of them hold a unique task and all will be important when they are getting combined on achieving to what we want.
 
