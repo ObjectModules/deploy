@@ -73,11 +73,11 @@ So here, because you are the president, it is not only the doctors but the count
 `Let them find their way to help you get what you want.`
 
 ##Our concept
-Here we are going to do the same way when you go to a doctor. We have to sorted out all information in related to all kind of the food to become a library. We will also need to examine all of your data. Hopefully then you can follow the method on getting your best food.  
+Here we are going to do the same way when you go to a doctor. We have to collect out all information in related to all kind of the food and make it to become a library. We will also need to examine all of your data, including your age, your genre, your blood structure and everything else that required to find your best food. 
 
-Getting the library of the food is one process. Getting the data of your self is also another process. Both are different.
+Hopefully then you can follow all the method on getting your best food. See that, getting the library of all kind of the food is one process. Getting the data of yourself is also another process. Both are different.   
 
-Let's define how we are going to get the library in related with the food and the data of your self in the same way as we make a mapping of the process from the *the hungry*. 
+Let's define how we are going to get the library in related with the food and the data of yourself in the same way as we make a mapping of the process from the *the hungry*. 
 
 Let's put again the mapping here:
 ```
