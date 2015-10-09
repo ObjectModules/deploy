@@ -67,7 +67,7 @@ Let's take a look into each mapping one by one. You may find that in our case th
 To identify each of them, here we simply put the word `info` above the box. Basically it can be any word you want. Let's take this word to continue further.
 
 ##Identification
-The further step is we are going to identify the process inside the box. This will become a repository. We shall better provide it with a documentation to describe what process that we are going to do. 
+The further step is we are going to identify the process inside the box. This will become a repository. We shall better provide it with a documentation to describe the process. 
 
 So let's put a repo and a wiki inside the box.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure2.png)  
