@@ -95,6 +95,12 @@ Let put again one of a mapping here.
 Take a look at the process. Eat is the process. How to make sure that the process of eating is done? We have to know it in order that this process is done. This for sure it will become another process.
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
 
 ##Settlement
 A process is considered as settled whenever it can be run or return to the entry point and processed normally without any adjustment or modification into the routines.
