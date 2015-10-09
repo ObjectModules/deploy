@@ -57,7 +57,7 @@ Another thing that you will need to concern is how to be sure that when you find
 
 _It could even never ever happen on your whole live that you find your best food!_
 
-Say here you agree that you can't get it but you insist to get it. So you better then go to a doctor to know what is the best food for you. Would you define what is your doctor going to do? 
+Say here you agree that you can't get it but you insist to get it. So you better then go to a doctor to know what is the best food for you. Would you define what your doctor is going to do? 
 
 Of course he will first check what you want. Once he is agree then he will do examine your self and find the food on his library that match to your data. Here the important think is that he will define the food base on what he got from your data, _not the food that you want_.
 
