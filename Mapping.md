@@ -194,7 +194,9 @@ This is the real world.
 ##What we offer
 Here you almost come to the end story behind our concept. You can say that this project is about a mapping system. A unique mapping system to define between what we do want with the way that we are going to achieve it.  
 
-In line with what you can find on our explanation above, we are going to manage a different assignment on our section, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined to achieve what we want.
+You may agree that this concept as we have explained above is basically applicable for general case.
+
+Since decided to port our project on GitHub, we are going to manage a different assignment on our section, each of them hold a unique task. All will be important when they are getting combined to achieve what we want.
 
 You can find our explanation about this concept in more detail. We will start to explain on how we make the mapping to manage our repositories of this project follow to the concept.
 
