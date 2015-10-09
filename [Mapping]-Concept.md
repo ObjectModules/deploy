@@ -67,21 +67,19 @@ Let's take a look into each mapping one by one. You may find that in our case th
 To identify each of them, here we simply put the word `info` above the box. Basically it can be any word you want. Let's take this word to continue further.
 
 ##Identification
+The further step is we are going to place the process inside the box. This will become a repository. We shall better complete it with the documentation to describe it. So let's put a repo and a wiki inside the box. 
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure2.png)  
+##Processing  
+Then how to map the process?
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure3.png)
+
+##Expansion
 ```
 * Hungry will become an entry point
 * Food is what we need 
 * Eat is the process
 * Exit point  
 ```
-
-Here we need to describe about the info. So we do the identification on repository and put description on the wiki documentation.  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure2.png)
-
-##Processing  
-Then how to map the process?
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure3.png)
-
-##Expansion
 Since we took parameter of best for the food so we shall map again the process of getting the best food. Because the best food for you will not be the same one for others.
 
 Here we shall put your criteria inside the parameter. For instance, the parameter shall at least include, your age, your location, your budget, and also your preferences.   
