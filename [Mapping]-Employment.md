@@ -18,7 +18,7 @@
 In this section we will explain about the employment in our concept. Please note that we are going deeper and deeper. 
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Concept]]._
-##Standardization  
+##Basic Rules  
 Let's put again the mapping here:
 ```
 * Hungry will become an entry point
@@ -47,6 +47,7 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
+#Info & World
 Let put again the diagram we have got on [[previous section|[Mapping]-Concept]]   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)  
 As you may see, every process will be a different. All is unique. So we can now put the mapping schema into a standardization as shown below:  
