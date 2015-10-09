@@ -117,7 +117,7 @@ One thing you shall note here is that when you already get to know what is the b
 
 You may see also that whole process is divided to four (4) mappings, these mappings all together will give the result that we are going to achieve. 
 
-When it is going to end whole process it will return the original mapping which also consist of four (4) elements. This we can call as the settlement. 
+When it is going to end whole process it will return the original mapping which also consist of four (4) elements. Means all back to the routines. This we can call as the settlement. 
  
 Then it is back to a normal process. Just a process of eating the food. Other process is no more required. It will become the same routine just the same as before we put the parameter of _best_ to the food: 
 ```
