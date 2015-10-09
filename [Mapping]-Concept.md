@@ -79,7 +79,7 @@ We will need also to display the process to the web. Here we make a separation b
 
 To make clear separation to the process here we take a new repo and wiki for the displaying purpose. We also need to give the title of on it to be easily defined. 
 
-So just simply add another word on the process of this displaying. Here we put our project name `hyip` as our choice of this word. 
+So just simply make the same diagram but add another word to the process of this displaying. Here we put our project name `hyip` as our choice of this word. 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)
 ##Expansion
 ```
