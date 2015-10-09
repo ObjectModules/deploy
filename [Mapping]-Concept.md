@@ -56,8 +56,15 @@ See that all of the mappings are consist of 4 elements which function in all of 
 2. A Dotted line for exit point
 ``` 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)
-
 ##Identification
+The diagram as shown in Figure 1 is valid for all the above mappings
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+
 Here we need to describe about the info. So we do the identification on repository and put description on the wiki documentation.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure2.png)
 
