@@ -83,7 +83,7 @@ So just simply make the same diagram but add another word to the process of this
 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 Here we put our project name `hyip` as our choice on the displaying process. 
-
+Until this points the diagram for a mapping is completed.
 ##Verification
 Let put again one of a mapping here.
 ```
