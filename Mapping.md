@@ -72,7 +72,7 @@ So here, because you are the president, it is not only the doctors but the count
 `Just do the way they want. Not of what you think.`  
 `Let them find their way to help you get what you want.`
 
-##What we offer
+##Our concept
 Here we are going to do the same way when you go to a doctor. We have to sorted out all information in related to all kind of the food to become a library. We will also need to examine all of your data. Hopefully then you can follow the method on getting your best food.  
 
 Getting the library of the food is one process. Getting the data of your self is also another process. Both are different.
@@ -191,7 +191,7 @@ How about your best food? Do you have already find one?
 
 This is the real world.
 
-##Our concept
+##What we offer
 Here you almost come to the end story behind our concept. You can say that this project is about a mapping system. A unique mapping system to define between what we do want with the way that we are going to achieve it.  
 
 In line with what you can find on our explanation above, we are going to manage a different assignment on our section, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined to achieve what we want.
