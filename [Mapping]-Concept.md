@@ -48,7 +48,7 @@ Let's map about the process of getting the best food for you the same way as you
 ```
 Here on this section, we will explain about our way on making the mapping using layout diagram. We are going to get it applicable for all the above mappings.
 ##Symbol
-See that all of the mapping are consist of 4 elements which function in all of mappings are the same. So we can define a symbolization for each of elements. Let's take this way:
+See that all of the mappings are consist of 4 elements which function in all of mappings are the same. So we can define a symbolization for each of elements. Let's take this way:
 ```
 1. A straight line for entry point
 2. A text to define what we need
