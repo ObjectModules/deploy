@@ -19,6 +19,34 @@ In this section we will explain about the employment in our concept. Please note
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Concept]]._
 ##Standardization  
+Let's put again the mapping here:
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+Mapping of the process to collect the library in related with the food:
+```
+* Food will become an entry point
+* Library is what we need 
+* Collect is the process
+* Exit point  
+```
+Then we need also the mapping to examine your self to get your data:
+```
+* You will become an entry point
+* Your data is what we need 
+* Examine is the process
+* Exit point  
+```
+Let's map about the process of getting the best food for you the same way as your doctor do:
+```
+* Both of food library and your data will become the entry point
+* A best food on library for you is what we need 
+* Matching the data is the process
+* Exit point  
+```
 Let put again the diagram we have got on [[previous section|[Mapping]-Concept]]   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)  
 As you may see, every process will be a different. All is unique. So we can now put the mapping schema into a standardization as shown below:  
