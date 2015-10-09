@@ -83,12 +83,12 @@ So just simply make the same diagram but add another word to the process of this
 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 Here we put our project name `hyip` as our choice on the displaying process.   
-Until this points the diagram for a mapping is completed.
+Until this point the diagram for a mapping is completed.
 
 ##Separation
 Now we are going to explain the behaviour of a mapping when a parameter is putting inside.
 Le's take mapping of _Figure 4_ as the routines one.  
-Let put again one of a mapping here.
+Let put again one of the mapping here.
 ```  
 * Hungry will become an entry point
 * Food is what we need 
