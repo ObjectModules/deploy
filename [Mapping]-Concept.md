@@ -56,9 +56,9 @@ See that all of the mappings are consist of 4 elements which function in all of 
 2. A Dotted line for exit point
 ``` 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)  
-The diagram as shown in _Figure 1_ has 4 elements. Each represent each element inside the mapping. So it is valid for all the above mappings.  
+The diagram as shown in _Figure 1_ has 4 elements. Each represent each element inside the mapping. So it is valid for all the above mappings. We just need to put what we need as a text above the box. 
 
-We just need to put what we need as a text above the box. On our case this text can be each of 
+On our case this text can be each of 
 * `Food`
 * `Library`
 * `Your Data`
