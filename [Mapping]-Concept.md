@@ -74,6 +74,10 @@ So let's put a repo and a wiki inside the box.
 ##Navigation  
 As we are going to make a flow system on this project then in order to have a clear navigation we need to define a flowing diagram between the repo and the wiki. Let's put it this way:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure3.png)
+##Displaying
+We will need also to display the process to the web. Here we make a separation between the flowing of the process inside with the way to get it displayed.  
+
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)
 
 ##Expansion
 ```
@@ -82,12 +86,6 @@ As we are going to make a flow system on this project then in order to have a cl
 * Eat is the process
 * Exit point  
 ```
-Since we took parameter of best for the food so we shall map again the process of getting the best food. Because the best food for you will not be the same one for others.
-
-Here we shall put your criteria inside the parameter. For instance, the parameter shall at least include, your age, your location, your budget, and also your preferences.   
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)
-
-##Parameter
 One thing to be noted that every process above is unique.  
   
 _Food_ and the way on getting the _food_ is different scheme.  
