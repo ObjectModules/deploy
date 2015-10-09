@@ -100,21 +100,21 @@ Then we need also the mapping to examine your self to get your data:
 * Examine is the process
 * Exit point  
 ```
-See that each of the process has a different assignment, none of them is meaningless, each of them hold a unique task, nothing is repeated. 
-
+Let's map about the process of getting the best food for you the same way as your doctor do:
 ```
 * Both of food library and your data will become the entry point
 * A best food on library for you is what we need 
 * Matching the data is the process
 * Exit point  
 ```
+See that each of the process has a different assignment, none of them is meaningless, each of them hold a unique task, nothing is repeated. 
+
 You may see that to get your best food the whole process is divided to _four (4) mappings_. These mappings all together are required to give the result that we are going to achieve. 
 
 At this point it is a big chance that the best food for you is founded..  
 So now you can you eat your best food. Your life will become more valuable. Congrats! 
 
 ##Settlement
-Let's map about the process of getting the best food for you the same way as your doctor do:
 One thing you shall note here is that when you already get to know what is the best food for you then the food is _no more stand as a best food_. It is only the one which is founded as the best for you. So it is just a food. You will eat it normally as usual. Nothing special.
 
 Since the other process is no more required so the whole process will return back the original mapping which number of elements is also _four (4)_.
