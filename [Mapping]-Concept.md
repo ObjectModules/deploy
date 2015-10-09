@@ -77,7 +77,7 @@ As we are going to make a flow system on this project then in order to have a cl
 ##Displaying
 We will need also to display the process to the web. Here we make a separation between the flowing of the process to becoming able to be displayed. So we take a new repo and wiki for it. 
 
-We also need to give the title of on it to be easily defined. So just simply put another word on the process of this displaying. Here we put our project name as our choice of this word. 
+We also need to give the title of on it to be easily defined. So just simply add another word on the process of this displaying. Here we put our project name as our choice of this word. 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)
 ##Expansion
 ```
