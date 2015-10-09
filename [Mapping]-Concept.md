@@ -50,7 +50,7 @@ Here on this section, we will explain about our way on making the mapping using 
 ##Symbol
 See that all of the mapping are consist of 4 elements which function in all of mappings are the same. So we can define a symbolization for each of elements. Let's take this way:
 ```
-1. A Straight line for entry point
+1. A straight line for entry point
 2. A text to define what we need
 4. A box to indicate the process 
 2. A Dotted line for exit point
