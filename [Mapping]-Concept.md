@@ -64,7 +64,8 @@ Let's take a look into each mapping one by one. You may find that in our case th
 * `Your Data`
 * `A best food on library for you`  
   
-To simplify on the method of making the diagram, here we just put the word `info` to identify each of them. 
+To simplify on the method of making the diagram, here we just put the word `info` to identify each of them. Basically it can be any word you want as long it represent the item as listed above.
+
 ##Identification
 ```
 * Hungry will become an entry point
