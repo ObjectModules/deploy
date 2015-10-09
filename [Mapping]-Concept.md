@@ -18,7 +18,7 @@
 We have explained the [[background of our concept|Mapping]]. Now we will explain the mapping of this project. Please be prepared your self as we are going deeper ongoing forward.
 
 ##Basic Rules
-Let's put again the mapping here:
+Let's put again all of the mapping here:
 ```
 * Hungry will become an entry point
 * Food is what we need 
@@ -46,7 +46,7 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
-
+Here on this section, we will explain about our way on making the mapping using layout diagram. The method of mapping that we are going to explain here will be valid for all the above mappings.
 ##Symbol
 ```
 1. Straigth line for entry points
