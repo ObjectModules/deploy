@@ -62,7 +62,8 @@ On our case this text can be each of
 * `Food`
 * `Library`
 * `Your Data`
-* `A best food on library for you`   
+* `A best food on library for you`  
+  
 To simplify on the method of making the diagram, here we just put the word `info` to identify each of them. 
 ##Identification
 ```
