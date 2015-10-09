@@ -71,7 +71,7 @@ The further step is we are going to identify the process inside the box. This wi
 
 So let's put a repo and a wiki inside the box.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure2.png)  
-##Processing  
+##Navigation  
 As we are going to make a flow system on this project then in order to have a clear navigation we need to define a flowing diagram between the repo and the wiki. Let's put it this way:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure3.png)
 
