@@ -115,9 +115,9 @@ So now you can you eat your best food. Your life will become more valuable. Cong
 
 One thing you shall note here is that when you already get to know what is the best food for you then the food is _no more stand as a best food_. It is only the one which is founded as the best for you. So it is just a food. You will eat it normally as usual. Nothing special.
 
-You may see also that whole process is divided to four (4) mappings, these mappings all together will give the result that we are going to achieve. 
+You may see also that whole process is divided to _four (4) mappings_, these mappings all together will give the result that we are going to achieve. 
 
-When it is going to end whole process it will return the original mapping which also consist of four (4) elements. Means all back to the routines. This we can call as the settlement. 
+When it is going to end whole process it will return the original mapping which also consist of _four (4) elements_. Means all back to the routines. This we can call as the settlement. 
  
 Then it is back to a normal process. Just a process of eating the food. Other process is no more required. It will become the same routine just the same as before we put the parameter of _best_ to the food: 
 ```
