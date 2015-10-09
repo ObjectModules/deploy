@@ -64,7 +64,7 @@ Let's take a look into each mapping one by one. You may find that in our case th
 * `Your Data`
 * `A best food on library for you`  
   
-To identify each of them, here we just put the word `info`. Basically it can be any word you want. Let's take this word to continue further.
+To identify each of them, here we simply put the word `info` above the box. Basically it can be any word you want. Let's take this word to continue further.
 
 ##Identification
 ```
