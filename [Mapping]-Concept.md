@@ -84,23 +84,15 @@ So just simply make the same diagram but add another word to the process of this
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 Here we put our project name `hyip` as our choice on the displaying process. 
 
-##Expansion
+##Verification
+Let put again one of a mapping here.
 ```
 * Hungry will become an entry point
 * Food is what we need 
 * Eat is the process
 * Exit point  
 ```
-One thing to be noted that every process above is unique.  
-  
-_Food_ and the way on getting the _food_ is different scheme.  
-The way that the _food_ is reached by _you_ is also different.  
-
-Let try to replace the word of _food_ to _info_, and change _you_ to _the world_:  
-
-_Info_ and the way to getting the _info_ is different scheme.  
-The way that the _info_ is reached by _the world_ is also different.  
- 
+Take a look at the process. Eat is the process. How to make sure that the process of eating is done? We have to know it in order that this process is done. This for sure it will become another process.
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 
