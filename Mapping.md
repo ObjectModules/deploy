@@ -117,9 +117,9 @@ You may see that to get your best food the whole process is divided to _four (4)
 
 One thing you shall note here is that when you already get to know what is the best food for you then the food is _no more stand as a best food_. It is only the one which is founded as the best for you. So it is just a food. You will eat it normally as usual. Nothing special.
 
-Since the other process is no more required so when it is going to end then whole process will return back the original mapping which number of elements is also _four (4)_.
+Since the other process is no more required so the whole process will return back the original mapping which number of elements is also _four (4)_.
  
-So then it is back to a normal process. Just a process of eating the food. It will become the same routine just the same as before we put the parameter of _best_ to the food. In our concept this we can call as _the settlement_.  
+So here all is back to a normal process. Just a process of eating the food. It will become the same routine just the same as before we put the parameter of _best_ to the food. In our concept this we can call as _the settlement_.  
 ```
 * Hungry will become an entry point
 * Food is what we need 
