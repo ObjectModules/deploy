@@ -77,9 +77,8 @@ As we are going to make a flow system on this project then in order to have a cl
 ##Displaying
 We will need also to display the process to the web. Here we make a separation between the flowing of the process to becoming able to be displayed.  
 
-We also need to give the title of on it to be easily defined. So just simply put the process of this displaying as this way:  
+We also need to give the title of on it to be easily defined. So just simply put another word on the process of this displaying. Here we put our project name as our choice of this word. 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)
-
 ##Expansion
 ```
 * Hungry will become an entry point
