@@ -99,10 +99,12 @@ Take a look at the process. Eat is the process. How to make sure that the proces
 
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
+```
 * You will become an entry point
 * Your data is what we need 
 * Examine is the process
 * Exit point  
+```
 ##Settlement
 A process is considered as settled whenever it can be run or return to the entry point and processed normally without any adjustment or modification into the routines.
 
