@@ -32,7 +32,7 @@ You are browsing our **info** wiki:
     * [Employment]([Mapping]-Employment)
     * [Merging]([Mapping]-Merging)
     * [Overall]([Mapping]-Overall)
-* [[Project Map|map]]  
+* [[Project Map|maps]]  
 
 ### Library
 * [Forked Application List](%5BHOW-TO%5D-Installation)
