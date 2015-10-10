@@ -25,6 +25,8 @@ Now it is your turn to familiar with the flow on our concept. If you have follow
 _Please note that the figure above is only valid for [[The Current Section|https://github.com/hyip/info/wiki]] where this page is reside. You can find the Mapping of each section at the Bottom of Right Sidebar._
 ##By Tabulation
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
+##By Settlement
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 ***
 <table>
   <thead>
