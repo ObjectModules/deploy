@@ -34,7 +34,7 @@ You are browsing our **info** wiki:
 * [[Category]]
 * [[Appearance]]
 * [[Mapping]]
-* [[Hyip Maps|maps]]
+* [[Our Map|maps]]
 
 ### Library
 * [Forked Application List](%5BHOW-TO%5D-Installation)
