@@ -50,7 +50,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">-</td>
     </tr>
     <tr>
-      <td scope="row">:clock12:</td>
+      <td scope="row">:clock2:</td>
       <td scope="row"><code>wiki</code></td>
       <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
       <td>[[:cinema:|http://hyip.world/]] [[hyip <code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
@@ -59,7 +59,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">-</td>
     </tr>
     <tr>
-      <td scope="row">:clock12:</td>
+      <td scope="row">:clock1:</td>
       <td scope="row"><code>repo</code></td>
       <td>[[<code>rating</code>|https://github.com/hyip/rating]]</td>
       <td>[[:house:|https://github.com/hyipmonitor]] [[hyip <code>monitor</code>|https://github.com/hyipmonitor/hyipmonitor.github.io]] </td>
