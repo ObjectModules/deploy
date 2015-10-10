@@ -66,7 +66,7 @@ Then we need also the mapping to examine your self to get your data:
 * Examine is the process
 * Exit point  
 ```
-##By Tabulation
+##Matching
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 Let's map about the process of getting the best food for you the same way as your doctor do:
 ```
@@ -76,7 +76,7 @@ Let's map about the process of getting the best food for you the same way as you
 * Exit point  
 ```
 
-##By Settlement
+##Settlement
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 Let's put again the mapping here:
 ```
