@@ -126,9 +126,9 @@ Other thing is that when you already get to know what is the best food for you t
 
 You will eat it normally as usual. Nothing special.
 
-Once it is happen then the other processes are no more required so the whole process will return back the original process which mapping you may count that number of elements is also _four (4)_. 
+Once it is happen then the other processes are no more required so the whole process will return back the original process/
 
-In our concept, when four mappings is going to return to its original four elements, we call it as _a settlement_.  
+In the mapping of the original process you may count that number of elements is also _four (4)_, same as others. In our concept, when four mappings is going to return to its original four elements, we call it as _a settlement_.  
 
 The power of _[[this concept|Mapping#our-concept]]_, as we have explained above, is that whenever a process cannot be settled then you can easily spread the items that making it stack with the same method. 
 
