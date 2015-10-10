@@ -33,7 +33,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <th>Property</th>
       <th>User</th>
       <th>Organization</th>
-      <th>Members</th>
+      <th>Platform</th>
       <th>Team</th>
       <th>Channel</th>
     </tr>
