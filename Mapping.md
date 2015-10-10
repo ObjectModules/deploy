@@ -124,7 +124,7 @@ Since the other processes are no more required so the whole process will return 
 
 The power of _[[this concept|Mapping#our-concept]]_, as we have explained above, is that whenever a process cannot be settled then you can easily spread the items that making it stack with the same method. 
 
-You may also identify your potential factors using _<a href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank">Fishbone</a>_ Diagram to then put the factors in to the mapping concept, let's it spread it again when a solution is not going to be achieved.
+You may also identify your factors using _<a href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank">Fishbone</a>_ Diagram to then put the potential factors in to the mapping, let's it spread it again when a solution is not going to be achieved.
 
 You can do it with an unlimited number of spreading, you may go on making it in a wider or a problem solution globally. Once it is going to be settled then it will return automatically to the original process and let you remain on the track to what you are going to achieve. 
  
