@@ -152,7 +152,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 </table>
 
 **_Legend:_**  
-:radio_button: _Progress Status, Defined by Clock :clock12: means 0%_  
+:radio_button: _Progress Status, Defined by Clock (:clock12: = 0%)_  
 :house: _Organization Page, The List of Repositories (User+Forked)_  
 :cinema: _Assigned Page to demonstrate the content of each process on the web_  
 
