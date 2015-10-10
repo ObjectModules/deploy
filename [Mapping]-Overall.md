@@ -77,6 +77,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <th scope="row"><code>repo</code></th>
       <td>[[<code>team</code>|https://github.com/hyip/team]]</td>
       <td>[[:house:|https://github.com/hyipscript]] [[hyip <code>script|https://github.com/hyipscript/hyipscript.github.io]]</code></td>
+      <td scope="row">-</td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
