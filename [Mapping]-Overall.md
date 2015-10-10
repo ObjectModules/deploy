@@ -50,6 +50,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">-</td>
     </tr>
     <tr>
+      <td scope="row">:clock12:</td>
       <th scope="row"><code>info</code></th>
       <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
       <td>[[:cinema:|http://hyip.world/]] [[hyip <code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
@@ -67,6 +68,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">-</td>
     </tr>
     <tr>
+      <td scope="row">:clock12:</td>
       <th scope="row"><code>wiki</code></th>
       <td>[[<code>rating</code>|https://github.com/hyip/rating/wiki]]</td>
       <td>[[:cinema:|http://hyipmonitors.info/]] [[hyip <code>monitor|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</code></td>
@@ -84,6 +86,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">-</td>
     </tr>
     <tr>
+      <td scope="row">:clock12:</td>
       <th scope="row"><code>wiki</code></th>
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor/wiki]]</td>
       <td>[[:cinema:|http://tophyips.info/]] [[hyip <code>rating|https://github.com/hyiprating/hyiprating.github.io/wiki]]</code></td>
@@ -101,6 +104,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">-</td>
     </tr>
     <tr>
+      <td scope="row">:clock12:</td>
       <th scope="row"><code>wiki</code></th>
       <td>[[<code>team</code>|https://github.com/hyip/team/wiki]]</td>
       <td>[[:cinema:|http://hyipscript.info/]] [[hyip <code>script|https://github.com/hyipscript/hyipscript.github.io/wiki]]</code></td>
@@ -118,6 +122,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">-</td>
     </tr>
     <tr>
+      <td scope="row">:clock12:</td>
       <th scope="row"><code>wiki</code></th>
       <td>[[<code>script</code>|https://github.com/hyip/script/wiki]]</td>
       <td>[[:cinema:|http://team.hyip.world/]] [[hyip <code>team</code>|https://github.com/hyipteam/hyipteam.github.io/wiki]]</td>
@@ -135,6 +140,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">-</td>
     </tr>
     <tr>
+      <td scope="row">:clock12:</td>
       <th scope="row"><code>wiki</code></th>
       <td>[[<code>world</code>|https://github.com/hyip/world/wiki]]</td>
       <td>[[:cinema:|http://info.hyip.world/]] [[hyip <code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io/wiki]]</td>
