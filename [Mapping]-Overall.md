@@ -151,7 +151,8 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
   </tbody>
 </table>
 
-**_Legend:_**  
+**_Legend:_**
+:radio_button: _Progress Status, Defined by Clock :clock12: means 0%_  
 :house: _Organization Page, Contain the List of Repositories including Forked Ones_  
 :cinema: _Assigned Page to demonstrate the content of each process on the web_  
 
