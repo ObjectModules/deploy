@@ -195,11 +195,11 @@ This is the real world.
 ##What we offer
 Here you almost come to the end story behind our concept. You can say that this project is about a mapping system. A unique mapping system to define between what we do want with the way that we are going to achieve it.  
 
-THe power of this concept is that whenever a process cannot be settled then you can easily spread the items that making it stack with the same method. Once it is going to be settled then it will return automatically to the original process. 
+The power of _[[this concept|Mapping#our-concept]]_, as we have explained above, is that whenever a process cannot be settled then you can easily spread the items that making it stack with the same method. Once it is going to be settled then it will return automatically to the original process. 
 
 You can do it with an unlimited number of spreading, you may go on making it in a wider or a problem solution globally but the concept will let you remain on the track to what you are going to achieve. 
  
-You may agree that _[[this concept|Mapping#our-concept]]_, as we have explained above, is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to manage our repositories of the project follow to the concept.
+You may agree that this concept is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to manage our repositories of the project follow to the concept.
 
 You can find our explanation about this concept in more detail. We will start to explain on how we make the mapping. We are going also to manage a different assignment on our section, each of them hold a unique task and all will be important when they are getting combined on achieving to what we want.
 
