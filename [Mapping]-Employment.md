@@ -47,6 +47,34 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
+
+##Separation
+Now we are going to explain the behaviour of a mapping when a parameter is putting inside.
+Le's take mapping of _Figure 4_ as the routines one.  
+Let put again one of the mapping here.
+```  
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+Take a look at the process. Eat is the process. How to make sure that the process of eating is done? We have to know it in order that this process is done. This for sure it will become another process.
+
+So when applying this all together then the diagram will be shown as below:  
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
+```
+* You will become an entry point
+* Your data is what we need 
+* Examine is the process
+* Exit point  
+```
+##Settlement
+A process is considered as settled whenever it can be run or return to the entry point and processed normally without any adjustment or modification into the routines.
+
+For instance, let say you have eat the food, then you got that it is not suit to your need. Means it is not the best one for you. So you need to do the searching again at which the process back to the entry point again.   
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)
+
+
 ##1st-Employment
 Let put again the diagram we have got on [[previous section|[Mapping]-Concept]]   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)  
