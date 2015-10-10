@@ -121,7 +121,7 @@ Congrats!
 One thing you shall note here is that when you already get to know what is the best food for you then the food is _no more stand as a best food_. It is only the one which is founded as the best for you. So it is just a food. You will eat it normally as usual. Nothing special.
 
 Since the other processes are no more required so the whole process will return back the original mapping which you may count that number of elements is also _four (4)_. In our concept, when four mappings is going to return to its original four elements, we call it as _a settlement_.  
- 
+
 So here all is back to a normal process. Just a process of eating the food. It will become the same routine just exactly the same as before we put the parameter of _best_ to the food. 
 ```
 * Hungry will become an entry point
@@ -195,6 +195,10 @@ This is the real world.
 ##What we offer
 Here you almost come to the end story behind our concept. You can say that this project is about a mapping system. A unique mapping system to define between what we do want with the way that we are going to achieve it.  
 
+THe power of this concept is that whenever a process cannot be settled then you can easily spread the items that making it stack with the same method. Once it is going to be settled then it will return automatically to the original process. 
+
+You can do it with an unlimited number of spreading, you may go on making it in a wider or a problem solution globally but the concept will let you remain on the track to what you are going to achieve. 
+ 
 You may agree that _[[this concept|Mapping#our-concept]]_, as we have explained above, is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to manage our repositories of the project follow to the concept.
 
 You can find our explanation about this concept in more detail. We will start to explain on how we make the mapping. We are going also to manage a different assignment on our section, each of them hold a unique task and all will be important when they are getting combined on achieving to what we want.
