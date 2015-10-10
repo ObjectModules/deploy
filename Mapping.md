@@ -49,7 +49,7 @@ So which one you think the best food for you to eat? Are you going to take the f
 ##How to find it?
 We can say that from what we have explained above, there is a little chance that you able to find your best food from the search result. One thing you should need to aware is that Google and other search engines concern with the pages, not the food.
 
-When the page has a good scoring in term of their algorithm then a page will go up on their search result so you can easily find it. 
+When a page has a good scoring in term of their algorithm then the page will go up on their search result so you can easily find it. 
 
 It might be some where a page made by someone that contain really your best food but has only a poor score on the page they are presented, so chance is little for you to find it. The worst case is it might be there is no page about it so you can't find it anywhere. 
 
