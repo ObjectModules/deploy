@@ -108,6 +108,8 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>script</code>|https://github.com/hyip/script]]</td>
       <td>[[:house:|https://github.com/hyipteam]] [[hyip <code>team|https://github.com/hyipteam/hyipteam.github.io]]</code></td>
       <td scope="row">-</td>
+      <td scope="row">-</td>
+      <td scope="row">-</td>
     </tr>
     <tr>
       <th scope="row"><code>wiki</code></th>
