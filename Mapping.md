@@ -122,9 +122,13 @@ One thing you shall note here that the original mapping is always remain include
 
 You can make this a sense way. Let say you are in the process on finding your best food. Are you going stop your routines of eating your daily food until get your best food?
 
-Other thing is that when you already get to know what is the best food for you then the food is _no more stand as a best food_. It is only the one which is founded as the best for you. So it is just a food. You will eat it normally as usual. Nothing special.
+Other thing is that when you already get to know what is the best food for you then the food is _no more stand as a best food_. It is only the one which is founded as the best for you. So it is just a food. 
 
-Once it is happen then the other processes are no more required so the whole process will return back the original process which mapping you may count that number of elements is also _four (4)_. In our concept, when four mappings is going to return to its original four elements, we call it as _a settlement_.  
+You will eat it normally as usual. Nothing special.
+
+Once it is happen then the other processes are no more required so the whole process will return back the original process which mapping you may count that number of elements is also _four (4)_. 
+
+In our concept, when four mappings is going to return to its original four elements, we call it as _a settlement_.  
 
 The power of _[[this concept|Mapping#our-concept]]_, as we have explained above, is that whenever a process cannot be settled then you can easily spread the items that making it stack with the same method. 
 
