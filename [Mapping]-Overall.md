@@ -66,7 +66,7 @@ Then we need also the mapping to examine your self to get your data:
 * Exit point  
 ```
 ##By Tabulation
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 Let's map about the process of getting the best food for you the same way as your doctor do:
 ```
 * Both of food library and your data will become the entry point
@@ -77,6 +77,14 @@ Let's map about the process of getting the best food for you the same way as you
 
 ##By Settlement
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
+Let's put again the mapping here:
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+
 ***
 <table>
   <thead>
