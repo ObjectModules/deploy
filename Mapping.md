@@ -45,7 +45,7 @@ It will become to your concern if we put a parameter. Say you are hungry. You wa
 
 Let's go for a simple way then. We are going for searching. Try to put a keyword _<a href="https://www.google.com/search?q=best+food" target="_blank">'best food'</a>_ on Google Search. You will find a huge result which is processed by Google from may be more than a billion pages to choose. 
 
-So which one do you think the best food for you to eat? Are you going to take the food on top result? Are you sure if that is the best one for you?
+So which one do you think the best food for you to eat? Are you going to take the food on the top of result? Are you sure if that is the best one for you?
 ##How to find it?
 We can say that from what we have explained above, there is a little chance that you able to find your best food from the search result. One thing you should need to aware is that Google and other search engines concern with the pages, not the food.
 
