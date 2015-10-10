@@ -58,6 +58,7 @@ Mapping of the process to collect the library in related with the food:
 * Collect is the process
 * Exit point  
 ```
+##Examine
 ![Flow](https://hyipworld.github.io/images/github/doc/figure15.png)  
 Then we need also the mapping to examine your self to get your data:
 ```
