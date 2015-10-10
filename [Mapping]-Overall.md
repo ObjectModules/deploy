@@ -30,7 +30,8 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <table>
   <thead>
     <tr>
-      <th>Property</th>
+      <th>T:radio_button:</th>
+      <th>Type</th>
       <th>User</th>
       <th>Organization</th>
       <th>Platform</th>
