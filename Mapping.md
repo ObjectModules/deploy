@@ -156,7 +156,7 @@ You are correct!
 We need to get a library of the business. Then we can find the best business.  
 
 How to define the best one then.  
-No other way.. we have to match them to what we need and get the score one by one.
+No other way.. we have to match them to what we need and get them scored one by one.
 
 This is our point!  
 That is where we want to go.  
