@@ -41,7 +41,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
   </thead>
   <tbody>
     <tr>
-      <td scope="row">:clock12:</td>
+      <td scope="row">:clock3:</td>
       <td scope="row"><code>repo</code></td>
       <td>[[<code>info</code>|https://github.com/hyip/info]]</td>
       <td>[[:house:|https://github.com/hyipworld]] [[hyip <code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
