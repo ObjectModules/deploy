@@ -3,8 +3,8 @@ You are browsing our **info** wiki:
 [![HYIP Project](https://avatars2.githubusercontent.com/u/8466209?v=3&s=460)](https://github.com/hyip)    
 ## Navigation
 * [Home](https://github.com/hyip)
-* [Project Maps](https://github.com/hyip/info/wiki/maps)
 * [Project Info](https://github.com/hyip/info)
+* [Project Map](https://github.com/hyip/info/wiki/maps)
 * [Our Main Site](http://hyip.world/)
 * [Our Main Blog](https://tophyipmonitor.wordpress.com/)
 * [Our Repositories](https://github.com/hyip?tab=repositories)
