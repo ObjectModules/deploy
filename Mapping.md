@@ -118,7 +118,7 @@ So now you can eat your best food. Your life will become more valuable.
 Congrats!  
 
 ##Settlement
-One thing you shall note here that the original mapping is always remain included in the process. It is counted as the part of all of the four (4) mappings as still remain do its task as its routine. 
+One thing you shall note here that the original mapping is always remain included in the process getting your best food. It is counted as the part of all of the four (4) mappings. It is still remain do its task as its routine. 
 
 You can make this a sense way. Let say you are in the process on finding your best food. Are you going stop your routines of eating your daily food until get your best food?
 
