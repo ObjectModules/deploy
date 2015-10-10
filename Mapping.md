@@ -114,7 +114,7 @@ See that each of the process has a different assignment, none of them is meaning
 You may see that to get your best food the whole process is divided to _four (4) mappings_. These mappings all together are required to give the result that we are going to achieve. 
 
 At this point it is a big chance that a best food for you out from the library is founded..  
-So now you can you eat your best food. Your life will become more valuable.   
+So now you can eat your best food. Your life will become more valuable.   
 Congrats!  
 
 ##Settlement
