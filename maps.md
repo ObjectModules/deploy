@@ -14,7 +14,7 @@
   </thead>
 </table>
 #Project Map
-This page is the last page of this section. From our _[[Mapping|[Mapping]]]_ Concept, here we are going to display the overall mapping by [[diagram|[Mapping]-Overall#by-diagram]] and [[tabulation|[Mapping]-Overall#by-tabulation]].  
+This page is the last page of this section. From our _[[Mapping|[Mapping]]_ Concept, here we are going to display the overall mapping by [[diagram|[Mapping]-Overall#by-diagram]] and [[tabulation|[Mapping]-Overall#by-tabulation]].  
 
 _Hopefully you can follow and able to understand to what we have explained. You may check if you have made clear yourself by answering [[questionnaire|[Mapping]-Overall#question-for-you]] on the last of this page._
 
