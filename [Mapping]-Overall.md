@@ -16,7 +16,7 @@
 #Overall Mapping
 This page is the last page of this section. From the _[[Employment|[Mapping]-Employment]]_  & _[[Merging|[Mapping]-Merging]]_ concept, here we are going to display the overall mapping by [[diagram|[Mapping]-Overall#by-diagram]] and [[tabulation|[Mapping]-Overall#by-tabulation]].  
 
-_Hopefully you can follow and able to understand to what we have explained. You may check if you have made clear yourself by answering [[questionnaire|[Mapping]-Overall#question-for-you]] on the last of this page._
+_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Merging]]._
 
 ##Basic  
 Let's put again the mapping here:
