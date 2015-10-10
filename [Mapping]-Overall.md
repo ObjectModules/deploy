@@ -51,7 +51,20 @@ Let's map about the process of getting the best food for you the same way as you
 
 Now it is your turn to familiar with the flow on our concept. If you have followed the _[[previous section|[Mapping]-Merging]]_ you can easily figure out the overall result as shown below. 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
-_Please note that the figure above is only valid for [[The Current Section|https://github.com/hyip/info/wiki]] where this page is reside. You can find the Mapping of each section at the Bottom of Right Sidebar._
+Mapping of the process to collect the library in related with the food:
+```
+* Food will become an entry point
+* Library is what we need 
+* Collect is the process
+* Exit point  
+```
+Then we need also the mapping to examine your self to get your data:
+```
+* You will become an entry point
+* Your data is what we need 
+* Examine is the process
+* Exit point  
+```
 ##By Tabulation
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 ##By Settlement
