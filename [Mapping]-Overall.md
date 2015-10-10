@@ -51,7 +51,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
-      <th scope="row"><code>info</code></th>
+      <td scope="row"><code>wiki</code></td>
       <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
       <td>[[:cinema:|http://hyip.world/]] [[hyip <code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
       <td scope="row">-</td>
