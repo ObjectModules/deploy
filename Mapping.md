@@ -109,9 +109,9 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
-You may see that to get your best food the whole process is divided to _four (4) mappings_. Each of the process has a different assignment, each of them hold a unique task, nothing is repeated. 
+You may see that to get your best food the whole process is divided to _four (4) mappings_. You can see that each of the process has a different assignment. Each of them hold a unique task, nothing is repeated. 
 
-You can also found that none of them is meaningless. These mappings all together are required to give the result that we are going to achieve. 
+Check also that none of them is meaningless. These mappings all together are required to give the result that we are going to achieve. 
 
 At this point it is a big chance that a best food for you out from the library is founded..  
 So now you can eat your best food. Your life will become more valuable.   
