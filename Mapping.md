@@ -128,7 +128,9 @@ You may also identify your factors using _<a href="https://en.wikipedia.org/wiki
 
 You can do it with an unlimited number of spreading, you may go on making it in a wider or a problem solution globally. Once it is going to be settled then it will return automatically to the original process and let you remain on the track to what you are going to achieve. 
  
-So let's here all is back to a normal process. Just a process of eating the food. It will become the same routine just exactly the same as before we put the parameter of _best_ to the food. 
+So here, whatever you have done as long as you follow the concept, all will back to the normal process. Just a process of eating the food. 
+
+It will become the same routine just exactly the same as before we put the parameter of _best_ to the food. 
 ```
 * Hungry will become an entry point
 * Food is what we need 
