@@ -18,6 +18,35 @@ This page is the last page of this section. From the _[[Employment|[Mapping]-Emp
 
 _Hopefully you can follow and able to understand to what we have explained. You may check if you have made clear yourself by answering [[questionnaire|[Mapping]-Overall#question-for-you]] on the last of this page._
 
+##Basic  
+Let's put again the mapping here:
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+Mapping of the process to collect the library in related with the food:
+```
+* Food will become an entry point
+* Library is what we need 
+* Collect is the process
+* Exit point  
+```
+Then we need also the mapping to examine your self to get your data:
+```
+* You will become an entry point
+* Your data is what we need 
+* Examine is the process
+* Exit point  
+```
+Let's map about the process of getting the best food for you the same way as your doctor do:
+```
+* Both of food library and your data will become the entry point
+* A best food on library for you is what we need 
+* Matching the data is the process
+* Exit point  
+```
 ##By Diagram
 
 Now it is your turn to familiar with the flow on our concept. If you have followed the _[[previous section|[Mapping]-Merging]]_ you can easily figure out the overall result as shown below. 
