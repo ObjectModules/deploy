@@ -76,7 +76,7 @@ As we have explained, on the basic concept of mapping, you can put whatever word
 So simply make it a copy of the routines, put another word to replace the word of `info`, let's take the word of `world` then. So now you have two mapping with a different process. One for your routines and another one for the new process.
 
 Now left the question on how to combine them, right?  
-* The process of routines shall be able to continue its task
+* The new process shall be able to be carried out along with the routines
 
 How to make sure that the process of eating is done? We have to know it in order that this process is done. This for sure it will become another process.
 
