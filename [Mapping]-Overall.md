@@ -48,7 +48,7 @@ Let's map about the process of getting the best food for you the same way as you
 * Exit point  
 ```
 ##Collect
-If you have followed the _[[previous section|[Mapping]-Employment]]_ you can take the result as shown below. 
+If you have followed the _[[previous section|[Mapping]-Merging]]_ you can take the result as shown below. 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure13.png)  
 Mapping of the process to collect the library in related with the food:
 ```
