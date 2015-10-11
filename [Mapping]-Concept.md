@@ -87,14 +87,42 @@ Until this point the diagram for a mapping is completed.
 
 #What's Next
 You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
-
+Let's put again all of the mappings here:
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
 We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
 
-From that point you may see that a basic diagram will turn its behaviour and seeking a way to return to its routine by calling another mappings which is in our concept we call them as _Employments_ and _Merging_. 
+From that point you may see that a basic diagram will turn its behaviour and seeking a way to return to its routine by calling another mappings which is in our concept we call them as _Employment_ and _Merging_. 
 ##Employment
-This will be a different process. So all is also unique.
+Employment of this method can be more deeper depend to our need. It will be called when a parameter is assigned to a routines.
+Mapping of the process to collect the library in related with the food:
+```
+* Food will become an entry point
+* Library is what we need 
+* Collect is the process
+* Exit point  
+```
+Then we need also the mapping to examine your self to get your data:
+```
+* You will become an entry point
+* Your data is what we need 
+* Examine is the process
+* Exit point  
+```
+Both will be a different process. So all is also unique.
 ##Merging
-Employment of this method can be more deeper depend to our need. We considered this plan is suitable enough to start the process on getting it work.
+Let's map about the process of getting the best food for you the same way as your doctor do:
+```
+* Both of food library and your data will become the entry point
+* A best food on library for you is what we need 
+* Matching the data is the process
+* Exit point  
+```
+We considered this plan is suitable enough to start the process on getting it work.
 
 We will explain to how to do the both of in a different section, let start first on _[[Employment|[Mapping]-Employment]]_.
 ***
