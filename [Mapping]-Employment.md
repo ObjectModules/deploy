@@ -81,6 +81,16 @@ Now left the question on how to combine them, right?
 
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
+
+This mapping will present the process of followings:
+Mapping of the process to collect the library in related with the food:
+```
+* Food will become an entry point
+* Library is what we need 
+* Collect is the process
+* Exit point  
+```
+Then we need also the mapping to examine your self to get your data:
 ```
 * You will become an entry point
 * Your data is what we need 
