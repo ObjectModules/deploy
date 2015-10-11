@@ -78,7 +78,6 @@ So simply make it a copy of the routines, put another word to replace the word o
 Now left the question on how to combine them, right?  
 * The new process shall be able to be carried out along with the routines
 
-How to make sure that the process of eating is done? We have to know it in order that this process is done. This for sure it will become another process.
 
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
