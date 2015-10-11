@@ -68,7 +68,8 @@ So here for sure your routine will not be the same again. You have to do another
 Based on the mapping of concept a new process shall follow these rules:
 * Have on User Repository and One Organization Repository
 * The title of new repositories shall be different with routines
-* The process of routines shall be able to continue its task
+
+The process of routines shall be able to continue its task
 
 How to make sure that the process of eating is done? We have to know it in order that this process is done. This for sure it will become another process.
 
