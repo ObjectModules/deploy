@@ -6,8 +6,8 @@
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|[Mapping]-Merging]] [[Prev|[Mapping]-Merging]]</th>
       <th>[[:repeat:|[Mapping]-Overall]] [[Reload|[Mapping]-Overall]]</th>
-      <th>[[Last|maps]] [[:arrow_forward:|maps]]</th>
-      <th>[[Next|maps]] [[:fast_forward:|maps]]</th>
+      <th>[[Next|maps]] [[:arrow_forward:|maps]]</th>
+      <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
@@ -97,8 +97,8 @@ Let's put again the mapping here:
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|[Mapping]-Merging]] [[Prev|[Mapping]-Merging]]</th>
       <th>[[:repeat:|[Mapping]-Overall]] [[Reload|[Mapping]-Overall]]</th>
-      <th>[[Last|maps]] [[:arrow_forward:|maps]]</th>
-      <th>[[Next|maps]] [[:fast_forward:|maps]]</th>
+      <th>[[Next|maps]] [[:arrow_forward:|maps]]</th>
+      <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
