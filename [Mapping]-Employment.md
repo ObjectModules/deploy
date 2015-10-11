@@ -78,7 +78,6 @@ So simply make it a copy of the routines, put another word to replace the word o
 Now left the question on how to combine them, right?  
 * The new process shall be able to be carried out along with the routines
 * It shall be a clearly sign that a new process is being carried out of the routines
-* Once the new process is being settled then it shall remain stay, but the result is has to replace the assignment of the former entry of the routines
 
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
