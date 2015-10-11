@@ -79,7 +79,6 @@ Please check the appearance of the result as we have explained on the last page 
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|[Mapping]-Employment]] [[Prev|[Mapping]-Employment]]</th>
       <th>[[:repeat:|[Mapping]-Merging]] [[Reload|[Mapping]-Merging]]</th>
-      <th>[[Next|maps] [[:arrow_forward:|maps]]</th>
       <th>[[Next|maps]] [[:arrow_forward:|maps]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
