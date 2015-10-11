@@ -1,4 +1,4 @@
-|[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=3&s=20)](https://github.com/hyip) |[Next](https://github.com/hyipworld/hyipworld.github.io) |
+|[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=3&s=20)](https://github.com/hyip) |This repository is courtesy of [The HYIP Project](https://github.com/hyipworld/hyipworld.github.io) [Project Map](https://github.com/hyip/info/wiki/maps)|
 |:----|----:|
 
 
