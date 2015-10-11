@@ -134,7 +134,7 @@ The power of _[[this concept|Mapping#our-concept]]_ is that whenever a process i
 
 You may also identify the factors using _<a href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank">Fishbone Diagram</a>_, put the potential ones in to the mapping. Spread it again when a solution is not going to be achieved. 
 
-You can do it with an unlimited number of spreading. You may go in a wider or in a global problem solution whatever you want. Then finally, get them all into small pieces that you or you team can cope with. Settle them one by one.
+You can do it with an unlimited number of spreading. You may go into a wider or a global problem solution whatever you want. Then finally, get them all into small pieces that you or your team can cope with. Settle them one by one.
 
 Once it is going to be settled then it will return automatically to the original process and keep you remain on the track to what you are going to achieve. 
  
