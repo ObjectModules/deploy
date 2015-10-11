@@ -85,6 +85,8 @@ So just simply make the same diagram but add another word to the process of this
 Here we put our project name `hyip` as our choice on the displaying process.   
 Until this point the diagram for a mapping is completed.
 
+
+
 #What's Next
 You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
 Let's put again the mappings here:
