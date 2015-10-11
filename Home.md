@@ -49,7 +49,7 @@ You are browsing our **info** wiki:
 
 ###Mapping
 You are here :point_down: currently         
-[![Flow](https://hyipworld.github.io/images/github/doc/info.png)]([Mapping]-Overall)   
+[![Flow](https://hyipworld.github.io/images/github/doc/info.png)](https://github.com/hyip/info/wiki/maps)   
 ***
 <table>
   <thead>
