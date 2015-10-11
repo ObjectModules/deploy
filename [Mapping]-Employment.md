@@ -63,7 +63,7 @@ Take a look at the process. Eat is the process. Consider it as a routine process
 
 Of course you remain eat whatever the food you have on hand. Since you insist to get one so you will have to do something to get it.
 
-So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. In our concept another process means another mapping.
+So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. In our concept another process means another mapping. In this project another mapping means another repository.
 
 How to make sure that the process of eating is done? We have to know it in order that this process is done. This for sure it will become another process.
 
