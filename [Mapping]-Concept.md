@@ -88,7 +88,7 @@ Until this point the diagram for a mapping is completed.
 #What's Next
 You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
 
-We are going to explain further what going on with a basic diagram when we are putting a parameter. From that point the basic diagram will turn its behaviour seeking another mappings which is consist of an employment and a merging. 
+We are going to explain further what going on with a basic diagram when we are putting a parameter. From that point the basic diagram will turn its behaviour seeking a way to return to its routine by calling another mappings which is consist of an employment and a merging. 
 ##Employment
 This will be a different process. So all is also unique.
 ##Merging
