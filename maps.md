@@ -4,8 +4,8 @@
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Merging]] [[Prev|[Mapping]-Merging]]</th>
-      <th>[[:repeat:|[Mapping]-Overall]] [[Reload|[Mapping]-Overall]]</th>
+      <th>[[:arrow_backward:|[Mapping]-Overall]] [[Prev|[Mapping]-Overall]]</th>
+      <th>[[:repeat:|maps] [[Reload|maps]</th>
       <th>Last :arrow_forward:</th>
       <th>[[Next|https://github.com/hyip/rating]] [[:fast_forward:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
