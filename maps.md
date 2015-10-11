@@ -20,7 +20,7 @@ _Hopefully you can follow and able to understand to what we have explained. You 
 
 ##By Diagram
 Now it is your turn to familiar with the flow on our concept. If you have followed the _[[previous section|[Mapping]-Merging]]_ you can easily figure out the overall result as shown below. 
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png) 
+[![Project Map](https://hyipworld.github.io/images/github/doc/info.png)|https://tophyipmonitor.wordpress.com/hyip-world/] 
  
 _Please note that the figure above is only valid for [[The Current Section|https://github.com/hyip/info/wiki]] where this page is reside. You can find the Mapping of each section at the Bottom of Right Sidebar._
 
