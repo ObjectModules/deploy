@@ -33,7 +33,7 @@ You are browsing our **info** wiki:
     * [Employment]([Mapping]-Employment)
     * [Merging]([Mapping]-Merging)
     * [Overall]([Mapping]-Overall)
-* [[Our Map|maps]]  
+* [[Maps|maps]]  
 
 ### Library
 * [Forked Application List](%5BHOW-TO%5D-Installation)
