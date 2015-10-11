@@ -30,7 +30,7 @@ An easy case is when we are hungry so that we need a food to eat. If we don't ea
 
 Consider our living is the global process. If you don't eat then it will jeopardize the global process. So this particular process need to be settled and it will end when take a food to eat. So then global process is run normally.
 
-Here we make a mapping of the process from the *the hungry*:
+Here we make a mapping of the process from *the hungry*:
 
 ```
 * Hungry will become an entry point
@@ -79,7 +79,7 @@ We will also need to examine all of your data, including your age, your genre, y
 
 Hopefully then you can follow all the method on getting your best food. See that, getting the library of all kind of the food is one process. Getting the data of yourself is also another process. Both are different.   
 
-Let's define how we are going to get the library in related with the food and the data of yourself in the same way as we make a mapping of the process from the *the hungry*. 
+Let's define how we are going to get the library in related with the food and the data of yourself in the same way as we made the mapping of the process from *the hungry*. 
 
 Let's put again the mapping here:
 ```
