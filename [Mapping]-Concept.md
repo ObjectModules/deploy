@@ -98,7 +98,7 @@ We are going to explain further what going on with a basic diagram when we are p
 
 From that point you may see that a basic diagram will turn its behaviour and seeking a way to return to its routine by calling another mappings which is in our concept we call them as _Employment_ and _Merging_. 
 ##Employment
-Employment is a mapping built automatically whenever a parameter is assigned to a routines. In our concept there will be two kind of employments will be called. Those 2 kind of employments is present the following:
+Employment is a mapping built automatically whenever a parameter is assigned to a routines. In our concept there will be two kind of employments will be called. Each of Those 2 kind of employments is present the following:
 
 Mapping of the process to collect the library in related with the food:
 ```
