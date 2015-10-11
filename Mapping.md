@@ -132,9 +132,9 @@ See the mapping of the routines, you may count that number of elements is also _
 
 The power of _[[this concept|Mapping#our-concept]]_ is that whenever a process is not going to be settled then you can easily spread those factors that making the process stack with the same method as we have explained above. 
 
-You may also identify them using _<a href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank">Fishbone Diagram</a>_, put the potential ones in to the mapping. 
+You can do it with an unlimited number of spreading, you may go in a wider or in a global problem solution whatever you want. Spread it again when a solution is not going to be achieved. 
 
-You can do it with an unlimited number of spreading, you may go in a wider or in a global problem solution whatever you want. Spread it again when a solution is not going to be achieved. Get them into a small piece that you can cope with. Settle them one by one.
+You may also beter identify the factors using _<a href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank">Fishbone Diagram</a>_, put the potential ones in to the mapping. Get them into a small piece that you can cope with. Settle them one by one.
 
 Once it is going to be settled then it will return automatically to the original process and let you remain on the track to what you are going to achieve. 
  
