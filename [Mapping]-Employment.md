@@ -51,8 +51,7 @@ Let's map about the process of getting the best food for you the same way as you
 ##Separation
 Now we are going to explain the behaviour of a mapping when a parameter is putting inside.
 Let's take mapping of _Figure 4_ as the routines one.  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)
-
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 Let put again the mapping here.
 ```  
 * Hungry will become an entry point
