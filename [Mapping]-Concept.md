@@ -79,7 +79,7 @@ We will need also to display the process to the web. Here we make a separation b
 
 To make clear separation to the process here we take a new repo and wiki for the displaying purpose. Based on the documentatin about _<a href="https://help.github.com/articles/user-organization-and-project-pages/#building-your-user--organization-pages" target="_blank">GitHub Pages</a>_ we recommend to use User Repository for the main process, and take the Organization for displaying purpose.
 
-We also need to give the title of on it to be easily defined. So just simply make the same diagram but add another word to the process of this displaying. Here we put our project name `hyip` as our choice on the displaying process.   
+We also need to give a different title of on it to be easily defined. So just simply make the same diagram but add another word to the process of this displaying. Here we put our project name `hyip` as our choice on the displaying process.   
 
 
 Here is now the diagram will look like: 
