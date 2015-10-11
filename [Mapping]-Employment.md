@@ -66,7 +66,7 @@ Of course you remain eat whatever the food you have on hand. Since you insist to
 So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. In our concept another process means another mapping. In this project another mapping means another repository.
 
 Based on the mapping of concept a new process shall follow these rules:
-* Have on User Repository and One Organization Repository
+* Have one User Repository and one Organization Repository
 * The title of new repositories shall be different with routines
 
 The process of routines shall be able to continue its task
