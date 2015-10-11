@@ -122,9 +122,9 @@ One thing you shall note here that the original mapping, lets call it routines, 
 
 Consider this in a sense way. Let's say you are in the process on finding your best food. Are you going to stop your routines of eating your daily food until you get your best food?
 
-Other thing is that when you already get to know what is the best food for you then the food is _no more stand as a best food_. It is only the one which is founded as the best for you. So it is just a food. 
+Other thing is that when you already get to know what is the best food for you then the food is _no more stand as a best food_. It is only the one which is founded as the best for you. 
 
-You will eat it normally as usual. Nothing special.
+So it is just a food. You will eat it normally as usual. Nothing special.
 
 Once it is happen then the other processes are no more required so the whole process will return back the original process. All back to routines.
 
