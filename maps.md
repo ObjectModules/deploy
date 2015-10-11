@@ -157,6 +157,9 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 :house: _Organization Page, The List of Repositories (User+Forked)_  
 :cinema: _Assigned Page to demonstrate the content of each process on the web_  
 
+**_Caution:_**
+You can follow us for assignment of your domain follows to the above sample. Take a look at the assigned url's for the last two. This two will need to use subdomain from your main domain as they will be use in a multi cross domain.
+
 #TODO List
 No matter whether your lists are work related or just for fun. No matter what you’re planning, how big or small the task may be, TODO list makes it easy to get stuff done. 
 ##Further Development
