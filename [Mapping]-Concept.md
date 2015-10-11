@@ -90,7 +90,7 @@ You can consider that the diagram as shown above stand as our basic diagram of a
 
 We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
 
-From that point a basic diagram will turn its behaviour seeking a way to return to its routine by calling another mappings which is in our concept will consist of two employments and one merging. 
+From that point you may see that a basic diagram will turn its behaviour and seeking a way to return to its routine by calling another mappings which is in our concept will consist of two employments and one merging. 
 ##Employment
 This will be a different process. So all is also unique.
 ##Merging
