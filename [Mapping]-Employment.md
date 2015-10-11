@@ -7,7 +7,7 @@
       <th>[[:arrow_backward:|[Mapping]-Concept]] [[Prev|[Mapping]-Concept]]</th>
       <th>[[:repeat:|[Mapping]-Employment]] [[Reload|[Mapping]-Employment]]</th>
       <th>[[Next|[Mapping]-Merging]] [[:arrow_forward:|[Mapping]-Merging]]</th>
-      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
+      <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
@@ -127,7 +127,7 @@ Let continue now with the concept of _[[Merging|[Mapping]-Merging]]_.
       <th>[[:arrow_backward:|[Mapping]-Concept]] [[Prev|[Mapping]-Concept]]</th>
       <th>[[:repeat:|[Mapping]-Employment]] [[Reload|[Mapping]-Employment]]</th>
       <th>[[Next|[Mapping]-Merging]] [[:arrow_forward:|[Mapping]-Merging]]</th>
-      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
+      <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
