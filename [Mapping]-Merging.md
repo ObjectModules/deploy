@@ -81,6 +81,7 @@ Please check the appearance of the result as we have explained on the last page 
       <th>[[:repeat:|[Mapping]-Merging]] [[Reload|[Mapping]-Merging]]</th>
       <th>[[Next|[Mapping]-Overall]] [[:arrow_forward:|[Mapping]-Overall]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
   </thead>
