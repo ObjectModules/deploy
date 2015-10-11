@@ -67,7 +67,7 @@ See that the Employment has also a dotted line. Here you can break it, let try t
 Here you will get the correct merging!
 
 #What's Next
-Please check the appearance of the result as we have explained on the last page of this section titled _[[Overall Mapping|[Mapping]-Overall]]_.
+Please check the appearance of the overall process on _[[Overall Mapping|[Mapping]-Overall]]_.
 ***
 <table>
   <thead>
