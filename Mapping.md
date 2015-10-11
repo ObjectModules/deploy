@@ -126,7 +126,7 @@ Other thing is that when you already get to know what is the best food for you t
 
 So it is just a food. You will eat it normally as usual. Nothing special.
 
-Once it is happen then the other processes are no more required so the whole process will return back the original process. All back to routines.
+Once it is happen then the other processes are remain stay but no more required to be carry out as the whole process will return back the original process. All back to routines.
 
 See the mapping of the routines, you may count that number of elements is also _four (4)_, same as the number of the required mapping when a factor is spreaded. In our concept, when four mappings is going to return to its original four elements, we call it as _a settlement_.  
 
