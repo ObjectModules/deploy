@@ -86,13 +86,13 @@ Here we put our project name `hyip` as our choice on the displaying process.
 Until this point the diagram for a mapping is completed.
 
 #What's Next
+You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
 
+We are going to explain further what going on with a basic diagram when we are putting a parameter. From that point the basic diagram will turn its behaviour seeking another mappings which is consist of an employment and a merging. 
 ##Employment
-To became a valuable info then we need to rate the info. The info it self is got from searching and investigation which in hyip business is known as hyip site monitoring or in a short: _hyip monitor_.
-
-An important thing is what we will do with achieve it. Rating is process of sorting and Monitoring is process to gain the data. So the rating will need a script and monitoring will need a team. This will be a different process. So all is also unique.
+This will be a different process. So all is also unique.
 ##Merging
-Employment of this method can be more deeper depend to our need. We considered this plan is suitable enough to start the process on getting it work. So let stop the employment until this point and start merging them. 
+Employment of this method can be more deeper depend to our need. We considered this plan is suitable enough to start the process on getting it work.
 
 We will explain to how to do the both of in a different section, let start first on _[[Employment|[Mapping]-Employment]]_.
 ***
