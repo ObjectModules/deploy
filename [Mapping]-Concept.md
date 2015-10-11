@@ -114,7 +114,9 @@ Then we need also the mapping to examine your self to get your data:
 * Examine is the process
 * Exit point  
 ```
-See that one mapping is doing a process making a library which is concern to collect data in related to the parameter. A another is doing a process to examine to the one who is going to use it in related also to the parameter. So both will be a different process but it works in related to the parameter.
+See that one mapping is doing a process making a library which is concern to collect data in related to the parameter. A another is doing a process to examine to the one who is going to use it in related also to the parameter. 
+
+So both will be a different process but it works in related to the same parameter.
 ##Merging
 As you may guess this merging is the process of matching both of the employments.
 
