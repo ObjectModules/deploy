@@ -75,7 +75,7 @@ So let's put a repo and a wiki inside the box.
 As we are going to make a flow system on this project then in order to have a clear navigation we need to define a flowing diagram between the repo and the wiki. Let's put it this way:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure3.png)
 ##Displaying
-We will need also to display the process to the web. Here we make a separation between the flowing of the process to becoming able to be displayed. 
+We will need also to display the process to the web. Here we make a separation between the flowing of the process to become able to be displayed. 
 
 To make clear separation to the process here we take a new repo and wiki for the displaying purpose. Based on the documentatin about _<a href="https://help.github.com/articles/user-organization-and-project-pages/#building-your-user--organization-pages" target="_blank">GitHub Pages</a>_ we recommend to use User Repository for the main process, and take the Organization for displaying purpose.
 
