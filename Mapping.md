@@ -7,7 +7,7 @@
       <th>[[:arrow_backward:|Appearance]] [[Prev|Appearance]]</th>
       <th>[[:repeat:|Mapping]] [[Reload|Mapping]]</th>
       <th>[[Next|[Mapping]-Concept]] [[:arrow_forward:|[Mapping]-Concept]]</th>
-      <th>[[Last|[maps]] [[:fast_forward:|[maps]]</th>
+      <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
@@ -263,7 +263,7 @@ Nevertheless, this is really an exact sample that close enough to _[[our concept
       <th>[[:arrow_backward:|Appearance]] [[Prev|Appearance]]</th>
       <th>[[:repeat:|Mapping]] [[Reload|Mapping]]</th>
       <th>[[Next|[Mapping]-Concept]] [[:arrow_forward:|[Mapping]-Concept]]</th>
-      <th>[[Last|[maps]] [[:fast_forward:|[maps]]</th>
+      <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
