@@ -59,7 +59,7 @@ _It could even never ever happen on your whole live that you find your best food
 
 Say here you agree that you can't get it but you insist to get it. So you better then go to a doctor to know what is the best food for you. Would you define what your doctor is going to do? 
 
-Of course the doctor will do examine yourself and find the food on his/her library that match to your data. Here the important thing is that the doctor will define the food base on your data, _not the food that you want_.
+Of course the doctor will do examine yourself, make a diagnosis, and find a food on his/her library that best match to your data. Here the important thing is that the doctor will define the food base on your data, _not the food that you want_.
 
 It is really different with what if you are going to get the food by yourself, you will find the food with the one you want, _not the food that best match to your data_. 
 
