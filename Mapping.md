@@ -128,7 +128,7 @@ You will eat it normally as usual. Nothing special.
 
 Once it is happen then the other processes are no more required so the whole process will return back the original process. All back to routines.
 
-See the mapping of the routines, you may count that number of elements is also _four (4)_, same as others. In our concept, when four mappings is going to return to its original four elements, we call it as _a settlement_.  
+See the mapping of the routines, you may count that number of elements is also _four (4)_, same as the number of the required mapping when a factor is spreaded. In our concept, when four mappings is going to return to its original four elements, we call it as _a settlement_.  
 
 The power of _[[this concept|Mapping#our-concept]]_ is that whenever a process is not going to be settled then you can easily spread those factors that making the process stack with the same method as we have explained above. 
 
