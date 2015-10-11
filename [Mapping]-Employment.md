@@ -67,7 +67,7 @@ So here for sure your routine will not be the same again. You have to do another
 
 Based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned User Repository and one assigned Organization Repository
-* The title of new repositories shall be different with routines
+* The title of new repositories shall be different with the routines
 
 The process of routines shall be able to continue its task
 
