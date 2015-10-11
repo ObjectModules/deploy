@@ -136,7 +136,7 @@ You may also identify the factors using _<a href="https://en.wikipedia.org/wiki/
 
 You can do it with an unlimited number of spreading, you may go in a wider or in a global problem solution whatever you want. Then finally, get them all into small pieces that you can cope with. Settle them one by one.
 
-Once it is going to be settled then it will return automatically to the original process and let you remain on the track to what you are going to achieve. 
+Once it is going to be settled then it will return automatically to the original process and keep you remain on the track to what you are going to achieve. 
  
 So here in our case, whatever you have done as long as you follow the concept, all will back to the original process.  
 
