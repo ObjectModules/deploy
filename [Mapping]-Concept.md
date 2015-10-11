@@ -107,7 +107,7 @@ Mapping of the process to collect the library in related with the food:
 * Collect is the process
 * Exit point  
 ```
-Then we need also the mapping to examine your self to get your data:
+Then we need also the mapping to examine yourself to get your data:
 ```
 * You will become an entry point
 * Your data is what we need 
@@ -127,7 +127,7 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
-We will explain to how to do the both of in a different section, let start first on _[[Employment|[Mapping]-Employment]]_.
+We will explain to how to do the both in a different section, let start first on _[[Employment|[Mapping]-Employment]]_.
 ***
 <table>
   <thead>
