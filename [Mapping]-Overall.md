@@ -90,7 +90,7 @@ Let's put again the mapping here:
 #What's Next
 You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained. 
 
-Please check the appearance of all the process on our _[[Project Mapping|maps]]_ that also stand as the last page of this section.
+Please check the appearance of all the process on our _[[Mapping all the Process|maps]]_ that also stand as the last page of this section.
 ***
 <table>
   <thead>
