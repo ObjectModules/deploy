@@ -1,4 +1,4 @@
-|[:house:](https://github.com/hyip) [Home](https://github.com/hyip)|[Next](https://github.com/hyipworld/hyipworld.github.io) [:arrow_forward:](https://github.com/hyipworld/hyipworld.github.io)|
+|[![The HYIP Projecct](https://avatars1.githubusercontent.com/u/8466209?v=3&s=20)](https://github.com/hyip) [Home](https://github.com/hyip)|[Next](https://github.com/hyipworld/hyipworld.github.io) [:arrow_forward:](https://github.com/hyipworld/hyipworld.github.io)|
 |:----|----:|
 
 
