@@ -82,7 +82,10 @@ Now left the question on how to combine them, right?
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 
-This mapping will present the process of followings:  
+This is the behaviour of our mapping when a parameter is put inside the routines. Since there 2 process are generated that the behaviour of our mapping will seeking another process to return to its routine. 
+
+We will explain further how these mapping are going to present the process of followings:
+  
 Mapping of the process to collect the library in related with the food:
 ```
 * Food will become an entry point
