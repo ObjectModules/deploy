@@ -211,7 +211,7 @@ How about your best food? Do you have already find one?
 This is the real world.
 
 ##What we offer
-Here you almost come to the end story behind our concept. You can say that this project is about a mapping system. A unique mapping system to define between what we do want with the way that we are going to achieve it.  
+Here you almost come to the end story behind _[[our concept|Mapping#our-concept]]_.. You can say that this project is about a mapping system. A unique mapping system to define between what we do want with the way that we are going to achieve it.  
 
 You may agree that this concept is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to explain on how we make a mapping to manage our repositories of the project follow to the concept.
 
@@ -221,7 +221,7 @@ You will also find later that we are going to test our concept in such a way tha
 
 ##Nonpattern Word (isogram)
 
-Having made a research on what people has been doing a similar with our concept, we found this on _<a href="https://en.wikipedia.org/wiki/Isogram" target="_blank">isogram</a>_ which is a word that doesn't contain any repeating letters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
+Having made a research on what people has been doing a similar with _[[our concept|Mapping#our-concept]]_., we found this on _<a href="https://en.wikipedia.org/wiki/Isogram" target="_blank">isogram</a>_ which is a word that doesn't contain any repeating letters.  The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
 
 We have found also that Google has made a single function using this word, this function is used worldwide since many years on their JavaScript Snippet called <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced" target="_blank">Advanced Configuration - Web Tracking (analytics.js)</a>.
 
