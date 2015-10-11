@@ -7,7 +7,7 @@
       <th>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</th>
       <th>[[:repeat:|[Mapping]-Basic-Concept]] [[Reload|[Mapping]-Concept]]</th>
       <th>[[Next|[Mapping]-Employment]] [[:arrow_forward:|[Mapping]-Employment]]</th>
-      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
+      <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
@@ -105,7 +105,7 @@ We will explain to how to do the both of in a different section, let start first
       <th>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</th>
       <th>[[:repeat:|[Mapping]-Basic-Concept]] [[Reload|[Mapping]-Concept]]</th>
       <th>[[Next|[Mapping]-Employment]] [[:arrow_forward:|[Mapping]-Employment]]</th>
-      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
+      <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
