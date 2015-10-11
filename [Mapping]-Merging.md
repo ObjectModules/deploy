@@ -54,7 +54,7 @@ Let put again the diagram we have got on [[previous section|[Mapping]-Concept]]
 ###Placement
 See that there is a separated line. The line is separating a dotted line. Means they are the exit points. Here we can place another employment.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure10.png)  
-##First Merging
+##Mapping a Merging
 ###Start Puttting
 Let start put the Employment of [[HYIP Monitoring & Rating|[Mapping]-Employment#hyip-monitoring--rating]]
 ![Flow](https://hyipworld.github.io/images/github/doc/figure11.png)  
