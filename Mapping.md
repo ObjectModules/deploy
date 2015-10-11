@@ -118,23 +118,25 @@ So now you can eat your best food. Your life will become more valuable.
 Congrats!  
 
 ##Settlement
-One thing you shall note here that the original mapping is always remain included in the process getting your best food. It is counted as the part of all of the four (4) mappings. It is still remain do its task as its routine. 
+One thing you shall note here that the original mapping, lets call it routines, is always remain included in the process on getting your best food. It is counted as the part of all of the four (4) mappings. It is still remain do its task of its routine. 
 
-You can make this a sense way. Let say you are in the process on finding your best food. Are you going stop your routines of eating your daily food until get your best food?
+Consider this in a sense way. Let's say you are in the process on finding your best food. Are you going to stop your routines of eating your daily food until you get your best food?
 
 Other thing is that when you already get to know what is the best food for you then the food is _no more stand as a best food_. It is only the one which is founded as the best for you. So it is just a food. 
 
 You will eat it normally as usual. Nothing special.
 
-Once it is happen then the other processes are no more required so the whole process will return back the original process.
+Once it is happen then the other processes are no more required so the whole process will return back the original process. All back to routines.
 
-In the mapping of the original process you may count that number of elements is also _four (4)_, same as others. In our concept, when four mappings is going to return to its original four elements, we call it as _a settlement_.  
+See the mapping of the routines, you may count that number of elements is also _four (4)_, same as others. In our concept, when four mappings is going to return to its original four elements, we call it as _a settlement_.  
 
-The power of _[[this concept|Mapping#our-concept]]_, as we have explained above, is that whenever a process cannot be settled then you can easily spread the items that making it stack with the same method. 
+The power of _[[this concept|Mapping#our-concept]]_ is that whenever a process is not going to be settled then you can easily spread those factors that making the process stack with the same method as we have explained above. 
 
-You may also identify your factors using _<a href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank">Fishbone Diagram</a>_ then put the potential factors in to the mapping, let's spread it again when a solution is not going to be achieved. Let's make it in to a small piece that you can cope with. Settle them one by one.
+You may also identify them using _<a href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank">Fishbone Diagram</a>_, put the potential ones in to the mapping. 
 
-You can do it with an unlimited number of spreading, you may go on making it in a wider or a problem solution globally. Once it is going to be settled then it will return automatically to the original process and let you remain on the track to what you are going to achieve. 
+You can do it with an unlimited number of spreading, you may go in a wider or in a global problem solution whatever you want. Spread it again when a solution is not going to be achieved. Get them into a small piece that you can cope with. Settle them one by one.
+
+Once it is going to be settled then it will return automatically to the original process and let you remain on the track to what you are going to achieve. 
  
 So here in our case, whatever you have done as long as you follow the concept, all will back to the original process.  
 
