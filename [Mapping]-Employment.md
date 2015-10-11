@@ -68,6 +68,7 @@ So here for sure your routine will not be the same again. You have to do another
 Based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned User Repository and one assigned Organization Repository
 * The title of new repositories shall be different with the routines
+Let's take the mapping of the routines. As we have explained, on the basic concept of mapping, you can put whatever word you like to name a new process. So simply put another word to replace the word of `info`, let's take the word of `world` then. So now you have two mapping with a different process.
 
 The process of routines shall be able to continue its task
 
