@@ -87,7 +87,10 @@ Let's put again the mapping here:
 * Eat is the process
 * Exit point  
 ```
+#What's Next
+You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained. 
 
+Please check the appearance of the result on the last page of this section titled _[[Project Mapping|maps]_.
 ***
 <table>
   <thead>
