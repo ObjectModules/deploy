@@ -67,8 +67,6 @@ See that the Employment has also a dotted line. Here you can break it, let try t
 Here you will get the correct merging!
 
 #What's Next
-You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained. 
-
 Please check the appearance of the result as we have explained on the last page of this section titled _[[Overall Mapping|[Mapping]-Overall]]_.
 ***
 <table>
