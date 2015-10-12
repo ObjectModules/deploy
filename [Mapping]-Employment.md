@@ -151,7 +151,7 @@ _3. [[Script & Team|[Mapping]-Employment#scripting--team-work]]: script - team_
 
 Employment can be more deeper or wider depend on our need. We consider these three (3) are suitable enough to start our project on getting it work. 
 
-You may see that each kind of these (3) employment has four (4) elements, become twelve (12) all together. This twelve elements consist of six (6) Users & six (6) Organizations.
+You may see that each kind of these (3) employments has four (4) elements, become twelve (12) all together. This twelve elements consist of six (6) Users & six (6) Organizations.
 
 So let stop getting the employment until this point and start merging them. Let continue now with the concept of _[[Merging|[Mapping]-Merging]]_.
 ***
