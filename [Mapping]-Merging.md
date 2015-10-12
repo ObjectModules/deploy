@@ -111,7 +111,7 @@ Let's clean the mapping that we get on the last result, now we can get it as sho
 This is the result of the employment of _The Fourth_. The same as other mappings, this result has also four (4) parts, each of them are separated by a line.
 
 ##Overall
-You may see also that the result is remain consist of _[[the three (3) employments|[Mapping]-Employment#the-three]]_. Each of them has four (4) processes that become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes. 
+You may see also that the result is remain consist of _[[the three (3) employments|[Mapping]-Employment#the-three]]_. Each of them has four (4) processes that become twelve (12) all together. You may count also that _this twelve_ is consist of six (6) main & six (6) displaying processes. 
 
 So where is _The Forth_? You may agree that _The Fourth_ is not even seen anywhere. But in fact _The Fourth_ is the one that making this result. Means _The Fourth_ is exist everywhere. From the beginning till the end. _The Fourth_ is overall. Without _The Fourth_ all is nothing ! 
 
