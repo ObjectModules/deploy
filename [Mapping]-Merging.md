@@ -68,7 +68,7 @@ See that this mapping is also a process just the same as other mappings. However
 
 Therefore the kind of employment that represent this mapping will also bring _[[the three (3) employments|[Mapping]-Employment#the-three]]_ into its employment task. In our concept we call this task as _a merging_.
 
-This will make all employments numbers even. It will be also four (4) exactly the same as when we do every step of mapping of this concept since the beginning.
+This will make the number of all employments even. It will be also four (4) exactly the same number as when we do every step of mapping of this concept since the beginning.
 
 ###Placement
 See that there is a separated line. The line is separating a dotted line. Means they are the exit points. Here we can place another employment.  
