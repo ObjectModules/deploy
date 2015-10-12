@@ -54,6 +54,8 @@ Let put again the completed diagrams that we have got until the _[[previous sect
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure7.png)   
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure8.png)   
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure9.png)   
 #Merging
 Base the method of mapping, as you have found the the _[[previous section|[Mapping]-Employment]]_, we have defined _[[the three (3) employments|[Mapping]-Employment#the-three]]_ that represent the first three (3) of our mappings.
 ##The last mapping
