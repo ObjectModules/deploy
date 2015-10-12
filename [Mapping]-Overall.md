@@ -88,7 +88,30 @@ Let's put again the mapping here:
 * Exit point  
 ```
 #What's Next
-You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained. 
+You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained.  
+
+##Repositories
+You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
+Let's put again the mappings here:
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+## User, organization, and project
+To make clear separation to the process here we take a new repo and wiki for the displaying purpose. Based on the documentatin about _<a href="https://help.github.com/articles/user-organization-and-project-pages/#building-your-user--organization-pages" target="_blank">GitHub Pages</a>_ we recommend to use User Repository for the main process, and take the Organization for displaying purpose.
+
+* The process of `info` will stand as User Repository
+* The Process of `hyip info` will stand as Organization Repository
+
+##Domain Assignment
+
+##Forked Repository
+* The Process of `hyip info` be displayed as Organization Pages
+* The process of `info` will be displayed as Project Pages
+Here is the repositories will look like:  
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/Hyip-Info.png)  
 
 Please check the appearance of all the process on our _[[Project Map|maps]]_. 
 ***
