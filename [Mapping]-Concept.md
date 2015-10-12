@@ -96,7 +96,14 @@ Let's put again the mappings here:
 ## User, organization, and project
 To make clear separation to the process here we take a new repo and wiki for the displaying purpose. Based on the documentatin about _<a href="https://help.github.com/articles/user-organization-and-project-pages/#building-your-user--organization-pages" target="_blank">GitHub Pages</a>_ we recommend to use User Repository for the main process, and take the Organization for displaying purpose.
 
-## Domain Assignment
+* The process of `info` will stand as User Repository
+* The Process of `hyip info` will stand as Organization Repository
+
+##Domain Assignment
+
+##Forked Repository
+* The Process of `hyip info` be displayed as Organization Pages
+* The process of `info` will be displayed as Project Pages
 Here is the repositories will look like:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/Hyip-Info.png)  
 
