@@ -96,7 +96,7 @@ Then we need also the mapping to examine your self to get your data:
 
 This is what the result of _The Fourth_!
 
-You may see the result is remain consist of three (3) employments/ Each has four (4) process that become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes. 
+You may see the result is remain consist of three (3) employments. Each has four (4) process that become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes. 
 
 So where is _The Forth_? _The Forth_ is not seen everywhere. But The Fourth is the one that making this overall result, means _The Fourth_ is exist everywhere. From the beginning till the end. Without _The Fourth_ all is nothing !
 #What's Next
