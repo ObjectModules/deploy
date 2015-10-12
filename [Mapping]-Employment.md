@@ -159,7 +159,7 @@ Employment can be all kind of process that you want. In our concept we just need
 
 You may see that each kind of these (3) employments has four (4) process, become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes.
 ##The Fourth
-We have pronounced since the beginning that all the mapping has always got four (4) parts. Either mapping for a routines, mapping on spreading, also for the employments. All of the got four (4) parts. So why we only take three (3) employments. Not four (4)? 
+We have pronounced since the beginning that all the mapping has always got four (4) parts. Either mapping for a routines, mapping on spreading, also for the employments. All of them got four (4) parts. So why we only take three (3) employments. Not four (4)? 
 
 Actually there is _the fourth (4th)_. The last employment. Very special. This employment is the key of all this concept. When we found this concept we always give our respect to this one.
 
