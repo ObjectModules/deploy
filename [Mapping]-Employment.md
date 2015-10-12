@@ -161,7 +161,7 @@ You may see that each kind of these (3) employments has four (4) process, become
 ##The Fourth
 We have pronounced since the beginning that all the mapping has always got four (4) parts. Either mapping for a routines, mapping on spreading, also for the employments. All of them got four (4) parts. So why we only take three (3) employments. Not four (4)? 
 
-Actually there is _the fourth (4th)_. The last employment. Very special. This employment is the key of all this concept. When we found this concept we always give our respect to this one.
+Actually there is _The Fourth (4th)_. The last employment. Very special. This employment is the key of all this concept. When we found this concept we always give our respect to this one.
 
 So let stop the employments until this point. We are going to bring you _[[to the fourth|[Mapping]-Merging]]_.
 ***
