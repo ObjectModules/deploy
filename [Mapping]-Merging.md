@@ -54,9 +54,9 @@ Let put again the diagram we have got on [[previous section|[Mapping]-Concept]]
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure7.png)   
-##The last mapping
+#Merging
 Base the method of mapping, as you have found the the previous section, we have defined _[[the three (3) employments|[Mapping]-Employment#the-three]]_ that represent the first three (3) of our mappings.
-
+##The last mapping
 So now it is only left the last one. Let put the mapping here:
 ```
 * Both of food library and your data will become the entry point
@@ -70,10 +70,9 @@ Therefore the kind of employment that represent this mapping will also bring _[[
 
 This will make the number of all employments even. It will be also four (4) exactly the same number as when we do every step of mapping of this concept since the beginning.
 
-###Placement
+###Rules of Merging
 See that there is a separated line. The line is separating a dotted line. Means they are the exit points. Here we can place another employment.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure10.png)  
-#Mapping
 ###Start Puttting
 Let start put the Employment of [[HYIP Monitoring & Rating|[Mapping]-Employment#hyip-monitoring--rating]]
 ![Flow](https://hyipworld.github.io/images/github/doc/figure11.png)  
