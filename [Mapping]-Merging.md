@@ -13,7 +13,7 @@
     </tr>
   </thead>
 </table>
-#Merging
+#The Fourth
 
 Now we will explain about the merging in our concept. We are going to put the diagrams all together. Please be prepared your self as this section is the hardest part to follow. 
 
