@@ -58,7 +58,9 @@ The link to develop in deeper will be provided in the discussed section.
 
 For the time being this project is developed using all benefits on Google Products even all program code available in the planet to generate a widely integrated information to score and rate a group of sites running in **a same business category**.
 
-It is quite hard to find such of business model that easily to be scored or whether our score is really represent the actual situation in the business live. To rectify in a short time that the script is correctly giving an correct result we need to test it on a kind of business model that also can be measured in a short time period.   
+It is quite hard to find such of business model that easily to be scored or whether our score is really represent the actual situation in the business live. 
+
+To rectify [our concept](https://github.com/hyip/info/wiki/Mapping) in a short time basis, means that the script is going to present an correct result, we need to test it on a kind of business model that also can be measured in a short time period.   
 
 Having reviewing many alternatives we came to a business category called hyip ([high-yield investment programs](https://tophyipmonitor.wordpress.com/hyip-business/)) which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
 
