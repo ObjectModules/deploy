@@ -93,7 +93,12 @@ Then we need also the mapping to examine your self to get your data:
 ```
 ##Overall
 ![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
-You may see that each kind of these (3) employments has four (4) process, become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes. 
+
+This is what the result of _The Fourth_!
+
+You may see the result is remain consist of three (3) employments has four (4) process that become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes. 
+
+So where is _The Forth_? The Fourth is not seen everywhere. But The Fourth is the one that making this overall result, means _The Fourth_ is exit everywhere. Without _The Fourth_ all is nothing !
 #What's Next
 Please check the appearance of the overall process on _[[Overall Mapping|[Mapping]-Overall]]_.
 ***
