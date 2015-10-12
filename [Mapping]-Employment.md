@@ -163,7 +163,7 @@ We have pronounced since the beginning that all the mapping has always got four 
 
 Actually there is _The Fourth (4th)_. The last employment. Very special employment. The key of all this concept. When we found this concept we always give our respect to this one.
 
-So let stop the employments until this point. We are going to bring you _[[to the fourth|[Mapping]-Merging]]_.
+So let stop the employments until this point. We are going to bring you to _[[The Fourth|[Mapping]-Merging]]_.
 ***
 <table>
   <thead>
