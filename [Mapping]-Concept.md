@@ -81,9 +81,9 @@ To make clear separation to the process here we take a new repo and wiki for the
 
 We also need to give a different title of on it to be easily defined. So just simply make the same diagram but add another word to the process of this displaying. Here we put our project name `hyip` as our choice on the displaying process.   
 
-
-Here is now the diagram will look like: 
-
+Here is the repositories will look like:  
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/Hyip-Info.png)  
+And here is now the diagram will look like:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 Until this point the diagram for a mapping is completed.
 
