@@ -48,14 +48,6 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
-###Diagrams
-Let put again all the diagrams that we have got until the _[[previous section|[Mapping]-Employment]]_.
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)   
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure7.png)   
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure8.png)   
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure9.png)   
 #Merging
 Base the method of mapping, as you have found the the _[[previous section|[Mapping]-Employment]]_, we have defined _[[the three (3) employments|[Mapping]-Employment#the-three]]_ that represent the first three (3) of our mappings.
 ##The last mapping
@@ -71,7 +63,14 @@ See that this mapping is also a process just the same as other mappings. However
 Therefore the kind of employment that represent this mapping will also bring _[[the three (3) employments|[Mapping]-Employment#the-three]]_ into its employment task. In our concept we call this task as _a merging_.
 
 This will make the number of all employments even. It will be also four (4) exactly the same number as when we do every step of mapping of this concept since the beginning.
-
+###Diagrams
+Let put again all the diagrams that we have got until the _[[previous section|[Mapping]-Employment]]_.
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)   
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure7.png)   
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure8.png)   
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure9.png)   
 ###Rules of Merging
 See that there is a separated line. The line is separating a dotted line. Means they are the exit points. Here we can place another employment.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure10.png)  
