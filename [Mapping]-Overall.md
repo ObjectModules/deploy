@@ -47,27 +47,8 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
-##Collect
-If you have followed the _[[previous section|[Mapping]-Merging]]_ you can take the result as shown below. 
-![Flow](https://hyipworld.github.io/images/github/doc/figure13.png)  
-Mapping of the process to collect the library in related with the food:
-```
-* Food will become an entry point
-* Library is what we need 
-* Collect is the process
-* Exit point  
-```
-##Examine
-![Flow](https://hyipworld.github.io/images/github/doc/figure14.png)  
-Then the digram will be as below:
-![Flow](https://hyipworld.github.io/images/github/doc/figure15.png)  
-Then we need also the mapping to examine your self to get your data:
-```
-* You will become an entry point
-* Your data is what we need 
-* Examine is the process
-* Exit point  
-```
+##Overall
+![Flow](https://hyipworld.github.io/images/github/doc/figure16.png) 
 ##Matching
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 Let's map about the process of getting the best food for you the same way as your doctor do:
