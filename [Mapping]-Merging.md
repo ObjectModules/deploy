@@ -91,7 +91,8 @@ Then we need also the mapping to examine your self to get your data:
 * Examine is the process
 * Exit point  
 ```
-
+##Overall
+![Flow](https://hyipworld.github.io/images/github/doc/figure16.png) 
 #What's Next
 Please check the appearance of the overall process on _[[Overall Mapping|[Mapping]-Overall]]_.
 ***
