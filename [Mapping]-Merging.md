@@ -92,9 +92,9 @@ Then we need also the mapping to examine your self to get your data:
 ##Overall
 ![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
 
-This is the result of the employment of _The Fourth_ .
+This is the result of the employment of _The Fourth_ . The same as other mappings, this result has also four (4) parts, each separated by a line.
 
-You may see the result is remain consist of three (3) employments. Each has four (4) process that become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes. The same as other mappings, this result has also four (4) parts, each separated by a line.
+You may see also that the result is remain consist of three (3) employments. Each has four (4) process that become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes. 
 
 So where is _The Forth_? You may agree that _The Forth_ is not even seen anywhere. But The Fourth is the one that making this overall result. Means _The Fourth_ is exist everywhere. From the beginning till the end. Without _The Fourth_ all is nothing !
 #What's Next
