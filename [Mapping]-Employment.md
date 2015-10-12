@@ -161,7 +161,9 @@ You may see that each kind of these (3) employments has four (4) process, become
 ##The Fourth
 We have pronounced since the beginning that all the mapping has always got four (4) parts. Either mapping for a routines, mapping on spreading, also for the employments. All of the got four (4) parts.
 
-Actually there is left one employment
+So why we only take three (3) employments. Not four (4)? Actually there is the fourth (4th).
+
+
 So let stop getting the employment until this point and start merging them. Let continue now with the concept of _[[Merging|[Mapping]-Merging]]_.
 ***
 <table>
