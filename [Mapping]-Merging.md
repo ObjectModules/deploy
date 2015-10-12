@@ -70,6 +70,27 @@ See that a _dotted line_ is meeting a _straight line_ which not correct. You can
 See that the Employment has also a dotted line. Here you can break it, let try to put _the rating_ first into the Merging. So the result will be as below:   
 ![Flow](https://hyipworld.github.io/images/github/doc/figure13.png)    
 Here you will get the correct merging!
+##Collect
+If you have followed the _[[previous section|[Mapping]-Merging]]_ you can take the result as shown below. 
+![Flow](https://hyipworld.github.io/images/github/doc/figure13.png)  
+Mapping of the process to collect the library in related with the food:
+```
+* Food will become an entry point
+* Library is what we need 
+* Collect is the process
+* Exit point  
+```
+##Examine
+![Flow](https://hyipworld.github.io/images/github/doc/figure14.png)  
+Then the digram will be as below:
+![Flow](https://hyipworld.github.io/images/github/doc/figure15.png)  
+Then we need also the mapping to examine your self to get your data:
+```
+* You will become an entry point
+* Your data is what we need 
+* Examine is the process
+* Exit point  
+```
 
 #What's Next
 Please check the appearance of the overall process on _[[Overall Mapping|[Mapping]-Overall]]_.
