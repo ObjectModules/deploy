@@ -66,7 +66,9 @@ So now it is only left the last one. Let put the mapping here:
 ```
 See that this mapping is also a process just the same as other mappings. However instead of looking for a kind of a process, this mapping is simply bring all other mapping into the process.
 
-Therefore the kind of employment that represent this mapping will also bring the other three (3) employments into its employment task. This will make all employments numbers even. It will be also four (4) exactly the same as when we do every step of mapping of this concept since the beginning.
+Therefore the kind of employment that represent this mapping will also bring the other three (3) employments into its employment task. This will make all employments numbers even. 
+
+It will be also four (4) exactly the same as when we do every step of mapping of this concept since the beginning.
 
 ###Placement
 See that there is a separated line. The line is separating a dotted line. Means they are the exit points. Here we can place another employment.  
