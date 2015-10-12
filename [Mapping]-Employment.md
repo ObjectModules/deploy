@@ -65,7 +65,7 @@ Of course you remain eat whatever the food you have on hand. Since you insist to
 
 So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. In our concept another process means another mapping. In this project another mapping means another repository.
 
-##New Assignment
+##Spreading
 Based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned User Repository and one assigned Organization Repository
 * The title of new repositories shall be different with the routines
@@ -83,8 +83,8 @@ Now left the question on how to combine them, right? Here are the rules:
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 
-#Spreading
-This is the behaviour of our mapping when a parameter is put inside the routines. Since there 2 process are generated that the behaviour of our mapping will seeking another process to return to its routine. 
+#Calling
+This is the behaviour of our mapping when a parameter is put inside the routines. Since there 2 process are generated that the behavior of our mapping will seeking another process to return to its routine. 
 
 We will explain further how these mapping are going to present the process of followings:
   
