@@ -92,7 +92,8 @@ Then we need also the mapping to examine your self to get your data:
 * Exit point  
 ```
 ##Overall
-![Flow](https://hyipworld.github.io/images/github/doc/figure16.png) 
+![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
+You may see that each kind of these (3) employments has four (4) process, become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes. 
 #What's Next
 Please check the appearance of the overall process on _[[Overall Mapping|[Mapping]-Overall]]_.
 ***
