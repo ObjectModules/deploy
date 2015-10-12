@@ -161,7 +161,7 @@ You may see that each kind of these _three (3) of employments_ has four (4) proc
 ##The Fourth
 We have pronounced since the beginning that all the mappings has always got four (4) parts. Either mapping for a routines, mapping for a spreading, also for an employments. All of them got always four (4) parts. So why we only take _three (3) of employments_. Not four (4)? 
 
-Actually there is _The Fourth (4th)_. The last employment. Very special employment. The key of all this concept. When we found this concept we always give our respect to this one.
+Actually there is _The Fourth (4th)_. The last employment. Very special employment. The key of all this concept. When we found this concept we always give our respect to _The Fourth_.
 
 So let stop the employments until this point. We are going to bring you to _[[The Fourth|[Mapping]-Merging]]_.
 ***
