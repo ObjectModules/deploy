@@ -102,7 +102,7 @@ Then we need also the mapping to examine your self to get your data:
 * Examine is the process
 * Exit point  
 ```
-##Settlement
+##Basic
 A process is considered as settled whenever it can be run or return to the entry point and processed normally without any adjustment or modification into the routines.
 
 For instance, let say you have eat the food, then you got that it is not suit to your need. Means it is not the best one for you. So you need to do the searching again at which the process back to the entry point again.   
