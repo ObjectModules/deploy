@@ -48,14 +48,14 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
-###Rules
-Let put again the diagram we have got on [[previous section|[Mapping]-Concept]] 
+###Diagrams
+Let put again the completed diagram that we have got until the _[[previous section|[Mapping]-Employment]]_.
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure7.png)   
 #Merging
-Base the method of mapping, as you have found the the previous section, we have defined _[[the three (3) employments|[Mapping]-Employment#the-three]]_ that represent the first three (3) of our mappings.
+Base the method of mapping, as you have found the the _[[previous section|[Mapping]-Employment]]_, we have defined _[[the three (3) employments|[Mapping]-Employment#the-three]]_ that represent the first three (3) of our mappings.
 ##The last mapping
 So now it is only left the last one. Let put the mapping here:
 ```
