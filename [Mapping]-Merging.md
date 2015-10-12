@@ -116,7 +116,7 @@ You may see also that the result is remain consist of _[[the three (3) employmen
 
 **So where is _The Fourth_?**
 
-You may agree that _The Fourth_ is not even seen anywhere. But in fact _The Fourth_ is the one that making this result. Means _The Fourth_ is exist everywhere. From the beginning till the end. _The Fourth_ is overall. Without _The Fourth_ all is nothing ! 
+You may agree that _The Fourth_ is not even seen anywhere. But in fact _The Fourth_ is _THE ONE_ that making this result. Means _The Fourth_ is exist everywhere. From the beginning till the end. _The Fourth_ is overall. Without _The Fourth_ all is nothing ! 
 
 Please check the appearance of the overall process on _[[Overall Mapping|[Mapping]-Overall]]_.
 ***
