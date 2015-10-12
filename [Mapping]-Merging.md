@@ -50,9 +50,6 @@ Let's map about the process of getting the best food for you the same way as you
 ```
 ###Diagrams
 Let put again all the diagrams that we have got until the _[[previous section|[Mapping]-Employment]]_.
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure2.png)  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure3.png)  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)   
