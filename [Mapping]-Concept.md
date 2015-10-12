@@ -17,6 +17,7 @@
 
 We have explained the [[background of our concept|Mapping]]. Now we will explain the mapping of this project. Please be prepared your self as we are going deeper ongoing forward.
 
+_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]]._
 ##Basic
 Let's put again all of the mappings here:
 ```
