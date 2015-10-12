@@ -83,7 +83,7 @@ Now left the question on how to combine them, right? Here are the rules:
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 
-You can see that this mapping has four (4) process, just exactly like when we count the number of elements inside a routines.
+You can see that this mapping has four (4) processes, just exactly like when we count the number of elements inside a routines.
 
 In our concept we call this kind of mapping as an _employment._ The method of getting an employment from its routines we call it as a _spreading_. 
 
