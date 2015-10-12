@@ -115,7 +115,7 @@ For instance, let say you have eat the food, then you got that it is not suit to
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)
 
 
-##1st-Employment
+##1st Employment
 Let put again the diagram we have got on [[previous section|[Mapping]-Concept]]   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)  
 As you may see, every process will be a different. All is unique. So we can now put the mapping schema into a standardization as shown below:  
@@ -127,7 +127,7 @@ letter a stand as info
 letter b stand as world  
 letter c stand as hyip  
 ```
-##2nd-Employment
+##2nd Employment
 To became a valuable info then we need to rate the info. The info it self is got from searching and investigation which in hyip business is known as hyip site monitoring or in a short: hyip monitor.  
 ```js
 letter a stand as monitor  
@@ -136,7 +136,7 @@ letter c stand as hyip
 ```
 Then diagram will be shown as below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure8.png)
-##3rd-Employment
+##3rd Employment
 An important thing is what we will do with achieve it. Rating is process of sorting and Monitoring is process to gain the data. So the rating will need a script and monitoring will need a team.    
 ```js
 letter a stand as script  
