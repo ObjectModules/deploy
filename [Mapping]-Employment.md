@@ -157,7 +157,7 @@ _3. [[Script & Team|[Mapping]-Employment#scripting--team-work]]: script - team_
 
 Employment can be all kind of process that you want. In our concept we just need _three (3) of employments_. One for routines, and the other two for the process in related to the parameter.
 
-You may see that each kind of these _three (3) of employments_ has four (4) process, become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes.
+You may see that each kind of these _three (3) of employments_ has four (4) processes, become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes.
 ##The Fourth
 We have pronounced since the beginning that all the mappings has always got four (4) parts. Either mapping for a routines, mapping for a spreading, also for an employments. All of them got always four (4) parts. So why we only take _three (3) of employments_. Not four (4)? 
 
