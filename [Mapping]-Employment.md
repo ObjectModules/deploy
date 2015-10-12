@@ -159,7 +159,7 @@ Employment can be all kind of process that you want. In our concept we just need
 
 You may see that each kind of these (3) employments has four (4) process, become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes.
 ##The Fourth
-We have pronounced since the beginning that all the mapping has always got four (4) parts. Either mapping for the routines, spreading, also for the employments.
+We have pronounced since the beginning that all the mapping has always got four (4) parts. Either mapping for a routines, mapping on spreading, also for the employments. All of the got four (4) parts.
 
 Actually there is left one employment
 So let stop getting the employment until this point and start merging them. Let continue now with the concept of _[[Merging|[Mapping]-Merging]]_.
