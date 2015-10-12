@@ -64,7 +64,7 @@ So now it is only left the last one. Let put the mapping here:
 * Matching the data is the process
 * Exit point  
 ```
-See that this mapping is also a process just the same as other mappings. However instead of looking for a kind of a process, this mapping is simply bring all other mapping into the process.
+See that this mapping is also a process just the same as other mappings. However instead of looking for a kind of a process, this mapping is simply bring all other mapping into its process.
 
 Therefore the kind of employment that represent this mapping will also bring _[[the three (3) employments|[Mapping]-Employment#the-three]]_ into its employment task. In our concept we call this task _a merging_.
 
