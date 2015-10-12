@@ -94,7 +94,7 @@ Then we need also the mapping to examine your self to get your data:
 ##Overall
 ![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
 
-This is what the result the employment of _The Fourth_ !
+This is the result of the employment of _The Fourth_ !
 
 You may see the result is remain consist of three (3) employments. Each has four (4) process that become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes. 
 
