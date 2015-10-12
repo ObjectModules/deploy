@@ -48,11 +48,10 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
-##The Fourth
+###Rules
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 
-###Basic Rules
 Let put again the diagram we have got on [[previous section|[Mapping]-Concept]] 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure7.png)   
