@@ -96,7 +96,7 @@ This is the result of the employment of _The Fourth_ . The same as other mapping
 
 You may see also that the result is remain consist of three (3) employments. Each has four (4) process that become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes. 
 
-So where is _The Forth_? You may agree that _The Forth_ is not even seen anywhere. But The Fourth is the one that making this result. Means _The Fourth_ is overall. _The Fourth_ exist everywhere. From the beginning till the end. Without _The Fourth_ all is nothing !
+So where is _The Forth_? You may agree that _The Forth_ is not even seen anywhere. But _The Fourth_ is the one that making this result. Means _The Fourth_ is overall. _The Fourth_ exist everywhere. From the beginning till the end. Without _The Fourth_ all is nothing !
 #What's Next
 Please check the appearance of the overall process on _[[Overall Mapping|[Mapping]-Overall]]_.
 ***
