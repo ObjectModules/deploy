@@ -83,7 +83,7 @@ Now left the question on how to combine them, right? Here are the rules:
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 
-You can see that this mapping has four (4) elements, just exactly like when we count the number of elements inside a routines.
+You can see that this mapping has four (4) process, just exactly like when we count the number of elements inside a routines.
 
 In our concept we call this kind of mapping as an _employment._ The method of getting an employment from its routines we call it as a _spreading_. 
 
@@ -153,7 +153,7 @@ _3. [[Script & Team|[Mapping]-Employment#scripting--team-work]]: script - team_
 
 Employment can be more deeper or wider depend on our need. We consider these three (3) are suitable enough to start our project on getting it work. 
 
-You may see that each kind of these (3) employments has four (4) elements, become twelve (12) all together. This twelve elements consist of six (6) users & six (6) organizations.
+You may see that each kind of these (3) employments has four (4) process, become twelve (12) all together. This twelve consist of six (6) main & six (6) displaying processes.
 
 So let stop getting the employment until this point and start merging them. Let continue now with the concept of _[[Merging|[Mapping]-Merging]]_.
 ***
