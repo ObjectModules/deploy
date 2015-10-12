@@ -87,6 +87,8 @@ You can see that this mapping has four (4) process, just exactly like when we co
 
 In our concept we call this kind of mapping as an _employment._ The method of getting an employment from its routines we call it as a _spreading_. 
 
+Until this point the diagram for an employment is completed.
+
 #Assignment
 This is the behavior of our mapping when a parameter is put inside the routines. Since there 2 process are generated that the behavior of our mapping will seeking another process to return to its routine. 
 
