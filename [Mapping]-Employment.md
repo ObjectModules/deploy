@@ -67,8 +67,8 @@ So here for sure your routine will not be the same again. You have to do another
 
 ##Spreading
 Based on the concept of mapping then a new process shall follow these basic rules:
-* Have one assigned User Repository and one assigned Organization Repository
-* The title of new repositories shall be different with the routines
+* Have one assigned main process and one assigned displaying process
+* The title of the process shall be different with the routines
   
 Let's take again the mapping of the routines    
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)   
