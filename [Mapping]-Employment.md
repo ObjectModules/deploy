@@ -140,13 +140,13 @@ letter c stand as hyip
 Then diagram will be shown as below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure9.png)
 
+#What's Next
 Combining all together we have now 3 kind of Employments which are:  
  
 _1. [[Info & World|[Mapping]-Concept#settlement]]: info - world_  
 _2. [[Monitor & Rating|[Mapping]-Employment#hyip-monitoring--rating]]</a>: monitor - rating_  
 _3. [[Script & Team|[Mapping]-Employment#scripting--team-work]]: script - team_  
 
-#What's Next
 Employment can be more deeper or wider depend on our need. We consider these three (3) are suitable enough to start our project on getting it work. 
 
 So let stop getting the employment until this point and start merging them.  
