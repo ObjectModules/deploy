@@ -83,6 +83,7 @@ To make clear separation to the process here we take a new repo and wiki for the
 ##Forked Repository
 * The Process of `hyip info` be displayed as Organization Pages
 * The process of `info` will be displayed as Project Pages  
+
 Here is the appearance of repositories will look like:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/Hyip-Info.png)  
 
