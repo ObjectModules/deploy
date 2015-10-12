@@ -49,10 +49,9 @@ Let's map about the process of getting the best food for you the same way as you
 * Exit point  
 ```
 ###Rules
+Let put again the diagram we have got on [[previous section|[Mapping]-Concept]] 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
-
-Let put again the diagram we have got on [[previous section|[Mapping]-Concept]] 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure7.png)   
 ###Placement
