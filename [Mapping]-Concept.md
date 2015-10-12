@@ -82,7 +82,7 @@ We also need to give a different title of on it to be easily defined. So just si
 Here is now the diagram will look like:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 
-You can see that this routines has four (4) elements, consist of two (2) main process and two (2) displaying process.
+You can see that this routines has four (4) elements, consist of two (2) repos and two (2) wikis. Just like the number of elements inside a routines.
 
 Until this point the diagram for a mapping is completed.
 
