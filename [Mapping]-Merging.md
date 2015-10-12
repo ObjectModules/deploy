@@ -51,7 +51,7 @@ Let's map about the process of getting the best food for you the same way as you
 #Merging
 Base the method of mapping, as you have found the the _[[previous section|[Mapping]-Employment]]_, we have defined _[[the three (3) employments|[Mapping]-Employment#the-three]]_ that represent the first three (3) of our mappings.
 ##The last mapping
-So now it is only left the last one. Let put the mapping here:
+So now it is left only the last one. Let put the mapping here:
 ```
 * Both of food library and your data will become the entry point
 * A best food on library for you is what we need 
