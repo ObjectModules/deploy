@@ -7,7 +7,7 @@
       <th>[[:arrow_backward:|Library]] [[Prev|Library]]</th>
       <th>[[:repeat:|Category]] [[Reload|Category]]</th>
       <th>[[Next|Appearance]] [[:arrow_forward:|Appearance]]</th>
-      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
+      <th>[[Last|maps]] [[:fast_forward:|[maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
@@ -24,7 +24,7 @@ Reserved4
       <th>[[:arrow_backward:|Library]] [[Prev|Library]]</th>
       <th>[[:repeat:|Category]] [[Reload|Category]]</th>
       <th>[[Next|Appearance]] [[:arrow_forward:|Appearance]]</th>
-      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
+      <th>[[Last|maps]] [[:fast_forward:|[maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
