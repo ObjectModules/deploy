@@ -47,21 +47,6 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
-##Overall Diagram
-![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
-Four (4) parts.
-
-##Matching Diagram
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
-Four (4) processes.  
-
-##Settlement Diagram
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
-Four (4) repositories.  
-
-##Routines Diagram
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)  
-Four (4) elements.  
 
 #What's Next
 You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained.  
