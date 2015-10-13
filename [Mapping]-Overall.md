@@ -53,7 +53,7 @@ Four (4) parts.
 
 ##Matching Diagram
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
-Four (4) processes.
+Four (4) processes.  
 
 Let's map about the process of getting the best food for you the same way as your doctor do:
 ```
@@ -65,9 +65,9 @@ Let's map about the process of getting the best food for you the same way as you
 
 ##Settlement Diagram
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
-Four (4) parts.
+Four (4) repository.  
 ##Routines Diagram
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png) 
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)  
 Four (4) elements. 
 Let's put again the mapping here:
 ```
