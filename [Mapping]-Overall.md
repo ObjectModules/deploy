@@ -65,10 +65,10 @@ To make clear separation to the process here we take a new repo and wiki for the
 * The process of `info` will be displayed as Project Pages  
 
 Here is the appearance of repositories will look like:
-  
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/Hyip-Info.png)  
 
-#What's Next
+#What's Next  
 You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained.  
 
 Please check the appearance of all the process on our _[[Project Map|maps]]_. 
