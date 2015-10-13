@@ -61,6 +61,8 @@ Let's map about the process of getting the best food for you the same way as you
 
 ##Settlement
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
+##Routines
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)  
 Let's put again the mapping here:
 ```
 * Hungry will become an entry point
