@@ -65,10 +65,10 @@ Let's map about the process of getting the best food for you the same way as you
 
 ##Settlement Diagram
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
-Four (4) repository.  
+Four (4) repositories.  
 ##Routines Diagram
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)  
-Four (4) elements. 
+Four (4) elements.  
 Let's put again the mapping here:
 ```
 * Hungry will become an entry point
