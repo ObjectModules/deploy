@@ -51,16 +51,16 @@ Let's map about the process of getting the best food for you the same way as you
 #Assignment
 Hopefully you can follow and enable to understand to what we have explained. Now we are going to explain what we are going to do with this concept in our project.
 
-##Repositories
+###Repositories
 You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
 
-## User, organization, and project
+###User, organization, and project
 To make clear separation to the process here we take a new repo and wiki for the displaying purpose. Based on the documentatin about _<a href="https://help.github.com/articles/user-organization-and-project-pages/#building-your-user--organization-pages" target="_blank">GitHub Pages</a>_ we recommend to use User Repository for the main process, and take the Organization for displaying purpose.
 
 * The process of `info` will stand as User Repository
 * The Process of `hyip info` will stand as Organization Repository
 
-##Forked Repository
+###Forked Repository
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)   
 * The Process of `hyip info` be displayed as Organization Pages
 * The process of `info` will be displayed as Project Pages  
