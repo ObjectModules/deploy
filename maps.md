@@ -14,7 +14,7 @@
   </thead>
 </table>
 #Project Map
-This page is the last page of our _[[current section|Introduction]]_. of our _[[Mapping Concept|Mapping]]_. Here we are going to display the overall mapping by [[diagram|maps#by-diagram]] and [[tabulation|maps#by-tabulation]].  
+This page is the last page of our _[[current section|https://github.com/hyip/info/wiki]]_. of our _[[Mapping Concept|Mapping]]_. Here we are going to display the overall mapping by [[diagram|maps#by-diagram]] and [[tabulation|maps#by-tabulation]].  
 
 _Hopefully you can follow and able to understand to what we have explained. You may check if you have made clear yourself by answering [[questionnaire|[Mapping]-Overall#question-for-you]] on the last of this page._
 
