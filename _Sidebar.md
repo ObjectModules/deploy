@@ -9,7 +9,7 @@ You are browsing our **info** wiki:
 * [Project Map](https://github.com/hyip/info/wiki/maps)
 * [Our Main Site](http://hyip.world/)
 * [Our Main Blog](https://tophyipmonitor.wordpress.com/)
-* [Our Hyip Analysis](http://all.hyip.world/)
+* [Our Hyip Rating](http://all.hyip.world/)
 * [Our Repositories](https://github.com/hyip?tab=repositories)
 * [Current Repository](https://github.com/hyip/info)
 * [Document Repository](https://github.com/hyip/info/wiki)
