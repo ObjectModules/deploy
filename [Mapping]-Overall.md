@@ -65,7 +65,7 @@ To make clear separation to the process here we take a new repo and wiki for the
 * The Process of `hyip info` be displayed as Organization Pages
 * The process of `info` will be displayed as Project Pages  
 
-Follow to the diagram, all the code of main process will be put on User. OUt of the main process such of code will be arranged so it can be displayed on Organization and described on their correspond wikis. 
+Follow to the diagram, all the code of main process will be put on User. Out of those main processes such of code will be arranged so it can be displayed on Organization and described on their correspond wikis. 
 ###Appearance
 Here is the appearance of repositories will look like:
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/Hyip-Info.png)  
