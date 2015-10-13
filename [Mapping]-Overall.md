@@ -69,6 +69,10 @@ To make clear separation to the process here we take a new repo and wiki for the
 Here is the appearance of repositories will look like:
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/Hyip-Info.png)  
 
+##Displaying
+You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
+###Employments
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)   
 #What's Next  
 You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained.  
 
