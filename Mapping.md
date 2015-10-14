@@ -64,7 +64,7 @@ Of course the doctor will do examine yourself, make a diagnosis, and find a food
 It is really different with what if you are going to get the food by yourself, you will find the food with the one you want, _not the food that best match to your data_. 
 
 ##Just do the way they want
-So here the best way you shall do is take the food that the _doctor want_ you to eat. Not the food that _you think_ it is the best one for you.
+See that the best way you shall do is take the food that the _doctor want_ you to eat. Not the food that _you think_ it is the best one for you.
 
 In an extreme case it will be the same. Say you are a very important person. You are the president of a country. The country will for sure provide you a team of the best doctors in the country. They will do their best to find and recommend the best food for you.
 
