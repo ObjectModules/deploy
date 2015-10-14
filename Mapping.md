@@ -84,11 +84,11 @@ Hopefully then you can follow all the method on getting your best food. See that
 
 Let's define how we are going to get the library in related with the food and the data of yourself in the same way as we made the mapping of the process from _[[the hungry|Mapping#background]]_. Let's put _best_ as the parameter of the food.
 
-Mapping of the routine process:
+Mapping of the change to your routine process:
 ```
-* Hungry will become an entry point
-* A best food is what we need 
-* Eat is the process
+* Looking for your best food will become an entry point
+* An information of best food is what we need 
+* Looking is the process
 * Exit point  
 ```
 Mapping of the process to collect the library in related with all kind of the food:
