@@ -53,9 +53,9 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     <tr>
       <td scope="row">:clock4:</td>
       <td scope="row"><code>hyip</code></td>
-      <td>[[:house:|https://github.com/hyipworld]] [[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
-      <td>[[:cinema:|http://hyip.world/]] [[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
-      <td scope="row">-</td>
+      <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
+      <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
+      <td scope="row">[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] </td>
       <td scope="row">-</td>
       <td scope="row">-</td>
     </tr>
