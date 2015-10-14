@@ -48,7 +48,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">-</td>
-      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]] </td>
     </tr>
     <tr>
       <td scope="row">:clock4:</td>
