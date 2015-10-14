@@ -137,7 +137,7 @@ The power of _[[this concept|Mapping#our-concept]]_ is that whenever a process i
 
 You may also identify the factors using _<a href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank">Fishbone Diagram</a>_, put the potential ones in to the mapping. Spread it again when a solution is not going to be achieved. 
 
-![Fishbone Diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram#/media/File:Cause_and_effect_diagram_for_defect_XXX.svg)
+![Fishbone Diagram](https://tophyipmonitor.files.wordpress.com/2015/10/fishbone.png)
 
 One thing you shall note about spreading is that our concept is work only with a new unique process. Whenever it found the same identical process than the one which is already take a place will do its own spreading and open a new place for the said process. 
 
