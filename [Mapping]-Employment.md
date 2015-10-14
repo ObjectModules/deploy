@@ -70,6 +70,7 @@ So here for sure your routine will not be the same again. You have to do another
 In our normal live this kind of process can be identical with when a cell is separated into two identical sets, people call this process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_. 
 
 Here is the process is look like:  
+
 ![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
 
 ##Spreading
