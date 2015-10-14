@@ -76,6 +76,13 @@ You can consider that the diagram as shown above stand as our basic diagram of a
 We shall do the displaying for three (3) employments of four (4) repositories each. Each will need to be arranged as below:
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)   
 We are going to make the displaying between six (6) Users and six (6) Organizations. 
+###1st Employment
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)   
+###2nd Employment
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure8.png)   
+###3rd Employment
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure9.png)   
+
 ##Interaction
 Interaction between repositories shall need to be arranged in four (4) groups of interaction follow to this diagram.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
