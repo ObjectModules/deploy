@@ -147,7 +147,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io/wiki]]</td>
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] </td>
-      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|https://tophyipmonitor.wordpress.com/hyip-business/]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
+      <td scope="row">[[:one:|https://delicious.com/tophyipsinfo]] [[:two:|maps#project-map]] [[:three:|https://tophyipmonitor.wordpress.com/hyip-business/]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
   </tbody>
 </table>
