@@ -93,15 +93,15 @@ Mapping of the change to your routine process:
 ```
 Mapping of the process to collect the library in related with all kind of the food:
 ```
-* Food will become an entry point
-* Library is what we need 
-* Collect is the process
+* All the kind of food will become an entry point
+* Library of all kind of food is what we need 
+* Collection is the process
 * Exit point  
 ```
 Then we need also the mapping to examine yourself to get your data:
 ```
-* You will become an entry point
-* Your data is what we need 
+* You yourself of looking your best food will become an entry point
+* All your data to define your best food is what we need 
 * Examine is the process
 * Exit point  
 ```
