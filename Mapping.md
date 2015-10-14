@@ -220,9 +220,9 @@ This is the real world.
 ##What we offer
 Here you almost come to the end story behind _[[our concept|Mapping#our-concept]]_. You can say that this project is about a mapping system. A unique mapping system to define between what we do want with the way that we are going to achieve it.  
 
-You may agree that this concept is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to explain on how we make a mapping to manage our repositories of the project follow to the concept.
-
 [![Hyip Mapping Concept](https://tophyipmonitor.files.wordpress.com/2015/08/hyip-target.jpg?w=700)](https://tophyipmonitor.wordpress.com/hyip-world/)
+
+You may agree that this concept is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to explain on how we make a mapping to manage our repositories of the project follow to the concept.
 
 You can find our explanation about this concept in more detail. We are going also to explain on how we manage a different assignment on our section, how we assign each of them to hold that unique task, and finally how they are getting combined on achieving a _[[settlement|Mapping#settlement]]_.
 
