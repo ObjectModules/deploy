@@ -84,8 +84,14 @@ We are going to make the displaying between six (6) Users and six (6) Organizati
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure9.png)   
 
 ##Interaction
+###Overall
 Interaction between repositories shall need to be arranged in four (4) groups of interaction follow to this diagram.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
+###Matching
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
+###Routines
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
+
 #What's Next  
 You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained.  
 
