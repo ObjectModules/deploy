@@ -55,7 +55,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
       <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
-      <td scope="row">![https://avatars3.githubusercontent.com/u/8466209?v=3&s=60]</td>
+      <td scope="row">![hyip](https://avatars3.githubusercontent.com/u/8466209?v=3&s=60)</td>
       <td scope="row">[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] </td>
       <td scope="row">:one: :two: :three: :four: :five: :six: </td>
     </tr>
