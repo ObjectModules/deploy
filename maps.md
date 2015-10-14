@@ -33,8 +33,8 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     <tr>
       <th>:radio_button:</th>
       <th>Type</th>
-      <th>User</th>
-      <th>Organization</th>
+      <th>Repo</th>
+      <th>Wiki</th>
       <th>Platform</th>
       <th>Team</th>
       <th>Channel</th>
@@ -43,7 +43,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
   <tbody>
     <tr>
       <td scope="row">:clock3:</td>
-      <td scope="row"><code>repo</code></td>
+      <td scope="row"><code>main</code></td>
       <td>[[<code>info</code>|https://github.com/hyip/info]]</td>
       <td>[[:house:|https://github.com/hyipworld]] [[hyip <code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
       <td scope="row">-</td>
@@ -52,7 +52,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     </tr>
     <tr>
       <td scope="row">:clock4:</td>
-      <td scope="row"><code>wiki</code></td>
+      <td scope="row"><code>hyip</code></td>
       <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
       <td>[[:cinema:|http://hyip.world/]] [[hyip <code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
       <td scope="row">-</td>
@@ -61,7 +61,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
-      <td scope="row"><code>repo</code></td>
+      <td scope="row"><code>main</code></td>
       <td>[[<code>rating</code>|https://github.com/hyip/rating]]</td>
       <td>[[:house:|https://github.com/hyipmonitor]] [[hyip <code>monitor</code>|https://github.com/hyipmonitor/hyipmonitor.github.io]] </td>
       <td scope="row">-</td>
@@ -70,7 +70,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
-      <td scope="row"><code>wiki</code></td>
+      <td scope="row"><code>hyip</code></td>
       <td>[[<code>rating</code>|https://github.com/hyip/rating/wiki]]</td>
       <td>[[:cinema:|http://hyipmonitors.info/]] [[hyip <code>monitor|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</code></td>
       <td scope="row">-</td>
@@ -79,7 +79,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
-      <td scope="row"><code>repo</code></td>
+      <td scope="row"><code>main</code></td>
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor]]</td>
       <td>[[:house:|https://github.com/hyiprating]] [[hyip <code>rating|https://github.com/hyiprating/hyiprating.github.io]]</code></td>
       <td scope="row">-</td>
@@ -88,7 +88,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
-      <td scope="row"><code>wiki</code></td>
+      <td scope="row"><code>hyip</code></td>
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor/wiki]]</td>
       <td>[[:cinema:|http://tophyips.info/]] [[hyip <code>rating|https://github.com/hyiprating/hyiprating.github.io/wiki]]</code></td>
       <td scope="row">-</td>
@@ -97,7 +97,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
-      <td scope="row"><code>repo</code></td>
+      <td scope="row"><code>main</code></td>
       <td>[[<code>team</code>|https://github.com/hyip/team]]</td>
       <td>[[:house:|https://github.com/hyipscript]] [[hyip <code>script|https://github.com/hyipscript/hyipscript.github.io]]</code></td>
       <td scope="row">-</td>
@@ -106,7 +106,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
-      <td scope="row"><code>wiki</code></td>
+      <td scope="row"><code>hyip</code></td>
       <td>[[<code>team</code>|https://github.com/hyip/team/wiki]]</td>
       <td>[[:cinema:|http://hyipscript.info/]] [[hyip <code>script|https://github.com/hyipscript/hyipscript.github.io/wiki]]</code></td>
       <td scope="row">-</td>
@@ -115,7 +115,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
-      <td scope="row"><code>repo</code></td>
+      <td scope="row"><code>main</code></td>
       <td>[[<code>script</code>|https://github.com/hyip/script]]</td>
       <td>[[:house:|https://github.com/hyipteam]] [[hyip <code>team|https://github.com/hyipteam/hyipteam.github.io]]</code></td>
       <td scope="row">-</td>
@@ -124,7 +124,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
-      <td scope="row"><code>wiki</code></td>
+      <td scope="row"><code>hyip</code></td>
       <td>[[<code>script</code>|https://github.com/hyip/script/wiki]]</td>
       <td>[[:cinema:|http://team.hyip.world/]] [[hyip <code>team</code>|https://github.com/hyipteam/hyipteam.github.io/wiki]]</td>
       <td scope="row">-</td>
@@ -133,7 +133,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
-      <td scope="row"><code>repo</code></td>
+      <td scope="row"><code>main</code></td>
       <td>[[<code>world</code>|https://github.com/hyip/world]]</td>
       <td>[[:house:|https://github.com/hyipinfo]] [[hyip <code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io]]</td>
       <td scope="row">-</td>
@@ -142,7 +142,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
-      <td scope="row"><code>wiki</code></td>
+      <td scope="row"><code>hyip</code></td>
       <td>[[<code>world</code>|https://github.com/hyip/world/wiki]]</td>
       <td>[[:cinema:|http://info.hyip.world/]] [[hyip <code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io/wiki]]</td>
       <td scope="row">-</td>
