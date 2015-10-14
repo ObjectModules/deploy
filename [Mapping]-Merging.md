@@ -22,11 +22,11 @@ _Here we do our best to explain as you might get confused. However, in order to 
 ##Basic
 Let's put again all of _[[the mappings|Mapping#our-concept]]_ here:
 
-Mapping of the routines:
+Mapping of the change to your routine process:
 ```
-* Hungry will become an entry point
-* Food is what we need 
-* Eat is the process
+* Looking for your best food will become an entry point
+* An information of best food is what we need 
+* Looking is the process
 * Exit point  
 ```
 Mapping of the process to collect the library in related with the food:
