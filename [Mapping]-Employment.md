@@ -67,6 +67,11 @@ Of course you remain eat whatever the food you have on hand. Since you insist to
 
 So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. In our concept another process means another mapping. In this project another mapping means another repository.
 
+In our normal live this kind of process can be identical with when a cell is separated into two identical sets, people call this process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_. 
+
+Here is the process is look like:  
+![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
+
 ##Spreading
 Based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned main process and one assigned displaying process
@@ -88,11 +93,6 @@ So when applying this all together then the diagram will be shown as below:
 You can see that this mapping has four (4) processes, just exactly like when we count the number of elements inside a routines.
 
 In our concept we call this kind of mapping as an _employment._ The method of getting an employment from its routines we call it as a _spreading_. 
-
-In our normal live this kind of process can be identical with when a cell is separated into two identical sets, people call this process as a [[mitosis|https://en.wikipedia.org/wiki/Mitosis]]  
-
-Here is the process is look like:  
-![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
 
 Until this point the diagram for an employment is completed.
 
