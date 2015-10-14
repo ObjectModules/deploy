@@ -5,7 +5,7 @@
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|[Mapping]-Overall]] [[Prev|[Mapping]-Overall]]</th>
-      <th>[[:repeat:|maps]] [[Reload|maps]]</th>
+      <th>[[:repeat:|maps#project-map]] [[Reload|maps]]</th>
       <th>Last :arrow_forward:</th>
       <th>[[Next|https://github.com/hyip/rating]] [[:fast_forward:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
@@ -48,7 +48,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">-</td>
-      <td scope="row">[[:one:|maps]] [[:two:|maps]] [[:three:|maps]] [[:four:|maps]] [[:five:|maps]] [[:six:|maps]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock4:</td>
@@ -57,7 +57,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] </td>
-      <td scope="row">[[:one:|maps]] [[:two:|maps]] [[:three:|maps]] [[:four:|maps]] [[:five:|maps]] [[:six:|maps]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -66,7 +66,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>rating</code>|https://github.com/hyip/rating/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">:one: </td>
-      <td scope="row">[[:one:|maps]] [[:two:|maps]] [[:three:|maps]] [[:four:|maps]] [[:five:|maps]] [[:six:|maps]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -75,7 +75,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>monitor|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</code></td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20"</td>
       <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] </td>
-      <td scope="row">[[:one:|maps]] [[:two:|maps]] [[:three:|maps]] [[:four:|maps]] [[:five:|maps]] [[:six:|maps]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -84,7 +84,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20"</td>
       <td scope="row">:one: </td>
-      <td scope="row">[[:one:|maps]] [[:two:|maps]] [[:three:|maps]] [[:four:|maps]] [[:five:|maps]] [[:six:|maps]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -93,7 +93,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>rating|https://github.com/hyiprating/hyiprating.github.io/wiki]]</code></td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20"></td>
       <td scope="row">[[:house:|https://github.com/hyiprating]] [[:cinema:|http://tophyips.info/]] </td>
-      <td scope="row">[[:one:|maps]] [[:two:|maps]] [[:three:|maps]] [[:four:|maps]] [[:five:|maps]] [[:six:|maps]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -111,7 +111,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>script|https://github.com/hyipscript/hyipscript.github.io/wiki]]</code></td>
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] </td>
-      <td scope="row">[[:one:|maps]] [[:two:|maps]] [[:three:|maps]] [[:four:|maps]] [[:five:|maps]] [[:six:|maps]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -120,7 +120,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>script</code>|https://github.com/hyip/script/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20"></td>
       <td scope="row">-</td>
-      <td scope="row">[[:one:|maps]] [[:two:|maps]] [[:three:|maps]] [[:four:|maps]] [[:five:|maps]] [[:six:|maps]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
@@ -129,7 +129,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>team</code>|https://github.com/hyipteam/hyipteam.github.io/wiki]]</td>
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyipteam]] [[:cinema:|http://team.hyip.world/]] </td>
-      <td scope="row">[[:one:|maps]] [[:two:|maps]] [[:three:|maps]] [[:four:|maps]] [[:five:|maps]] [[:six:|maps]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -138,7 +138,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>world</code>|https://github.com/hyip/world/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">-</td>
-      <td scope="row">[[:one:|maps]] [[:two:|maps]] [[:three:|maps]] [[:four:|maps]] [[:five:|maps]] [[:six:|maps]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
@@ -147,7 +147,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io/wiki]]</td>
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] </td>
-      <td scope="row">[[:one:|maps]] [[:two:|maps]] [[:three:|maps]] [[:four:|maps]] [[:five:|maps]] [[:six:|maps]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
   </tbody>
 </table>
@@ -187,7 +187,7 @@ _Please carefully observe the mapping before you answer or consider to go [[back
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|[Mapping]-Overall]] [[Prev|[Mapping]-Overall]]</th>
-      <th>[[:repeat:|maps]] [[Reload|maps]]</th>
+      <th>[[:repeat:|maps#project-map]] [[Reload|maps]]</th>
       <th>Last :arrow_forward:</th>
       <th>[[Next|https://github.com/hyip/rating]] [[:fast_forward:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
