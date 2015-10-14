@@ -139,9 +139,9 @@ You may also identify the factors using _<a href="https://en.wikipedia.org/wiki/
 
 One thing you shall note about spreading is that our concept is work only with a new unique process. Whenever it found the same identical process than the one which is already take a place will do its own spreading and open a new place for the said process. 
 
-On the next step the spreading will take the comparison process which will let the one has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behaviour as a unique process. 
+On the next step the spreading will take the comparison process which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behaviour as a unique process. 
 
-Therefore the concept will allow an unlimited number of spreading. You can see that may go into a wider or a global problem solution whatever you want. Then finally, get them all into small pieces that you or your team can cope with. Settle them one by one.
+Therefore the concept will allow an unlimited number of spreading. You can see that you may go into a wider or a global problem solution whatever you want. Then finally, get them all into small pieces that you or your team can cope with. Settle them one by one.
 
 Once it is going to be settled then it will return automatically to the original process and keep you remain on the track to what you are going to achieve. 
  
