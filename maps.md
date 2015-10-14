@@ -57,7 +57,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] </td>
-      <td scope="row">-</td>
+      <td scope="row">:one: :two: :three: :four: :five: :six: </td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -66,7 +66,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>rating</code>|https://github.com/hyip/rating/wiki]]</td>
       <td scope="row">-</td>
       <td scope="row">-</td>
-      <td scope="row">-</td>
+      <td scope="row">:one: :two: :three: :four: :five: :six: </td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -75,7 +75,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>monitor|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</code></td>
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] </td>
-      <td scope="row">-</td>
+      <td scope="row">:one: :two: :three: :four: :five: :six: </td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -84,7 +84,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor/wiki]]</td>
       <td scope="row">-</td>
       <td scope="row">-</td>
-      <td scope="row">-</td>
+      <td scope="row">:one: :two: :three: :four: :five: :six: </td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -93,7 +93,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>rating|https://github.com/hyiprating/hyiprating.github.io/wiki]]</code></td>
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyiprating]] [[:cinema:|http://tophyips.info/]] </td>
-      <td scope="row">-</td>
+      <td scope="row">:one: :two: :three: :four: :five: :six: </td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -102,7 +102,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>team</code>|https://github.com/hyip/team/wiki]]</td>
       <td scope="row">-</td>
       <td scope="row">-</td>
-      <td scope="row">-</td>
+      <td scope="row">:one: :two: :three: :four: :five: :six: </td>
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
@@ -111,7 +111,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>script|https://github.com/hyipscript/hyipscript.github.io/wiki]]</code></td>
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] </td>
-      <td scope="row">-</td>
+      <td scope="row">:one: :two: :three: :four: :five: :six: </td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -120,7 +120,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>script</code>|https://github.com/hyip/script/wiki]]</td>
       <td scope="row">-</td>
       <td scope="row">-</td>
-      <td scope="row">-</td>
+      <td scope="row">:one: :two: :three: :four: :five: :six: </td>
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
@@ -129,7 +129,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>team</code>|https://github.com/hyipteam/hyipteam.github.io/wiki]]</td>
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyipteam]] [[:cinema:|http://team.hyip.world/]] </td>
-      <td scope="row">-</td>
+      <td scope="row">:one: :two: :three: :four: :five: :six: </td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -138,7 +138,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>world</code>|https://github.com/hyip/world/wiki]]</td>
       <td scope="row">-</td>
       <td scope="row">-</td>
-      <td scope="row">-</td>
+      <td scope="row">:one: :two: :three: :four: :five: :six: </td>
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
@@ -147,7 +147,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io/wiki]]</td>
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] </td>
-      <td scope="row">-</td>
+      <td scope="row">:one: :two: :three: :four: :five: :six: </td>
     </tr>
   </tbody>
 </table>
