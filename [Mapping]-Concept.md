@@ -19,7 +19,9 @@ We have explained the [[background of our concept|Mapping]]. Now we will explain
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping]]._
 ##Basic
-Let's put again all of the mappings here:
+Let's put again all of _[[the mappings|Mapping#our-concept]]_ here:
+
+Mapping of the routines:
 ```
 * Hungry will become an entry point
 * Food is what we need 
