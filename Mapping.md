@@ -15,7 +15,7 @@
 </table>
 
 #Concept
-You come to our section that we gonna explain our concept in detail about our project.  
+You come to our section that we gonna explain our concept in detail about _[our project](https://github.com/hyip)_.  
 Here we want you to have an open mind. If you're not enjoying it, don't do it.
 
 ##Background
