@@ -63,13 +63,14 @@ Of course the doctor will do examine yourself, make a diagnosis, and find a food
 
 It is really different with what if you are going to get the food by yourself, you will find the food with the one you want, _not the food that best match to your data_. 
 
+##Just do the way they want
 So here the best way you shall do is take the food that the _doctor want_ you to eat. Not the food that _you think_ it is the best one for you.
 
 In an extreme case it will be the same. Say you are a very important person. You are the president of a country. The country will for sure provide you a team of the best doctors in the country. They will do their best to find and recommend the best food for you.
 
 So here, because you are the president, it is not only the doctors but the country and most probably the world would also want you to eat the food base on the recommendation from the doctors. _Not the food that match to what you think it is the best one for you._
 
-<a id="#just-do-the-way-they-want" href="https://tophyipmonitor.wordpress.com/hyip-world/#just-do-the-way-they-want">
+<a href="https://tophyipmonitor.wordpress.com/hyip-world/#just-do-the-way-they-want">
 `Just do the way they want. Not of what you think.`  
 `Let them find their way to help you get what you want.`
 </a>
