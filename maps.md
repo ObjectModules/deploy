@@ -48,7 +48,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">-</td>
-      <td scope="row">[[:one:|https://www.facebook.com/hyipproject]] [[:two:|https://google.com/+HyipWorldProject]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]] </td>
+      <td scope="row">[[:one:|https://www.facebook.com/hyipproject]] [[:two:|https://google.com/+HyipWorldProject]] [[:three:|https://tophyipmonitor.wordpress.com/hyip-project/]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]] </td>
     </tr>
     <tr>
       <td scope="row">:clock4:</td>
@@ -66,7 +66,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>rating</code>|https://github.com/hyip/rating/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">:one: </td>
-      <td scope="row">[[:one:|https://www.facebook.com/tophyips.info]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
+      <td scope="row">[[:one:|https://www.facebook.com/tophyips.info]] [[:two:|maps#project-map]] [[:three:|https://tophyipmonitor.wordpress.com/hyip-rating/]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -75,7 +75,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>monitor|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</code></td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20"</td>
       <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] </td>
-      <td scope="row">[[:one:|https://www.facebook.com/hyipmonitors.info]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
+      <td scope="row">[[:one:|https://www.facebook.com/hyipmonitors.info]] [[:two:|maps#project-map]] [[:three:|https://tophyipmonitor.wordpress.com/hyip-monitors/]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -93,7 +93,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>rating|https://github.com/hyiprating/hyiprating.github.io/wiki]]</code></td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20"></td>
       <td scope="row">[[:house:|https://github.com/hyiprating]] [[:cinema:|http://tophyips.info/]] </td>
-      <td scope="row">[[:one:|https://www.facebook.com/hyipblogs]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
+      <td scope="row">[[:one:|https://www.facebook.com/hyipblogs]] [[:two:|maps#project-map]] [[:three:|https://tophyipmonitor.wordpress.com/hyip-analysis/]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -120,7 +120,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>script</code>|https://github.com/hyip/script/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20"></td>
       <td scope="row">-</td>
-      <td scope="row">[[:one:|https://www.facebook.com/hyipscript.info]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
+      <td scope="row">[[:one:|https://www.facebook.com/hyipscript.info]] [[:two:|maps#project-map]] [[:three:|https://tophyipmonitor.wordpress.com/hyip-scripts/]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
@@ -138,7 +138,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>world</code>|https://github.com/hyip/world/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">-</td>
-      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|https://tophyipmonitor.wordpress.com/hyip-world/]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
@@ -147,7 +147,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io/wiki]]</td>
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] </td>
-      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|maps#project-map]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
+      <td scope="row">[[:one:|maps#project-map]] [[:two:|maps#project-map]] [[:three:|https://tophyipmonitor.wordpress.com/hyip-business/]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
   </tbody>
 </table>
