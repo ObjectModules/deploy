@@ -141,7 +141,7 @@ One thing you shall note about spreading is that our concept is work only with a
 
 On the next step the spreading will take the comparison process which will let the one has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behaviour as a unique process. 
 
-Therefore the system it will allow an unlimited number of spreading. You can see that may go into a wider or a global problem solution whatever you want. Then finally, get them all into small pieces that you or your team can cope with. Settle them one by one.
+Therefore the concept will allow an unlimited number of spreading. You can see that may go into a wider or a global problem solution whatever you want. Then finally, get them all into small pieces that you or your team can cope with. Settle them one by one.
 
 Once it is going to be settled then it will return automatically to the original process and keep you remain on the track to what you are going to achieve. 
  
