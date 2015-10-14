@@ -35,8 +35,8 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <th>Type</th>
       <th>Repo</th>
       <th>Wiki</th>
-      <th>Platform</th>
       <th>Team</th>
+      <th>Platform</th>
       <th>Channel</th>
     </tr>
   </thead>
@@ -55,8 +55,8 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
       <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
-      <td scope="row">[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] </td>
       <td scope="row">-</td>
+      <td scope="row">[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] </td>
       <td scope="row">-</td>
     </tr>
     <tr>
@@ -73,8 +73,8 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>monitor</code>|https://github.com/hyipmonitor/hyipmonitor.github.io]] </td>
       <td>[[<code>monitor|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</code></td>
-      <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] </td>
       <td scope="row">-</td>
+      <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] </td>
       <td scope="row">-</td>
     </tr>
     <tr>
@@ -91,8 +91,8 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>rating|https://github.com/hyiprating/hyiprating.github.io]]</code></td>
       <td>[[<code>rating|https://github.com/hyiprating/hyiprating.github.io/wiki]]</code></td>
-      <td scope="row">[[:house:|https://github.com/hyiprating]] [[:cinema:|http://tophyips.info/]] </td>
       <td scope="row">-</td>
+      <td scope="row">[[:house:|https://github.com/hyiprating]] [[:cinema:|http://tophyips.info/]] </td>
       <td scope="row">-</td>
     </tr>
     <tr>
@@ -109,8 +109,8 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>script|https://github.com/hyipscript/hyipscript.github.io]]</code></td>
       <td>[[<code>script|https://github.com/hyipscript/hyipscript.github.io/wiki]]</code></td>
-      <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] </td>
       <td scope="row">-</td>
+      <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] </td>
       <td scope="row">-</td>
     </tr>
     <tr>
@@ -127,8 +127,8 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>team|https://github.com/hyipteam/hyipteam.github.io]]</code></td>
       <td>[[<code>team</code>|https://github.com/hyipteam/hyipteam.github.io/wiki]]</td>
-      <td scope="row">[[:house:|https://github.com/hyipteam]] [[:cinema:|http://team.hyip.world/]] </td>
       <td scope="row">-</td>
+      <td scope="row">[[:house:|https://github.com/hyipteam]] [[:cinema:|http://team.hyip.world/]] </td>
       <td scope="row">-</td>
     </tr>
     <tr>
@@ -145,8 +145,8 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io]]</td>
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io/wiki]]</td>
-      <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] </td>
       <td scope="row">-</td>
+      <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] </td>
       <td scope="row">-</td>
     </tr>
   </tbody>
