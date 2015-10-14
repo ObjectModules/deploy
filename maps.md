@@ -102,7 +102,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>team</code>|https://github.com/hyip/team/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">-</td>
-      <td scope="row">[[:one:|https://about.me/hyipmonitor]] [[:two:|https://about.me/hyip.world]] [[:three:|https://about.me/tophyips.info]] [[:four:|https://about.me/hyipmonitors.info]] [[:five:]|https://about.me/hyipscript.info]] :six: </td>
+      <td scope="row">[[:one:|https://about.me/hyipmonitor]] [[:two:|https://about.me/hyip.world]] [[:three:|https://about.me/tophyips.info]] [[:four:|https://about.me/hyipmonitors.info]] [[:five:|https://about.me/hyipscript.info]] :six: </td>
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
