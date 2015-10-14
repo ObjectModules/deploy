@@ -66,7 +66,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>rating</code>|https://github.com/hyip/rating/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">:one: </td>
-      <td scope="row">[[:one:|https://www.facebook.com/tophyips.info]] [[:two:|maps#project-map]] [[:three:|https://tophyipmonitor.wordpress.com/hyip-rating/]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
+      <td scope="row">[[:one:|https://www.facebook.com/tophyips.info]] [[:two:|https://plus.google.com/+TopHYIPsInfoNetwork]] [[:three:|https://tophyipmonitor.wordpress.com/hyip-rating/]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
