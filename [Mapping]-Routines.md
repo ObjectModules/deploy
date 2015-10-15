@@ -98,38 +98,48 @@ Until this point the diagram for a mapping is completed.
 #What's Next
 We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
 
-From that point you may see that a basic diagram will turn its behavior and seeking a way to return to its routine by calling another mappings which is in our concept we call them as _Employment_ and _Merging_. 
-##Employment
-Employment is a mapping built automatically whenever a parameter is assigned to a routines. In our concept there will be two kind of employments will be called. Each of Those 2 kind of employments is present the following:
-
-Mapping of the process to collect the library in related with the food:
-```
-* Food will become an entry point
-* Library is what we need 
-* Collect is the process
+##Behaviour
+Now we are going to explain the behaviour of a mapping when a parameter is putting inside.
+Let's take mapping of _Figure 4_ as the routines one.  
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
+Let put again the mapping here.
+```  
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
 * Exit point  
 ```
-Then we need also the mapping to examine yourself to get your data:
-```
-* You will become an entry point
-* Your data is what we need 
-* Examine is the process
-* Exit point  
-```
-See that one mapping is doing a process making a library which is concern to collect data in related to the parameter. Another is doing a process to examine to the one who is going to use it in related also to the parameter. 
+Take a look at the process. Eat is the process. Consider it as a routine process. What is going on when you want to find a best to eat but you don't know yet which one is.
 
-So both will be a different process but they work in related to the same parameter.
-##Merging
-As you may guess this merging is the process of matching both of the employments.
+Of course you remain eat whatever the food you have on hand. Since you insist to get one so you will have to do something to get it.
 
-Let's map about the process of getting the best food for you the same way as your doctor do:
-```
-* Both of food library and your data will become the entry point
-* A best food on library for you is what we need 
-* Matching the data is the process
-* Exit point  
-```
-We will explain to how to do the both in a different section, let start first on _[[Spreading|[Mapping]-Spreading]]_.
+So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. In our concept another process means another mapping. In this project another mapping means another repository.
+
+##Mitosis
+In our normal live this kind of process can be identical with when a cell is separated into two (2) identical sets, people call this process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_.
+
+Here the process is look like:  
+
+![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
+
+The process mitosis of a cell to become two (2) identical sets is consist of four (4) step. In our concept the final result will also produce two (2) identical sets. 
+
+In our case these two (2) identical sets will consist of two (2) identical mapping of the process of eating a food which are:
+ 
+* one mapping is remain eating _your original food_
+* another mapping is eating _your best food_
+
+As we have explained in the _[[settlement|Mapping#settlement]]_ about the behavior of this concept, whenever two (2) identical process is founded then the system will call for a comparation.
+
+This comparation process will let the one which giving a better result to take the position as the part of the main process. 
+
+The one which is not taken in the position will keep remain stay but no more carry out. It will stay as a reference or a back-up.
+
+Consider is a sense way. When you have already know what your best food is then for sure you have to choose whether you remain back to your original routines or change your routines to the new process. _You cannot carry out both all together in the same time_.
+
+We are going to explain further how a mapping will become two (2). Like _[[the mitosis|https://en.wikipedia.org/wiki/Mitosis]]_, the process in our concept will also consist of four (4) steps which we call them as _spreading, employment, merging and settlement_. 
+
+Let't start to find them in more details one by one, let start first on _[[Spreading|[Mapping]-Spreading]]_.
 ***
 <table>
   <thead>
