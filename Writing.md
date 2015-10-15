@@ -309,6 +309,8 @@ either `px` or `em`.
 Any of these options may be composed together by simply separating them with
 pipes.
 
+Note:
+You may also upload image using this [[trick|http://solutionoptimist.com/2013/12/28/awesome-github-tricks/]]
 
 ## Escaping Gollum Tags
 
