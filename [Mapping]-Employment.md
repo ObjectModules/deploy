@@ -110,9 +110,9 @@ Then diagram will be shown as below:
 #What's Next
 Combining all together we have now 3 kind of Employments which are:  
  
-_1. [[Info & World|[Mapping]-Concept#settlement]]: info - world_  
-_2. [[Monitor & Rating|[Mapping]-Employment#hyip-monitoring--rating]]</a>: monitor - rating_  
-_3. [[Script & Team|[Mapping]-Employment#scripting--team-work]]: script - team_  
+_1. [[Info & World|[Mapping]-Employment#1st-employment]]: info - world_  
+_2. [[Monitor & Rating|[Mapping]-Employment#2nd-employment]]: monitor - rating_  
+_3. [[Script & Team|[Mapping]-Employment#3rd-employment]]: script - team_  
 
 ##The Three
 
