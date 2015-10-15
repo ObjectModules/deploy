@@ -78,8 +78,8 @@ The process mitosis of a cell to become two (2) identical sets is consist of fou
 
 In our case these two (2) identical sets will consist of two (2) identical mapping of the process of eating a food which are:
  
-* one mapping is remain eating your original food
-* another mapping is eating your best food
+* one mapping is remain eating _your original food_
+* another mapping is eating _your best food_
 
 As we have explained about the behavior of unique process in the _[[settlement|Mapping#settlement]]_ of this concept, the one which giving a better result will take the position as the part of the main process. 
 
