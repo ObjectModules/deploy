@@ -50,7 +50,7 @@ Let's map about the process of getting the best food for you the same way as you
 * Exit point  
 ```
 
-#Rules
+##Rules
 Based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned main process and one assigned displaying process
 * The title of the process shall be different with the routines
