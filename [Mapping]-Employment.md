@@ -67,9 +67,9 @@ Of course you remain eat whatever the food you have on hand. Since you insist to
 
 So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. In our concept another process means another mapping. In this project another mapping means another repository.
 
-In our normal live this kind of process can be identical with when a cell is separated into two identical sets, people call this process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_. 
+In our normal live this kind of process can be identical with when a cell is separated into two (2) identical sets, people call this process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_ which consist of four (4) step.
 
-Here is the process is look like:  
+Here the process is look like:  
 
 ![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
 
@@ -82,7 +82,11 @@ As we have explained about the behavior of unique process in the _[[settlement|M
 
 The one which is not taken in the position will keep remain stay but no more carry out. It will as as a reference or a back-up.
 
-##Spreading
+We are going to explain further how a mapping will become two (2). Like _the mitosis_ the process will also consist of four steps which are in our concept we call them as _spreading, employment, merging and settlement_. 
+
+Let't start to find them in more details one by one.
+
+#Spreading
 Based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned main process and one assigned displaying process
 * The title of the process shall be different with the routines
