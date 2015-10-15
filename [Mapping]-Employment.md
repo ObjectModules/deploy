@@ -76,9 +76,12 @@ For instance, let say you have eat the food, then you got that it is not suit to
 
 
 ##1st Employment
-Let put again the diagram we have got on [[previous section|[Mapping]-Spreading]]   
+Let put again the diagram we have got on _[[previous section|[Mapping]-Spreading]]_  
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png) 
+
+As you may see, every process will be a different. All is unique.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)  
-As you may see, every process will be a different. All is unique. So we can now put the mapping schema into a standardization as shown below:  
+So we can now put the mapping schema into a standardization as shown below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure7.png)  
 
 So in line to what he have explained about _[[isogram|Mapping#nonpattern-word-isogram]]_ here you can see the breakdown of the assigned letters as below: 
