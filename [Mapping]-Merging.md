@@ -6,7 +6,7 @@
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|[Mapping]-Employment]] [[Prev|[Mapping]-Employment]]</th>
       <th>[[:repeat:|[Mapping]-Merging]] [[Reload|[Mapping]-Merging]]</th>
-      <th>[[Next|[Mapping]-Overall]] [[:arrow_forward:|[Mapping]-Overall]]</th>
+      <th>[[Next|[Mapping]-Settlement]] [[:arrow_forward:|[Mapping]-Settlement]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
@@ -149,7 +149,7 @@ Now we are going to bring you _[[Overall Mapping|[Mapping]-Overall]]_.
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|[Mapping]-Employment]] [[Prev|[Mapping]-Employment]]</th>
       <th>[[:repeat:|[Mapping]-Merging]] [[Reload|[Mapping]-Merging]]</th>
-      <th>[[Next|[Mapping]-Overall]] [[:arrow_forward:|[Mapping]-Overall]]</th>
+      <th>[[Next|[Mapping]-Settlement]] [[:arrow_forward:|[Mapping]-Settlement]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
