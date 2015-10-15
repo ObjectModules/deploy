@@ -139,7 +139,9 @@ The one which is not taken in the position will keep remain stay but no more car
 
 Consider is a sense way. When you have already know what your best food is then for sure you have to choose whether you remain back to your original routines or change your routines to the new process. _You cannot carry out both all together in the same time_.
 
-We are going to explain further how a mapping will become two (2). Like _[[the mitosis|https://en.wikipedia.org/wiki/Mitosis]]_, the process in our concept will also consist of four (4) steps which we call them as _spreading, employment, merging and settlement_. 
+We are going to explain further how a mapping will become two (2). 
+
+Identical with _[[the mitosis|https://en.wikipedia.org/wiki/Mitosis]]_, the process in our concept will also consist of four (4) steps which we call them as _spreading, employment, merging and settlement_. 
 
 Let't find them in more details one by one, let start first on _[[Spreading|[Mapping]-Spreading]]_.
 ***
