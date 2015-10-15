@@ -81,9 +81,9 @@ In our case these two (2) identical sets will consist of two (2) identical mappi
 * one mapping is remain eating _your original food_
 * another mapping is eating _your best food_
 
-As we have explained about the behavior of unique process in the _[[settlement|Mapping#settlement]]_ of this concept, the one which giving a better result will take the position as the part of the main process. 
+As we have explained in the _[[settlement|Mapping#settlement]]_ about the behavior of this concept, whenever two (2) identical process is founded then the system will call for a comparation.
 
-The one which is not taken in the position will keep remain stay but no more carry out. It will stay as a reference or a back-up.
+This comparation process will let the one which giving a better result to take the position as the part of the main process, and the one which is not taken in the position will keep remain stay but no more carry out. It will stay as a reference or a back-up.
 
 We are going to explain further how a mapping will become two (2). Like _the mitosis_ the process will also consist of four steps which are in our concept we call them as _spreading, employment, merging and settlement_. 
 
