@@ -37,6 +37,7 @@ You are browsing our **info** wiki:
     * [[Employment|[Mapping]-Employment]]
     * [[Merging|[Mapping]-Merging]]
     * [[Settlement|[Mapping]-Settlement]]
+    * [[Comparison|[Mapping]-Comparison]]
     * [[Overall|[Mapping]-Overall]]
 * [[Our Map|maps]]  
 
