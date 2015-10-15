@@ -6,7 +6,7 @@
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|[Mapping]-Merging]] [[Prev|[Mapping]-Merging]]</th>
       <th>[[:repeat:|[Mapping]-Settlement]] [[Reload|[Mapping]-Settlement]]</th>
-      <th>[[Next|[Mapping]-Overall]] [[:arrow_forward:|[Mapping]-Overall]]</th>
+      <th>[[Next|[Mapping]-Comparison]] [[:arrow_forward:|[Mapping]-Comparison]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
@@ -80,7 +80,7 @@ Four (4) elements.
 
 
 ##Application
-Now we are going to bring you _[[Overall Mapping|[Mapping]-Overall]]_.
+Now we are going to bring you to _[[Comparison|[Mapping]-Comparison]]_.
 ***
 <table>
   <thead>
@@ -90,7 +90,7 @@ Now we are going to bring you _[[Overall Mapping|[Mapping]-Overall]]_.
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|[Mapping]-Merging]] [[Prev|[Mapping]-Merging]]</th>
       <th>[[:repeat:|[Mapping]-Settlement]] [[Reload|[Mapping]-Settlement]]</th>
-      <th>[[Next|[Mapping]-Overall]] [[:arrow_forward:|[Mapping]-Overall]]</th>
+      <th>[[Next|[Mapping]-Comparison]] [[:arrow_forward:|[Mapping]-Comparison]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
