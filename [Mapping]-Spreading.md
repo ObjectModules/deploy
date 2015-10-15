@@ -51,6 +51,8 @@ Let's map about the process of getting the best food for you the same way as you
 ```
 
 ##Rules
+We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
+
 Based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned main process and one assigned displaying process
 * The title of the process shall be different with the routines
@@ -75,8 +77,6 @@ In our concept we call this kind of mapping as an _employment._ The method of ge
 Until this point the diagram for an employment is completed.
 
 #What's Next
-We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
-
 From that point you may see that a basic diagram will turn its behavior and seeking a way to return to its routine by calling another mappings which is in our concept we call them as _Employment_ and _Merging_. 
 ##Employment
 Employment is a mapping built automatically whenever a parameter is assigned to a routines. In our concept there will be two kind of employments will be called. Each of Those 2 kind of employments is present the following:
