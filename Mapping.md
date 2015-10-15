@@ -123,7 +123,7 @@ At this point it is a big chance that a best food for you out from the library i
 So now you can eat your best food. Your life will become more valuable.   
 Congrats!  
 
-##Settlement
+##All back to routines
 One thing you shall note here that the original mapping, lets call it routines, is always remain included in the process on getting your best food. It is counted as the part of all of the four (4) mappings. It is still remain do its task of its routine. 
 
 Consider this in a sense way. Let's say you are in the process on finding your best food. Are you going to stop your routines of eating your daily food until you get your best food?
@@ -134,8 +134,7 @@ So it is just a food. You will eat it normally as usual. Nothing special.
 
 Once it is happen then the other processes are remain stay but no more required to be carry out as the whole process will return back the original process. All back to routines.
 
-See the mapping of the routines, you may count that number of elements is also _four (4)_, same as the number of the required mapping when a factor is spreaded. In our concept, when four mappings is going to return to its original four elements, we call it as _a settlement_.  
-
+##Factors
 The power of _[[this concept|Mapping#our-concept]]_ is that whenever a process is not going to be settled then you can easily spread those factors that making the process stack with the same method as we have explained above. 
 
 You may also identify the factors using _<a href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank">Fishbone Diagram</a>_, put the potential ones in to the mapping. Spread it again when a solution is not going to be achieved. 
@@ -146,12 +145,16 @@ Here is the diagram is look like:
 ![Fishbone Diagram](https://tophyipmonitor.files.wordpress.com/2015/10/fishbone.png)  
 One thing you shall note about spreading is that our concept is work only with a new unique process. Whenever it found the same identical process than the one which is already take a place will do its own spreading and open a new place for the said process. 
 
-On the next step the spreading will take the comparison process which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behaviour as a unique process. 
+On the next step the spreading will take the comparison process which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behavior as a unique process. 
 
 Therefore the concept will allow an unlimited number of spreading. You can see that you may go into a wider or a global problem solution whatever you want. Get them all into small pieces that you or your team can cope with. Settle them one by one.
 
 Once it is going to be settled then it will return automatically to the original process and keep you remain on the track to what you are going to achieve. 
  
+##Settlement
+
+See the mapping of the routines, you may count that number of elements is also _four (4)_, same as the number of the required mapping when a factor is spreaded. In our concept, when four mappings is going to return to its original four elements, we call it as _a settlement_.  
+
 So here in our case, whatever you have done as long as you follow the concept, all will back to the original process.  
 
 It will become the same routine just exactly the same as before we put the parameter of _best_ to the food. Just a process of eating a food.
