@@ -68,13 +68,13 @@ Of course you remain eat whatever the food you have on hand. Since you insist to
 So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. In our concept another process means another mapping. In this project another mapping means another repository.
 
 ##Mitosis
-In our normal live this kind of process can be identical with when a cell is separated into two (2) identical sets, people call this process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_ which consist of four (4) step.
+In our normal live this kind of process can be identical with when a cell is separated into two (2) identical sets, people call this process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_.
 
 Here the process is look like:  
 
 ![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
 
-In our concept the final result will also produce two (2) sets identical process. In our case it will consist of two (2) identical mapping of the process of eating a food which are:
+The process mitosis of a cell to become two (2) identical sets is consist of four (4) step. In our concept the final result will also produce two (2) sets identical process. In our case it will consist of two (2) identical mapping of the process of eating a food which are:
  
 * one mapping is remain eating your original food
 * another mapping is eating your best food
