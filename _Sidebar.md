@@ -32,7 +32,7 @@ You are browsing our **info** wiki:
 * [[Category]]
 * [[Appearance]]
 * [[Mapping]]
-    * [[Basic Concept|[Mapping]-Concept]]
+    * [[Basic|[Mapping]-Concept]]
     * [[Spreading|[Mapping]-Speading]]
     * [[Employment|[Mapping]-Employment]]
     * [[Merging|[Mapping]-Merging]]
