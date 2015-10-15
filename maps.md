@@ -198,7 +198,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>
-<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
+<a href="https://about.me/hyipmonitor"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
       </td>
     </tr>
     <tr>
