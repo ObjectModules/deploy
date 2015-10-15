@@ -4,8 +4,8 @@
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Merging]] [[Prev|[Mapping]-Merging]]</th>
-      <th>[[:repeat:|[Mapping]-Settlement]] [[Reload|[Mapping]-Settlement]]</th>
+      <th>[[:arrow_backward:|[Mapping]-Settlement]] [[Prev|[Mapping]-Settlement]]</th>
+      <th>[[:repeat:|[Mapping]-Comparison]] [[Reload|[Mapping]-Comparison]]</th>
       <th>[[Next|[Mapping]-Overall]] [[:arrow_forward:|[Mapping]-Overall]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
@@ -88,8 +88,8 @@ Now we are going to bring you _[[Overall Mapping|[Mapping]-Overall]]_.
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Merging]] [[Prev|[Mapping]-Merging]]</th>
-      <th>[[:repeat:|[Mapping]-Settlement]] [[Reload|[Mapping]-Settlement]]</th>
+      <th>[[:arrow_backward:|[Mapping]-Settlement]] [[Prev|[Mapping]-Settlement]]</th>
+      <th>[[:repeat:|[Mapping]-Comparison]] [[Reload|[Mapping]-Comparison]]</th>
       <th>[[Next|[Mapping]-Overall]] [[:arrow_forward:|[Mapping]-Overall]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
