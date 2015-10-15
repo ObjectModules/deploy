@@ -73,10 +73,10 @@ Here is the process is look like:
 
 ![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
 
-In our concept the final result will also produce two (2) sets identical process. In our case it will consist of two (2) identical mapping of routines. Both are the process of eating a food which are:
+In our concept the final result will also produce two (2) sets identical process. In our case it will consist of two (2) identical mapping of the process of eating a food which are:
  
-* one mapping remain eating your original food
-* one mapping remain eating your a best food
+* one mapping is remain eating your original food
+* another mapping is eating your best food
 
 As we have explained about the behavior of unique process in the _[[settlement|Mapping#settlement]]_ of this concept, the one which giving a better result will take the position as the part of the main process. 
 
