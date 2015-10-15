@@ -59,7 +59,7 @@ One thing you shall note about spreading is that our concept is work only with a
 
 On the next step the spreading will take the comparison process which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behavior as a unique process.
 
-Please check the appearance of the settlement concept:
+Please check the appearance of the comparison process in our concept:
 
 ###Overall Diagram
 ![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
