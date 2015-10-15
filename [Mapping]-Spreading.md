@@ -4,7 +4,7 @@
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Concept]] [[Prev|[Mapping]-Concept]]</th>
+      <th>[[:arrow_backward:|[Mapping]-Routines]] [[Prev|[Mapping]-Routines]]</th>
       <th>[[:repeat:|[Mapping]-Employment]] [[Reload|[Mapping]-Employment]]</th>
       <th>[[Next|[Mapping]-Merging]] [[:arrow_forward:|[Mapping]-Merging]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
