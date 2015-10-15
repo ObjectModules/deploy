@@ -33,7 +33,7 @@ You are browsing our **info** wiki:
 * [[Appearance]]
 * [[Mapping]]
     * [[Routines|[Mapping]-Concept]]
-    * [[Spreading|[Mapping]-Speading]]
+    * [[Spreading|[Mapping]-Spreading]]
     * [[Employment|[Mapping]-Employment]]
     * [[Merging|[Mapping]-Merging]]
     * [[Settlement|[Mapping]-Settlement]]
