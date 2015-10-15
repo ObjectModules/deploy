@@ -93,6 +93,8 @@ As you know that it is really difficult to find such a good services when you ha
 
 That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on '*keyword base*' search result to the world.
 
+[![Target Mapping](https://cloud.githubusercontent.com/assets/8466209/10521251/060b2ce2-7399-11e5-9ac2-480b09c975cb.png)](https://github.com/hyip/info/wiki/Mapping)  
+
 At last but not least we welcome for your comments or [opinion to our project](https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program). Please feel free to try your hand at building other formats; any discussion will be opened later once the application is meeting the most targets as described above.
 
 As an update we would like to announce that we have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer.:pray:    
