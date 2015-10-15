@@ -120,26 +120,7 @@ You may see also that the result is remain consist of _[[the three (3) employmen
 
 You may agree that _The Fourth_ is not even seen anywhere. But in fact _The Fourth_ is _THE ONE_ that making the _[[settlement|Mapping#settlement]]_. Means _The Fourth_ is exist from the beginning till the end. _The Fourth_ is exist everywhere. _The Fourth_ is overall. Without _The Fourth_ all is nothing ! 
 
-Please check the appearance of the overall concept:
-###Overall Diagram
-![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
-Four (4) parts.
-
-###Matching Diagram
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
-Four (4) processes.  
-
-###Settlement Diagram
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
-Four (4) repositories.  
-
-###Routines Diagram
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)  
-Four (4) elements.  
-
-
-##Application
-Now we are going to bring you _[[Overall Mapping|[Mapping]-Overall]]_.
+Please check the appearance of the _[[Overall Mapping|[Mapping]-Overall]]_.
 ***
 <table>
   <thead>
