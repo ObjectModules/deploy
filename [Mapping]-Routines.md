@@ -61,7 +61,7 @@ Let's put this way:
 2. A Dotted line for exit point
 ``` 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)  
-The diagram as shown in _Figure 1_ has 4 elements. Each represent each element inside the mapping. We just need to put _what we need_ as a text above the box. 
+The diagram as shown in _Figure 1_ has four (4) elements. Each represent each element inside the mapping. We just need to put _what we need_ as a text above the box. 
 
 Let's take a look into each mapping one by one. You may find that in our case this text can be each of the followings:
 * `Food`
