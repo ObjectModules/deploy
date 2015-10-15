@@ -33,9 +33,11 @@ You are browsing our **info** wiki:
 * [[Appearance]]
 * [[Mapping]]
     * [[Basic Concept|[Mapping]-Concept]]
-    * [Employment]([Mapping]-Employment)
-    * [Merging]([Mapping]-Merging)
-    * [Overall]([Mapping]-Overall)
+    * [[Spreading|[Mapping]-Speading]]
+    * [[Employment|[Mapping]-Employment]]
+    * [[Merging|[Mapping]-Merging]]
+    * [[Settlement|[Mapping]-Settlement]]
+    * [[Overall|[Mapping]-Overall]]
 * [[Our Map|maps]]  
 
 ### Library
