@@ -13,7 +13,7 @@
     </tr>
   </thead>
 </table>
-#The Fourth
+#Merging
 
 Now we will explain about the merging in our concept. We are going to put the diagrams all together. Please be prepared your self as this section is the hardest part to follow. 
 
@@ -52,7 +52,7 @@ Let's map about the process of getting the best food for you the same way as you
 ```
 #Merging
 Base the method of mapping, as you have found the the _[[previous section|[Mapping]-Employment]]_, we have defined _[[the three (3) employments|[Mapping]-Employment#the-three]]_ that represent the first three (3) of our mappings.
-##The last mapping
+##The Fourth
 So now it is left only the last one. Let put the mapping here:
 ```
 * Both of food library and your data will become the entry point
