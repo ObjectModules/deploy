@@ -77,7 +77,7 @@ For instance, let say you have eat the food, then you got that it is not suit to
 
 
 ##1st Employment
-Let put again the diagram we have got on [[previous section|[Mapping]-Concept]]   
+Let put again the diagram we have got on [[previous section|[Mapping]-Spreading]]   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)  
 As you may see, every process will be a different. All is unique. So we can now put the mapping schema into a standardization as shown below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure7.png)  
