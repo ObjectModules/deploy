@@ -54,7 +54,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
 <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a></td>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>                                        </td>
     </tr>
     <tr>
       <td scope="row">:clock4:</td>
@@ -63,8 +63,13 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] </td>
-      <td scope="row">[[:one:|https://www.facebook.com/hyipworld]] [[:two:|https://plus.google.com/+HyipW]] [[:three:|https://twitter.com/hyip_world]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
-    </tr>
+      <td scope="row">
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>                                        </td>
     <tr>
       <td scope="row">:clock1:</td>
       <td scope="row"><code>main</code></td>
