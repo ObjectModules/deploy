@@ -52,8 +52,9 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
 <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
 <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>                                        </td>
+</td>
     </tr>
     <tr>
       <td scope="row">:clock4:</td>
@@ -66,9 +67,8 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
 <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
 <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-</td>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>                                        </td>
     <tr>
       <td scope="row">:clock1:</td>
       <td scope="row"><code>main</code></td>
