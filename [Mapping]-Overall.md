@@ -4,7 +4,7 @@
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Merging]] [[Prev|[Mapping]-Merging]]</th>
+      <th>[[:arrow_backward:|[Mapping]-Comparison]] [[Prev|[Mapping]-Comparison]]</th>
       <th>[[:repeat:|[Mapping]-Overall]] [[Reload|[Mapping]-Overall]]</th>
       <th>[[Next|maps]] [[:arrow_forward:|maps]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
@@ -16,7 +16,7 @@
 #Overall
 This page is the last page of our _[[Mapping Concept|Mapping]]_. Here we are going to explain on how we manage our repositories follow to the overall concept to become a _[[settlement|Mapping#settlement]]_.  
 
-_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Merging]]._
+_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Comparison]]._
 
 ##Basic
 Let's put again all of _[[the mappings|Mapping#our-concept]]_ here:
@@ -105,7 +105,7 @@ Please check the appearance of all the process on our _[[Project Map|maps]]_.
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Merging]] [[Prev|[Mapping]-Merging]]</th>
+      <th>[[:arrow_backward:|[Mapping]-Comparison]] [[Prev|[Mapping]-Comparison]]</th>
       <th>[[:repeat:|[Mapping]-Overall]] [[Reload|[Mapping]-Overall]]</th>
       <th>[[Next|maps]] [[:arrow_forward:|maps]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
