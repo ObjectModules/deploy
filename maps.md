@@ -49,12 +49,13 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">-</td>
       <td scope="row">
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>                                        <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
-</td>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
+      </td>
     </tr>
     <tr>
       <td scope="row">:clock4:</td>
@@ -64,11 +65,14 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] </td>
       <td scope="row">
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>                                        <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>                                        </td>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
+      </td>
+    </tr>
     <tr>
       <td scope="row">:clock1:</td>
       <td scope="row"><code>main</code></td>
@@ -77,12 +81,13 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row"><img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20"> </td>
       <td scope="row">
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>                                        <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
-</td>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
+      </td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -92,12 +97,14 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20"</td>
       <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] </td>
       <td scope="row">
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>                                        <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>                                        </td>
-    <tr>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
+      </td>
+    </tr>
     <tr>
       <td scope="row">:clock1:</td>
       <td scope="row"><code>main</code></td>
@@ -106,12 +113,13 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20"</td>
       <td scope="row"><a href="https://github.com/aws" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2232217?v=20&s=20"></a></td>
       <td scope="row">
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>                                        <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
-</td>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
+      </td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -121,12 +129,14 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20"></td>
       <td scope="row">[[:house:|https://github.com/hyiprating]] [[:cinema:|http://tophyips.info/]] </td>
       <td scope="row">
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>                                        <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>                                        </td>
-    <tr>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
+      </td>
+    </tr>
     <tr>
       <td scope="row">:clock1:</td>
       <td scope="row"><code>main</code></td>
@@ -135,12 +145,13 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">-</td>
       <td scope="row">
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>                                        <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
-</td>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
+      </td>
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
@@ -150,12 +161,13 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] </td>
       <td scope="row">
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>                                        <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>                                        </td>
-    <tr>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
+      </td>
     </tr>
     <tr>
       <td scope="row">:clock1:</td>
@@ -165,12 +177,13 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20"></td>
       <td scope="row">-</td>
       <td scope="row">
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>                                        <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
-</td>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
+      </td>
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
@@ -180,12 +193,14 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyipteam]] [[:cinema:|http://team.hyip.world/]] </td>
       <td scope="row">
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>                                        <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>                                        </td>
-    <tr>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
+      </td>
+    </tr>
     <tr>
       <td scope="row">:clock1:</td>
       <td scope="row"><code>main</code></td>
@@ -194,12 +209,13 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">-</td>
       <td scope="row">
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>                                        <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
-</td>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
+      </td>
     </tr>
     <tr>
       <td scope="row">:clock12:</td>
@@ -209,12 +225,14 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">-</td>
       <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] </td>
       <td scope="row">
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>                                        <a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>                                        </td>
-    <tr>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>
+<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
