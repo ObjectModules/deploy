@@ -48,7 +48,14 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
       <td scope="row">-</td>
-      <td scope="row">[[:one:|https://www.facebook.com/hyipproject]] [[:two:|https://google.com/+HyipWorldProject]] [[:three:|https://tophyipmonitor.wordpress.com/hyip-project/]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]] </td>
+      <td scope="row">
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2760067?v=20&s=20"></a>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
+<a href="maps#project-map" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2232217?v=20&s=20"></a></td>
     </tr>
     <tr>
       <td scope="row">:clock4:</td>
@@ -83,9 +90,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor]]</td>
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20"</td>
-      <td scope="row">
-<a href="https://github.com/aws" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2232217?v=20&s=20"></a>
-<a href="https://github.com/aws" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2232217?v=20&s=20"></a></td>
+      <td scope="row"><a href="https://github.com/aws" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2232217?v=20&s=20"></a></td>
       <td scope="row">[[:one:|https://www.facebook.com/TopHyipsDotInfo]] [[:two:|https://google.com/+TopHYIPsinfoGigafeed]] [[:three:|https://twitter.com/BeSweetRetweets]] [[:four:|maps#project-map]] [[:five:|maps#project-map]] [[:six:|maps#project-map]]</td>
     </tr>
     <tr>
