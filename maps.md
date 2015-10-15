@@ -51,7 +51,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">
 <a href="https://www.facebook.com/hyipproject"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="https://twitter.com/BeSweetRetweets"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="https://google.com/+TopHYIPsinfoGigafeed"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
@@ -67,7 +67,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">
 <a href="https://www.facebook.com/hyipworld"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="https://twitter.com/hyip_world"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="https://google.com/+HyipWorldProject"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
@@ -99,7 +99,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">
 <a href="https://www.facebook.com/hyipmonitors.info"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="https://twitter.com/tophyipmonitor"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="https://google.com/+TopHyipMonitors"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
@@ -163,7 +163,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">
 <a href="https://www.facebook.com/hyipscript.info"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="https://twitter.com/hyip_script"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
-<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
+<a href="https://google.com/+HyipScript"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
