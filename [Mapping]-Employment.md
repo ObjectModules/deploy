@@ -74,7 +74,9 @@ Here the process is look like:
 
 ![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
 
-The process mitosis of a cell to become two (2) identical sets is consist of four (4) step. In our concept the final result will also produce two (2) identical sets. In our case it will consist of two (2) identical mapping of the process of eating a food which are:
+The process mitosis of a cell to become two (2) identical sets is consist of four (4) step. In our concept the final result will also produce two (2) identical sets. 
+
+In our case it will consist of two (2) identical mapping of the process of eating a food which are:
  
 * one mapping is remain eating your original food
 * another mapping is eating your best food
