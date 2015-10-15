@@ -16,7 +16,9 @@
 
 #Settlement
 
-##Basic
+In this section we will explain about the employment in our concept. Please be prepared your self as we are going deeper and deeper. 
+
+_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Concept]]._##Basic
 Let's put again all of _[[the mappings|Mapping#our-concept]]_ here:
 
 Mapping of the change to your routine process:
