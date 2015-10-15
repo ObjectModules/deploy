@@ -83,7 +83,9 @@ We will also need to examine all of your data, including your age, your genre, y
 Hopefully then you can follow all the method on getting your best food. See that, getting the library of all kind of the food is one process. Getting the data of yourself is also another process. Both are different.   
 
 ##Parameter
-Let's define how we are going to get the library in related with the food and the data of yourself in the same way as we made the mapping of the process from _[[the hungry|Mapping#background]]_. Let's put _best_ as the parameter of the food.
+Let's define how we are going to get the library in related with the food and the data of yourself in the same way as we made the mapping of the process from _[[the hungry|Mapping#background]]_. 
+
+Let's put _best_ as the parameter of the food.
 
 Mapping of the change to your routine process:
 ```
