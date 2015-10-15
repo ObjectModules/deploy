@@ -117,7 +117,41 @@ In our concept we call this kind of mapping as an _employment._ The method of ge
 
 Until this point the diagram for an employment is completed.
 
+#What's Next
+We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
 
+From that point you may see that a basic diagram will turn its behavior and seeking a way to return to its routine by calling another mappings which is in our concept we call them as _Employment_ and _Merging_. 
+##Employment
+Employment is a mapping built automatically whenever a parameter is assigned to a routines. In our concept there will be two kind of employments will be called. Each of Those 2 kind of employments is present the following:
+
+Mapping of the process to collect the library in related with the food:
+```
+* Food will become an entry point
+* Library is what we need 
+* Collect is the process
+* Exit point  
+```
+Then we need also the mapping to examine yourself to get your data:
+```
+* You will become an entry point
+* Your data is what we need 
+* Examine is the process
+* Exit point  
+```
+See that one mapping is doing a process making a library which is concern to collect data in related to the parameter. Another is doing a process to examine to the one who is going to use it in related also to the parameter. 
+
+So both will be a different process but they work in related to the same parameter.
+##Merging
+As you may guess this merging is the process of matching both of the employments.
+
+Let's map about the process of getting the best food for you the same way as your doctor do:
+```
+* Both of food library and your data will become the entry point
+* A best food on library for you is what we need 
+* Matching the data is the process
+* Exit point  
+```
+We will explain to how to do the both in a different section, let start first on _[[Employment|[Mapping]-Employment]]_.
 ***
 <table>
   <thead>
