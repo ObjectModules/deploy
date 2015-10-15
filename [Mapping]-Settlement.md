@@ -54,14 +54,13 @@ Let's clean the mapping that we get on the last result, now we can get it as sho
 ![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
 This is the result of the employment of _The Fourth_. The same as other mappings, this result has also four (4) parts, each of them are separated by a line.
 
-##Overall
-You may see also that the result is remain consist of _[[the three (3) employments|[Mapping]-Employment#the-three]]_. Each of them has four (4) processes that become twelve (12) all together. You may count also that _this twelve_ is consist of six (6) main & six (6) displaying processes. 
+##Rules
+One thing you shall note about spreading is that our concept is work only with a new unique process. Whenever it found the same identical process than the one which is already take a place will do its own spreading and open a new place for the said process.
 
-**So where is _The Fourth_?**
+On the next step the spreading will take the comparison process which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behavior as a unique process.
 
-You may agree that _The Fourth_ is not even seen anywhere. But in fact _The Fourth_ is _THE ONE_ that making the _[[settlement|Mapping#settlement]]_. Means _The Fourth_ is exist from the beginning till the end. _The Fourth_ is exist everywhere. _The Fourth_ is overall. Without _The Fourth_ all is nothing ! 
+Please check the appearance of the settlement concept:
 
-Please check the appearance of the overall concept:
 ###Overall Diagram
 ![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
 Four (4) parts.
