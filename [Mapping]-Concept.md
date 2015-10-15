@@ -6,7 +6,7 @@
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</th>
       <th>[[:repeat:|[Mapping]-Basic-Concept]] [[Reload|[Mapping]-Concept]]</th>
-      <th>[[Next|[Mapping]-Employment]] [[:arrow_forward:|[Mapping]-Employment]]</th>
+      <th>[[Next|[Mapping]-Employment]] [[:arrow_forward:|[Mapping]-Spreading]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
@@ -139,7 +139,7 @@ We will explain to how to do the both in a different section, let start first on
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</th>
       <th>[[:repeat:|[Mapping]-Basic-Concept]] [[Reload|[Mapping]-Concept]]</th>
-      <th>[[Next|[Mapping]-Employment]] [[:arrow_forward:|[Mapping]-Employment]]</th>
+      <th>[[Next|[Mapping]-Employment]] [[:arrow_forward:|[Mapping]-Spreading]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
