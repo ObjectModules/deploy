@@ -81,7 +81,7 @@ The process mitosis of a cell to become two (2) identical sets is consist of fou
 
 As we have explained about the behavior of unique process in the _[[settlement|Mapping#settlement]]_ of this concept, the one which giving a better result will take the position as the part of the main process. 
 
-The one which is not taken in the position will keep remain stay but no more carry out. It will as as a reference or a back-up.
+The one which is not taken in the position will keep remain stay but no more carry out. It will stay as a reference or a back-up.
 
 We are going to explain further how a mapping will become two (2). Like _the mitosis_ the process will also consist of four steps which are in our concept we call them as _spreading, employment, merging and settlement_. 
 
