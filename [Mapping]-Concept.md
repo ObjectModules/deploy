@@ -129,7 +129,7 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
-We will explain to how to do the both in a different section, let start first on _[[Employment|[Mapping]-Employment]]_.
+We will explain to how to do the both in a different section, let start first on _[[Employment|[Mapping]-Spreading]]_.
 ***
 <table>
   <thead>
