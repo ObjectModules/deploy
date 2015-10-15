@@ -32,7 +32,7 @@ You are browsing our **info** wiki:
 * [[Category]]
 * [[Appearance]]
 * [[Mapping]]
-    * [[Routines|[Mapping]-Concept]]
+    * [[Routines|[Mapping]-Routines]]
     * [[Spreading|[Mapping]-Spreading]]
     * [[Employment|[Mapping]-Employment]]
     * [[Merging|[Mapping]-Merging]]
