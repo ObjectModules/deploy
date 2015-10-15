@@ -139,7 +139,7 @@ Consider is a sense way. When you have already know what your best food is then 
 
 We are going to explain further how a mapping will become two (2). Like _[[the mitosis|https://en.wikipedia.org/wiki/Mitosis]]_, the process in our concept will also consist of four (4) steps which we call them as _spreading, employment, merging and settlement_. 
 
-Let't start to find them in more details one by one, let start first on _[[Spreading|[Mapping]-Spreading]]_.
+Let't find them in more details one by one, let start first on _[[Spreading|[Mapping]-Spreading]]_.
 ***
 <table>
   <thead>
