@@ -14,11 +14,11 @@
   </thead>
 </table>
 
-#Concept
+#Background
 You come to our section that we gonna explain our concept in detail about _[our project](https://github.com/hyip)_.  
 Here we want you to have an open mind. If you're not enjoying it, don't do it.
 
-##Background
+##Routines
 
 As we have named this project as 'The HYIP Project' then we would like you to visit our [*blog page*](https://tophyipmonitor.wordpress.com/hyip-world/) that describe in general of what we want to achieve.
 
@@ -75,7 +75,7 @@ So here, because you are the president, it is not only the doctors but the count
 `Let them find their way to help you get what you want.`
 </a>
 
-##Our concept
+#Our concept
 Here we are going to do the same way when you go to a doctor. We have to collect out all information in related to all kind of the food and make it to become a library. 
 
 We will also need to examine all of your data, including your age, your genre, your blood structure and everything else that required to find your best food. 
