@@ -15,7 +15,7 @@
 </table>
 #Merging
 
-Now we are going to explain about _a merging_ in our concept. We are going to put _the employments_ all together. Please be prepared your self as this section is the hardest part to follow. 
+Now we will explain about _a merging_ in our concept. The process of _an employment_ all together. Please be prepared your self as this section is the hardest part to follow. 
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Employment]]._
 
