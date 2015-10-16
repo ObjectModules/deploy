@@ -143,7 +143,7 @@ It is even happen normally on a smallest thing that you can find it lives in thi
 
 What is the smallest thing? A cell right? Do you know how many cells in your body? Do you know how your body is having so many cells from you baby time till as big as you are right now? How many of them is making a separation from one (1) to become two (2) each day?
 
-So just to make it short, this kind of process can be identical with when a kind of cell is separated into _two (2) identical set_s, which people call the process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_.
+So just to make it short, this kind of process can be identical with when a kind of cell is separated into _two (2) identical sets_, which people call the process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_.
 
 Here the process is look like:  
 
