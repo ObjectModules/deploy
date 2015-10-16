@@ -217,7 +217,7 @@ Here are what we got. We put here just for example:
 
 Here you can see that there are a number of reasons or parameters that people say to describe how Google become the best search engine.
 
-It is quite amazing because usually when people put different criteria then the result can be different, let take an example, say what is the best food now in the world? Every one can give different answer base on their parameter or criteria. 
+It is quite amazing because usually when people put different criteria then the result can be different, let take an example, say what is the best food now in the world? Every one can give different answer based on their parameter or criteria. 
 
 But when people is asked what the best search engine is, although there are so many search engines in the world, most probably you will find that Google is the answer whatever criteria that people use. 
 
@@ -234,7 +234,7 @@ Here you almost come to the end story behind _[[our concept|Mapping#our-concept]
 
 [![Hyip Mapping Concept](https://tophyipmonitor.files.wordpress.com/2015/08/hyip-target.jpg?w=700)](https://tophyipmonitor.wordpress.com/hyip-world/)
 
-You may agree that this concept is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to explain on how we make an overall [[mapping|https://github.com/hyip/info/wiki/maps]] to manage our repositories of the project follow to the concept.
+You may agree that this concept is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to explain on how we make an _[[overall mapping|https://github.com/hyip/info/wiki/maps]]_ to manage our repositories of the project follow to the concept.
 
 You can find our explanation about this concept in more detail. We are going also to explain on how we manage a different assignment on our section, how we assign each of them to hold that unique task, and finally how they are getting combined on achieving a _[[settlement|Mapping#settlement]]_.
 
