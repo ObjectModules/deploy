@@ -15,7 +15,7 @@
 </table>
 #Spreading
 
-In this section we will explain about _the spreading_ in our concept. A process of factoring a routines due to a parameter. Please be prepared your self as we are going deeper ongoing forward.
+Here we will explain about _a spreading_ in our concept. A process of factoring a routines due to a parameter. Please be prepared your self as we are going deeper ongoing forward.
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Routines]]._
 ##Basic
