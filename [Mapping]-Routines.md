@@ -147,7 +147,9 @@ Here the process is look like:
 
 ![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
 
-The process mitosis of a cell to become two (2) identical sets is consist of four (4) step. In our concept the final result will also produce two (2) identical sets. It also consist of four (4) steps which we call them as _spreading, employment, merging and settlement_. 
+The process mitosis of a cell to become two (2) identical sets is consist of four (4) step. 
+
+In our concept the final result will also produce two (2) identical sets. It also consist of four (4) steps which we call them as _spreading, employment, merging and settlement_. 
 
 We are going to bring you to find them in more details one by one, let's start first on _[[Spreading|[Mapping]-Spreading]]_.
 ***
