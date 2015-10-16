@@ -139,17 +139,15 @@ It is even happen normally on a smallest thing that you can find in this world!
 
 What is the smallest thing? A cell right? Do you know how many cells in your body? Do you know how your body is having so many cells from you baby time till as big as you are right now? How many of them is making a separation from one (1) to become two (2) each day?
 
-So just to make it in short, this kind of process can be identical with when a cell is separated into two (2) identical sets, people call this process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_.
+So just to make it short, this kind of process can be identical with when a kind of cell is separated into two (2) identical sets, people call this process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_.
 
 Here the process is look like:  
 
 ![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
 
-The process mitosis of a cell to become two (2) identical sets is consist of four (4) step. In our concept the final result will also produce two (2) identical sets. 
+The process mitosis of a cell to become two (2) identical sets is consist of four (4) step. In our concept the final result will also produce two (2) identical sets. It also consist of four (4) steps which we call them as _spreading, employment, merging and settlement_. 
 
-Identical with _[[the mitosis|https://en.wikipedia.org/wiki/Mitosis]]_, the process in our concept will also consist of four (4) steps which we call them as _spreading, employment, merging and settlement_. 
-
-Let't find them in more details one by one, let start first on _[[Spreading|[Mapping]-Spreading]]_.
+We are going to bring you to find them in more details one by one, let's start first on _[[Spreading|[Mapping]-Spreading]]_.
 ***
 <table>
   <thead>
