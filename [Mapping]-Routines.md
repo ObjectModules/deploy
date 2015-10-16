@@ -139,7 +139,7 @@ You won't believe us that this kind of process is happen as a normal case in our
 
 It is happen on a wider thing like the routines in a company when they shall make a change on their management structure or makes its branches for a development.
 
-It is even happen normally on a smallest thing that you can find in this world!
+It is even happen normally on a smallest thing that you can find it lives in this world !
 
 What is the smallest thing? A cell right? Do you know how many cells in your body? Do you know how your body is having so many cells from you baby time till as big as you are right now? How many of them is making a separation from one (1) to become two (2) each day?
 
