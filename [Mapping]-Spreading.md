@@ -15,7 +15,7 @@
 </table>
 #Spreading
 
-In this section we will explain about the employment in our concept. Please be prepared your self as we are going deeper and deeper. 
+In this section we will explain about the spreading in our concept. Please be prepared your self as we are going deeper and deeper. 
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Routines]]._
 ##Basic
