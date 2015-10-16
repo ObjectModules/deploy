@@ -117,7 +117,7 @@ Of course you remain eat whatever the food you have on hand. Since you insist to
 
 So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. In our concept another process means another mapping. In this project another mapping means another repository.
 
-In our case these two (2) identical sets will consist of two (2) identical mapping of the process of eating a food which are:
+In our case this will consist of _two (2) identical mapping_ of the process of eating a food which are:
  
 * one mapping is remain eating _your original food_
 * another mapping is eating _your best food_
@@ -131,7 +131,7 @@ The one which is not taken in the position will keep remain stay but no more car
 Consider is a sense way. When you have already know what your best food is then for sure you have to choose whether you remain back to your original routines or change your routines to the new process. _You cannot carry out both all together in the same time_.
 
 ##Mitosis
-We are going to explain further how a mapping will become two (2). 
+We are going to explain further how a mapping will become _two (2)_. 
 
 You won't believe us that this kind of process is happen as a normal case in our live. It is happen in your routines especially when you want something to get. 
 
@@ -141,17 +141,17 @@ It is even happen normally on a smallest thing that you can find in this world!
 
 What is the smallest thing? A cell right? Do you know how many cells in your body? Do you know how your body is having so many cells from you baby time till as big as you are right now? How many of them is making a separation from one (1) to become two (2) each day?
 
-So just to make it short, this kind of process can be identical with when a kind of cell is separated into two (2) identical sets, which people call the process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_.
+So just to make it short, this kind of process can be identical with when a kind of cell is separated into _two (2) identical set_s, which people call the process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_.
 
 Here the process is look like:  
 
 ![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
 
-The process mitosis of a cell to become two (2) identical sets is consist of four (4) step. 
+The process mitosis of a cell to become two (2) identical sets is consist of _four (4) steps_. 
 
 As we have explained above about the _[[behaviour|[Mapping]-Routines#behaviour]]_, in our concept the final result will also produce two (2) identical sets. 
 
-The step up to the final result will also consist of four (4) steps which we call them as _spreading, employment, merging and settlement_. 
+The step up to the final result will also consist of _four (4) steps_ which we call them as _spreading, employment, merging and settlement_. 
 
 We are going to bring you to find them in more details one by one.  
 Let's start first on _[[Spreading|[Mapping]-Spreading]]_.
