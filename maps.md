@@ -117,7 +117,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="https://twitter.com/tophyipmonitor"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
 <a href="https://google.com/+TopHyipMonitors"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
-<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/9919?v=20&s=20"></a>
+<a href="https://github.com/hyip/rating/wiki/HYIP-Monitors"><img src="https://avatars0.githubusercontent.com/u/9919?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
       </td>
     </tr>
@@ -149,7 +149,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
-<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/9919?v=20&s=20"></a>
+<a href="https://github.com/hyip/rating/wiki/HYIP-Forums"><img src="https://avatars0.githubusercontent.com/u/9919?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
       </td>
     </tr>
