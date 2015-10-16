@@ -122,7 +122,7 @@ In our case this will consist of _two (2) identical mapping_ of the process of e
 * one mapping is remain eating _your original food_
 * another mapping is eating _your best food_
 
-As we have explained in the _[[settlement|Mapping#settlement]]_ about the behavior of this concept, whenever two (2) identical process is founded then the system will call for _a comparison_.
+As we have explained in the _[[settlement|Mapping#settlement]]_ about the behavior of this concept, whenever an identical process is founded then the system will call for _a comparison_.
 
 This comparison process will let the one which giving a better result to take the position as the part of the main process. 
 
