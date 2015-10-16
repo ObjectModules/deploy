@@ -16,7 +16,7 @@
 
 #Settlement
 
-In this section we will explain in details about _a settlement_ in our concept. The process of handed over resulted by _a merging_ based on the assigned parameter on _a routines_. 
+In this section we will explain in details about _a settlement_ in our concept. The process of handed over resulted by _a merging_ bin related to the assigned parameter on _a routines_. 
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Merging]]._
 ##Basic
