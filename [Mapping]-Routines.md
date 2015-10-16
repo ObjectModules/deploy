@@ -133,7 +133,9 @@ Consider is a sense way. When you have already know what your best food is then 
 ##Mitosis
 We are going to explain further how a mapping will become two (2). 
 
-You won't believe us that this kind of process is happen as a normal case in our live. It is happen in your routines especially when you want something to get. It is happen on a wider thing like the routines in a company when they shall make a change on their management structure or makes its branches for a development.
+You won't believe us that this kind of process is happen as a normal case in our live. It is happen in your routines especially when you want something to get. 
+
+It is happen on a wider thing like the routines in a company when they shall make a change on their management structure or makes its branches for a development.
 
 It is even happen normally on a smallest thing that you can find in this world!
 
