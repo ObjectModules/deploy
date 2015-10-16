@@ -15,7 +15,7 @@
 </table>
 #Routines
 
-We have explained the [[background of our concept|Mapping]]. Now we will explain the mapping of this project. We will start to explain about _a routines_, the basic mapping on our concept.
+We have explained the [[background of our concept|Mapping]]. Now we will explain the mapping of this project. We will start to explain about _a routines_. The basic mapping on our concept.
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping]]._
 ##Basic
