@@ -62,7 +62,7 @@ So now it is left only the last one. Let put the mapping here:
 ```
 See that this mapping is also a process just the same as other mappings. However instead of looking for a kind of a process, this mapping is simply bring all other mapping into its process.
 
-Therefore the kind of employment that represent this mapping will also bring _[[the three (3) employments|[Mapping]-Employment#the-three]]_ into its employment task. In our concept we call this task as _a merging_.
+Therefore the kind of employment that represent this mapping will also bring _[[the three (3) employments|[Mapping]-Employment#the-three]]_ into the employment task. In our concept we call this task as _a merging_.
 
 This will make the number of all employments even. It will be also four (4) exactly the same number as when we do every step of mapping of this concept since the beginning.
 ###Diagrams
