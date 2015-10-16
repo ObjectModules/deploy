@@ -137,7 +137,7 @@ You won't believe us that this kind of process is happen as a normal case in our
 
 It is even happen normally on a smallest thing that you can find in this world!
 
-What is the smallest thing? A cell right? Do you know how many cells in your body? How many of them is making a separation from one (1) to become two (2) each day?
+What is the smallest thing? A cell right? Do you know how many cells in your body? Do you know how your body is having so many cells from you baby time till as big as you are right now? How many of them is making a separation from one (1) to become two (2) each day?
 
 So just to make it in short, this kind of process can be identical with when a cell is separated into two (2) identical sets, people call this process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_.
 
