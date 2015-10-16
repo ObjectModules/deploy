@@ -117,15 +117,6 @@ Of course you remain eat whatever the food you have on hand. Since you insist to
 
 So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. In our concept another process means another mapping. In this project another mapping means another repository.
 
-##Mitosis
-In our normal live this kind of process can be identical with when a cell is separated into two (2) identical sets, people call this process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_.
-
-Here the process is look like:  
-
-![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
-
-The process mitosis of a cell to become two (2) identical sets is consist of four (4) step. In our concept the final result will also produce two (2) identical sets. 
-
 In our case these two (2) identical sets will consist of two (2) identical mapping of the process of eating a food which are:
  
 * one mapping is remain eating _your original food_
@@ -139,7 +130,20 @@ The one which is not taken in the position will keep remain stay but no more car
 
 Consider is a sense way. When you have already know what your best food is then for sure you have to choose whether you remain back to your original routines or change your routines to the new process. _You cannot carry out both all together in the same time_.
 
+##Mitosis
 We are going to explain further how a mapping will become two (2). 
+
+You won't believe us that this kind of process is happen as a normal case in our live. It is happen in your effort. It is happen on a wider thing like a company development or in a revolution in a country. 
+
+It is even happen normally to a smallest thing that you can find in this world. What is the smallest thing? A cell right? Do you know how many cells in your body is making a separation each day?
+
+So in short. this kind of process can be identical with when a cell is separated into two (2) identical sets, people call this process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_.
+
+Here the process is look like:  
+
+![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
+
+The process mitosis of a cell to become two (2) identical sets is consist of four (4) step. In our concept the final result will also produce two (2) identical sets. 
 
 Identical with _[[the mitosis|https://en.wikipedia.org/wiki/Mitosis]]_, the process in our concept will also consist of four (4) steps which we call them as _spreading, employment, merging and settlement_. 
 
