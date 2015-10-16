@@ -14,7 +14,7 @@
   </thead>
 </table>
 #Overall
-This page is the last page of our _[[Mapping Concept|Mapping]]_. Here we are going to explain on how we manage our repositories follow to the overall concept.  
+This page is the last page of our _[[Mapping Concept|Mapping]]_. Here we are going to explain on how we manage our repositories of this project follow to the overall concept.  
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Comparison]]._
 
