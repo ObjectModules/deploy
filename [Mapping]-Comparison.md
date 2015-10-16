@@ -16,7 +16,7 @@
 
 #Comparison
 
-In this section we will explain in details about the comparison in our concept. Please be prepared your self as we are going deeper and deeper. 
+In this section we will explain in details about _a comparison_ in our concept. The called process whenever two (2) identical sets of _a routine_ is founded.
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Merging]]._
 ##Basic
