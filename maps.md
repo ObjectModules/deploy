@@ -241,8 +241,9 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 :house: _Organization Page, The List of Repositories (User+Forked)_  
 :cinema: _Assigned Page to demonstrate the content of each process on the web_  
 
-**_Caution:_**
-You can follow us for assignment of your domain follows to the above sample. Take a look at the assigned url's for the last two :cinema:. These two will need to use subdomain from the first of your assigned domain as they will be used in _<a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing" target="_blank">implementing cross domain</a>_.
+**_Guidance:_**
+* Channel consist of twelve (12) units. six (6) units for main and six (6) units for wiki. The first four (4) links of each channels will need to be the same. They shall go on pair in six (6) groups of two (2) units each  
+* You can follow us for assignment of your domain follows to the above sample. Take a look at the assigned url's for the last two :cinema:. These two will need to use subdomain from the first of your assigned domain as they will be used in _<a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing" target="_blank">implementing cross domain</a>_.
 
 #TODO List
 No matter whether your lists are work related or just for fun. No matter what you’re planning, how big or small the task may be, TODO list makes it easy to get stuff done. 
