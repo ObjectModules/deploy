@@ -243,7 +243,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 
 **_Guidance:_**
 * _As shown in [[the table|maps#by-tabulation]], channel consist of twelve (12) rows. You may choose whatever the links you like however the first four (4) domains of each channels will need to be the same. They also need to be arranged on pair in six (6) groups of two (2) channels each._  
-* _You can follow us for assignment of your domains follow to the above sample. Take a look at the assigned url's for the last two (2) :cinema:. These two (2) will need to use subdomain from the first of your assigned domain as they will be used in <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing" target="_blank">implementing cross domain</a>_.
+* _You can follow us for assignment of your domains follow to the above sample. Take a look at the assigned url's for the last two (2) :cinema:. These two (2) will need to use subdomain from the first of your assigned domain as they will be used in implementing <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing" target="_blank">cross domain</a>_.
 
 #TODO List
 No matter whether your lists are work related or just for fun. No matter what you’re planning, how big or small the task may be, TODO list makes it easy to get stuff done. 
