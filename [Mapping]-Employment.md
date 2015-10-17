@@ -102,6 +102,7 @@ Then diagram will be shown as below:
 ##3rd Employment
 On the 2nd employment, _<a href="https://en.wikipedia.org/wiki/Monitoring" target="_blank">Monitoring</a>_ is process to gain the data, _Rating_ is process of sorting the data to become a library. 
 
+###Script
 As a symbiotic relationship with the 2nd employment so the 3rd employment is simply produce _a query_ in such a way that it will give _a result_ when it is implemented to the library.  
 
 Here we need a language so that a library will understand what _a query_ is. People call this language as _<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">SQL</a>_ stand as the abbreviation of _Structured Query Language_.
@@ -112,6 +113,7 @@ Let's call it from here as _<a href="https://en.wiktionary.org/wiki/script" targ
    
 So how _a script_ can be produced? How to get it to become able to be implemented?
 
+###Team
 In our concept the _Rating_ shall do the same language with the _Script_ on managing the data. So here the _Script_ again has become a symbiotic relationship with the _Rating_.
 
 So now, it is left only what kind of process that become a symbiotic relationship with the _Monitoring_, right?
@@ -121,6 +123,7 @@ As we have mentioned above, _Monitoring_ generally means to be aware of the stat
 Question is how to carry out this kind of process, no other way we have to built a group of people involved in the same activity to carry them all together.
 
 So _<a href="https://en.wiktionary.org/wiki/team" target="_blank">a team</a>_ is supposed to be the one !
+###Diagram
 ```js
 letter a stand as script  
 letter b stand as team  
