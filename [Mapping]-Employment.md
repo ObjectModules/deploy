@@ -106,12 +106,12 @@ In correlation with the 2nd employment so the 3rd employment is simply produce _
 
 Here we need a language so that a library will understand what _a query_ is. People call this language as _<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">SQL</a>_ stand as the abbreviation of _Structured Query Language_.
 
-So how the _SQL_ can be produced? How to get it to become able to be implemented?
-
 When we see the explanation of what SQL is, it contain of statement that structured to present a process on a Library, so it is actually a code language. So it is kind of a scripting language.
 
 Let's call it from here as _Script_ then.
    
+So how _a script_ can be produced? How to get it to become able to be implemented?
+
 ```js
 letter a stand as script  
 letter b stand as team  
