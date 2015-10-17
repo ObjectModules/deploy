@@ -104,7 +104,7 @@ On the 2nd employment, _Monitoring_ is process to gain the data, _Rating_ is pro
 
 In correlation with the 2nd employment so the 3rd employment is simply produce _a query_ in such a way that it will give _a result_ when it is implemented to the library.  
 
-Here we need a language so that a library will understand what _statement_ inside _a query_ is. People call this language as _<a href="https://en.wikipedia.org/wiki/SQL">SQL</a>_ stand as the abbreviation of _Structured Query Language_.
+Here we need a language so that a library will understand what _statement_ inside _a query_ is. People call this language as _<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">SQL</a>_ stand as the abbreviation of _Structured Query Language_.
 
 So how the _SQL_ can be produced? How to get it to become able to be implemented?
 
