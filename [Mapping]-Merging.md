@@ -116,7 +116,7 @@ This is the result of the employment of _The Fourth_. The same as other mappings
 ##Overall
 You may see also that the result is remain consist of _[[the three (3) employments|[Mapping]-Employment#the-three]]_. Each of them has _four (4) processes_ that remain become _twelve (12) processes_ all together. You may count also that _this twelve_ is remain consist of _six (6) main_ & _six (6) displaying_ processes. 
 
-**So where is _The Fourth_?**
+**So where is _The Fourth_ then?**
 
 You may agree that _The Fourth_ is not even seen anywhere. 
 
