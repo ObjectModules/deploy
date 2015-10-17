@@ -102,7 +102,7 @@ Then diagram will be shown as below:
 ##3rd Employment
 On the 2nd employment, _Monitoring_ is process to gain the data, _Rating_ is process of sorting the data to become a library. 
 
-In correlation with the 2nd employment so the 3rd employment is simply produce _a query_ in such a way that it will give _a result_ when it is implemented to the library.  
+As a symbiotic relationship with the 2nd employment so the 3rd employment is simply produce _a query_ in such a way that it will give _a result_ when it is implemented to the library.  
 
 Here we need a language so that a library will understand what _a query_ is. People call this language as _<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">SQL</a>_ stand as the abbreviation of _Structured Query Language_.
 
