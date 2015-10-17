@@ -145,7 +145,9 @@ Employment can be all kind of process that you want. In our concept we just need
 
 You may see that each kind of these _three (3) of employments_ has four (4) processes, becoming twelve (12)  processes all together.
 ##The Last One
-We have pronounced since the beginning that all the mappings has always got four (4) parts. Either mapping for _[[a routine|[Mapping]-Routines]]_, diagram for _[[a spreading|[Mapping]-Spreading]]_, also for an employment. All of them got always four (4) parts. So why we only take _three (3) of employments_. Not four (4)? 
+We have pronounced since the beginning that all the mappings has always got four (4) parts. 
+
+Either mapping for _[[a routine|[Mapping]-Routines]]_, diagram for _[[a spreading|[Mapping]-Spreading]]_, also for an employment. All of them got always four (4) parts. So why we only take _three (3) of employments_. Not four (4)? 
 
 Actually there is _The Fourth (4th)_. The last employment. A very special employment. The key of all this concept. So let's stop the employments until this point. 
 
