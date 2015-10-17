@@ -15,7 +15,7 @@
 </table>
 #Employment
 
-In this section we will explain about _an employment_ in our concept. The generated symbiotic processes from _a spreading_ as a further step of factoring _a routine_ by a parameter. 
+In this section we will explain about _an employment_ in our concept. The generated symbiotic processes from _a spreading_ as a further step of factoring _[[a routine|[Mapping]-Routines]]_ by a parameter. 
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Spreading]]_.
 ##Basic
