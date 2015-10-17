@@ -91,7 +91,7 @@ letter b stand as world
 letter c stand as hyip  
 ```
 ##2nd Employment
-To became a valuable info then we need to rate the info. The info it self is got from searching and investigation which in hyip business is known as hyip site monitoring or in a short: hyip monitor.  
+To became a valuable info then we need to rate the data and became a library. The info it self is got from searching and investigation which in the business is known as monitoring or in a short: monitor.  
 ```js
 letter a stand as monitor  
 letter b stand as rating  
@@ -100,7 +100,7 @@ letter c stand as hyip
 Then diagram will be shown as below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure8.png)
 ##3rd Employment
-An important thing is what we will do with achieve it. Rating is process of sorting and Monitoring is process to gain the data. So the rating will need a script and monitoring will need a team.    
+An important thing is what we will do with achieve it. On 2nd employment, the rating is process of sorting to become a library and Monitoring is process to gain the data. So the 3rd employment is simply produce _a query_.    
 ```js
 letter a stand as script  
 letter b stand as team  
