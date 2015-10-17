@@ -133,7 +133,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="https://tophyipmonitor.wordpress.com/hyip-rating/"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-<a href="http://www.linkedin.com/company/hyip-analysis"><img src="https://avatars0.githubusercontent.com/u/357098?v=20&s=20"></a>
+<a href="http://www.linkedin.com/company/hyip-analysis"><img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20"></a>
 <a href="https://about.me/tophyips.info"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
       </td>
     </tr>
@@ -165,7 +165,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="https://twitter.com/hyip_script"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
 <a href="https://google.com/+HyipScript"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="https://tophyipmonitor.wordpress.com/hyip-scripts/"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-<a href="http://www.linkedin.com/company/hyip-script"><img src="https://avatars0.githubusercontent.com/u/357098?v=20&s=20"></a>
+<a href="http://www.linkedin.com/company/hyip-script"><img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20"></a>
 <a href="https://about.me/hyipscript.info"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
       </td>
     </tr>
@@ -197,7 +197,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="https://tophyipmonitor.wordpress.com/hyip-forums/"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-<a href="https://www.linkedin.com/company/hyip-reviews"><img src="https://avatars0.githubusercontent.com/u/357098?v=20&s=20"></a>
+<a href="https://www.linkedin.com/company/hyip-reviews"><img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20"></a>
 <a href="https://about.me/hyipmonitor"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
       </td>
     </tr>
