@@ -100,7 +100,7 @@ letter c stand as hyip
 Then diagram will be shown as below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure8.png)
 ##3rd Employment
-On the 2nd employment, _Monitoring_ is process to gain the data, _Rating_ is process of sorting the data to become a library. 
+On the 2nd employment, _<a href="https://en.wikipedia.org/wiki/Monitoring" target="_blank">Monitoring</a>_ is process to gain the data, _Rating_ is process of sorting the data to become a library. 
 
 As a symbiotic relationship with the 2nd employment so the 3rd employment is simply produce _a query_ in such a way that it will give _a result_ when it is implemented to the library.  
 
@@ -116,6 +116,7 @@ In our concept the _Rating_ shall do the same language with the _Script_ on mana
 
 So now, it is left only what kind of process that become a symbiotic relationship with the _Monitoring_, right?
 
+As we have mentioned above, _Monitoring_ generally means to be aware of the state of a system, to observe a situation for any changes.
 
 ```js
 letter a stand as script  
