@@ -100,7 +100,7 @@ letter c stand as hyip
 Then diagram will be shown as below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure8.png)
 ##3rd Employment
-An important thing is what we will do with achieve it. On 2nd employment, the rating is process of sorting to become a library and Monitoring is process to gain the data. So the 3rd employment is simply produce _a query_.    
+An important thing is what we will do with achieve it. On 2nd employment, the rating is process of sorting to become a library and Monitoring is process to gain the data. So the 3rd employment is simply produce _a query_ in such a way that it give _a result_ when it is implemented to the library.    
 ```js
 letter a stand as script  
 letter b stand as team  
