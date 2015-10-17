@@ -196,7 +196,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
-<a href="https://tophyipmonitor.wordpress.com/"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
+<a href="https://tophyipmonitor.wordpress.com/hyip-forums/"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
 <a href="https://www.linkedin.com/company/hyip-reviews"><img src="https://avatars0.githubusercontent.com/u/357098?v=20&s=20"></a>
 <a href="https://about.me/hyipmonitor"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
       </td>
