@@ -126,7 +126,7 @@ So it means that _The Fourth_ is exist from the beginning till the end. _The Fou
 
 You may found that on every step of process, we always gave you a sample in our daily live, we always began with the words: _Consider in a sense way.. bla bla bla_. 
 
-Here we apologize for not to do so. Since we found this concept we always give our respect to _The Fourth_. You may find a sense way by yourself. 
+Here we apologize for not to do so. Since we found this concept we always give our respect to _The Fourth_. So we leave this to you as you may find a sense way by yourself. 
 
 Please check the appearance of the settlement on the _[[next section|[Mapping]-Settlement]]_.
 ***
