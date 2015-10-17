@@ -124,7 +124,7 @@ Question is how to carry out this kind of process, no other way we have to built
 
 Let's make a little test in a cross way in related to the symbiotic relation
 * The 2nd Employment produce _a library_ - the 3rd Employment produce _a query_
-* On 2nd Employment: _Monitoring_ collect data - _Rating_ convert to _the library_  
+* On 2nd Employment: _Monitoring_ collect entry data - _Rating_ convert to _the library_  
 * On 3rd Employment: _Team_ collect data on exit point - _Script_ convert to _the query_ 
 * _Script_ is the activity of _Rating_ - _Monitoring_ is the activity of _Team_
 
