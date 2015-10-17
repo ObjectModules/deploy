@@ -16,7 +16,7 @@
 
 #Comparison
 
-In this section we will explain in details about _a comparison_ in our concept. The called process whenever two (2) or more identical sets of _[[a routine|[Mapping]-Routines]]_ are founded.
+In this section we will explain in details about _a comparison_ in our concept. The called process whenever t_wo (2) or more identical sets_ of _[[a routine|[Mapping]-Routines]]_ are founded.
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Settlement]]._
 ##Basic
