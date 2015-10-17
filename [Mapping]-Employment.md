@@ -106,7 +106,7 @@ In correlation with the 2nd employment so the 3rd employment is simply produce _
 
 So how _a query_ can be produced? How to get it to become able to be implemented?
 
-Here we need a language that the library will understand what _statement_ inside _a query_ is. People call this language as _<a href="https://en.wikipedia.org/wiki/SQL">SQL</a>_ stand as the abbreviation of _Structured Query Language_.
+Here we need a language so that a library will understand what _statement_ inside _a query_ is. People call this language as _<a href="https://en.wikipedia.org/wiki/SQL">SQL</a>_ stand as the abbreviation of _Structured Query Language_.
 
    
 ```js
