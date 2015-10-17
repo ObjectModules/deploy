@@ -175,7 +175,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>script</code>|https://github.com/hyip/script]]</td>
       <td>[[<code>script</code>|https://github.com/hyip/script/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20"></td>
-      <td scope="row"><img src="https://sourceforge.net/favicon.ico"></td>
+      <td scope="row"><a href="https://sourceforge.net/projects/hyipscript/"><img src="https://sourceforge.net/favicon.ico"></a></td>
       <td scope="row">
 <a href="https://www.facebook.com/hyipscripts"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
