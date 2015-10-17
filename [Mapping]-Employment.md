@@ -108,7 +108,7 @@ Here we need a language so that a library will understand what _a query_ is. Peo
 
 When we see the explanation of what _SQL_ is, it contain of statement that structured as a code to do a process on a Library. So it is actually a scripting language.
 
-Let's call it from here as _Script_ then.
+Let's call it from here as _<a href="https://en.wiktionary.org/wiki/script" target="_blank">a script</a>_ then.
    
 So how _a script_ can be produced? How to get it to become able to be implemented?
 
@@ -120,7 +120,7 @@ As we have mentioned above, _Monitoring_ generally means to be aware of the stat
 
 Question is how to carry out this kind of process, no other way we have to built a several places to do it, a group of people involved in the same activity to carry them all together.
 
-So _<a href="https://en.wiktionary.org/wiki/team" target="_blank">a team</a>_ supposed to be the one !
+So _<a href="https://en.wiktionary.org/wiki/team" target="_blank">a team</a>_ is supposed to be the one !
 ```js
 letter a stand as script  
 letter b stand as team  
