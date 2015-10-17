@@ -116,11 +116,11 @@ In our concept the _Rating_ shall do the same language with the _Script_ on mana
 
 So now, it is left only what kind of process that become a symbiotic relationship with the _Monitoring_, right?
 
-As we have mentioned above, _Monitoring_ generally means to be aware of the state of a system, to observe a situation for any changes. You can also found in more details about definition of the _Monitoring_ on the <a href="https://en.wiktionary.org/wiki/monitoring">Wiktionary</a>,. Q
+As we have mentioned above, _Monitoring_ generally means to be aware of the state of a system, to observe a situation for any changes. You can also found in more details about definition of the _Monitoring_ on the <a href="https://en.wiktionary.org/wiki/monitoring">Wiktionary</a>.
 
-Question is how to carry out this kind of process, no other way we have to built a several places to do it, a group of team to carry them all together.
+Question is how to carry out this kind of process, no other way we have to built a several places to do it, a group of people involved in the same activity to carry them all together.
 
-
+So _<a href="https://en.wiktionary.org/wiki/team" target="_blank">a team</a>_ supposed to be the one !
 ```js
 letter a stand as script  
 letter b stand as team  
