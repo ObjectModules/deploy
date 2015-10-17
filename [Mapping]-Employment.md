@@ -112,6 +112,11 @@ Let's call it from here as _Script_ then.
    
 So how _a script_ can be produced? How to get it to become able to be implemented?
 
+In our concept the _Rating_ shall do the same language with the _Script_ on managing the data. So here the _Script_ again has become a symbiotic relationship with the _Rating_.
+
+So now, it is left only what kind of process that become a symbiotic relationship with the _Monitoring_, right?
+
+
 ```js
 letter a stand as script  
 letter b stand as team  
