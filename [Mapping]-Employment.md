@@ -102,7 +102,11 @@ Then diagram will be shown as below:
 ##3rd Employment
 On the 2nd employment, Monitoring is process to gain the data, Rating is process of sorting the data to become a library. 
 
-In correlation with the 2nd employment so the 3rd employment is simply produce _a query_ in such a way that it will give _a result_ when it is implemented to the library.    
+In correlation with the 2nd employment so the 3rd employment is simply produce _a query_ in such a way that it will give _a result_ when it is implemented to the library.  
+
+So how _a query_ can be produced? And How to get the correct one to become able to be implemented?
+
+   
 ```js
 letter a stand as script  
 letter b stand as team  
