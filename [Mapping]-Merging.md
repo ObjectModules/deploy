@@ -124,7 +124,7 @@ But in fact _The Fourth_ is _THE ONE_ that bring _[[the routines|[Mapping]-Routi
 
 So it means that _The Fourth_ is exist from the beginning till the end. _The Fourth_ is exist everywhere. From the smallest part till the biggest one. So _The Fourth_ is overall. 
 
-Without _The Fourth_ all is nothing! 
+**Without _The Fourth_ all is nothing!** 
 
 You may found that on every step of process, we always gave you a sample in our daily live, we always began with the words: _Consider in a sense way.. bla bla bla_. 
 
