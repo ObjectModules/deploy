@@ -120,7 +120,7 @@ You may see also that the result is remain consist of _[[the three (3) employmen
 
 You may agree that _The Fourth_ is not even seen anywhere. 
 
-But in fact _The Fourth_ is _THE ONE_ that bring the routines, spreading, employments all together on making all the process to become final and settled . 
+But in fact _The Fourth_ is _THE ONE_ that bring _[[the routines|[Mapping]-Routines]]_, _[[spreading|[Mapping]-Spreading]]_, _[[employments|[Mapping]-Employment]]_ all together on making all the process to become final and settled . 
 
 So it means that _The Fourth_ is exist from the beginning till the end. _The Fourth_ is exist everywhere. _The Fourth_ is overall. Without _The Fourth_ all is nothing! When we found this concept we always give our respect to _The Fourth_.
 
