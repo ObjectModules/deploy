@@ -106,7 +106,7 @@ As a symbiotic relationship with the 2nd employment so the 3rd employment is sim
 
 Here we need a language so that a library will understand what _a query_ is. People call this language as _<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">SQL</a>_ stand as the abbreviation of _Structured Query Language_.
 
-When we see the explanation of what _SQL_ is, it contain of statement that structured to present a process on a Library, so it is actually a code or scripting language.
+When we see the explanation of what _SQL_ is, it contain of statement that structured as a code to present a process on a Library. So it is actually a scripting language.
 
 Let's call it from here as _Script_ then.
    
