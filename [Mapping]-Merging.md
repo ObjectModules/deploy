@@ -120,6 +120,8 @@ You may see also that the result is remain consist of _[[the three (3) employmen
 
 You may agree that _The Fourth_ is not even seen anywhere. But in fact _The Fourth_ is _THE ONE_ that making the _[[settlement|Mapping#settlement]]_. Means _The Fourth_ is exist from the beginning till the end. _The Fourth_ is exist everywhere. _The Fourth_ is overall. Without _The Fourth_ all is nothing ! 
 
+When we found this concept we always give our respect to _The Fourth_.
+
 Please check the appearance of the settlement on the _[[next section|[Mapping]-Settlement]]_.
 ***
 <table>
