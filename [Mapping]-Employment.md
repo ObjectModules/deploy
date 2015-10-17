@@ -122,6 +122,12 @@ As we have mentioned above, _Monitoring_ generally means to be aware of the stat
 
 Question is how to carry out this kind of process, no other way we have to built a group of people involved in the same activity to carry them all together.
 
+Let's make a little test in a cross way in related to the symbiotic relation
+* The 2nd Employment produce _a library_ - the 3rd Employment produce _a query_
+* The 2nd Employment: _Monitoring_ gain data - _Rating_ collect it to become the library  
+* The 3rd Employment: _Team_ gain the data - _Script_ collect it to become the query 
+* Script is the language of _Rating_ activity - Monitoring is the language of _Team_ activity
+
 So _<a href="https://en.wiktionary.org/wiki/team" target="_blank">a team</a>_ is supposed to be the one !
 ###Diagram
 ```js
