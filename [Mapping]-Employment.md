@@ -118,7 +118,7 @@ So now, it is left only what kind of process that become a symbiotic relationshi
 
 As we have mentioned above, _Monitoring_ generally means to be aware of the state of a system, to observe a situation for any changes. You can also found in more details about definition of the _Monitoring_ on the <a href="https://en.wiktionary.org/wiki/monitoring">Wiktionary</a>.
 
-Question is how to carry out this kind of process, no other way we have to built a several places to do it, a group of people involved in the same activity to carry them all together.
+Question is how to carry out this kind of process, no other way we have to built a group of people involved in the same activity to carry them all together.
 
 So _<a href="https://en.wiktionary.org/wiki/team" target="_blank">a team</a>_ is supposed to be the one !
 ```js
