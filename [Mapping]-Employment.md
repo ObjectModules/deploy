@@ -108,7 +108,9 @@ Here we need a language so that a library will understand what _a query_ is. Peo
 
 So how the _SQL_ can be produced? How to get it to become able to be implemented?
 
-When we see the explanation of what SQL is, it contain of statement that structured to present a process on a Library, so it is actually a code language. Let's call it from here as _Script_ then.
+When we see the explanation of what SQL is, it contain of statement that structured to present a process on a Library, so it is actually a code language. So it is kind of a scripting language.
+
+Let's call it from here as _Script_ then.
    
 ```js
 letter a stand as script  
