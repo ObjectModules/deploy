@@ -236,14 +236,14 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
   </tbody>
 </table>
 
-**_Legend:_**  
-:radio_button: _Progress Status, Defined by Clock, :clock12: = 0%_  
-:house: _Organization Page, The List of Repositories (User+Forked)_  
-:cinema: _Assigned Page to demonstrate the content of each process on the web_  
+**Legend:**  
+:radio_button: Progress Status, Defined by Clock, :clock12: = 0%  
+:house: Organization Page, The List of Repositories (User+Forked)  
+:cinema: Assigned Page to demonstrate the content of each process on the web  
 
 **_Guidance:_**
 * _As shown in the table, channel consist of twelve (12) rows. You may choose whatever the links you like however the first four (4) domains of each channels will need to be the same. They also need to be arranged on pair in six (6) groups of two (2) channels each._  
-* You can follow us for assignment of your domain follows to the above sample. Take a look at the assigned url's for the last two :cinema:. These two will need to use subdomain from the first of your assigned domain as they will be used in _<a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing" target="_blank">implementing cross domain</a>_.
+* _You can follow us for assignment of your domain follows to the above sample. Take a look at the assigned url's for the last two :cinema:. These two will need to use subdomain from the first of your assigned domain as they will be used in <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing" target="_blank">implementing cross domain</a>_.
 
 #TODO List
 No matter whether your lists are work related or just for fun. No matter what you’re planning, how big or small the task may be, TODO list makes it easy to get stuff done. 
