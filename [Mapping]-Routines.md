@@ -145,13 +145,13 @@ What is the smallest thing? A cell right? Do you know how many cells in your bod
 
 So just to make it short, this kind of process can be identical with when a kind of cell is separated into _two (2) identical sets_, which people call the process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_.
 
-Here the process is look like:  
+Here is the process look likes:  
 
 ![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
 
 The process mitosis of a cell to become two (2) identical sets is consist of _four (4) steps_. 
 
-As we have explained above about the _[[behaviour|[Mapping]-Routines#behaviour]]_, in our concept the final result will also produce two (2) identical sets. 
+As we have explained above about the _[[behaviour|[Mapping]-Routines#behaviour]]_, in our concept the final result will also produce _two (2) identical sets_. 
 
 The step up to the final result will also consist of _four (4) steps_ which we call them as _[[spreading|[Mapping]-Spreading]], [[employment|[Mapping]-Employment]], [[merging|[Mapping]-Merging]] and [[settlement|[Mapping]-Settlement]]_. 
 
