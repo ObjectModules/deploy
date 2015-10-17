@@ -54,7 +54,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="https://google.com/+TopHYIPsinfoGigafeed"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/541152?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20"></a>
-<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/2325903?v=20&s=20"></a>
+<a href="maps#project-map"><img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20"></a>
       </td>
     </tr>
     <tr>
