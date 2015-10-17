@@ -128,7 +128,7 @@ Let's make a little test in a cross way in related to the symbiotic relation
 * On 3rd Employment: _Team_ collect data on exit point - _Script_ convert to _the query_ 
 * _Script_ is the language of _Rating_ activity - _Monitoring_ is the language of _Team_  activity
 
-So _<a href="https://en.wiktionary.org/wiki/team" target="_blank">a team</a>_ is supposed to be the one !
+Everything seems correct. So _<a href="https://en.wiktionary.org/wiki/team" target="_blank">a team</a>_ is supposed to be the one !
 ###Diagram
 ```js
 letter a stand as script  
