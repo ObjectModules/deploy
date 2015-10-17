@@ -104,7 +104,7 @@ On the 2nd employment, Monitoring is process to gain the data, Rating is process
 
 In correlation with the 2nd employment so the 3rd employment is simply produce _a query_ in such a way that it will give _a result_ when it is implemented to the library.  
 
-So how _a query_ can be produced? And How to get the correct one to become able to be implemented?
+So how _a query_ can be produced? How to get it to become able to be implemented?
 
    
 ```js
