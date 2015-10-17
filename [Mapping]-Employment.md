@@ -149,7 +149,7 @@ We have pronounced since the beginning that all the mappings has always got four
 
 Either mapping for _[[a routine|[Mapping]-Routines]]_, diagram for _[[a spreading|[Mapping]-Spreading]]_, also for an employment. All of them got always four (4) parts. So why we only take _three (3) of employments_. Not four (4)? 
 
-Actually there is _The Fourth (4th)_. Stand as _The Last Employment_. A very special Employment. The key of all this concept. So let's stop the employments until this point. 
+Actually there is _The Fourth (4th)_. Stand as _The Last Employment_. A very special _Employment_. The key of all this concept. So let's stop the employments until this point. 
 
 We are going to bring you to _[[The Fourth|[Mapping]-Merging]]_.
 ***
