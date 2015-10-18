@@ -181,11 +181,14 @@ If you can find easily there then for sure this project will never come to exist
 
 Unfortunately we are not making this project to give an information about your best food.  
 What is really people deeply seeking? A best food? Nope..   
-A search engine? You got some already..  
-We shall go wider. 
 
-Money? Yes! How to get the money then.  
-Yes, we have to do some business.  
+A search engine? You got some already.   
+We shall go wider.. 
+
+Money? Yes! 
+How to get the money then.. 
+ 
+Of course  we have to do some business.  
 Which business then? 
 
 Here a big question mark is coming again. What shall we do? Are we going for searching again? Of course not. Let's do the same way as the method of finding your best food. 
