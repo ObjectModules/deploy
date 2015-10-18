@@ -91,58 +91,6 @@ letter b stand as world
 letter c stand as hyip  
 ```
 
-###Content
-<table>
-  <thead>
-    <tr>
-      <th>flow</th>
-      <th>type</th>
-      <th>main</th>
-      <th>flow</th>
-      <th>hyip</th>
-      <th>flow</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row">-</td>
-      <td scope="row">repo</td>
-      <td scope="row">
-        <ul>
-          <li>Bird</li>
-          <li>Magic</li>
-        </ul>
-      </td>
-      <td scope="row">-</td>
-      <td scope="row">
-        <ul>
-          <li>Bird</li>
-          <li>Magic</li>
-        </ul>
-      </td>
-      <td scope="row">-</td>
-    </tr>
-    <tr>
-      <td scope="row">-</td>
-      <td scope="row">wiki</td>
-      <td scope="row">
-        <ul>
-          <li>Bird</li>
-          <li>Magic</li>
-        </ul>
-      </td>
-      <td scope="row">-</td>
-      <td scope="row">
-        <ul>
-          <li>Bird</li>
-          <li>Magic</li>
-        </ul>
-      </td>
-      <td scope="row">-</td>
-    </tr>
-  </tbody>
-</table>
-
 
 ##2nd Employment
 To became a valuable info then we need to rate the data and became a library. The info it self is got from searching and investigation which in the business is known as monitoring or in a short: monitor.  
