@@ -73,8 +73,60 @@ So when applying this all together then the diagram will be shown as below:
 You can see that this mapping has four (4) processes, just exactly like when we count the number of elements inside a routines.
 
 In our concept we call this kind of mapping as an _employment._ The method of getting an employment from its routines we call it as a _spreading_. 
+###Content
+<table>
+  <thead>
+    <tr>
+      <th>flow</th>
+      <th>type</th>
+      <th>main</th>
+      <th>flow</th>
+      <th>hyip</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">-</td>
+      <td scope="row">repo</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">-</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">-</td>
+    </tr>
+    <tr>
+      <td scope="row">-</td>
+      <td scope="row">wiki</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">-</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">-</td>
+    </tr>
+  </tbody>
+</table>
 
-Until this point the diagram for an employment is completed.
+
+Until this point the diagram for _a spreading_ is completed.
 
 #What's Next
 From that point you may see that a basic diagram will turn its behavior and seeking a way to return to its routine by calling another mappings which is in our concept we call them as _Employment_ and _Merging_. 
