@@ -107,7 +107,10 @@ letter c stand as hyip
   <tbody>
     <tr>
       <td scope="row">repo</td>
-      <td scope="row">-</td>
+      <td scope="row">
+*   Bird
+*   Magic
+</td>
       <td scope="row">-</td>
       <td scope="row">-</td>
       <td scope="row">-</td>
