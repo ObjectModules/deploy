@@ -95,7 +95,8 @@ letter c stand as hyip
 <table>
   <thead>
     <tr>
-      <th>:radio_button:</th>
+      <th>flow</th>
+      <th>type</th>
       <th>main</th>
       <th>flow</th>
       <th>hyip</th>
@@ -104,6 +105,7 @@ letter c stand as hyip
   </thead>
   <tbody>
     <tr>
+      <td scope="row">-</td>
       <td scope="row">repo</td>
       <td scope="row">
         <ul>
@@ -121,6 +123,7 @@ letter c stand as hyip
       <td scope="row">-</td>
     </tr>
     <tr>
+      <td scope="row">-</td>
       <td scope="row">wiki</td>
       <td scope="row">
         <ul>
