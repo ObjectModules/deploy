@@ -181,7 +181,8 @@ If you can find easily there then for sure this project will never come to exist
 
 Unfortunately we are not making this project to give an information about your best food.  
 What is really people deeply seeking? A best food? Nope..   
-We want to go wider. 
+A search engine? You got some already..
+We shall go wider. 
 
 Money? Yes! How to get the money then.  
 Yes, we have to do some business.  
