@@ -186,9 +186,9 @@ A search engine? You got some already.
 We shall go wider.. 
 
 Money? Yes!   
-How to get the money then.. 
- 
+How to get the money then..  
 Of course  we have to do some business.  
+
 Which business then? 
 
 Here a big question mark is coming again. What shall we do?  
