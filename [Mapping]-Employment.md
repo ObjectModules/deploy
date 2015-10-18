@@ -112,7 +112,12 @@ letter c stand as hyip
         </ul>
       </td>
       <td scope="row">-</td>
-      <td scope="row">-</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
       <td scope="row">-</td>
     </tr>
     <tr>
@@ -124,9 +129,12 @@ letter c stand as hyip
         </ul>
       </td>
       <td scope="row">-</td>
-      <td scope="row">-</td>
-      <td scope="row">-</td>
-      <td scope="row">-</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
       <td scope="row">-</td>
     </tr>
   </tbody>
