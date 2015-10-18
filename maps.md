@@ -242,7 +242,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 :cinema: Assigned Page to demonstrate the content of each process on the web  
 
 **_Guidance:_**
-* _As shown in [[the table|maps#by-tabulation]], channel consist of twelve (12) rows. You may choose whatever the links you like however the first four (4) domains of each channels will need to be the same. They also need to be arranged on pair in six (6) groups of two (2) channels each._  
+* _As shown in [[the table|maps#by-tabulation]], channel consist of twelve (12) rows. You may choose whatever the links you like. However, the first four (4) domains of each channels will need to be the same. They also need to be arranged on pair in six (6) groups of two (2) channels each._  
 * _You can follow us for assignment of your domains follow to the above sample. Take a look at the assigned url's for the last two (2) :cinema:. These two (2) will need to use subdomain from the first of your assigned domain as they will be used in implementing <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing" target="_blank">cross domain</a>_.
 
 #TODO List
