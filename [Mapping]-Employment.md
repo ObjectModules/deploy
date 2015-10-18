@@ -90,6 +90,34 @@ letter a stand as info
 letter b stand as world  
 letter c stand as hyip  
 ```
+
+###Content
+<table>
+  <thead>
+    <tr>
+      <th>:radio_button:</th>
+      <th>Type</th>
+      <th>Repo</th>
+      <th>Wiki</th>
+      <th>Team</th>
+      <th>Platform</th>
+      <th>Channel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">-</td>
+      <td scope="row">-</td>
+      <td scope="row">-</td>
+      <td scope="row">-</td>
+      <td scope="row">-</td>
+      <td scope="row">-</td>
+      <td scope="row">-</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ##2nd Employment
 To became a valuable info then we need to rate the data and became a library. The info it self is got from searching and investigation which in the business is known as monitoring or in a short: monitor.  
 ```js
