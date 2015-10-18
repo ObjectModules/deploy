@@ -185,7 +185,7 @@ What is really people deeply seeking? A best food? Nope..
 A search engine? You got some already.   
 We shall go wider.. 
 
-Money? Yes! 
+Money? Yes!   
 How to get the money then.. 
  
 Of course  we have to do some business.  
