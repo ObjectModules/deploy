@@ -106,8 +106,17 @@ letter c stand as hyip
   </thead>
   <tbody>
     <tr>
+      <td scope="row">repo</td>
+      <td scope="row">wiki</td>
       <td scope="row">-</td>
       <td scope="row">-</td>
+      <td scope="row">-</td>
+      <td scope="row">-</td>
+      <td scope="row">-</td>
+    </tr>
+    <tr>
+      <td scope="row">repo</td>
+      <td scope="row">wiki</td>
       <td scope="row">-</td>
       <td scope="row">-</td>
       <td scope="row">-</td>
