@@ -100,8 +100,6 @@ letter c stand as hyip
       <th>flow</th>
       <th>hyip</th>
       <th>flow</th>
-      <th>Platform</th>
-      <th>Channel</th>
     </tr>
   </thead>
   <tbody>
@@ -116,12 +114,15 @@ letter c stand as hyip
       <td scope="row">-</td>
       <td scope="row">-</td>
       <td scope="row">-</td>
-      <td scope="row">-</td>
-      <td scope="row">-</td>
     </tr>
     <tr>
       <td scope="row">wiki</td>
-      <td scope="row">-</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
       <td scope="row">-</td>
       <td scope="row">-</td>
       <td scope="row">-</td>
