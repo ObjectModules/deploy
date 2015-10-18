@@ -96,8 +96,8 @@ letter c stand as hyip
   <thead>
     <tr>
       <th>:radio_button:</th>
-      <th>Type</th>
-      <th>Repo</th>
+      <th>main</th>
+      <th>hyip</th>
       <th>Wiki</th>
       <th>Team</th>
       <th>Platform</th>
