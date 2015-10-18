@@ -191,7 +191,9 @@ How to get the money then..
 Of course  we have to do some business.  
 Which business then? 
 
-Here a big question mark is coming again. What shall we do? Are we going for searching again? Of course not. Let's do the same way as the method of finding your best food. 
+Here a big question mark is coming again. What shall we do?  
+Are we going for searching again? Of course not.  
+Let's do the same way as the method of finding your best food. 
 
 You are correct!  
 We need to get a library of the business. Then we can find the best business.  
