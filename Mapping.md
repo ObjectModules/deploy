@@ -155,7 +155,7 @@ Once it is going to be settled then it will return automatically to the original
 
 See the mapping of the routines, you may count that number of elements is also _four (4)_, same as the number of the required mapping when a factor is spread. 
 
-In our concept, when _four (4) mappings_ is going to return to its original of _four (4) elements_, we call it as _[[a settlement|Mapping#settlement]]_.  
+In our concept, when _four (4) mappings_ is going to return to its original of _four (4) elements_, we call it as _[[a settlement|[Mapping]-Settlement]]_.  
 
 So here in our case, whatever you have done as long as you follow the concept, all will back to the original process.  
 
