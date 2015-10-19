@@ -107,8 +107,8 @@ Then the content flow for _a spreading_ can be tabulated as below:
       <td scope="row">:arrow_lower_right:</td>
       <td scope="row">
         <ul>
-          <li>task: <i>write</i></li>
-          <li>target: <strong><i>Result</i><sup><i>3</i></sup></strong></li>
+          <li>task: <i>write</i><sup><i>3</i></li>
+          <li>target: <strong><i>Result</i></sup></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_left:</td>
@@ -119,14 +119,14 @@ Then the content flow for _a spreading_ can be tabulated as below:
       <td scope="row">hyip</td>
       <td scope="row">
         <ul>
-          <li>task: <strong><i>read</i><sup><i>4</i></sup></strong></li>
+          <li>task: <strong><i>read</i></sup></strong><sup><i>4</i></li>
           <li>object: <strong><i>Result</i></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_left:</td>
       <td scope="row">
         <ul>
-          <li>task: <strong><i>read</i><sup><i>3</i></sup></strong></li>
+          <li>task: <strong><i>read</i></sup></strong><sup><i>3</i></li>
           <li>object: <i>Query</i></li>
         </ul>
       </td>
