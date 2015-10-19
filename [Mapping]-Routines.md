@@ -112,8 +112,8 @@ Until this point the diagram for a mapping is completed.
 We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
 
 ##Behaviour
-Now we are going to explain the behaviour of a mapping when a parameter is putting inside.
-
+Now we are going to explain the behaviour of a mapping when a parameter is putting inside. On our case you are going to put `the best` as your parameter to your food.
+ 
 Let's take mapping of _Figure 4_ as _[[a routine|Mapping#routines]]_.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 Let put again the mapping here.
@@ -123,7 +123,7 @@ Let put again the mapping here.
 * Eat is the process
 * Exit point  
 ```
-Take a look at the process. Eat is the process. Consider it as a routine process. What is going on when you want to find a best to eat but you don't know yet which one is.
+Take a look at the process. Eat is the process. Consider it as a routine process. What is going on when you want to find your best food to eat but you don't know yet which one is.
 
 Of course you remain eat whatever the food you have on hand. Since you insist to get one so you will have to do something to get it.
 
