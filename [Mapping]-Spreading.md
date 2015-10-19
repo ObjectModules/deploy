@@ -71,8 +71,8 @@ So when applying this all together then the diagram will be shown as below:
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 
 To describe this diagram, let's change the `info` as _your searching_, so `hyip info` will stand as _your computer_, then change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. So just consider a sense way below:  
-* Above line: You send a query to Google Search, this query is read by Google
-* Below line: Google process your query and display the result on your computer
+* Above line: You _send a query_ to Google Search, this query is _read_ by Google
+* Below line: Google _process_ your query and your computer _display_ the result
 
 
 You can see that this mapping has four (4) processes, just exactly like when we count the number of elements inside a routines.
