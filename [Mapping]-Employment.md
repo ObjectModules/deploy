@@ -90,7 +90,58 @@ letter a stand as info
 letter b stand as world  
 letter c stand as hyip  
 ```
-
+###Content Flow
+Then the content flow for the 1st Employment can be tabulated as below:
+<table>
+  <thead>
+    <tr>
+      <th>flow</th>
+      <th>type</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
 
 ##2nd Employment
 To became a valuable info then we need to rate the data and became a library. The info it self is got from searching and investigation which in the business is known as monitoring or in a short: monitor.  
@@ -104,15 +155,15 @@ letter c stand as hyip
 Then diagram will be shown as below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure8.png)
 ###Content Flow
-Then content flow can be tabulated as below:
+Then the content flow for the 2nd Employment can be tabulated as below:
 <table>
   <thead>
     <tr>
       <th>flow</th>
       <th>type</th>
-      <th>info</th>
+      <th>monitor</th>
       <th>flow</th>
-      <th>world</th>
+      <th>rating</th>
       <th>flow</th>
     </tr>
   </thead>
@@ -195,7 +246,7 @@ letter c stand as hyip
 Then diagram will be shown as below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure9.png)
 ###Content Flow
-Then content flow can be tabulated as below:
+Then the content flow for the 3rd Employment can be tabulated as below:
 <table>
   <thead>
     <tr>
