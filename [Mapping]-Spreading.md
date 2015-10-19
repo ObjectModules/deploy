@@ -128,7 +128,7 @@ Now you can tabulate the flow of the processes for _a spreading_ by tabulation a
       <td scope="row">
         <ul>
           <li>task: <strong><i>read</i></sup></strong><sup><i>4</i></li>
-          <li>way: <strong><i>receive</i></strong></li>
+          <li>way: <strong><i>display</i></strong></li>
           <li>object: <strong><i>Result</i></strong></li>
         </ul>
       </td>
