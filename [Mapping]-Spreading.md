@@ -90,36 +90,36 @@ Then the content flow for the 1st Employment can be tabulated as below:
   <tbody>
     <tr>
       <td scope="row">:arrow_right:</td>
-      <td scope="row">main</td>
+      <td scope="row">query</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>Write</li>
+          <li>Query</li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_right:</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>Write</li>
+          <li>Library</li>
         </ul>
       </td>
       <td scope="row">:arrow_left:</td>
     </tr>
     <tr>
       <td scope="row">:arrow_left:</td>
-      <td scope="row">hyip</td>
+      <td scope="row">result</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>Read</li>
+          <li>Library</li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_left:</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>Read</li>
+          <li>Query</li>
         </ul>
       </td>
       <td scope="row">:arrow_heading_up:</td>
