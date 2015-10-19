@@ -66,7 +66,7 @@ To show the spreading by diagram simply make it a copy of the routines, put anot
 
 Let's follow _[[the rules|[Mapping]-Spreading#rules]]_ one by one. 
 
-So now you have two mapping with a different process. Then on fulfilling the rule on making a clear sign that a new process is being carried out, just put _a line_ in between.
+So now you have two mapping with a different process. Then, on fulfilling the rule on making a clear sign that a new process is being carried out, just put _a separated line_ in between.
 
 So when applying those steps all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
