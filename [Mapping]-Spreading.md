@@ -216,7 +216,7 @@ The employments for the Query is represent the 3rd mapping:
 * Examine is the process
 * Exit point  
 ```
-See that one mapping is doing a process making _a library_ which is concern to collect data to only related to the parameter to get it to become more specific _**Result**_. 
+See that one mapping is doing a process making _a library_ which is concern to collect data to get it to become more specific _**Result**_ to only related to the parameter. 
 
 Another is doing a process of making more specific **_Query_** by examine to the one who is going to use it in related also to the parameter. 
 
