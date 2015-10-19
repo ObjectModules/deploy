@@ -94,7 +94,7 @@ This diagram will present all the mappings by _[[a parameter|Mapping#parameter]]
 You can see that this spreading has _four (4) processes_, just exactly like when we count the number of elements inside _[[a routine|[Mapping]-Routines]]_.
 
 ###By Sequence
-To describe this diagram in sequence, let's put this way:
+See again the diagram of _Figure 5_. To describe this diagram in sequence, let's put this way:
 * Change the `info` as _yourself_, so `hyip info` will stand as _your computer_
 * Change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. 
 
