@@ -78,8 +78,8 @@ To describe this diagram in sequence, let's put this way:
 * Change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. 
 
 See then _the separated line_ on _[[the diagram|[Mapping]-Spreading#by-diagram]]_. Now you can just consider a sense way below:  
-* Above line: You _send a query_<sup><i>1</i></sup> to Google Search, this query is _read_<sup><i>2</i></sup> by Google
-* Below line: Google _process_<sup><i>3</i></sup> your query and your computer _display_<sup><i>4</i></sup> the result
+* Above the line: You _send a query_<sup><i>1</i></sup> to Google Search, this query is _read_<sup><i>2</i></sup> by Google
+* Below the line: Google _process_<sup><i>3</i></sup> your query and your computer _display_<sup><i>4</i></sup> the result
 
 ###By Tabulation
 By following _[[the diagram|[Mapping]-Spreading#by-diagram]]_ and _[[the sequence|[Mapping]-Spreading#by-sequence]]_ number of the process as shown on the sample above then the flow of the processes for _a spreading_ can be tabulated as below:
