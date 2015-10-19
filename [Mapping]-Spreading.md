@@ -72,7 +72,7 @@ So when applying this all together then the diagram will be shown as below:
 
 You can see that this mapping has four (4) processes, just exactly like when we count the number of elements inside a routines.
 
-##Content & Flow
+##Content Flow
 <table>
   <thead>
     <tr>
