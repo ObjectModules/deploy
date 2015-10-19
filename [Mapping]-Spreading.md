@@ -19,7 +19,17 @@ Here we will explain about _a spreading_ in our concept. A process of factoring 
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Routines]]_.
 ##Basic
-Let's put again all of _[[the mappings|Mapping#our-concept]]_ here:
+Let's put again all of the mappings here:
+###Routine
+Mapping of _[[a routine|Mapping#routines]]_
+```  
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+###Parameter
+Mappings by _[[a parameter|Mapping#parameter]]_  
 
 Mapping of the change to your routine process:
 ```
@@ -48,7 +58,7 @@ Let's map about the process of getting the best food for you the same way as you
 * A best food on library for you is what we need 
 * Matching the data is the process
 * Exit point  
-``` 
+```
 We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
 ###Rules
 Let's take again the mapping of _[[a routine|[Mapping]-Routines]]_  
