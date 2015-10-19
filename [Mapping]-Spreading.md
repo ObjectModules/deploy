@@ -84,7 +84,7 @@ See then _the separated line_ on _[[the diagram|[Mapping]-Spreading#by-diagram]]
 ###By Tabulation
 Let's put back our repos on the sample above: 
 * Above the line: `info` write<sup><i>1</i></sup> a query to `hyip world`, then `hyip world` read<sup><i>2</i></sup> it
-* Below the line: `world` write<sup><i>3</i></sup> a result then `hyip info` read<sup><i>4</i></sup> and display it
+* Below the line: `world` write<sup><i>3</i></sup> a result and `hyip info` read<sup><i>4</i></sup> and display it
 
 Now you can tabulate the flow of the processes for _a spreading_ by tabulation as below:
 <table>
