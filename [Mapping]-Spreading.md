@@ -64,7 +64,7 @@ Now left the question on how to combine them, right? Here are the rules:
 ###By Diagram
 To show the spreading by diagram simply make it a copy of the routines, put another word to replace the word of `info`, let's take the word of `world` then. 
 
-So now you have two mapping with a different process. One for your routines and another one for the new process.
+So now you have two mapping with a different process. One for your routines and another one for the new process. To make a clear sign that a new process is being carried out of the routines then we put _a separated line_ in between,
 
 So when applying _[[the rules|[Mapping]-Spreading#rules]]_ all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
