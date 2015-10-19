@@ -95,15 +95,15 @@ Then the content flow for the 1st Employment can be tabulated as below:
       <td scope="row">main</td>
       <td scope="row">
         <ul>
-          <li>Write</li>
-          <li>Query</li>
+          <li>task: Write</li>
+          <li>object: Query</li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_right:</td>
       <td scope="row">
         <ul>
-          <li>Write</li>
-          <li>Library</li>
+          <li>task: Write</li>
+          <li>object: Library</li>
         </ul>
       </td>
       <td scope="row">:arrow_left:</td>
