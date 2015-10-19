@@ -98,7 +98,8 @@ To describe this diagram in sequence, let's put this way:
 * Change the `info` as _yourself_, so `hyip info` will stand as _your computer_
 * Change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. 
 
-The 1st mappings by _[[a parameter|Mapping#parameter]]_  
+See then the 1st mappings by _[[a parameter|[Mapping]-Spreading#parameter]]_, let's put it here:  
+
 Mapping of the change to your routine process when you search your best food:
 ```
 * Looking for your best food will become an entry point
@@ -106,7 +107,7 @@ Mapping of the change to your routine process when you search your best food:
 * Looking is the process
 * Exit point  
 ```
-See then _the separated line_ on _[[the diagram|[Mapping]-Spreading#by-diagram]]_. 
+See also _the separated line_ on _[[the diagram|[Mapping]-Spreading#by-diagram]]_. 
 
 Now you can just consider a sense way when you search your best food as below:  
 * Above the line: _You_ write<sup><i>1</i></sup> a query to _Google Search_, then _Google Search_ read<sup><i>2</i></sup> it
