@@ -263,7 +263,7 @@ As we have mentioned on the top of this page, this page is the last page of _[[T
 * What _Section_ shall we get next? 
 * What _Topic_ is supposed to be found there?   
  
-_Please carefully observe the mapping before you answer or consider to go [[back again|Mapping]]. If you are sure with your answer just click the **Next** Button below, see if your answer is correct.._
+_Please carefully observe _[[the mapping|maps#project-map]]_ before you answer or consider to go [[back again|Mapping]]. If you are sure with your answer just click the **Next** Button below, see if your answer is correct.._
 ***
 <table>
   <thead>
