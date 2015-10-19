@@ -89,15 +89,7 @@ So now you have two mapping with a different process. Then, on fulfilling the ru
 So when applying those steps all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 
-This diagram will present the 1st mappings by _[[a parameter|Mapping#parameter]]_  
-
-Mapping of the change to your routine process:
-```
-* Looking for your best food will become an entry point
-* An information of best food is what we need 
-* Looking is the process
-* Exit point  
-```
+This diagram will present all the mappings by _[[a parameter|Mapping#parameter]]_  
 
 You can see that this spreading has _four (4) processes_, just exactly like when we count the number of elements inside _[[a routine|[Mapping]-Routines]]_.
 
@@ -106,6 +98,14 @@ To describe this diagram in sequence, let's put this way:
 * Change the `info` as _yourself_, so `hyip info` will stand as _your computer_
 * Change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. 
 
+The 1st mappings by _[[a parameter|Mapping#parameter]]_ 
+Mapping of the change to your routine process:
+```
+* Looking for your best food will become an entry point
+* An information of best food is what we need 
+* Looking is the process
+* Exit point  
+```
 See then _the separated line_ on _[[the diagram|[Mapping]-Spreading#by-diagram]]_. Now you can just consider a sense way when you search your best food as below:  
 * Above the line: _You_ write<sup><i>1</i></sup> a query to _Google Search_, then _Google Search_ read<sup><i>2</i></sup> it
 * Below the line: _Google_ write<sup><i>3</i></sup> a result then _your computer_ read<sup><i>4</i></sup> and display it  
