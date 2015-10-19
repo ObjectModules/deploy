@@ -131,8 +131,8 @@ So here for sure your routine will not be the same again. You have to do another
 
 In our case this will consist of _two (2) identical_ processes of eating a food which are:
  
-* one mapping is remain eating _your original food_
-* another mapping is eating _your best food_
+* one process is remain eating _your original food_
+* another new process which is the process of eating _your best food_
 
 As we have explained in the _[[settlement|Mapping#settlement]]_ about the behavior of this concept, whenever an identical process is founded then the system will call for _a comparison_.
 
@@ -145,7 +145,7 @@ Consider is a sense way. When you have already know what your best food is then 
 _You cannot carry out both all together in the same time_.
 
 ##Mitosis
-We are going to explain further how a mapping will become _two (2)_. 
+In our concept another process means another mapping. We are going to explain further how a mapping will become _two (2)_. 
 
 You won't believe us that this kind of process is happen as a normal case in our live. It is happen in your routines especially when you want something to get. 
 
