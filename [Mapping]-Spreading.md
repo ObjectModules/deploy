@@ -95,17 +95,17 @@ In our concept we call this kind of mapping as an _employment._ The method of ge
           <li>Magic</li>
         </ul>
       </td>
-      <td scope="row">-</td>
+      <td scope="row">:arrow_right:</td>
       <td scope="row">
         <ul>
           <li>Bird</li>
           <li>Magic</li>
         </ul>
       </td>
-      <td scope="row">-</td>
+      <td scope="row">:arrow_heading_down:</td>
     </tr>
     <tr>
-      <td scope="row">-</td>
+      <td scope="row">:arrow_left:</td>
       <td scope="row">wiki</td>
       <td scope="row">
         <ul>
@@ -113,7 +113,7 @@ In our concept we call this kind of mapping as an _employment._ The method of ge
           <li>Magic</li>
         </ul>
       </td>
-      <td scope="row">-</td>
+      <td scope="row">:arrow_left:</td>
       <td scope="row">
         <ul>
           <li>Bird</li>
