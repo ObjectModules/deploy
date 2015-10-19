@@ -96,7 +96,7 @@ Then the content flow for the 1st Employment can be tabulated as below:
       <td scope="row">
         <ul>
           <li>method: <i>write</i></li>
-          <li>target: Query</li>
+          <li>target: <code><i>Query</i></code></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_right:</td>
