@@ -201,9 +201,9 @@ Then content flow can be tabulated as below:
     <tr>
       <th>flow</th>
       <th>type</th>
-      <th>info</th>
+      <th>script</th>
       <th>flow</th>
-      <th>world</th>
+      <th>team</th>
       <th>flow</th>
     </tr>
   </thead>
