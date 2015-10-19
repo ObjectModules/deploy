@@ -87,7 +87,7 @@ In our concept we call this kind of mapping as an _employment._ The method of ge
   </thead>
   <tbody>
     <tr>
-      <td scope="row">-</td>
+      <td scope="row">:arrow_right:</td>
       <td scope="row">repo</td>
       <td scope="row">
         <ul>
