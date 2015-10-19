@@ -82,7 +82,7 @@ See then _the separated line_ on _[[the diagram|[Mapping]-Spreading#by-diagram]]
 * Below the line: Google _process_<sup><i>3</i></sup> your query and your computer _display_<sup><i>4</i></sup> the result  
 
 ###By Tabulation
-By following _[[the diagram|[Mapping]-Spreading#by-diagram]]_ and _[[the sequence|[Mapping]-Spreading#by-sequence]]_ then the flow of the processes for _a spreading_ can be tabulated as below:
+Here we show you the flow of the processes for _a spreading_ by tabulation as below:
 <table>
   <thead>
     <tr>
@@ -140,7 +140,7 @@ By following _[[the diagram|[Mapping]-Spreading#by-diagram]]_ and _[[the sequenc
     </tr>
   </tbody>
 </table>
-Let's take a look at _the sequence numbers_ as shown on the table above. You may see that they are in the same flow as _[[the sequence|[Mapping]-Spreading#by-sequence]]_.
+Let's take a look at _the sequence numbers_ as shown on the table above. You may see that they are in the same flow as _[[the diagram|[Mapping]-Spreading#by-diagram]]_ and _[[the sequence|[Mapping]-Spreading#by-sequence]]_.
 
 Until this point our section for _a spreading_ is completed.
   
