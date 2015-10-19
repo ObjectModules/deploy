@@ -74,11 +74,6 @@ To describe this diagram, let's change the `info` as _your searching_, so `hyip 
 * Above line: You _send a query_<sup><i>1</i></sup> to Google Search, this query is _read_<sup><i>2</i></sup> by Google
 * Below line: Google _process_<sup><i>3</i></sup> your query and your computer _display_<sup><i>4</i></sup> the result
 
-
-You can see that this mapping has four (4) processes, just exactly like when we count the number of elements inside a routines.
-
-Until this point the diagram for _a spreading_ is completed.
-
 ##Content Flow
 Then the content flow for _a spreading_ can be tabulated as below:
 <table>
@@ -134,6 +129,10 @@ Then the content flow for _a spreading_ can be tabulated as below:
     </tr>
   </tbody>
 </table>
+
+You can see that this spreading has four (4) processes, just exactly like when we count the number of elements inside a routines.
+
+Until this point the diagram for _a spreading_ is completed.
   
 #What's Next
 From that point you may see that a basic diagram will turn its behavior and seeking a way to return to its routine by calling another mappings which is in our concept we call them as _Employment_ and _Merging_. 
