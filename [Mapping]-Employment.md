@@ -193,7 +193,7 @@ Then the content flow for the 2nd Employment can be tabulated as below:
       <td scope="row">:arrow_left:</td>
     </tr>
     <tr>
-      <td scope="row">result</td>
+      <td scope="row"><strong><i>Library</i></strong></td>
       <td scope="row">:arrow_left:</td>
       <td scope="row">hyip</td>
       <td scope="row">
@@ -287,7 +287,7 @@ Then the content flow for the 3rd Employment can be tabulated as below:
       <td scope="row">:arrow_left:</td>
     </tr>
     <tr>
-      <td scope="row">result</td>
+      <td scope="row"><i>Query</i></td>
       <td scope="row">:arrow_left:</td>
       <td scope="row">hyip</td>
       <td scope="row">
