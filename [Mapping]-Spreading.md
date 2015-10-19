@@ -191,12 +191,12 @@ Until this point our section for _a spreading_ is completed.
 #What's Next
 From that point you may see that _a routine_ will turn its behavior and seeking a way to return to its routine by calling another mappings that initiated by the spreading. 
 
-So whenever that the result is meeting the requirement of _a query_ then all process that related to the parameter will no more required. On our case those process are _world_ and _hyip world_.
+So whenever that the result is meeting the requirement of _a query_ then process will end to a settlement which making all process that related to the parameter will no more required. On our case those process are `world` and `hyip world`.
 
-When these two (2) process are no more carry out all of the process will return to _[[its routine|[Mapping]-Routines]]_.  
+When the `world` and `hyip world` are no more carry out then all of the process is considered settled and will return to _[[its routine|[Mapping]-Routines]]_.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png) 
 
-However when which it is not achieved then the spreading will continue to another process which in our concept we call them as _Employment_ and _Merging_. 
+However when which `a settlement` is not achieved then the spreading will continue to another process which in our concept we call them as _Employment_ and _Merging_. 
 ##Employment
 Employment is a mapping built automatically whenever a parameter is assigned to a routines. In our concept there will be two kind of employments will be called. Each of Those 2 kind of employments is present the following:
 
