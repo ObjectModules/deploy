@@ -139,6 +139,59 @@ letter c stand as hyip
 ```
 Then diagram will be shown as below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure9.png)
+###Content Flow
+Then content flow can be tabulated as below:
+<table>
+  <thead>
+    <tr>
+      <th>flow</th>
+      <th>type</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+
 
 #What's Next
 Combining all together we have now 3 kind of Employments which are:  
