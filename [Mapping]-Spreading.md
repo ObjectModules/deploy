@@ -79,10 +79,10 @@ To describe this diagram in sequence, let's put this way:
 
 See then _the separated line_ on _[[the diagram|[Mapping]-Spreading#by-diagram]]_. Now you can just consider a sense way below:  
 * Above the line: You _send a query_<sup><i>1</i></sup> to Google Search, this query is _read_<sup><i>2</i></sup> by Google
-* Below the line: Google _process_<sup><i>3</i></sup> your query and your computer _display_<sup><i>4</i></sup> the result
+* Below the line: Google _process_<sup><i>3</i></sup> your query and your computer _display_<sup><i>4</i></sup> the result  
 
 ###By Tabulation
-By following _[[the diagram|[Mapping]-Spreading#by-diagram]]_ and _[[the sequence|[Mapping]-Spreading#by-sequence]]_ as shown on the sample above then the flow of the processes for _a spreading_ can be tabulated as below:
+By following _[[the diagram|[Mapping]-Spreading#by-diagram]]_ and _[[the sequence|[Mapping]-Spreading#by-sequence]]_ then the flow of the processes for _a spreading_ can be tabulated as below:
 <table>
   <thead>
     <tr>
@@ -140,6 +140,7 @@ By following _[[the diagram|[Mapping]-Spreading#by-diagram]]_ and _[[the sequenc
     </tr>
   </tbody>
 </table>
+Let's take a look at _the sequence numbers_ as shown on the table above. You may see that they are in the same flow as _[[the sequence|[Mapping]-Spreading#by-sequence]]_.
 
 Until this point our section for _a spreading_ is completed.
   
