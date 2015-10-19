@@ -89,7 +89,7 @@ Then the content flow for the 1st Employment can be tabulated as below:
   <thead>
     <tr>
       <th>flow</th>
-      <th>type</th>
+      <th>repo</th>
       <th>info</th>
       <th>flow</th>
       <th>world</th>
@@ -161,7 +161,7 @@ Then the content flow for the 2nd Employment can be tabulated as below:
   <thead>
     <tr>
       <th>flow</th>
-      <th>type</th>
+      <th>repo</th>
       <th>monitor</th>
       <th>flow</th>
       <th>rating</th>
@@ -252,7 +252,7 @@ Then the content flow for the 3rd Employment can be tabulated as below:
   <thead>
     <tr>
       <th>flow</th>
-      <th>type</th>
+      <th>repo</th>
       <th>script</th>
       <th>flow</th>
       <th>team</th>
