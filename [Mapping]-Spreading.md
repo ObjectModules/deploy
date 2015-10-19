@@ -140,7 +140,7 @@ Here we show you the flow of the processes for _a spreading_ by tabulation as be
     </tr>
   </tbody>
 </table>
-Let's take a look at _the sequence numbers_ as shown on the table above. You may see that they are in the same flow as _[[the diagram|[Mapping]-Spreading#by-diagram]]_ and _[[the sequence|[Mapping]-Spreading#by-sequence]]_.
+Let's take a look at _the arrows_ and _the sequence numbers_ as shown on the table above. You may see that they are in the same flow as _[[the diagram|[Mapping]-Spreading#by-diagram]]_ and _[[the sequence|[Mapping]-Spreading#by-sequence]]_.
 
 Until this point our section for _a spreading_ is completed.
   
