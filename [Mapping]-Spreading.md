@@ -198,7 +198,9 @@ When the `world` and `hyip world` are no more carry out then all of the process 
 
 However when `a settlement` is not going to be achieved then the spreading will continue to another process which in our concept we call them as _Employment_ and _Merging_. 
 ##Employment
-In our concept there will be two kind of employments will be called. Each of Those 2 kind of employments is present the following:
+See again the tabulation of a spreading. We have put the potential factors in bold. They are the Query and Result.
+
+In our concept there will be two kind of employments will be called. One to settle the Query and another for the Result. Each of those 2 kind of employments is represent each of the followings:
 
 Mapping of the process to collect the library in related with the food:
 ```
