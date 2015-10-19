@@ -70,7 +70,7 @@ Now left the question on how to combine them, right? Here are the rules:
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 
-To describe this diagram, let's change the _info_ as _your searching_, so _hyip info_ will stand as _your computer_, then change _hyip world_ to _Google Search_, so the _world_ stand as _Google_ itself. So just consider a sense way below:  
+To describe this diagram, let's change the `info` as _your searching_, so `hyip info` will stand as _your computer_, then change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. So just consider a sense way below:  
 * Above line: You send a query to Google Search, this query is read by Google
 * Below line: Google process your query and display the result on your computer
 
