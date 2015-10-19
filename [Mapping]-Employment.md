@@ -98,9 +98,64 @@ To became a valuable info then we need to rate the data and became a library. Th
 letter a stand as monitor  
 letter b stand as rating  
 letter c stand as hyip  
+
+###Diagram
 ```
 Then diagram will be shown as below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure8.png)
+###Content Flow
+Then content flow can be tabulated as below:
+<table>
+  <thead>
+    <tr>
+      <th>flow</th>
+      <th>type</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+
 ##3rd Employment
 On the 2nd employment, _<a href="https://en.wikipedia.org/wiki/Monitoring" target="_blank">Monitoring</a>_ is process to gain the data, _Rating_ is process of sorting the data to become a library. 
 
@@ -192,7 +247,7 @@ Then content flow can be tabulated as below:
   </tbody>
 </table>
 
-
+Until this point the diagram for employment is completed.
 #What's Next
 Combining all together we have now 3 kind of Employments which are:  
  
