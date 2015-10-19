@@ -13,7 +13,7 @@
     </tr>
   </thead>
 </table>
-{:toc}
+
 #Employment
 
 In this section we will explain about _an employment_ in our concept. The generated symbiotic processes from _[[a spreading|[Mapping]-Spreading]]_ as a further step of factoring _[[a routine|[Mapping]-Routines]]_ by a parameter. 
