@@ -57,6 +57,7 @@ Let's take again the mapping of _[[a routine|[Mapping]-Routines]]_
 * An information of best food is what we need 
 * Looking is the process
 * Exit point  
+```
    
 This mapping is presented by the diagram below::
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)   
