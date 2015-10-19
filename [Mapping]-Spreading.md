@@ -220,7 +220,7 @@ See that one mapping is doing a process making _a library_ which is concern to c
 
 Another is doing a process of making more specific **_Query_** by examine to the one who is going to use it in related also to the parameter. 
 
-So in purpose of getting _a settlement_, both will be a different process but they work in related to the same parameter. So it will be a kind of _Symbiotic Processes_.
+So in purpose of getting _a settlement_, both will goes to different processes but they work in related to the same parameter. So it will be a kind of _Symbiotic Processes_.
 
 ##Merging
 As you may guess this merging is the process of matching both of the employments.
