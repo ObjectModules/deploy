@@ -50,7 +50,7 @@ Let's map about the process of getting the best food for you the same way as you
 * Exit point  
 ```
 
-##Assignment
+###Assignment
 This is the behavior of our mapping when a parameter is put inside the routines. Since there 2 process are generated that the behavior of our mapping will seeking another process to return to its routine. 
 
 We will explain further how these mapping are going to present the process of followings:
@@ -69,7 +69,7 @@ Then we need also the mapping to examine your self to get your data:
 * Examine is the process
 * Exit point  
 ```
-##Rules
+###Rules
 A process is considered as settled whenever it can be run or return to the entry point and processed normally without any adjustment or modification into the routines.
 
 For instance, let say you have eat the food, then you got that it is not suit to your need. Means it is not the best one for you. So you need to do the searching again at which the process back to the entry point again.   
