@@ -29,7 +29,7 @@ Mapping of _[[a routine|Mapping#routines]]_
 * Exit point  
 ```
 ###Parameter
-Mappings by _[[a parameter|Mapping#parameter]]_
+Mappings by _[[a parameter|Mapping#parameter]]_  
 Mapping of the change to your routine process:
 ```
 * Looking for your best food will become an entry point
