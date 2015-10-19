@@ -13,7 +13,6 @@
     </tr>
   </thead>
 </table>
-[TOC]
 #Spreading
 
 Here we will explain about _a spreading_ in our concept. A process of factoring _[[a routine|[Mapping]-Routines]]_ due to a parameter. Please be prepared your self as we are going deeper ongoing forward.
