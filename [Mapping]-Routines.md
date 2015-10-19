@@ -127,9 +127,9 @@ Take a look at the process. Eat is the process. Consider it as a routine process
 
 Of course you remain eat whatever the food you have on hand. Since you insist to get one so you will have to do something to get it.
 
-So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. In our concept another process means another mapping. In this project another mapping means another repository.
+So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. 
 
-In our case this will consist of _two (2) identical mapping_ of the process of eating a food which are:
+In our case this will consist of _two (2) identical_ processes of eating a food which are:
  
 * one mapping is remain eating _your original food_
 * another mapping is eating _your best food_
