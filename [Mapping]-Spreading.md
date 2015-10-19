@@ -62,9 +62,9 @@ Now left the question on how to combine them, right? Here are the rules:
 * It shall be a clearly sign that a new process is being carried out of the routines
 
 ###By Diagram
-To show the spreading by diagram simply make it a copy of the routines, put another word to replace the word of `info`, let's take the word of `world` then. 
+To show the spreading by diagram simply make it a copy of the routines, put another word to replace the word of `info`, let's take the word of `world` then. You will got 2 mapping now, one for your routines and another one for the new process. 
 
-You will got 2 mapping now, one for your routines and another one for the new process. Let's follow _[[the rules|[Mapping]-Spreading#rules]]_ one by one.  
+Let's follow _[[the rules|[Mapping]-Spreading#rules]]_ one by one. 
 
 So now you have two mapping with a different process. On fulfilling the rule on making a clear sign that a new process is being carried out of the routines then just put _a line_ in between.
 
