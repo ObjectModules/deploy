@@ -57,11 +57,11 @@ As we have explained, you can put whatever word you like to name a new process. 
 * Have one assigned main process and one assigned displaying process
 * The title of the process shall be different with the routines
   
-###By Diagram
-So simply make it a copy of the routines, put another word to replace the word of `info`, let's take the word of `world` then. So now you have two mapping with a different process. One for your routines and another one for the new process.
 Now left the question on how to combine them, right? Here are the rules:  
 * The new process shall be able to be carried out along with the routines
 * It shall be a clearly sign that a new process is being carried out of the routines
+###By Diagram
+To show the spreading by diagram simply make it a copy of the routines, put another word to replace the word of `info`, let's take the word of `world` then. So now you have two mapping with a different process. One for your routines and another one for the new process.
 
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
