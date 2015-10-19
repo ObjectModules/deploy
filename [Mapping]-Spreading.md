@@ -94,7 +94,9 @@ This diagram will present all the mappings by _[[a parameter|Mapping#parameter]]
 You can see that this spreading has _four (4) processes_, just exactly like when we count the number of elements inside _[[a routine|[Mapping]-Routines]]_.
 
 ###By Sequence
-See again the diagram of _Figure 5_. To describe this diagram in sequence, let's put this way:
+See _the separated line_ on the diagram of _Figure 5_. We are going to describe this diagram in sequence on what is going on the above and below the line. 
+
+Let's put this way:
 * Change the `info` as _yourself_, so `hyip info` will stand as _your computer_
 * Change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. 
 
@@ -107,7 +109,7 @@ Mapping of the change to your routine process when you search your best food:
 * Looking is the process
 * Exit point  
 ```
-See also _the separated line_ on _[[the diagram|[Mapping]-Spreading#by-diagram]]_. Now you can just consider a sense way when you search your best food as below:  
+Now you can just consider a sense way when you search your best food as below:  
 * Above the line: _You_ write<sup><i>1</i></sup> a query to _Google Search_, then _Google Search_ read<sup><i>2</i></sup> it
 * Below the line: _Google_ write<sup><i>3</i></sup> a result then _your computer_ read<sup><i>4</i></sup> and display it  
 
