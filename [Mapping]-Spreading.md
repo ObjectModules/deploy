@@ -88,6 +88,17 @@ So now you have two mapping with a different process. Then, on fulfilling the ru
 
 So when applying those steps all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
+
+This diagram will present the 1st mappings by _[[a parameter|Mapping#parameter]]_  
+
+Mapping of the change to your routine process:
+```
+* Looking for your best food will become an entry point
+* An information of best food is what we need 
+* Looking is the process
+* Exit point  
+```
+
 You can see that this spreading has _four (4) processes_, just exactly like when we count the number of elements inside _[[a routine|[Mapping]-Routines]]_.
 
 ###By Sequence
