@@ -131,7 +131,8 @@ Then the content flow for _a spreading_ can be tabulated as below:
 </table>
 
 * You send a query to Google Search, this query is read by Google
-* Google process your query and display the result on your computer  
+* Google process your query and display the result on your computer
+  
 #What's Next
 From that point you may see that a basic diagram will turn its behavior and seeking a way to return to its routine by calling another mappings which is in our concept we call them as _Employment_ and _Merging_. 
 ##Employment
