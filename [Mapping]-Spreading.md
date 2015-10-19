@@ -104,7 +104,7 @@ By following the diagram and the sequence number of the process as shown on the 
       <td scope="row">
         <ul>
           <li>task: <i>write</i><sup><i>3</i></li>
-          <li>way: <i>send</i></li>
+          <li>way: <strong><i>send</i></strong></li>
           <li>object: <strong><i>Result</i></sup></strong></li>
         </ul>
       </td>
@@ -117,7 +117,7 @@ By following the diagram and the sequence number of the process as shown on the 
       <td scope="row">
         <ul>
           <li>task: <strong><i>read</i></sup></strong><sup><i>4</i></li>
-          <li>way: <i>receive</i></li>
+          <li>way: <strong><i>receive</i></strong></li>
           <li>object: <strong><i>Result</i></strong></li>
         </ul>
       </td>
