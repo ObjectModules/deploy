@@ -82,7 +82,10 @@ See then _the separated line_ on _[[the diagram|[Mapping]-Spreading#by-diagram]]
 * Below the line: _Google_ process<sup><i>3</i></sup> your query and _your computer_ display<sup><i>4</i></sup> the result  
 
 ###By Tabulation
-Here we show you the flow of the processes for _a spreading_ by tabulation as below:
+Let's put back our repos on the sample above: 
+* Above the line: You send<sup><i>1</i></sup> `info` to `hyip world`, this query is read<sup><i>2</i></sup> by `world`
+* Below the line: `world` process<sup><i>3</i></sup> your query and _`hyip info` display<sup><i>4</i></sup> the result
+Now you can tabulate the flow of the processes for _a spreading_ by tabulation as below:
 <table>
   <thead>
     <tr>
