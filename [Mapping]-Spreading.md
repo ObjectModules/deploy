@@ -96,6 +96,7 @@ By following the diagram and the sequence number of the process as shown on the 
       <td scope="row">
         <ul>
           <li>task: <i>write</i><sup><i>1</i></sup></li>
+          <li>way: <i>send</i></li>
           <li>target: <i>Query</i></li>
         </ul>
       </td>
