@@ -72,59 +72,6 @@ So when applying this all together then the diagram will be shown as below:
 
 You can see that this mapping has four (4) processes, just exactly like when we count the number of elements inside a routines.
 
-##Content Flow
-<table>
-  <thead>
-    <tr>
-      <th>flow</th>
-      <th>type</th>
-      <th>info</th>
-      <th>flow</th>
-      <th>world</th>
-      <th>flow</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row">:arrow_right:</td>
-      <td scope="row">main</td>
-      <td scope="row">
-        <ul>
-          <li>Bird</li>
-          <li>Magic</li>
-        </ul>
-      </td>
-      <td scope="row">:arrow_lower_right:</td>
-      <td scope="row">
-        <ul>
-          <li>Bird</li>
-          <li>Magic</li>
-        </ul>
-      </td>
-      <td scope="row">:arrow_left:</td>
-    </tr>
-    <tr>
-      <td scope="row">:arrow_left:</td>
-      <td scope="row">hyip</td>
-      <td scope="row">
-        <ul>
-          <li>Bird</li>
-          <li>Magic</li>
-        </ul>
-      </td>
-      <td scope="row">:arrow_lower_left:</td>
-      <td scope="row">
-        <ul>
-          <li>Bird</li>
-          <li>Magic</li>
-        </ul>
-      </td>
-      <td scope="row">:arrow_heading_up:</td>
-    </tr>
-  </tbody>
-</table>
-
-
 Until this point the diagram for _a spreading_ is completed.
 
 #What's Next
