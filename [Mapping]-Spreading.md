@@ -66,7 +66,7 @@ To show the spreading by diagram simply make it a copy of the routines, put anot
 
 So now you have two mapping with a different process. One for your routines and another one for the new process.
 
-So when applying _[[the rules|[Mapping]-Spreading#Rules]]_ all together then the diagram will be shown as below:  
+So when applying _[[the rules|[Mapping]-Spreading#rules]]_ all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 You can see that this spreading has _four (4) processes_, just exactly like when we count the number of elements inside _[[a routine|[Mapping]-Routines]]_.
 
@@ -75,7 +75,7 @@ To describe this diagram in sequence, let's put this way:
 * Change the `info` as _your searching_, so `hyip info` will stand as _your computer_
 * Change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. 
 
-See then the line on the diagram. Now you can just consider a sense way below:  
+See then the line on _[[the diagram|[Mapping]-Spreading#by-diagram]]_. Now you can just consider a sense way below:  
 * Above line: You _send a query_<sup><i>1</i></sup> to Google Search, this query is _read_<sup><i>2</i></sup> by Google
 * Below line: Google _process_<sup><i>3</i></sup> your query and your computer _display_<sup><i>4</i></sup> the result
 
