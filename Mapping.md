@@ -20,7 +20,7 @@ Here we want you to have an open mind. If you're not enjoying it, don't do it.
 
 ##Routines
 
-As we have named this project as '_[[The HYIP Project|https://github.com/hyip]]_', we would like invite you to visit our [*blog page*](https://tophyipmonitor.wordpress.com/hyip-world/) that describe in general of what we want to achieve.
+As we have named this project as _[['The HYIP Project'|https://github.com/hyip]]_, we would like invite you to visit our [*blog page*](https://tophyipmonitor.wordpress.com/hyip-world/) that describe in general of what we want to achieve.
 
 To achieve on what we have planned there shall be a process involved. Every process from an input to became the output will need an entry and exit points
 
