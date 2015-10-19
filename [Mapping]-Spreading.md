@@ -56,7 +56,8 @@ We are going to explain further what going on with a basic diagram when we are p
 Based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned main process and one assigned displaying process
 * The title of the process shall be different with the routines
-  
+
+##Diagram  
 Let's take again the mapping of the routines    
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)   
 As we have explained, on the basic concept of mapping, you can put whatever word you like to name a new process.
@@ -73,6 +74,59 @@ So when applying this all together then the diagram will be shown as below:
 You can see that this mapping has four (4) processes, just exactly like when we count the number of elements inside a routines.
 
 Until this point the diagram for _a spreading_ is completed.
+
+##Content Flow
+Then the content flow for the 1st Employment can be tabulated as below:
+<table>
+  <thead>
+    <tr>
+      <th>flow</th>
+      <th>type</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>Bird</li>
+          <li>Magic</li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
 
 #What's Next
 From that point you may see that a basic diagram will turn its behavior and seeking a way to return to its routine by calling another mappings which is in our concept we call them as _Employment_ and _Merging_. 
