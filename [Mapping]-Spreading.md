@@ -70,9 +70,9 @@ Now left the question on how to combine them, right? Here are the rules:
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 
-To describe this diagram just consider a sense as the way below:  
-* You send a query to Google Search, this query is read by Google
-* Google process your query and display the result on your computer
+To describe this diagram, let's change _hyip world_ to _Google Search_, so the _world_ is _Google_ itself,  just consider a sense way below:  
+* Above line: You send a query to Google Search, this query is send to Google
+* Below line: Google process your query and display the result on your computer
 
 
 You can see that this mapping has four (4) processes, just exactly like when we count the number of elements inside a routines.
