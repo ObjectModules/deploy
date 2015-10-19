@@ -77,7 +77,7 @@ For instance, let say you have eat the food, then you got that it is not suit to
 
 
 ##1st Employment
-Let put again the diagram we have got on _[[previous section|[Mapping]-Spreading]]_  
+Let's put again the diagram we have got on _[[previous section|[Mapping]-Spreading]]_  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png) 
 
 As you may see, every process will be a different. All is unique.  
