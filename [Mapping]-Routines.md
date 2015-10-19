@@ -20,7 +20,7 @@ We have explained the [[background of our concept|Mapping]]. Now we will explain
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping]]._
 ##Basic
 Let's put again all of _[[the mappings|Mapping#our-concept]]_ here:
-
+###Routine
 Mapping of a routine
 ```  
 * Hungry will become an entry point
@@ -28,7 +28,7 @@ Mapping of a routine
 * Eat is the process
 * Exit point  
 ```
-
+###Parameter
 Mapping of the change to your routine process:
 ```
 * Looking for your best food will become an entry point
