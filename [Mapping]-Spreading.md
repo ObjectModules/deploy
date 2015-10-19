@@ -69,7 +69,11 @@ Let's take again the mapping of _[[a routine|[Mapping]-Routines]]_:
 * Eat is the process
 * Exit point  
 ```
-As we have explained, whenever you put a parameter into a routine then there shall be another new process. Here you can put whatever word you like to name a new process. However, based on the concept of mapping then a new process shall follow these basic rules:
+As we have explained, whenever you put a parameter into _a routine_ then it will call a process of factoring the routine in related to the parameter. We call this process as _a spreading_.
+
+Due to the spreading then the mapping of _a routine_ will change it behaviour to become _two (2) sets_ of mappings which are not identical.
+ 
+Here you can put whatever word you like to name the new mapping. However, based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned main process and one assigned displaying process
 * The title of the process shall be different with the routines
   
