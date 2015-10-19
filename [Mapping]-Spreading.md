@@ -64,7 +64,7 @@ Now left the question on how to combine them, right? Here are the rules:
 ###By Diagram
 To show the spreading by diagram simply make it a copy of the routines, put another word to replace the word of `info`, let's take the word of `world` then. So now you have two mapping with a different process. One for your routines and another one for the new process.
 
-So when applying this all together then the diagram will be shown as below:  
+So when applying the rules all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 You can see that this spreading has _four (4) processes_, just exactly like when we count the number of elements inside _[[a routine|[Mapping]-Routines]]_.
 
