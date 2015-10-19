@@ -143,9 +143,9 @@ You may also identify the factors using _<a href="https://en.wikipedia.org/wiki/
 Here is the diagram is look like:
 
 ![Fishbone Diagram](https://tophyipmonitor.files.wordpress.com/2015/10/fishbone.png)  
-One thing you shall note about spreading is that our concept is work only with a new unique process. Whenever it found the same identical process than the one which is already take a place will do its own spreading and open a new place for the said process. 
+One thing you shall note about _[[a spreading|[Mapping]-Spreading]]_ is that our concept is work only with a new unique process. Whenever it found the same identical process than the one which is already take a place will do its own spreading and open a new place for the said process. 
 
-On the next step the spreading will take the comparison process which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behavior as a unique process. 
+On the next step the spreading will take the _[[a comparison|[Mapping]-Comparison]]_ process which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behavior as a unique process. 
 
 Therefore the concept will allow an unlimited number of spreading. You can see that you may go into a wider or a global problem solution whatever you want. Get them all into small pieces that you or your team can cope with. Settle them one by one.
 
@@ -153,7 +153,7 @@ Once it is going to be settled then it will return automatically to the original
  
 ##Settlement
 
-See the mapping of the routines, you may count that number of elements is also _four (4)_, same as the number of the required mapping when a factor is spreaded. 
+See the mapping of the routines, you may count that number of elements is also _four (4)_, same as the number of the required mapping when a factor is spread. 
 
 In our concept, when four (4) mappings is going to return to its original of four (4) elements, we call it as _a settlement_.  
 
@@ -242,7 +242,7 @@ Here you almost come to the end story behind _[[our concept|Mapping#our-concept]
 
 You may agree that this concept is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to explain on how we make an _[[overall mapping|https://github.com/hyip/info/wiki/maps]]_ to manage our repositories of the project follow to the concept.
 
-You can find our explanation about this concept in more detail. We are going also to explain on how we manage a different assignment on our section, how we assign each of them to hold that unique task, and finally how they are getting combined on achieving a _[[settlement|Mapping#settlement]]_.
+You can find our explanation about this concept in more detail. We are going also to explain on how we manage a different assignment on our section, how we assign each of them to hold that unique task, and finally how they are getting combined on achieving _[[a settlement|Mapping#settlement]]_.
 
 You will also find later that we are going to test our concept in such a way that you can find easily whether it is work on _[[the real world|http://hyip.world/]]_ or not.  
 
