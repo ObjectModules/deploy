@@ -83,12 +83,6 @@ Let put again the diagram we have got on _[[previous section|[Mapping]-Spreading
 As you may see, every process will be a different. All is unique.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)  
 
-So in line to what he have explained about _[[isogram|Mapping#nonpattern-word-isogram]]_ here you can see the breakdown of the assigned letters as below: 
-```js
-letter a stand as info  
-letter b stand as world  
-letter c stand as hyip  
-```
 ###Content Flow
 Then the content flow for the 1st Employment can be tabulated as below:
 <table>
@@ -143,6 +137,12 @@ Then the content flow for the 1st Employment can be tabulated as below:
 </table>
 
 ##2nd Employment
+So in line to what he have explained about _[[isogram|Mapping#nonpattern-word-isogram]]_ here you can see the breakdown of the assigned letters as below: 
+```js
+letter a stand as info  
+letter b stand as world  
+letter c stand as hyip  
+```
 So we can now put the mapping schema into a standardization as shown below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure7.png)  
 To became a valuable info then we need to rate the data and became a library. The info it self is got from searching and investigation which in the business is known as monitoring or in a short: monitor.  
