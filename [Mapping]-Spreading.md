@@ -17,7 +17,7 @@
 
 Here we will explain about _a spreading_ in our concept. A process of factoring _[[a routine|[Mapping]-Routines]]_ due to a parameter. Please be prepared your self as we are going deeper ongoing forward.
 
-_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Routines]]._
+_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Routines]]_.
 ##Basic
 Let's put again all of _[[the mappings|Mapping#our-concept]]_ here:
 
@@ -130,7 +130,7 @@ Then the content flow for _a spreading_ can be tabulated as below:
   </tbody>
 </table>
 
-You can see that this spreading has four (4) processes, just exactly like when we count the number of elements inside a routines.
+You can see that this spreading has _four (4) processes_, just exactly like when we count the number of elements inside _[[a routine|[Mapping]-Routines]]_.
 
 Until this point the diagram for _a spreading_ is completed.
   
