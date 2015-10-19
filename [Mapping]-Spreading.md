@@ -74,16 +74,16 @@ You can see that this spreading has _four (4) processes_, just exactly like when
 
 ###By Sequence
 To describe this diagram in sequence, let's put this way:
-* Change the `info` as _your searching_, so `hyip info` will stand as _your computer_
+* Change the `info` as _yourself_, so `hyip info` will stand as _your computer_
 * Change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. 
 
 See then _the separated line_ on _[[the diagram|[Mapping]-Spreading#by-diagram]]_. Now you can just consider a sense way below:  
-* Above the line: You send<sup><i>1</i></sup> _a query_ to _Google Search_, then _Google Search_ read<sup><i>2</i></sup> it
+* Above the line: _You_ send<sup><i>1</i></sup> a query to _Google Search_, then _Google Search_ read<sup><i>2</i></sup> it
 * Below the line: _Google_ process<sup><i>3</i></sup> your query and _your computer_ display<sup><i>4</i></sup> the result  
 
 ###By Tabulation
 Let's put back our repos on the sample above: 
-* Above the line: You send<sup><i>1</i></sup> `info` to `hyip world`, then `hyip world` read<sup><i>2</i></sup> it
+* Above the line: `info` send<sup><i>1</i></sup> a query to `hyip world`, then `hyip world` read<sup><i>2</i></sup> it
 * Below the line: `world` process<sup><i>3</i></sup> your query and `hyip info` display<sup><i>4</i></sup> the result
 
 Now you can tabulate the flow of the processes for _a spreading_ by tabulation as below:
