@@ -95,14 +95,14 @@ Then the content flow for the 1st Employment can be tabulated as below:
       <td scope="row">main</td>
       <td scope="row">
         <ul>
-          <li>method: <i>write</i></li>
+          <li>task: <i>write</i></li>
           <li>target: <code><i>Query</i></code></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_right:</td>
       <td scope="row">
         <ul>
-          <li>method: <i>write</i></li>
+          <li>task: <i>write</i></li>
           <li>target: <code><strong><i>Library</i></strong></code></li>
         </ul>
       </td>
@@ -114,14 +114,14 @@ Then the content flow for the 1st Employment can be tabulated as below:
       <td scope="row">hyip</td>
       <td scope="row">
         <ul>
-          <li>method: <strong><i>read</i></strong></li>
+          <li>task: <strong><i>read</i></strong></li>
           <li>object: <code><strong><i>Library</i></strong></code></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_left:</td>
       <td scope="row">
         <ul>
-          <li>method: <strong><i>read</i></strong></li>
+          <li>task: <strong><i>read</i></strong></li>
           <li>object: <code><i>Query</i></code></li>
         </ul>
       </td>
