@@ -50,14 +50,13 @@ Let's map about the process of getting the best food for you the same way as you
 * Exit point  
 ```
 
-##Rules
+##Diagram  
 We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
 
 Based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned main process and one assigned displaying process
 * The title of the process shall be different with the routines
 
-##Diagram  
 Let's take again the mapping of the routines    
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)   
 As we have explained, on the basic concept of mapping, you can put whatever word you like to name a new process.
