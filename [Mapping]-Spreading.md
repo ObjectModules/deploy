@@ -73,7 +73,7 @@ To describe this diagram in sequence, let's put this way:
 * Change the `info` as _your searching_, so `hyip info` will stand as _your computer_
 * Change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. 
 
-So then just consider a sense way below:  
+Then you can just consider a sense way below:  
 * Above line: You _send a query_<sup><i>1</i></sup> to Google Search, this query is _read_<sup><i>2</i></sup> by Google
 * Below line: Google _process_<sup><i>3</i></sup> your query and your computer _display_<sup><i>4</i></sup> the result
 
