@@ -79,8 +79,8 @@ Then the content flow for the 1st Employment can be tabulated as below:
 <table>
   <thead>
     <tr>
-      <th>flow</th>
       <th>type</th>
+      <th>flow</th>
       <th>info</th>
       <th>flow</th>
       <th>world</th>
@@ -89,8 +89,8 @@ Then the content flow for the 1st Employment can be tabulated as below:
   </thead>
   <tbody>
     <tr>
-      <td scope="row">:arrow_right:</td>
       <td scope="row">query</td>
+      <td scope="row">:arrow_right:</td>
       <td scope="row">
         <ul>
           <li>Write</li>
@@ -107,8 +107,8 @@ Then the content flow for the 1st Employment can be tabulated as below:
       <td scope="row">:arrow_left:</td>
     </tr>
     <tr>
-      <td scope="row">:arrow_left:</td>
       <td scope="row">result</td>
+      <td scope="row">:arrow_left:</td>
       <td scope="row">
         <ul>
           <li>Read</li>
