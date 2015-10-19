@@ -88,6 +88,7 @@ Then the content flow for the 1st Employment can be tabulated as below:
 <table>
   <thead>
     <tr>
+      <th>type</th>
       <th>flow</th>
       <th>repo</th>
       <th>info</th>
@@ -98,37 +99,39 @@ Then the content flow for the 1st Employment can be tabulated as below:
   </thead>
   <tbody>
     <tr>
+      <td scope="row">query</td>
       <td scope="row">:arrow_right:</td>
       <td scope="row">main</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>task: <i>write</i></li>
+          <li>target: <i>Query</i></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_right:</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>task: <i>write</i></li>
+          <li>target: <strong><i>Library</i></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_left:</td>
     </tr>
     <tr>
+      <td scope="row">result</td>
       <td scope="row">:arrow_left:</td>
       <td scope="row">hyip</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>task: <strong><i>read</i></strong></li>
+          <li>object: <strong><i>Library</i></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_left:</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>task: <strong><i>read</i></strong></li>
+          <li>object: <i>Query</i></li>
         </ul>
       </td>
       <td scope="row">:arrow_heading_up:</td>
@@ -160,47 +163,50 @@ Then the content flow for the 2nd Employment can be tabulated as below:
 <table>
   <thead>
     <tr>
+      <th>type</th>
       <th>flow</th>
       <th>repo</th>
-      <th>monitor</th>
+      <th>info</th>
       <th>flow</th>
-      <th>rating</th>
+      <th>world</th>
       <th>flow</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td scope="row">query</td>
       <td scope="row">:arrow_right:</td>
       <td scope="row">main</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>task: <i>write</i></li>
+          <li>target: <i>Query</i></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_right:</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>task: <i>write</i></li>
+          <li>target: <strong><i>Library</i></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_left:</td>
     </tr>
     <tr>
+      <td scope="row">result</td>
       <td scope="row">:arrow_left:</td>
       <td scope="row">hyip</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>task: <strong><i>read</i></strong></li>
+          <li>object: <strong><i>Library</i></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_left:</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>task: <strong><i>read</i></strong></li>
+          <li>object: <i>Query</i></li>
         </ul>
       </td>
       <td scope="row">:arrow_heading_up:</td>
@@ -251,47 +257,50 @@ Then the content flow for the 3rd Employment can be tabulated as below:
 <table>
   <thead>
     <tr>
+      <th>type</th>
       <th>flow</th>
       <th>repo</th>
-      <th>script</th>
+      <th>info</th>
       <th>flow</th>
-      <th>team</th>
+      <th>world</th>
       <th>flow</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td scope="row">query</td>
       <td scope="row">:arrow_right:</td>
       <td scope="row">main</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>task: <i>write</i></li>
+          <li>target: <i>Query</i></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_right:</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>task: <i>write</i></li>
+          <li>target: <strong><i>Library</i></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_left:</td>
     </tr>
     <tr>
+      <td scope="row">result</td>
       <td scope="row">:arrow_left:</td>
       <td scope="row">hyip</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>task: <strong><i>read</i></strong></li>
+          <li>object: <strong><i>Library</i></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_left:</td>
       <td scope="row">
         <ul>
-          <li>Bird</li>
-          <li>Magic</li>
+          <li>task: <strong><i>read</i></strong></li>
+          <li>object: <i>Query</i></li>
         </ul>
       </td>
       <td scope="row">:arrow_heading_up:</td>
