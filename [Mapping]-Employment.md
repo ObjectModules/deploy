@@ -84,7 +84,7 @@ As you may see, every process will be a different. All is unique.
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)  
 
 ###Content Flow
-Then the content flow for the 1st Employment can be tabulated as below:
+Then the content flow for the _1st Employment_ can be tabulated as below:
 <table>
   <thead>
     <tr>
@@ -159,16 +159,16 @@ letter c stand as hyip
 Then diagram will be shown as below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure8.png)
 ###Content Flow
-Then the content flow for the 2nd Employment can be tabulated as below:
+Then the content flow for the _2nd Employment_ can be tabulated as below:
 <table>
   <thead>
     <tr>
       <th>type</th>
       <th>flow</th>
       <th>repo</th>
-      <th>info</th>
+      <th>monitor</th>
       <th>flow</th>
-      <th>world</th>
+      <th>rating</th>
       <th>flow</th>
     </tr>
   </thead>
