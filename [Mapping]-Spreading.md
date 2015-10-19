@@ -76,7 +76,7 @@ Until this point the diagram for _a spreading_ is completed.
 
 ##Content Flow
 * You send a query to Google Search, this query is read by Google
-* Google process your query and display the result on your computer
+* Google process your query and display the result on your computer  
 Then the content flow for _a spreading_ can be tabulated as below:
 <table>
   <thead>
