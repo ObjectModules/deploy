@@ -75,7 +75,7 @@ To describe this diagram, let's change the `info` as _your searching_, so `hyip 
 * Below line: Google _process_<sup><i>3</i></sup> your query and your computer _display_<sup><i>4</i></sup> the result
 
 ###Flow Diagram
-Then the content flow for _a spreading_ can be tabulated as below:
+By following the diagram and the sequence number of the process as shown on the sample above then the flow of the processes for _a spreading_ can be tabulated as below:
 <table>
   <thead>
     <tr>
