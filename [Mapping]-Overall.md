@@ -19,7 +19,17 @@ This page is the last page of our _[[Mapping Concept|Mapping]]_. Here we are goi
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Comparison]]._
 
 ##Basic
-Let's put again all of _[[the mappings|Mapping#our-concept]]_ here:
+Let's put again all of the mappings here:
+###Routine
+Mapping of _[[a routine|Mapping#routines]]_
+```  
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+###Parameter
+Mappings by _[[a parameter|Mapping#parameter]]_  
 
 Mapping of the change to your routine process:
 ```
