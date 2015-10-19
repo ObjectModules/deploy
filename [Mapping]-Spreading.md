@@ -70,6 +70,11 @@ Now left the question on how to combine them, right? Here are the rules:
 So when applying this all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 
+To describe this diagram just consider a sense as the way below:  
+* You send a query to Google Search, this query is read by Google
+* Google process your query and display the result on your computer
+
+
 You can see that this mapping has four (4) processes, just exactly like when we count the number of elements inside a routines.
 
 Until this point the diagram for _a spreading_ is completed.
@@ -129,9 +134,6 @@ Then the content flow for _a spreading_ can be tabulated as below:
     </tr>
   </tbody>
 </table>
-
-* You send a query to Google Search, this query is read by Google
-* Google process your query and display the result on your computer
   
 #What's Next
 From that point you may see that a basic diagram will turn its behavior and seeking a way to return to its routine by calling another mappings which is in our concept we call them as _Employment_ and _Merging_. 
