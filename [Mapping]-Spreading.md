@@ -69,7 +69,7 @@ Let's take again the mapping of _[[a routine|[Mapping]-Routines]]_:
 * Eat is the process
 * Exit point  
 ```
-As we have explained, you can put whatever word you like to name a new process. However, Based on the concept of mapping then a new process shall follow these basic rules:
+As we have explained, whenever you put a parameter into a routine then there shall be another new process. Here you can put whatever word you like to name a new process. However, based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned main process and one assigned displaying process
 * The title of the process shall be different with the routines
   
