@@ -48,9 +48,7 @@ Let's map about the process of getting the best food for you the same way as you
 * A best food on library for you is what we need 
 * Matching the data is the process
 * Exit point  
-```
-
-##Diagram  
+``` 
 We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
 ###Rules
 Based on the concept of mapping then a new process shall follow these basic rules:
@@ -62,7 +60,7 @@ Let's take again the mapping of the routines
 As we have explained, on the basic concept of mapping, you can put whatever word you like to name a new process.
    
 So simply make it a copy of the routines, put another word to replace the word of `info`, let's take the word of `world` then. So now you have two mapping with a different process. One for your routines and another one for the new process.
-###Combine
+###By Diagram
 Now left the question on how to combine them, right? Here are the rules:  
 * The new process shall be able to be carried out along with the routines
 * It shall be a clearly sign that a new process is being carried out of the routines
@@ -71,12 +69,12 @@ So when applying this all together then the diagram will be shown as below:
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 You can see that this spreading has _four (4) processes_, just exactly like when we count the number of elements inside _[[a routine|[Mapping]-Routines]]_.
 
-###Details
+###By Sequence
 To describe this diagram, let's change the `info` as _your searching_, so `hyip info` will stand as _your computer_, then change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. So just consider a sense way below:  
 * Above line: You _send a query_<sup><i>1</i></sup> to Google Search, this query is _read_<sup><i>2</i></sup> by Google
 * Below line: Google _process_<sup><i>3</i></sup> your query and your computer _display_<sup><i>4</i></sup> the result
 
-###Flow Diagram
+###By Tabulation
 By following the diagram and the sequence number of the process as shown on the sample above then the flow of the processes for _a spreading_ can be tabulated as below:
 <table>
   <thead>
