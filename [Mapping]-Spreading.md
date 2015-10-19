@@ -114,9 +114,11 @@ Now you can just consider a sense way when you search your best food as below:
 * Below the line: _Google_ write<sup><i>3</i></sup> a result then _your computer_ read<sup><i>4</i></sup> and display it  
 
 ###By Tabulation
-We are going also to describe the diagram in tabulation. Let's put this way:
+We are going also to describe the diagram in tabulation. 
 
-Take the copy of of the sample of the sequence when you search your best food. Let's put back the name of our repos on the sample. You will get it as the following:
+Let's put it this way:
+
+Take the copy of of the sample of the sequence when you search your best food. Put back the name of our repos on the said sample. You will get it then as the following:
 * Above the line: `info` write<sup><i>1</i></sup> a query to `hyip world`, then `hyip world` read<sup><i>2</i></sup> it
 * Below the line: `world` write<sup><i>3</i></sup> a result then `hyip info` read<sup><i>4</i></sup> and display it
 
