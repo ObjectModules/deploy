@@ -97,14 +97,15 @@ By following the diagram and the sequence number of the process as shown on the 
         <ul>
           <li>task: <i>write</i><sup><i>1</i></sup></li>
           <li>way: <i>send</i></li>
-          <li>target: <i>Query</i></li>
+          <li>object: <i>Query</i></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_right:</td>
       <td scope="row">
         <ul>
           <li>task: <i>write</i><sup><i>3</i></li>
-          <li>target: <strong><i>Result</i></sup></strong></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Result</i></sup></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_left:</td>
@@ -116,6 +117,7 @@ By following the diagram and the sequence number of the process as shown on the 
       <td scope="row">
         <ul>
           <li>task: <strong><i>read</i></sup></strong><sup><i>4</i></li>
+          <li>way: <i>receive</i></li>
           <li>object: <strong><i>Result</i></strong></li>
         </ul>
       </td>
@@ -123,6 +125,7 @@ By following the diagram and the sequence number of the process as shown on the 
       <td scope="row">
         <ul>
           <li>task: <strong><i>read</i></sup></strong><sup><i>2</i></li>
+          <li>way: <i>receive</i></li>
           <li>object: <i>Query</i></li>
         </ul>
       </td>
