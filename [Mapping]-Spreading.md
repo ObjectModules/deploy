@@ -90,7 +90,7 @@ Then the content flow for _a spreading_ can be tabulated as below:
   </thead>
   <tbody>
     <tr>
-      <td scope="row">query</td>
+      <td scope="row"><i>query</i></td>
       <td scope="row">:arrow_right:</td>
       <td scope="row">main</td>
       <td scope="row">
@@ -109,7 +109,7 @@ Then the content flow for _a spreading_ can be tabulated as below:
       <td scope="row">:arrow_left:</td>
     </tr>
     <tr>
-      <td scope="row">result</td>
+      <td scope="row"><i>result</i></td>
       <td scope="row">:arrow_left:</td>
       <td scope="row">hyip</td>
       <td scope="row">
