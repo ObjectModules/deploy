@@ -126,7 +126,7 @@ Then the content flow for _a spreading_ can be tabulated as below:
       <td scope="row">:arrow_lower_left:</td>
       <td scope="row">
         <ul>
-          <li>task: <strong><i>read</i></sup></strong><sup><i>3</i></li>
+          <li>task: <strong><i>read</i></sup></strong><sup><i>2</i></li>
           <li>object: <i>Query</i></li>
         </ul>
       </td>
