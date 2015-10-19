@@ -71,8 +71,8 @@ So when applying this all together then the diagram will be shown as below:
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)
 
 To describe this diagram, let's change the `info` as _your searching_, so `hyip info` will stand as _your computer_, then change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. So just consider a sense way below:  
-* Above line: You _send a query_<sup><i>1</i></sup> to Google Search, this query is _read_ by Google
-* Below line: Google _process_ your query and your computer _display_ the result
+* Above line: You _send a query_<sup><i>1</i></sup> to Google Search, this query is _read_<sup><i>2</i></sup> by Google
+* Below line: Google _process_<sup><i>3</i></sup> your query and your computer _display_<sup><i>4</i></sup> the result
 
 
 You can see that this mapping has four (4) processes, just exactly like when we count the number of elements inside a routines.
@@ -100,7 +100,7 @@ Then the content flow for _a spreading_ can be tabulated as below:
       <td scope="row">main</td>
       <td scope="row">
         <ul>
-          <li>task: <i>write</i></li>
+          <li>task: <i>write</i><sup><i>1</i></sup></li>
           <li>target: <i>Query</i></li>
         </ul>
       </td>
@@ -108,7 +108,7 @@ Then the content flow for _a spreading_ can be tabulated as below:
       <td scope="row">
         <ul>
           <li>task: <i>write</i></li>
-          <li>target: <strong><i>Library</i></strong></li>
+          <li>target: <strong><i>Result</i><sup><i>3</i></sup></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_left:</td>
@@ -119,14 +119,14 @@ Then the content flow for _a spreading_ can be tabulated as below:
       <td scope="row">hyip</td>
       <td scope="row">
         <ul>
-          <li>task: <strong><i>read</i></strong></li>
-          <li>object: <strong><i>Library</i></strong></li>
+          <li>task: <strong><i>read</i><sup><i>4</i></sup></strong></li>
+          <li>object: <strong><i>Result</i></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_left:</td>
       <td scope="row">
         <ul>
-          <li>task: <strong><i>read</i></strong></li>
+          <li>task: <strong><i>read</i><sup><i>3</i></sup></strong></li>
           <li>object: <i>Query</i></li>
         </ul>
       </td>
