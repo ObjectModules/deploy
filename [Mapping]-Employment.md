@@ -298,7 +298,7 @@ Then the content flow for the 3rd Employment can be tabulated as below:
   </tbody>
 </table>
 
-Until this point the diagram for employment is completed.
+Until this point our section for the employment is completed.
 #What's Next
 Combining all together we have now 3 kind of Employments which are:  
  
