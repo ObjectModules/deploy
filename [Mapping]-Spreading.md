@@ -196,9 +196,9 @@ So whenever that the result is meeting the requirement of _a query_ then process
 When the `world` and `hyip world` are no more carry out then all of the process is considered settled and will return to _[[its routine|[Mapping]-Routines]]_.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png) 
 
-However when which `a settlement` is not achieved then the spreading will continue to another process which in our concept we call them as _Employment_ and _Merging_. 
+However when `a settlement` is not going to be achieved then the spreading will continue to another process which in our concept we call them as _Employment_ and _Merging_. 
 ##Employment
-Employment is a mapping built automatically whenever a parameter is assigned to a routines. In our concept there will be two kind of employments will be called. Each of Those 2 kind of employments is present the following:
+In our concept there will be two kind of employments will be called. Each of Those 2 kind of employments is present the following:
 
 Mapping of the process to collect the library in related with the food:
 ```
