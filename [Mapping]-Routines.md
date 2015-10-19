@@ -113,7 +113,8 @@ We are going to explain further what going on with a basic diagram when we are p
 
 ##Behaviour
 Now we are going to explain the behaviour of a mapping when a parameter is putting inside.
-Let's take mapping of _Figure 4_ as the routines one.  
+
+Let's take mapping of _Figure 4_ as _[[a routine|Mapping#routines]]_.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 Let put again the mapping here.
 ```  
