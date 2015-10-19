@@ -200,10 +200,9 @@ However when `a settlement` is not going to be achieved then the spreading will 
 ##Employment
 See again the tabulation of a spreading. We have put the potential factors in bold. They are the Query and Result.
 
-Therefore in our concept there will be two kind of employments will be called. One to settle the Query and another one for the Result. 
+Therefore in our concept there will be two kind of employments will be called. One to settle the Query and another one for the Result. From what we have explained above you may see that each employment will represent the 2nd and the 3rd mapping of a routines by a parameter.
 
-From what we have explained above the employments for the Result is represent the mapping below:
-
+The employments for the Result is represent the mapping below:  
 Mapping of the process to collect the library in related with the food:
 ```
 * Food will become an entry point
@@ -211,8 +210,7 @@ Mapping of the process to collect the library in related with the food:
 * Collect is the process
 * Exit point  
 ```
-Meanwhile the employments for the Query is represent the mapping below:
-
+The employments for the Query is represent the mapping below:  
 Then we need also the mapping to examine yourself to get your data:
 ```
 * You will become an entry point
