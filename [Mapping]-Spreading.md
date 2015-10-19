@@ -107,9 +107,7 @@ Mapping of the change to your routine process when you search your best food:
 * Looking is the process
 * Exit point  
 ```
-See also _the separated line_ on _[[the diagram|[Mapping]-Spreading#by-diagram]]_. 
-
-Now you can just consider a sense way when you search your best food as below:  
+See also _the separated line_ on _[[the diagram|[Mapping]-Spreading#by-diagram]]_. Now you can just consider a sense way when you search your best food as below:  
 * Above the line: _You_ write<sup><i>1</i></sup> a query to _Google Search_, then _Google Search_ read<sup><i>2</i></sup> it
 * Below the line: _Google_ write<sup><i>3</i></sup> a result then _your computer_ read<sup><i>4</i></sup> and display it  
 
