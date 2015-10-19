@@ -79,48 +79,48 @@ In our concept we call this kind of mapping as an _employment._ The method of ge
     <tr>
       <th>flow</th>
       <th>type</th>
-      <th>main</th>
+      <th>info</th>
       <th>flow</th>
-      <th>hyip</th>
+      <th>world</th>
       <th>flow</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td scope="row">:arrow_right:</td>
-      <td scope="row">repo</td>
+      <td scope="row">main</td>
       <td scope="row">
         <ul>
           <li>Bird</li>
           <li>Magic</li>
         </ul>
       </td>
-      <td scope="row">:arrow_right:</td>
+      <td scope="row">:arrow_lower_right:</td>
       <td scope="row">
         <ul>
           <li>Bird</li>
           <li>Magic</li>
         </ul>
       </td>
-      <td scope="row">:arrow_heading_down:</td>
+      <td scope="row">:arrow_left:</td>
     </tr>
     <tr>
       <td scope="row">:arrow_left:</td>
-      <td scope="row">wiki</td>
+      <td scope="row">hyip</td>
       <td scope="row">
         <ul>
           <li>Bird</li>
           <li>Magic</li>
         </ul>
       </td>
-      <td scope="row">:arrow_left:</td>
+      <td scope="row">:arrow_lower_left:</td>
       <td scope="row">
         <ul>
           <li>Bird</li>
           <li>Magic</li>
         </ul>
       </td>
-      <td scope="row">:arrow_left:</td>
+      <td scope="row">:arrow_heading_up:</td>
     </tr>
   </tbody>
 </table>
