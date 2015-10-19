@@ -62,8 +62,6 @@ Let's map about the process of getting the best food for you the same way as you
 We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
 ###Rules
    
-Let's take again the diagram for _[[a routine|[Mapping]-Routines]]_:
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)   
 Let's take again the mapping of _[[a routine|[Mapping]-Routines]]_:    
 ```  
 * Hungry will become an entry point
@@ -80,6 +78,8 @@ Now left the question on how to combine them, right? Here are the rules:
 * It shall be a clearly sign that a new process is being carried out of the routines
 
 ###By Diagram
+Let's take again the diagram for _[[a routine|[Mapping]-Routines]]_:
+![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)   
 To show the spreading by diagram simply make it a copy of the routines, put another word to replace the word of `info`, let's take the word of `world` then. You will got 2 mapping now, one for your routines and another one for the new process. 
 
 Let's follow _[[the rules|[Mapping]-Spreading#rules]]_ one by one. 
