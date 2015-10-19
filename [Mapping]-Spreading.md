@@ -202,16 +202,14 @@ See again the tabulation of a spreading. We have put the potential factors in bo
 
 Therefore in our concept there will be two kind of employments will be called. One to settle the Query and another one for the Result. From what we have explained above you may see that each employment will represent the 2nd and the 3rd mapping of a routines by a parameter.
 
-The employments for the Result is represent the mapping below:  
-Mapping of the process to collect the library in related with the food:
+The employments for the Result is represent the 2nd mapping:  
 ```
 * Food will become an entry point
 * Library is what we need 
 * Collect is the process
 * Exit point  
 ```
-The employments for the Query is represent the mapping below:  
-Then we need also the mapping to examine yourself to get your data:
+The employments for the Query is represent the 3rd mapping:  
 ```
 * You will become an entry point
 * Your data is what we need 
