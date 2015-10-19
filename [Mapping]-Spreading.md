@@ -96,7 +96,7 @@ You can see that this spreading has _four (4) processes_, just exactly like when
 ###By Sequence
 See _the separated line_ on the diagram of _Figure 5_. We are going to describe this diagram in sequence on what is going on the above and below the line. 
 
-Let's put this way:
+Take a copy of the figure then. Let's put this way:
 * Change the `info` as _yourself_, so `hyip info` will stand as _your computer_
 * Change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. 
 
