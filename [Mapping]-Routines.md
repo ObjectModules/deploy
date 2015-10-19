@@ -21,6 +21,14 @@ _Here we do our best to explain as you might get confused. However, in order to 
 ##Basic
 Let's put again all of _[[the mappings|Mapping#our-concept]]_ here:
 
+Mapping of a routine
+```  
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+
 Mapping of the change to your routine process:
 ```
 * Looking for your best food will become an entry point
