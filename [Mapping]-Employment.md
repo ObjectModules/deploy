@@ -253,16 +253,16 @@ letter c stand as hyip
 Then diagram will be shown as below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure9.png)
 ###Content Flow
-Then the content flow for the 3rd Employment can be tabulated as below:
+Then the content flow for the _3rd Employment_ can be tabulated as below:
 <table>
   <thead>
     <tr>
       <th>type</th>
       <th>flow</th>
       <th>repo</th>
-      <th>info</th>
+      <th>script</th>
       <th>flow</th>
-      <th>world</th>
+      <th>team</th>
       <th>flow</th>
     </tr>
   </thead>
