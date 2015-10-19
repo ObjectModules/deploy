@@ -103,7 +103,7 @@ Then the content flow for the 1st Employment can be tabulated as below:
       <td scope="row">
         <ul>
           <li>method: <i>write</i></li>
-          <li>target: Library</li>
+          <li>target: <code><strong><i>Library</i></strong></code></li>
         </ul>
       </td>
       <td scope="row">:arrow_left:</td>
@@ -115,7 +115,7 @@ Then the content flow for the 1st Employment can be tabulated as below:
       <td scope="row">
         <ul>
           <li>method: <strong><i>read</i></strong></li>
-          <li>object: code><strong><i>Library</i></strong></code></li>
+          <li>object: <code><strong><i>Library</i></strong></code></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_left:</td>
