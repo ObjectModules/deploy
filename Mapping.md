@@ -124,7 +124,7 @@ So now you can eat your best food. Your life will become more valuable.
 Congrats!  
 
 ##All back to routines
-One thing you shall note here that the original mapping, lets call as _[[a routine|Mapping#Routines]]_, is always remain included in the process on getting your best food. It is counted as the part of all of the four (4) mappings. It is still remain do its task of its routine. 
+One thing you shall note here that the original mapping, lets call as _[[a routine|[Mapping]-Routines]]_, is always remain included in the process on getting your best food. It is counted as the part of all of the four (4) mappings. It is still remain do its task of its routine. 
 
 Consider this in a sense way. Let's say you are in the process on finding your best food. Are you going to stop your routines of eating your daily food until you get your best food?
 
