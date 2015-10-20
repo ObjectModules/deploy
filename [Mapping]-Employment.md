@@ -109,38 +109,42 @@ Then the content flow for the _1st Employment_ can be tabulated as below:
   </thead>
   <tbody>
     <tr>
-      <td scope="row">query</td>
+      <td scope="row"><i>query</i></td>
       <td scope="row">:arrow_right:</td>
       <td scope="row">main</td>
       <td scope="row">
         <ul>
-          <li>task: <i>write</i></li>
-          <li>target: <i>Query</i></li>
+          <li>task: <i>write</i><sup><i>1</i></sup></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Query</i></sup></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_right:</td>
       <td scope="row">
         <ul>
-          <li>task: <i>write</i></li>
-          <li>target: <strong><i>Library</i></strong></li>
+          <li>task: <i>write</i><sup><i>3</i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Result</i></sup></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_left:</td>
     </tr>
     <tr>
-      <td scope="row">result</td>
+      <td scope="row"><i>result</i></td>
       <td scope="row">:arrow_left:</td>
       <td scope="row">hyip</td>
       <td scope="row">
         <ul>
-          <li>task: <strong><i>read</i></strong></li>
-          <li>object: <strong><i>Library</i></strong></li>
+          <li>task: <i>read</i></sup><sup><i>4</i></li>
+          <li>way: <i>display</i></li>
+          <li>object: <i>Result</i></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_left:</td>
       <td scope="row">
         <ul>
-          <li>task: <strong><i>read</i></strong></li>
+          <li>task: <i>read</i></sup><sup><i>2</i></li>
+          <li>way: <i>receive</i></li>
           <li>object: <i>Query</i></li>
         </ul>
       </td>
