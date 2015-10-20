@@ -148,7 +148,7 @@ Now you can tabulate the flow of the processes for _a spreading_ as shown below:
         <ul>
           <li>task: <i>write</i><sup><i>1</i></sup></li>
           <li>way: <i>send</i></li>
-          <li>object: <strong><i>Query</i></sup></strong></li>
+          <li>object: <i>Query</i></sup></li>
         </ul>
       </td>
       <td scope="row">:arrow_lower_right:</td>
@@ -156,7 +156,7 @@ Now you can tabulate the flow of the processes for _a spreading_ as shown below:
         <ul>
           <li>task: <i>write</i><sup><i>3</i></li>
           <li>way: <i>send</i></li>
-          <li>object: <i>Result</i></sup></li>
+          <li>object: <strong><i>Result</i></strong></sup></li>
         </ul>
       </td>
       <td scope="row">:arrow_left:</td>
