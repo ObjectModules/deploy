@@ -217,9 +217,11 @@ So the only way is you have to put your query to some where else.
 So now you have another potential factor become two (2) all together.
 We have put the potential factors in bold. They are the _**Query**_ and _**Result**_.
 
-Here you have define the factors. On this point you will need to find another tool or a person that will understand to your need. The process of find the tools or person we all it as _an employment_.
+Here you have define the factors. On this point you will need to find another tool or a person that will understand to your need. 
 
-Therefore in our concept there will be two kind of employments will be called. One to settle the Query and another one for the Result. From what we have explained above you may see that each employment will represent the 2nd and the 3rd mapping of a routines by a parameter.
+So there shall be a process of finding a tool or a person or other media that is required to achieve a settlement. In our concept we call this process as _an employment_.
+
+Follow to our explanation above, there will be two kind of employments called. One to settle the Query and another one for the Result. You may see also that each employment will represent the 2nd and the 3rd mapping of a routines by a parameter.
 
 The employments for the Result is represent the 2nd mapping:  
 ```
