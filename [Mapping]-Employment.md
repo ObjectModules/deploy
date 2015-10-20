@@ -60,26 +60,10 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
+We have explained that the behavior of our mapping will seeking another process to return to its routine by taking the process of spreading. 
 
-###Assignment
-This is the behavior of our mapping when a parameter is put inside the routines. Since there 2 process are generated that the behavior of our mapping will seeking another process to return to its routine. 
-
-We will explain further how these mapping are going to present the process of followings:
+Here we will explain further how the spreading will continue to another process when a settlement is not going to be achieved. We will also explain how these processes are going to present the above 2nd and 3rd mapping.
   
-Mapping of the process to collect the library in related with the food:
-```
-* Food will become an entry point
-* Library is what we need 
-* Collect is the process
-* Exit point  
-```
-Then we need also the mapping to examine your self to get your data:
-```
-* You will become an entry point
-* Your data is what we need 
-* Examine is the process
-* Exit point  
-```
 ###Rules
 A process is considered as settled whenever it can be run or return to the entry point and processed normally without any adjustment or modification into the routines.
 
