@@ -80,8 +80,10 @@ Here you can put whatever word you like to name the new mapping. However, based 
 Now left the question on how to combine them, right? Here are the rules:  
 * The new process shall be able to be carried out along with the routines
 * It shall be a clearly sign that a new process is being carried out of the routines
-##RDetails
+
+##Details
 Here we will will show the details of spreading by _diagram_, _sequence_ and _tabulation_.
+
 ###By Diagram
 Let's take again the diagram for _[[a routine|[Mapping]-Routines]]_:
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)   
