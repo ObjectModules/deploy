@@ -198,7 +198,26 @@ When the `world` and `hyip world` are no more carry out then all of the process 
 
 However when `a settlement` is not going to be achieved then the spreading will continue to another process which in our concept we call them as _Employment_ and _Merging_. 
 ##Employment
-See again the tabulation of a spreading. We have put the potential factors in bold. They are the Query and Result.
+As you may guess we are not going for a settlement on this point. We have explained that, in our case, you will not be able to find your best food on search engines.
+
+See again the tabulation of a spreading. Let's try to figure out which potential factor(s) that making your searching stack is.
+
+Better we put the on the list one by one:
+* You write a query of 'best food'. Seems nothing is wrong with it. Your search is correct.
+* Your computer read and displaying the result. Nothing is wrong with your computer.
+* Google receive your Query. Nothing is wrong with Google.
+* Google write the Result. That's it! The result is not meet your query.
+
+So we found a potential factor. Now just think how to solve this..
+See that the result is too big too choose. Is it might be your query?
+
+Yes may be your query. But you don't know what is the right query to find your best food.
+So the only way is you have to put your query to some where else.
+
+So now you have another potential factor become two (2) all together.
+We have put the potential factors in bold. They are the _**Query**_ and _**Result**_.
+
+Here you have define the factors. On this point you will need to find another tool or a person that will understand to your need. The process of find the tools or person we all it as _an employment_.
 
 Therefore in our concept there will be two kind of employments will be called. One to settle the Query and another one for the Result. From what we have explained above you may see that each employment will represent the 2nd and the 3rd mapping of a routines by a parameter.
 
