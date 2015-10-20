@@ -2,7 +2,7 @@
 
 This documentation is licensed under Apache License, Version 2.0.
 
-> Copyright (c) 2014-2015 [The HYIP Project](https://github.com/hyip "High")
+> Copyright (c) 2014-2015 [The HYIP Project](https://github.com/hyip "High-yard Investment Program")
 > 
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.
