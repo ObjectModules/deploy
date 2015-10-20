@@ -244,7 +244,7 @@ Let's make a little test in a cross way in related to the symbiotic relation
 
 Seems everything are correct. So _<a href="https://en.wiktionary.org/wiki/team" target="_blank">a team</a>_ is supposed to be the one !
 ###Details
-
+Here we will will show the details of spreading by _diagram_, _sequence_ and _tabulation_.
 ####By Diagram
 ```js
 letter a stand as script  
