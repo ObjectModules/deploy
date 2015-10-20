@@ -120,10 +120,6 @@ Then we need also the mapping to examine your self to get your data:
 Till this point all of employment task is completed.
 #What's Next
 ##Final 
-###Diagram
-Let's clean the mapping that we get on the last result, now we can get it as shown below:  
-![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
-This is the result of the employment of _The Fourth_. The same as other mappings, this result has also four (4) parts, each of them are separated by a line.
 ###Flow
 <table>
   <thead>
@@ -297,6 +293,10 @@ This is the result of the employment of _The Fourth_. The same as other mappings
     </tr>
   </tbody>
 </table>
+###Diagram
+Let's clean the mapping that we get on the last result, now we can get it as shown below:  
+![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
+This is the result of the employment of _The Fourth_. The same as other mappings, this result has also four (4) parts, each of them are separated by a line.
 ##Overall
 You may see also that the result is remain consist of _[[the three (3) employments|[Mapping]-Employment#the-three]]_. Each of them has _four (4) processes_ that remain become _twelve (12) processes_ all together. You may count also that _this twelve_ is remain consist of _six (6) main_ & _six (6) displaying_ processes. 
 
