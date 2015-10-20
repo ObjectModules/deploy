@@ -213,11 +213,12 @@ Then the content flow for the _2nd Employment_ can be tabulated as below:
 </table>
 
 ##3rd Employment
-On the 2nd employment, _<a href="https://en.wikipedia.org/wiki/Monitoring" target="_blank">Monitoring</a>_ is process to gain the data, _Rating_ is process of sorting the data to become a library. 
-
-###Script
 As a symbiotic relationship with the 2nd employment so the 3rd employment is simply produce _a query_ in such a way that it will give _a result_ when it is implemented to the library.  
 
+###Titling
+On the 2nd employment, _<a href="https://en.wikipedia.org/wiki/Monitoring" target="_blank">Monitoring</a>_ is process to gain the data, _Rating_ is process of sorting the data to become a library. 
+
+####Script
 Here we need a language so that a library will understand what _a query_ is. People call this language as _<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">SQL</a>_ stand as the abbreviation of _Structured Query Language_.
 
 When we see the explanation of what _SQL_ is, it contain of statement that structured as a code to do a process on a Library. So it is actually a scripting language.
@@ -226,7 +227,7 @@ Let's call it from here as _<a href="https://en.wiktionary.org/wiki/script" targ
    
 So how _a script_ can be produced? How to get it to become able to be implemented?
 
-###Team
+####Team
 In our concept the _Rating_ shall do the same language with the _Script_ on managing the data. So here the _Script_ again has become a symbiotic relationship with the _Rating_.
 
 So now, it is left only what kind of process that become a symbiotic relationship with the _Monitoring_, right?
