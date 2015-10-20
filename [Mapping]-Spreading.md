@@ -197,7 +197,7 @@ When the `world` and `hyip world` are no more carry out then all of the process 
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png) 
 
 However when `a settlement` is not going to be achieved then the spreading will continue to another process which in our concept we call them as _Employment_ and _Merging_. 
-##Employment
+##Potential Factor(s)
 As you may guess we are not going for a settlement on this point. We have explained that, in our case, you will not be able to find your best food on search engines.
 
 See again the tabulation of a spreading. Let's try to figure out which potential factor(s) that making your searching stack is.
@@ -221,6 +221,7 @@ Here you have define the factors. On this point you will need to find another to
 
 So there shall be a process of finding a tool or a person or other media that is required to achieve a settlement. In our concept we call this process as _an employment_.
 
+##Symbiotic
 Follow to our explanation above, there will be two kind of employments called. One to settle the Query and another one for the Result. You may see also that each employment will represent the 2nd and the 3rd mapping of a routines by a parameter.
 
 The employments for the Result is represent the 2nd mapping:  
@@ -243,17 +244,7 @@ Another is doing a process of making more specific **_Query_** by examine to the
 
 Therefore, in purpose of getting _a settlement_, both will goes to different processes but they work in related to the same parameter. So it will be a kind of _Symbiotic Processes_.
 
-##Merging
-As you may guess this merging is the process of matching both of the employments.
-
-Let's map about the process of getting the best food for you the same way as your doctor do:
-```
-* Both of food library and your data will become the entry point
-* A best food on library for you is what we need 
-* Matching the data is the process
-* Exit point  
-```
-We will explain to how to do the both in a different section, let start first on _[[Employment|[Mapping]-Employment]]_.
+Let's find it in more details on our _[[next section|[Mapping]-Employment]]_.
 ***
 <table>
   <thead>
