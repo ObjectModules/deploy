@@ -244,7 +244,7 @@ You may agree that this concept is basically applicable for general case. Since 
 
 You can find our explanation about this concept in more detail. We are going also to explain on how we manage a different assignment on our section, how we assign each of them to hold that unique task, and finally how they are getting combined on achieving _[[a settlement|[Mapping]-Settlement]]_.
 
-You will also find later that we are going to test our concept in such a way that you can find easily whether it is work on _[[the real world|http://hyip.world/]]_ or not.  
+You will also find later that we are going to test our concept in such a way that you can easily find whether it is work on _[[the real world|http://hyip.world/]]_ or not.  
 
 ##Nonpattern Word (isogram)
 
