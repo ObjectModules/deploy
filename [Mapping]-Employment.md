@@ -243,7 +243,9 @@ Let's make a little test in a cross way in related to the symbiotic relation
 * _Script_ is the language of _Rating_ activity - _Monitoring_ is the language of _Team_  activity
 
 Seems everything are correct. So _<a href="https://en.wiktionary.org/wiki/team" target="_blank">a team</a>_ is supposed to be the one !
-###Diagram
+###Details
+
+####By Diagram
 ```js
 letter a stand as script  
 letter b stand as team  
@@ -251,7 +253,7 @@ letter c stand as hyip
 ```
 Then diagram will be shown as below:  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure9.png)
-###Content Flow
+####By Content Flow
 Then the content flow for the _3rd Employment_ can be tabulated as below:
 <table>
   <thead>
