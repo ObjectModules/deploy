@@ -60,8 +60,8 @@ Let's map about the process of getting the best food for you the same way as you
 * Exit point  
 ```
 We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
-###Rules
    
+##Rules
 Let's take again the mapping of _[[a routine|[Mapping]-Routines]]_:    
 ```  
 * Hungry will become an entry point
