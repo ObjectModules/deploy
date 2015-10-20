@@ -866,5 +866,5 @@ itself: {{tl|H:title}}
 [[Category:Editor handbook]]
 {{h:f|enname=Wikitext examples}}
 
-https://guides.github.com/features/wikis/
+https://guides.github.com/features/wikis/  
 http://meta.wikimedia.org/w/index.php?title=Help:Wikitext_examples&action=edit
