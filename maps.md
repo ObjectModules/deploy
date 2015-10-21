@@ -142,7 +142,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>team</code>|https://github.com/hyip/team]]</td>
       <td>[[<code>team</code>|https://github.com/hyip/team/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
-      <td scope="row">-</td>
+      <td scope="row"><a href="https://github.com/atlassian" target="_blank"><img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20></a></td>
       <td scope="row">
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
