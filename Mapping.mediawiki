@@ -6,7 +6,7 @@
       <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
       <th>[[Appearance|:arrow_backward:]] [[Appearance|Prev]]</th>
       <th>[[Mapping|:repeat:]] [[Mapping|Reload|]]</th>
-      <th>[[Mapping-Routines|Next]] [[Mapping-Routines|:arrow_forward:]]</th>
+      <th>[[Mapping-Routine|Next]] [[Mapping-Routine|:arrow_forward:]]</th>
       <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
