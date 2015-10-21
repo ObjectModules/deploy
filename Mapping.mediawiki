@@ -8,7 +8,7 @@
       <th>[[Mapping|:repeat:]] [[Mapping|Reload|]]</th>
       <th>[[Mapping-Routines|Next]] [[Mapping-Routines|:arrow_forward:]]</th>
       <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
-      <th>[[https://github.com/hyip/rating|:arrow_down_small:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
     <tr>
