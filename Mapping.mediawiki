@@ -17,6 +17,7 @@
   </thead>
 </table>
 
+
 = Background =
 You come to our section that we gonna explain our concept in detail about ''[[our project|https://github.com/hyip]]''.<br />
 Here we want you to have an open mind. If you're not enjoying it, don't do it.
@@ -46,11 +47,11 @@ This is just a simple case. It is a normal process in your live. It is just a ro
 
 It will become to your concern if we put a parameter. Say you are hungry. You want to have the best food to eat but you don't know yet which the one is. What are you going to do? 
 
-Let's go for a simple way then. We are going for searching. Try to put a keyword _<a href="https://www.google.com/search?q=best+food" target="_blank">'best food'</a>_ on Google Search. You will find a huge result which is processed by Google from may be more than a billion pages to choose. 
+Let's go for a simple way then. We are going for searching. Try to put a keyword ''<a href="https://www.google.com/search?q=best+food" target="''blank">'best food'</a>'' on Google Search. You will find a huge result which is processed by Google from may be more than a billion pages to choose. 
 
 So which one do you think the best food for you to eat? Are you going to take the food on the top of result? Are you sure if that is the best one for you?
 == How to find it? ==
-We can say that from what we have explained above, there is a little chance that you able to find your best food from the search result. One thing you should need to aware is that Google and other search engines concern with the pages, _not the food_.
+We can say that from what we have explained above, there is a little chance that you able to find your best food from the search result. One thing you should need to aware is that Google and other search engines concern with the pages, ''not the food''.
 
 When a page has a good scoring in term of their algorithm then the page will go up on their search result so you can easily find it. 
 
@@ -58,20 +59,20 @@ It might be somewhere there exist a page that made by someone that contain reall
 
 Another thing that you will need to concern is how to be sure that when you find an information about your best food is really your best food. Here chance is also little. None of search engine can guarantee that their result is really the answer to your need. 
 
-_It could even never ever happen on your whole live that you find your best food!_
+''It could even never ever happen on your whole live that you find your best food!''
 
 Say here you agree that you can't get it but you insist to get it. So you better then go to a doctor to know what is the best food for you. Would you define what your doctor is going to do? 
 
-Of course the doctor will do examine yourself, make a diagnosis, and find a food on his/her library that best match to your data. Here the important thing is that the doctor will define the food base on your data, _not the food that you want_.
+Of course the doctor will do examine yourself, make a diagnosis, and find a food on his/her library that best match to your data. Here the important thing is that the doctor will define the food base on your data, ''not the food that you want''.
 
-It is really different with what if you are going to get the food by yourself, you will find the food with the one you want, _not the food that best match to your data_. 
+It is really different with what if you are going to get the food by yourself, you will find the food with the one you want, ''not the food that best match to your data''. 
 
 == Just do the way they want ==
-See that the best way you shall do is take the food that the _doctor want_ you to eat. Not the food that _you think_ it is the best one for you.
+See that the best way you shall do is take the food that the ''doctor want'' you to eat. Not the food that ''you think'' it is the best one for you.
 
-In an extreme case it will be the same. Say you are a very very important person. You are the president of a country. The country will for sure provide you a team of the best doctors in the country. _They will do their best to find and recommend the best food for you_.
+In an extreme case it will be the same. Say you are a very very important person. You are the president of a country. The country will for sure provide you a team of the best doctors in the country. ''They will do their best to find and recommend the best food for you''.
 
-So here, because you are the president, it is not only the doctors but the country and most probably the world would also want you to eat the food base on the recommendation from the doctors. _Not the food that match to what you think it is the best one for you._
+So here, because you are the president, it is not only the doctors but the country and most probably the world would also want you to eat the food base on the recommendation from the doctors. ''Not the food that match to what you think it is the best one for you.''
 
 <a href="https://tophyipmonitor.wordpress.com/hyip-world/#just-do-the-way-they-want">
 `Just do the way they want. Not of what you think.`  
@@ -86,9 +87,9 @@ We will also need to examine all of your data, including your age, your genre, y
 Hopefully then you can follow all the method on getting your best food. See that, getting the library of all kind of the food is one process. Getting the data of yourself is also another process. Both are different.   
 
 == Parameter ==
-Let's define how we are going to get the library in related with the food and the data of yourself in the same way as we made the mapping of the process from _[[the hungry|Mapping#background]]_. 
+Let's define how we are going to get the library in related with the food and the data of yourself in the same way as we made the mapping of the process from ''[[the hungry|Mapping#background]]''. 
 
-Let's put _best_ as the parameter of the food.
+Let's put ''best'' as the parameter of the food.
 
 Mapping of the change to your routine process:
 ```
@@ -118,7 +119,7 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
-You may see that to get your best food the whole process is divided to _four (4) mappings_. You can see that each of the process has a different assignment. Each of them hold a unique task, nothing is repeated. 
+You may see that to get your best food the whole process is divided to ''four (4) mappings''. You can see that each of the process has a different assignment. Each of them hold a unique task, nothing is repeated. 
 
 Check also that none of them is meaningless. These mappings all together are required to give the result that we are going to achieve. 
 
@@ -127,28 +128,28 @@ So now you can eat your best food. Your life will become more valuable.
 Congrats!  
 
 == All back to routines ==
-One thing you shall note here that the original mapping, lets call it as _[[a routine|[Mapping]-Routines]]_, is always remain included in the process on getting your best food. It is counted as the part of all of the four (4) mappings. It is still remain do its task of its routine. 
+One thing you shall note here that the original mapping, lets call it as ''[[a routine|[Mapping]-Routines]]'', is always remain included in the process on getting your best food. It is counted as the part of all of the four (4) mappings. It is still remain do its task of its routine. 
 
 Consider this in a sense way. Let's say you are in the process on finding your best food. Are you going to stop your routines of eating your daily food until you get your best food?
 
-Other thing is that when you already get to know what is the best food for you then the food is _no more stand as a best food_. It is only the one which is founded as the best for you. 
+Other thing is that when you already get to know what is the best food for you then the food is ''no more stand as a best food''. It is only the one which is founded as the best for you. 
 
 So it is just a food. You will eat it normally as usual. Nothing special.
 
 Once it is happen then the other processes are remain stay but no more required to be carry out as the whole process will return back the original process. All back to routines.
 
 == Factors ==
-The power of _[[this concept|Mapping#our-concept]]_ is that whenever a process is not going to be settled then you can easily spread those factors that making the process stack with the same method as we have explained above. 
+The power of ''[[this concept|Mapping#our-concept]]'' is that whenever a process is not going to be settled then you can easily spread those factors that making the process stack with the same method as we have explained above. 
 
-You may also identify the factors using _<a href="https://en.wikipedia.org/wiki/Ishikawa_diagram" target="_blank">Fishbone Diagram</a>_, put the potential ones in to the mapping. Spread it again when a solution is not going to be achieved. 
+You may also identify the factors using ''<a href="https://en.wikipedia.org/wiki/Ishikawa''diagram" target="''blank">Fishbone Diagram</a>'', put the potential ones in to the mapping. Spread it again when a solution is not going to be achieved. 
 
 
 Here is the diagram is look like:
 
 ![Fishbone Diagram](https://tophyipmonitor.files.wordpress.com/2015/10/fishbone.png)  
-One thing you shall note about _[[a spreading|[Mapping]-Spreading]]_ is that our concept is work only with a new unique process. Whenever it found the same identical process than the one which is already take a place will do its own spreading and open a new place for the said process. 
+One thing you shall note about ''[[a spreading|[Mapping]-Spreading]]'' is that our concept is work only with a new unique process. Whenever it found the same identical process than the one which is already take a place will do its own spreading and open a new place for the said process. 
 
-On the next step the spreading will take the _[[a comparison|[Mapping]-Comparison]]_ process which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behavior as a unique process. 
+On the next step the spreading will take the ''[[a comparison|[Mapping]-Comparison]]'' process which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behavior as a unique process. 
 
 Therefore the concept will allow an unlimited number of spreading. You can see that you may go into a wider or a global problem solution whatever you want. Get them all into small pieces that you or your team can cope with. Settle them one by one.
 
@@ -156,13 +157,13 @@ Once it is going to be settled then it will return automatically to the original
  
 == Settlement ==
 
-See the mapping of the routines, you may count that number of elements is also _four (4)_, same as the number of the required mapping when a factor is spread. 
+See the mapping of the routines, you may count that number of elements is also ''four (4)'', same as the number of the required mapping when a factor is spread. 
 
-In our concept, when _four (4) mappings_ is going to return to its original of _four (4) elements_, we call it as _[[a settlement|[Mapping]-Settlement]]_.  
+In our concept, when ''four (4) mappings'' is going to return to its original of ''four (4) elements'', we call it as ''[[a settlement|[Mapping]-Settlement]]''.  
 
 So here in our case, whatever you have done as long as you follow the concept, all will back to the original process.  
 
-It will become the same routine just exactly the same as before we put the parameter of _best_ to the food. Just a process of eating a food.
+It will become the same routine just exactly the same as before we put the parameter of ''best'' to the food. Just a process of eating a food.
 ```
 * Hungry will become an entry point
 * Food is what we need 
@@ -207,22 +208,22 @@ No other way.. we have to match them to what we need and get them scored one by 
 This is our point!  
 That is where we want to go.  
   
-As we have mentioned in our _[[project description|https://github.com/hyip/info]]_, we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
+As we have mentioned in our ''[[project description|https://github.com/hyip/info]]'', we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
 So how to become the best one then?  
 Let's find first how people define about the best it self is. 
 
 == How to become the best? ==
 Most probably we can say that Google Still World's Most Popular Search Engine By Far.  
-Why is Google successful?  As usual, Let's try _<a href="https://www.google.com/search?q=what+makes+google+the+best+search+engine" target="_blank">searching</a>_ again.
+Why is Google successful?  As usual, Let's try ''<a href="https://www.google.com/search?q=what+makes+google+the+best+search+engine" target="''blank">searching</a>'' again.
 
 Here are what we got. We put here just for example:
-* <a href="http://www.googleguide.com/searchLeader.html" target="_blank">Why is Google Popular?</a>
-* <a href="http://www.todayszaman.com/blog/mustafa-gerdan/why-is-google-successful_337734.html" target="_blank">Why is Google successful?</a>
-* <a href="http://www.answers.com/Q/Why_is_Google_the_best_search_engine" target="_blank">Why is Google the best search engine</a> 
-* <a href="http://www.entrepreneur.com/article/224639" target="_blank">Bing vs. Google: Which Search Engine is Best?</a>
-* <a href="http://searchengineland.com/google-worlds-most-popular-search-engine-148089" target="_blank">Google Still World's Most Popular Search Engine By Far</a>
-* <a href="http://www.businessinsider.com/accurate-contrarian-theories-2011-5" target="_blank">Why Google Succeeded Where Other Search Engines Failed</a>
+* <a href="http://www.googleguide.com/searchLeader.html" target="''blank">Why is Google Popular?</a>
+* <a href="http://www.todayszaman.com/blog/mustafa-gerdan/why-is-google-successful''337734.html" target="''blank">Why is Google successful?</a>
+* <a href="http://www.answers.com/Q/Why''is''Google''the''best''search''engine" target="''blank">Why is Google the best search engine</a> 
+* <a href="http://www.entrepreneur.com/article/224639" target="''blank">Bing vs. Google: Which Search Engine is Best?</a>
+* <a href="http://searchengineland.com/google-worlds-most-popular-search-engine-148089" target="''blank">Google Still World's Most Popular Search Engine By Far</a>
+* <a href="http://www.businessinsider.com/accurate-contrarian-theories-2011-5" target="''blank">Why Google Succeeded Where Other Search Engines Failed</a>
 
 Here you can see that there are a number of reasons or parameters that people say to describe how Google become the best search engine.
 
@@ -230,7 +231,7 @@ It is quite amazing because usually when people put different criteria then the 
 
 But when people is asked what the best search engine is, although there are so many search engines in the world, most probably you will find that Google is the answer whatever criteria that people use. 
 
-_We can define the best is when people have a different criteria but the same answer._
+''We can define the best is when people have a different criteria but the same answer.''
 
 Are you with us? We would think so. But it sound unfair, right? Why?  
 You have already the answer to your best search engine easily.  
@@ -239,23 +240,23 @@ How about your best food? Do you have already find one?
 This is the real world.
 
 == What we offer ==
-Here you almost come to the end story behind _[[our concept|Mapping#our-concept]]_. You can say that this project is about a mapping system. A unique mapping system to define between what we do want with the way that we are going to achieve it.  
+Here you almost come to the end story behind ''[[our concept|Mapping#our-concept]]''. You can say that this project is about a mapping system. A unique mapping system to define between what we do want with the way that we are going to achieve it.  
 
 [![Hyip Mapping Concept](https://tophyipmonitor.files.wordpress.com/2015/08/hyip-target.jpg?w=700)](https://tophyipmonitor.wordpress.com/hyip-world/)
 
-You may agree that this concept is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to explain on how we make an _[[overall mapping|https://github.com/hyip/info/wiki/maps]]_ to manage our repositories of the project follow to the concept.
+You may agree that this concept is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to explain on how we make an ''[[overall mapping|https://github.com/hyip/info/wiki/maps]]'' to manage our repositories of the project follow to the concept.
 
-You can find our explanation about this concept in more detail. We are going also to explain on how we manage a different assignment on our section, how we assign each of them to hold that unique task, and finally how they are getting combined on achieving _[[a settlement|[Mapping]-Settlement]]_.
+You can find our explanation about this concept in more detail. We are going also to explain on how we manage a different assignment on our section, how we assign each of them to hold that unique task, and finally how they are getting combined on achieving ''[[a settlement|[Mapping]-Settlement]]''.
 
-You will also find later that we are going to test our concept in such a way that you can easily find whether it is work on _[[the real world|http://hyip.world/]]_ or not.  
+You will also find later that we are going to test our concept in such a way that you can easily find whether it is work on ''[[the real world|http://hyip.world/]]'' or not.  
 
 == Nonpattern Word (isogram) ==
 
-Having made a research on what people has been doing a similar with _[[our concept|Mapping#our-concept]]_, we found this on _<a href="https://en.wikipedia.org/wiki/Isogram" target="_blank">isogram</a>_ which is a word that doesn't contain any repeating letters.  
+Having made a research on what people has been doing a similar with ''[[our concept|Mapping#our-concept]]'', we found this on ''<a href="https://en.wikipedia.org/wiki/Isogram" target="''blank">isogram</a>'' which is a word that doesn't contain any repeating letters.  
 
 The word of `isogram` it self is a good sample. You will not find any repeating on it. So all of them is unique.
 
-We have found also that Google has made a single function using this word, this function is used worldwide since many years on their JavaScript Snippet called <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced" target="_blank">Advanced Configuration - Web Tracking (analytics.js)</a>.
+We have found also that Google has made a single function using this word, this function is used worldwide since many years on their JavaScript Snippet called <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced" target="''blank">Advanced Configuration - Web Tracking (analytics.js)</a>.
 
 `The JavaScript tracking tag for Google's new Universal Analytics uses one letter variable names - i, s, o, g, r, a, m.`
 
@@ -280,11 +281,11 @@ letter m stand as s.getElementsByTagName(o)[0]
 
 See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined. You may try to eliminate one or more characters or elements, see if the function is still work.
 
-Compare to what we have seen. We found this as a beautiful concept. It's built short but the `isogram` itself is really compact that made Google able to asynchronously loads their library called `analytics.js` onto a page and use it for a broad way _<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="_blank">utilization</a>_. 
+Compare to what we have seen. We found this as a beautiful concept. It's built short but the `isogram` itself is really compact that made Google able to asynchronously loads their library called `analytics.js` onto a page and use it for a broad way ''<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="''blank">utilization</a>''. 
 
-Unfortunately we could not find if Google made it with the word of `isogram` is in a purpose to correlate _what the word means_ it self into _what they really want_ with the function. 
+Unfortunately we could not find if Google made it with the word of `isogram` is in a purpose to correlate ''what the word means'' it self into ''what they really want'' with the function. 
 
-Nevertheless, this is really an exact sample that close enough to _[[our concept|Mapping#our-concept]]_. We will explain further in more details on the _[[next section|[Mapping]-Routines]]_. 
+Nevertheless, this is really an exact sample that close enough to ''[[our concept|Mapping#our-concept]]''. We will explain further in more details on the ''[[next section|[Mapping]-Routines]]''. 
 
 <table>
   <thead>
