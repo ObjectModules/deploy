@@ -82,9 +82,9 @@ Here we are going to do the same way when you go to a doctor. We have to collect
 
 We will also need to examine all of your data, including your age, your genre, your blood structure and everything else that required to find your best food. 
 
+== Parameter ==
 Hopefully then you can follow all the method on getting your best food. See that, getting the library of all kind of the food is one process. Getting the data of yourself is also another process. Both are different.   
 
-== Parameter ==
 Let's define how we are going to get the library in related with the food and the data of yourself in the same way as we made the mapping of the process from ''[[Mapping#background|the hungry]]''. 
 
 Let's put ''best'' as the parameter of the food.
