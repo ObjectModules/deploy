@@ -5,8 +5,8 @@
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</th>
-      <th>[[:repeat:|[Mapping]-Routines]] [[Reload|Mapping-Routine]]</th>
-      <th>[[Next|[Mapping]-Spreading]] [[:arrow_forward:|Mapping-Spreading]]</th>
+      <th>[[:repeat:|Mapping-Routine]] [[Reload|Mapping-Routine]]</th>
+      <th>[[Next|Mapping-Spreading]] [[:arrow_forward:|Mapping-Spreading]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
@@ -177,7 +177,7 @@ Let's start first on _[[Spreading|Mapping-Spreading]]_.
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</th>
-      <th>[[:repeat:|Mapping-Routines]] [[Reload|Mapping-Routines]]</th>
+      <th>[[:repeat:|Mapping-Routine]] [[Reload|Mapping-Routine]]</th>
       <th>[[Next|Mapping-Spreading]] [[:arrow_forward:|Mapping-Spreading]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
