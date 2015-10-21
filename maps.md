@@ -206,7 +206,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>world</code>|https://github.com/hyip/world]]</td>
       <td>[[<code>world</code>|https://github.com/hyip/world/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
-      <td scope="row">-</td>
+      <td scope="row"><a href="https://en.wikipedia.org/wiki/User:Hyipworld"><img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg"></a></td>
       <td scope="row">
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
@@ -221,8 +221,8 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io]]</td>
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io/wiki]]</td>
-      <td scope="row"><a href="https://en.wikipedia.org/wiki/User:Hyipworld"><img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg"></a></td>
       <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] </td>
+      <td scope="row">-</td>
       <td scope="row">
 <a href="https://www.facebook.com/hyipblogs"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
