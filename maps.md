@@ -110,7 +110,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor]]</td>
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20"</td>
-      <td scope="row"><a href="https://github.com/aws" target="_blank"><img src="https://avatars0.githubusercontent.com/u/2232217?v=20&s=20"></a></td>
+      <td scope="row"><a href="https://github.com/aws" target="_blank"><img src="https://lh5.googleusercontent.com/-LNdqhqT7v3w/T4itJ_UEeFI/AAAAAAAAJUE/B9Os5cJUxUA/s20-no/GooglePlusProfileImage.png"></a></td>
       <td scope="row">
 <a href="https://www.facebook.com/tophyipmonitors"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="https://twitter.com/tophyipmonitor"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
