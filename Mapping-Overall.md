@@ -4,8 +4,8 @@
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Comparison]] [[Prev|[Mapping]-Comparison]]</th>
-      <th>[[:repeat:|[Mapping]-Overall]] [[Reload|[Mapping]-Overall]]</th>
+      <th>[[:arrow_backward:|Mapping-Comparison]] [[Prev|Mapping-Comparison]]</th>
+      <th>[[:repeat:|Mapping-Overall]] [[Reload|Mapping-Overall]]</th>
       <th>[[Next|maps]] [[:arrow_forward:|maps]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
@@ -16,12 +16,12 @@
 #Overall
 This page is the last page of our _[[Mapping Concept|Mapping]]_. Here we are going to explain on how we manage our repositories of this project follow to the overall concept.  
 
-_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Comparison]]._
+_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping-Comparison]]._
 
 ##Basic
 Let's put again all of the mappings here:
 ###Routine
-Mapping of _[[a routine|Mapping#routines]]_
+Mapping of _[[a routine|Mapping#Routine]]_
 ```  
 * Hungry will become an entry point
 * Food is what we need 
@@ -101,7 +101,7 @@ Interaction between repositories shall need to be arranged in four (4) groups of
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
 ###Matching
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
-###Routines
+###Routine
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 
 #What's Next  
@@ -115,8 +115,8 @@ Please check the appearance of all the process on our _[[Project Map|maps]]_.
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Comparison]] [[Prev|[Mapping]-Comparison]]</th>
-      <th>[[:repeat:|[Mapping]-Overall]] [[Reload|[Mapping]-Overall]]</th>
+      <th>[[:arrow_backward:|Mapping-Comparison]] [[Prev|Mapping-Comparison]]</th>
+      <th>[[:repeat:|Mapping-Overall]] [[Reload|Mapping-Overall]]</th>
       <th>[[Next|maps]] [[:arrow_forward:|maps]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
