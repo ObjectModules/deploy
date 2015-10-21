@@ -128,7 +128,7 @@ So now you can eat your best food. Your life will become more valuable.
 Congrats!  
 
 == All back to routines ==
-One thing you shall note here that the original mapping, lets call it as ''[[a routine|[Mapping]-Routines]]'', is always remain included in the process on getting your best food. It is counted as the part of all of the four (4) mappings. It is still remain do its task of its routine. 
+One thing you shall note here that the original mapping, lets call it as ''[[a routine|Mapping-Routines]]'', is always remain included in the process on getting your best food. It is counted as the part of all of the four (4) mappings. It is still remain do its task of its routine. 
 
 Consider this in a sense way. Let's say you are in the process on finding your best food. Are you going to stop your routines of eating your daily food until you get your best food?
 
@@ -147,9 +147,9 @@ You may also identify the factors using ''<a href="https://en.wikipedia.org/wiki
 Here is the diagram is look like:
 
 [[https://tophyipmonitor.files.wordpress.com/2015/10/fishbone.png]]  
-One thing you shall note about ''[[a spreading|[Mapping]-Spreading]]'' is that our concept is work only with a new unique process. Whenever it found the same identical process than the one which is already take a place will do its own spreading and open a new place for the said process. 
+One thing you shall note about ''[[a spreading|Mapping-Spreading]]'' is that our concept is work only with a new unique process. Whenever it found the same identical process than the one which is already take a place will do its own spreading and open a new place for the said process. 
 
-On the next step the spreading will take the ''[[a comparison|[Mapping]-Comparison]]'' process which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behavior as a unique process. 
+On the next step the spreading will take the ''[[a comparison|Mapping-Comparison]]'' process which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behavior as a unique process. 
 
 Therefore the concept will allow an unlimited number of spreading. You can see that you may go into a wider or a global problem solution whatever you want. Get them all into small pieces that you or your team can cope with. Settle them one by one.
 
@@ -159,7 +159,7 @@ Once it is going to be settled then it will return automatically to the original
 
 See the mapping of the routines, you may count that number of elements is also ''four (4)'', same as the number of the required mapping when a factor is spread. 
 
-In our concept, when ''four (4) mappings'' is going to return to its original of ''four (4) elements'', we call it as ''[[a settlement|[Mapping]-Settlement]]''.  
+In our concept, when ''four (4) mappings'' is going to return to its original of ''four (4) elements'', we call it as ''[[a settlement|Mapping-Settlement]]''.  
 
 So here in our case, whatever you have done as long as you follow the concept, all will back to the original process.  
 
@@ -246,7 +246,7 @@ Here you almost come to the end story behind ''[[our concept|Mapping#our-concept
 
 You may agree that this concept is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to explain on how we make an ''[[overall mapping|https://github.com/hyip/info/wiki/maps]]'' to manage our repositories of the project follow to the concept.
 
-You can find our explanation about this concept in more detail. We are going also to explain on how we manage a different assignment on our section, how we assign each of them to hold that unique task, and finally how they are getting combined on achieving ''[[a settlement|[Mapping]-Settlement]]''.
+You can find our explanation about this concept in more detail. We are going also to explain on how we manage a different assignment on our section, how we assign each of them to hold that unique task, and finally how they are getting combined on achieving ''[[a settlement|Mapping-Settlement]]''.
 
 You will also find later that we are going to test our concept in such a way that you can easily find whether it is work on ''[[the real world|http://hyip.world/]]'' or not.  
 
@@ -285,7 +285,7 @@ Compare to what we have seen. We found this as a beautiful concept. It's built s
 
 Unfortunately we could not find if Google made it with the word of `isogram` is in a purpose to correlate ''what the word means'' it self into ''what they really want'' with the function. 
 
-Nevertheless, this is really an exact sample that close enough to ''[[our concept|Mapping#our-concept]]''. We will explain further in more details on the ''[[next section|[Mapping]-Routines]]''. 
+Nevertheless, this is really an exact sample that close enough to ''[[our concept|Mapping#our-concept]]''. We will explain further in more details on the ''[[next section|Mapping-Routines]]''. 
 
 <table>
   <thead>
