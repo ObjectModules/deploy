@@ -4,9 +4,9 @@
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Merging]] [[Prev|[Mapping]-Merging]]</th>
-      <th>[[:repeat:|[Mapping]-Settlement]] [[Reload|[Mapping]-Settlement]]</th>
-      <th>[[Next|[Mapping]-Comparison]] [[:arrow_forward:|[Mapping]-Comparison]]</th>
+      <th>[[:arrow_backward:|Mapping-Merging]] [[Prev|Mapping-Merging]]</th>
+      <th>[[:repeat:|Mapping-Settlement]] [[Reload|Mapping-Settlement]]</th>
+      <th>[[Next|Mapping-Comparison]] [[:arrow_forward:|Mapping-Comparison]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
@@ -16,13 +16,13 @@
 
 #Settlement
 
-In this section we will explain in details about _[[settlement|Mapping#settlement]]_ in our concept. The process of handed over from _[[a merging|[Mapping]-Merging]]_ in related to the assigned parameter of _[[a routine|[Mapping]-Routines]]_. 
+In this section we will explain in details about _[[settlement|Mapping#settlement]]_ in our concept. The process of handed over from _[[a merging|Mapping-Merging]]_ in related to the assigned parameter of _[[a routine|Mapping-Routine]]_. 
 
-_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Merging]]._
+_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping-Merging]]._
 ##Basic
 Let's put again all of the mappings here:
 ###Routine
-Mapping of _[[a routine|Mapping#routines]]_
+Mapping of _[[a routine|Mapping#Routine]]_
 ```  
 * Hungry will become an entry point
 * Food is what we need 
@@ -76,13 +76,13 @@ Four (4) processes.
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 Four (4) repositories.  
 
-###Routines Diagram
+###Routine Diagram
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)  
 Four (4) elements.  
 
 
 ##Application
-Now we are going to bring you to _[[Comparison|[Mapping]-Comparison]]_.
+Now we are going to bring you to _[[Comparison|Mapping-Comparison]]_.
 ***
 <table>
   <thead>
@@ -90,9 +90,9 @@ Now we are going to bring you to _[[Comparison|[Mapping]-Comparison]]_.
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Merging]] [[Prev|[Mapping]-Merging]]</th>
-      <th>[[:repeat:|[Mapping]-Settlement]] [[Reload|[Mapping]-Settlement]]</th>
-      <th>[[Next|[Mapping]-Comparison]] [[:arrow_forward:|[Mapping]-Comparison]]</th>
+      <th>[[:arrow_backward:|Mapping-Merging]] [[Prev|Mapping-Merging]]</th>
+      <th>[[:repeat:|Mapping-Settlement]] [[Reload|Mapping-Settlement]]</th>
+      <th>[[Next|Mapping-Comparison]] [[:arrow_forward:|Mapping-Comparison]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
