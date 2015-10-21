@@ -111,7 +111,7 @@ It might be on your question now about what really the content of each repos and
 
 As you are aware this section is about a process of what we called as `info`. So we write on all aspect in related to its part on the concept into the repo and explain the same topic in this wiki. 
 
-You may find that we started this wiki with the concept on how we are going to read an info, how we write the info, following with on how we manage and organize it till a kind of mapping system on the section that you are reading now.
+You may find that we started this wiki with the concept on how we are going to read an info, how we write the info, following with on how we manage and organize it till a kind of mapping system on the last chapter of the section that you are reading now.
 
 You will find that the same thing are done also to other sections but in a different topic as they have their own assignment on the system follow to the concept.
  
