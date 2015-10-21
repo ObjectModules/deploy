@@ -4,9 +4,9 @@
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Settlement]] [[Prev|[Mapping]-Settlement]]</th>
-      <th>[[:repeat:|[Mapping]-Comparison]] [[Reload|[Mapping]-Comparison]]</th>
-      <th>[[Next|[Mapping]-Overall]] [[:arrow_forward:|[Mapping]-Overall]]</th>
+      <th>[[:arrow_backward:|Mapping-Settlement]] [[Prev|Mapping-Settlement]]</th>
+      <th>[[:repeat:|Mapping-Comparison]] [[Reload|Mapping-Comparison]]</th>
+      <th>[[Next|Mapping-Overall]] [[:arrow_forward:|Mapping-Overall]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
@@ -16,13 +16,13 @@
 
 #Comparison
 
-In this section we will explain in details about _a comparison_ in our concept. The called process whenever _two (2) or more identical sets_ of _[[a routine|[Mapping]-Routines]]_ are founded.
+In this section we will explain in details about _a comparison_ in our concept. The called process whenever _two (2) or more identical sets_ of _[[a routine|Mapping-Routine]]_ are founded.
 
-_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Settlement]]._
+_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping-Settlement]]._
 ##Basic
 Let's put again all of the mappings here:
 ###Routine
-Mapping of _[[a routine|Mapping#routines]]_
+Mapping of _[[a routine|Mapping#Routine]]_
 ```  
 * Hungry will become an entry point
 * Food is what we need 
@@ -83,13 +83,13 @@ Four (4) processes.
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 Four (4) repositories.  
 
-###Routines Diagram
+###Routine Diagram
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)  
 Four (4) elements.  
 
 
 ##Application
-Now we are going to bring you _[[Overall Mapping|[Mapping]-Overall]]_.
+Now we are going to bring you _[[Overall Mapping|Mapping-Overall]]_.
 ***
 <table>
   <thead>
@@ -97,9 +97,9 @@ Now we are going to bring you _[[Overall Mapping|[Mapping]-Overall]]_.
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Settlement]] [[Prev|[Mapping]-Settlement]]</th>
-      <th>[[:repeat:|[Mapping]-Comparison]] [[Reload|[Mapping]-Comparison]]</th>
-      <th>[[Next|[Mapping]-Overall]] [[:arrow_forward:|[Mapping]-Overall]]</th>
+      <th>[[:arrow_backward:|Mapping-Settlement]] [[Prev|Mapping-Settlement]]</th>
+      <th>[[:repeat:|Mapping-Comparison]] [[Reload|Mapping-Comparison]]</th>
+      <th>[[Next|Mapping-Overall]] [[:arrow_forward:|Mapping-Overall]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
