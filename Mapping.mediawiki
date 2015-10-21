@@ -12,7 +12,7 @@
       <th>[[https://github.com/hyip/rating/wiki/Introduction|:arrow_double_down:]]</th>
     </tr>
     <tr>
-<td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">|http://www.wikipedia.org]]</td><td colspan="8">This documentation is courtesy of [[The HYIP Project|https://github.com/hyip]]. Find them all on [[Project Map|https://github.com/hyip/info/wiki/maps#project-map]].</td>   
+<td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">|https://github.com/hyip]]</td><td colspan="8">This documentation is courtesy of [[The HYIP Project|https://github.com/hyip]]. Find them all on [[Project Map|https://github.com/hyip/info/wiki/maps#project-map]].</td>   
 </tr>
   </thead>
 </table>
