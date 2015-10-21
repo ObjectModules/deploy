@@ -113,7 +113,7 @@ As you are aware this section is about a process of what we called as `info`. So
 
 You may find that we started this wiki with the concept on how we are going to read an info, how we write the info, following with on how we manage and organize it till a kind of mapping system on the last chapter of the section that you are reading now.
 
-You will find that the same thing are done also to other sections but in a different topic as they have their own assignment on the system follow to the concept.
+You will find that the same thing are done also to other sections but provided in a different topic and purposes as they have their own assignment on the system follow to the concept.
  
 Please take a look to the appearance of all the processes on our _[[Project Map|maps]]_. 
 ***
