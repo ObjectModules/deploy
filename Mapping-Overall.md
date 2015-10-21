@@ -109,9 +109,11 @@ You have come to the end of our concept. Hopefully you can follow and enable to 
 
 It might be on your question now about what really the content of each repos and wikis are. Well they will be a quite similar with what we have described on this section.
 
-As you are aware this section is about a process of what we called as `info`. You may find that we started this wiki with the concept on how we are going to read an info, how we write the info, following with on how we manage and organize it till a kind of mapping system on the section that you are reading now.
+As you are aware this section is about a process of what we called as `info`. So we write on all aspect in related to the same topic in this wiki. 
 
-So we write on all aspect in related to the same topic in this wiki. The same thing will be done also to other sections follow to the concept.
+You may find that we started this wiki with the concept on how we are going to read an info, how we write the info, following with on how we manage and organize it till a kind of mapping system on the section that you are reading now.
+
+You will find that the same thing are done also to other sections but in a different topic as they have their own assignment on the system follow to the concept.
  
 Please take a look to the appearance of all the process on our _[[Project Map|maps]]_. 
 ***
