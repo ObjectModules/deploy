@@ -4,9 +4,9 @@
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Employment]] [[Prev|[Mapping]-Employment]]</th>
-      <th>[[:repeat:|[Mapping]-Merging]] [[Reload|[Mapping]-Merging]]</th>
-      <th>[[Next|[Mapping]-Settlement]] [[:arrow_forward:|[Mapping]-Settlement]]</th>
+      <th>[[:arrow_backward:|Mapping-Employment]] [[Prev|Mapping-Employment]]</th>
+      <th>[[:repeat:|Mapping-Merging]] [[Reload|Mapping-Merging]]</th>
+      <th>[[Next|Mapping-Settlement]] [[:arrow_forward:|Mapping-Settlement]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
@@ -15,14 +15,14 @@
 </table>
 #Merging
 
-Now we will explain about _a merging_ in our concept. The process of _[[The Last Employment|[Mapping]-Employment#the-last-one]]_. Please be prepared your self as this section is the hardest part to follow. 
+Now we will explain about _a merging_ in our concept. The process of _[[The Last Employment|Mapping-Employment#the-last-one]]_. Please be prepared your self as this section is the hardest part to follow. 
 
-_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Employment]]._
+_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping-Employment]]._
 
 ##Basic
 Let's put again all of the mappings here:
 ###Routine
-Mapping of _[[a routine|Mapping#routines]]_
+Mapping of _[[a routine|Mapping#Routine]]_
 ```  
 * Hungry will become an entry point
 * Food is what we need 
@@ -61,7 +61,7 @@ Let's map about the process of getting the best food for you the same way as you
 * Exit point  
 ```
 ##_The Fourth_
-Base the method of mapping, as you have found the the _[[previous section|[Mapping]-Employment]]_, we have defined _[[the three (3) employments|[Mapping]-Employment#the-three]]_ that represent the first three (3) of our mappings.
+Base the method of mapping, as you have found the the _[[previous section|Mapping-Employment]]_, we have defined _[[the three (3) employments|Mapping-Employment#the-three]]_ that represent the first three (3) of our mappings.
 
 So now it is left only the last one. Let put the mapping here:
 ```
@@ -72,11 +72,11 @@ So now it is left only the last one. Let put the mapping here:
 ```
 See that this mapping is also a process just the same as other mappings. However instead of looking for a kind of a process, this mapping is simply bring all other mapping into its process.
 
-Therefore the kind of employment that represent this mapping will also bring _[[the three (3) employments|[Mapping]-Employment#the-three]]_ into the employment task. In our concept we call this task as _a merging_.
+Therefore the kind of employment that represent this mapping will also bring _[[the three (3) employments|Mapping-Employment#the-three]]_ into the employment task. In our concept we call this task as _a merging_.
 
 This will make the number of all employments even. It will be also four (4) exactly the same number as when we do every step of mapping of this concept since the beginning.
 ###Diagrams
-Let put again all the diagrams that we have got until the _[[previous section|[Mapping]-Employment]]_.
+Let put again all the diagrams that we have got until the _[[previous section|Mapping-Employment]]_.
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)   
@@ -87,7 +87,7 @@ Let put again all the diagrams that we have got until the _[[previous section|[M
 See that there is a separated line. The line is separating a dotted line. Means they are the exit points. Here we can place another employment.  
 ![Flow](https://hyipworld.github.io/images/github/doc/figure10.png)  
 ###Start Puttting
-Let start put the Employment of [[HYIP Monitoring & Rating|[Mapping]-Employment#hyip-monitoring--rating]]
+Let start put the Employment of [[HYIP Monitoring & Rating|Mapping-Employment#hyip-monitoring--rating]]
 ![Flow](https://hyipworld.github.io/images/github/doc/figure11.png)  
 ###Breaking
 See that a _dotted line_ is meeting a _straight line_ which not correct. You cannot put another Employment that breaking in the middle into a process that are still not settled.  
@@ -97,7 +97,7 @@ See that the Employment has also a dotted line. Here you can break it, let try t
 ![Flow](https://hyipworld.github.io/images/github/doc/figure13.png)    
 Here you will get the correct merging!
 ##Collect
-If you have followed the _[[previous section|[Mapping]-Merging]]_ you can take the result as shown below. 
+If you have followed the _[[previous section|Mapping-Merging]]_ you can take the result as shown below. 
 ![Flow](https://hyipworld.github.io/images/github/doc/figure13.png)  
 Mapping of the process to collect the library in related with the food:
 ```
@@ -317,13 +317,13 @@ This is the result of the employment of _The Fourth_. The same as other mappings
 Until this point our section for _a merging_ is completed.
 
 #What's Next 
-You may see that the result is remain consist of _[[the three (3) employments|[Mapping]-Employment#the-three]]_. Each of them has _four (4) processes_ that remain become _twelve (12) processes_ all together. You may count also that _this twelve_ is remain consist of _six (6) main_ & _six (6) displaying_ processes. 
+You may see that the result is remain consist of _[[the three (3) employments|Mapping-Employment#the-three]]_. Each of them has _four (4) processes_ that remain become _twelve (12) processes_ all together. You may count also that _this twelve_ is remain consist of _six (6) main_ & _six (6) displaying_ processes. 
 
 **So where is _The Fourth_ then?**
 
 You may agree that _The Fourth_ is not even seen anywhere. 
 
-But in fact _The Fourth_ is _THE ONE_ that bring _[[the routines|[Mapping]-Routines]]_, _[[spreading|[Mapping]-Spreading]]_, _[[employments|[Mapping]-Employment]]_ all together on making all the process to become final and settled. 
+But in fact _The Fourth_ is _THE ONE_ that bring _[[the Routine|Mapping-Routine]]_, _[[spreading|Mapping-Spreading]]_, _[[employments|Mapping-Employment]]_ all together on making all the process to become final and settled. 
 
 So it means that _The Fourth_ is exist from the beginning till the end. _The Fourth_ is exist everywhere. From the smallest part till the biggest part. So _The Fourth_ is overall. 
 
@@ -333,7 +333,7 @@ You may found that on every step of process, we always gave you an example or mo
 
 Here we apologize for not to do so. Since we found this concept we always give our respect to _The Fourth_. So we leave this to you as you may find the sense way by yourself. 
 
-Let's continue on the _[[next section|[Mapping]-Settlement]]_.
+Let's continue on the _[[next section|Mapping-Settlement]]_.
 ***
 <table>
   <thead>
@@ -341,9 +341,9 @@ Let's continue on the _[[next section|[Mapping]-Settlement]]_.
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Employment]] [[Prev|[Mapping]-Employment]]</th>
-      <th>[[:repeat:|[Mapping]-Merging]] [[Reload|[Mapping]-Merging]]</th>
-      <th>[[Next|[Mapping]-Settlement]] [[:arrow_forward:|[Mapping]-Settlement]]</th>
+      <th>[[:arrow_backward:|Mapping-Employment]] [[Prev|Mapping-Employment]]</th>
+      <th>[[:repeat:|Mapping-Merging]] [[Reload|Mapping-Merging]]</th>
+      <th>[[Next|Mapping-Settlement]] [[:arrow_forward:|Mapping-Settlement]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
