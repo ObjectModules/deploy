@@ -107,7 +107,13 @@ Interaction between repositories shall need to be arranged in four (4) groups of
 #What's Next  
 You have come to the end of our concept. Hopefully you can follow and enable to understand to what we have explained.  
 
-Please check the appearance of all the process on our _[[Project Map|maps]]_. 
+It might be on your question now about what really the content of each repos and wikis are. Well they will be a quite similar with what we have described on this section.
+
+As you are aware this section is about a process of what we called as `info`. You may find that we started this wiki with the concept on how we are going to read an info, how we write the info, following with on how we manage and organize it till a kind of mapping system on the section that you are reading now.
+
+So we write on all aspect in related to the same topic in this wiki. The same thing will be done also to other sections follow to the concept.
+ 
+Please take a look to the appearance of all the process on our _[[Project Map|maps]]_. 
 ***
 <table>
   <thead>
