@@ -4,9 +4,9 @@
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Spreading]] [[Prev|[Mapping]-Spreading]]</th>
-      <th>[[:repeat:|[Mapping]-Employment]] [[Reload|[Mapping]-Employment]]</th>
-      <th>[[Next|[Mapping]-Merging]] [[:arrow_forward:|[Mapping]-Merging]]</th>
+      <th>[[:arrow_backward:|Mapping-Spreading]] [[Prev|Mapping-Spreading]]</th>
+      <th>[[:repeat:|Mapping-Employment]] [[Reload|Mapping-Employment]]</th>
+      <th>[[Next|Mapping-Merging]] [[:arrow_forward:|Mapping-Merging]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
@@ -16,13 +16,13 @@
 
 #Employment
 
-In this section we will explain about _an employment_ in our concept. The generated symbiotic processes from _[[a spreading|[Mapping]-Spreading]]_ as a further step of factoring _[[a routine|[Mapping]-Routines]]_ by a parameter. 
+In this section we will explain about _an employment_ in our concept. The generated symbiotic processes from _[[a spreading|Mapping-Spreading]]_ as a further step of factoring _[[a routine|Mapping-Routine]]_ by a parameter. 
 
-_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|[Mapping]-Spreading]]_.
+_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping-Spreading]]_.
 ##Basic
 Let's put again all of the mappings here:
 ###Routine
-Mapping of _[[a routine|Mapping#routines]]_
+Mapping of _[[a routine|Mapping#Routine]]_
 ```  
 * Hungry will become an entry point
 * Food is what we need 
@@ -65,13 +65,13 @@ We have explained that the behavior of our mapping will seeking another process 
 Here we will explain further how the spreading will continue to another process when a settlement is not going to be achieved. We will also explain how these processes are going to present the above 2nd and 3rd mapping.
   
 ###Rules
-A process is considered as settled whenever it can be run or return to the entry point and processed normally without any adjustment or modification into the routines.
+A process is considered as settled whenever it can be run or return to the entry point and processed normally without any adjustment or modification into the Routine.
 
 For instance, let say you have eat the food, then you got that it is not suit to your need. Means it is not the best one for you. So you need to do the searching again at which the process back to the entry point again.   
 
 
 ##1st Employment
-Let's put again the diagram we have got on _[[previous section|[Mapping]-Spreading]]_  
+Let's put again the diagram we have got on _[[previous section|Mapping-Spreading]]_  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png) 
 
 As you may see, every process will be a different. All is unique.  
@@ -313,23 +313,23 @@ Until this point our section for the employment is completed.
 #What's Next
 Combining all together we have now 3 kind of Employments which are:  
  
-_1. [[Info & World|[Mapping]-Employment#1st-employment]]: info - world_  
-_2. [[Monitor & Rating|[Mapping]-Employment#2nd-employment]]: monitor - rating_  
-_3. [[Script & Team|[Mapping]-Employment#3rd-employment]]: script - team_  
+_1. [[Info & World|Mapping-Employment#1st-employment]]: info - world_  
+_2. [[Monitor & Rating|Mapping-Employment#2nd-employment]]: monitor - rating_  
+_3. [[Script & Team|Mapping-Employment#3rd-employment]]: script - team_  
 
 ##The Three
 
-Employment can be all kind of process that you want. In our concept we just need _three (3) of employments_. One for routines, and the other two for the process in related to the parameter.
+Employment can be all kind of process that you want. In our concept we just need _three (3) of employments_. One for Routine, and the other two for the process in related to the parameter.
 
 You may see that each kind of these _three (3) of employments_ has four (4) processes, becoming twelve (12)  processes all together.
 ##The Last One
 We have pronounced since the beginning that all the mappings has always got four (4) parts. 
 
-Either mapping for _[[a routine|[Mapping]-Routines]]_, diagram for _[[a spreading|[Mapping]-Spreading]]_, also for an employment. All of them got always four (4) parts. So why we only take _three (3) of employments_. Not four (4)? 
+Either mapping for _[[a routine|Mapping-Routine]]_, diagram for _[[a spreading|Mapping-Spreading]]_, also for an employment. All of them got always four (4) parts. So why we only take _three (3) of employments_. Not four (4)? 
 
 Actually there is _The Fourth (4th)_. Stand as _The Last Employment_. A very special _Employment_. The key of all this concept. So let's stop the employments until this point. 
 
-We are going to bring you to _[[The Fourth|[Mapping]-Merging]]_.
+We are going to bring you to _[[The Fourth|Mapping-Merging]]_.
 ***
 <table>
   <thead>
@@ -337,9 +337,9 @@ We are going to bring you to _[[The Fourth|[Mapping]-Merging]]_.
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Spreading]] [[Prev|[Mapping]-Spreading]]</th>
-      <th>[[:repeat:|[Mapping]-Employment]] [[Reload|[Mapping]-Employment]]</th>
-      <th>[[Next|[Mapping]-Merging]] [[:arrow_forward:|[Mapping]-Merging]]</th>
+      <th>[[:arrow_backward:|Mapping-Spreading]] [[Prev|Mapping-Spreading]]</th>
+      <th>[[:repeat:|Mapping-Employment]] [[Reload|Mapping-Employment]]</th>
+      <th>[[Next|Mapping-Merging]] [[:arrow_forward:|Mapping-Merging]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
