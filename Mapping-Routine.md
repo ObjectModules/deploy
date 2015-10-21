@@ -5,8 +5,8 @@
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</th>
-      <th>[[:repeat:|[Mapping]-Routines]] [[Reload|[Mapping]-Routines]]</th>
-      <th>[[Next|[Mapping]-Spreading]] [[:arrow_forward:|[Mapping]-Spreading]]</th>
+      <th>[[:repeat:|[Mapping]-Routines]] [[Reload|Mapping-Routine]]</th>
+      <th>[[Next|[Mapping]-Spreading]] [[:arrow_forward:|Mapping-Spreading]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
@@ -163,12 +163,12 @@ Here is the process look likes:
 
 The process mitosis of a cell to become two (2) identical sets is consist of _four (4) steps_. 
 
-As we have explained above about the _[[behaviour|[Mapping]-Routines#behaviour]]_, in our concept the final result will also produce _two (2) identical sets_. 
+As we have explained above about the _[[behaviour|Mapping-Routine#behaviour]]_, in our concept the final result will also produce _two (2) identical sets_. 
 
-The step up to the final result will also consist of _four (4) steps_ which we call them as _[[spreading|[Mapping]-Spreading]], [[employment|[Mapping]-Employment]], [[merging|[Mapping]-Merging]] and [[settlement|[Mapping]-Settlement]]_. 
+The step up to the final result will also consist of _four (4) steps_ which we call them as _[[spreading|[Mapping]-Spreading]], [[employment|Mapping-Employment]], [[merging|Mapping-Merging]] and [[settlement|Mapping-Settlement]]_. 
 
 We are going to bring you to find them in more details one by one.  
-Let's start first on _[[Spreading|[Mapping]-Spreading]]_.
+Let's start first on _[[Spreading|Mapping-Spreading]]_.
 ***
 <table>
   <thead>
@@ -177,8 +177,8 @@ Let's start first on _[[Spreading|[Mapping]-Spreading]]_.
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
       <th>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</th>
-      <th>[[:repeat:|[Mapping]-Routines]] [[Reload|[Mapping]-Routines]]</th>
-      <th>[[Next|[Mapping]-Spreading]] [[:arrow_forward:|[Mapping]-Spreading]]</th>
+      <th>[[:repeat:|Mapping-Routines]] [[Reload|Mapping-Routines]]</th>
+      <th>[[Next|Mapping-Spreading]] [[:arrow_forward:|Mapping-Spreading]]</th>
       <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
