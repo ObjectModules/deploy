@@ -46,7 +46,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>info</code>|https://github.com/hyip/info]]</td>
       <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
-      <td scope="row">-</td>
+      <td scope="row"><a href="https://en.wikipedia.org/wiki/User:Hyipworld" target="_blank"><img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg"></a></td>
       <td scope="row">
 <a href="https://www.facebook.com/hyipproject"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="https://twitter.com/BeSweetRetweets"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
