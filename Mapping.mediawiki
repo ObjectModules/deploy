@@ -143,7 +143,7 @@ You may also identify the factors using ''<a href="https://en.wikipedia.org/wiki
 
 Here is the diagram is look like:
 
-[[https://tophyipmonitor.files.wordpress.com/2015/10/fishbone.png]]  
+[[https://tophyipmonitor.files.wordpress.com/2015/10/fishbone.png]]<br />
 One thing you shall note about ''[[Mapping-Spreading|a spreading]]'' is that our concept is work only with a new unique process. Whenever it found the same identical process than the one which is already take a place will do its own spreading and open a new place for the said process. 
 
 On the next step the spreading will take the ''[[Mapping-Comparison|a comparison]]'' process which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behavior as a unique process. 
@@ -203,8 +203,8 @@ How to define the best one then.  <br />
 No other way.. we have to match them to what we need and get them scored one by one.
 
 This is our point!  <br />
-That is where we want to go.  
-  
+That is where we want to go.
+
 As we have mentioned in our ''[[project description|https://github.com/hyip/info]]'', we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
 So how to become the best one then?<br />  
