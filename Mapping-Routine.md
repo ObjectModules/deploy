@@ -165,7 +165,7 @@ The process mitosis of a cell to become two (2) identical sets is consist of _fo
 
 As we have explained above about the _[[behaviour|Mapping-Routine#behaviour]]_, in our concept the final result will also produce _two (2) identical sets_. 
 
-The step up to the final result will also consist of _four (4) steps_ which we call them as _[[spreading|[Mapping]-Spreading]], [[employment|Mapping-Employment]], [[merging|Mapping-Merging]] and [[settlement|Mapping-Settlement]]_. 
+The step up to the final result will also consist of _four (4) steps_ which we call them as _[[spreading|Mapping-Spreading]], [[employment|Mapping-Employment]], [[merging|Mapping-Merging]] and [[settlement|Mapping-Settlement]]_. 
 
 We are going to bring you to find them in more details one by one.  
 Let's start first on _[[Spreading|Mapping-Spreading]]_.
