@@ -1,15 +1,15 @@
 <table>
   <thead>
     <tr>
-      <th>[[https://github.com/hyip/world/wiki/Introduction|:arrow_double_up:]]</th>
-      <th>[[https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction|:arrow_up_small:]]</th>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
       <th>[[Appearance|:arrow_backward:]] [[Appearance|Prev]]</th>
       <th>[[Mapping|:repeat:]] [[Mapping|Reload|]]</th>
       <th>[[Mapping-Routines|Next]] [[Mapping-Routines|:arrow_forward:]]</th>
       <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
       <th>[[https://github.com/hyip/rating|:arrow_down_small:]]</th>
-      <th>[[https://github.com/hyip/rating/wiki/Introduction|:arrow_double_down:]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
     <tr>
       <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">|https://github.com/hyip]]</td><td colspan="8">This documentation is courtesy of [[The HYIP Project|https://github.com/hyip]]. Find them all on [[Project Map|https://github.com/hyip/info/wiki/maps#project-map]].</td>   
