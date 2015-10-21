@@ -115,7 +115,7 @@ You may find that we started this wiki with the concept on how we are going to r
 
 You will find that the same thing are done also to other sections but in a different topic as they have their own assignment on the system follow to the concept.
  
-Please take a look to the appearance of all the process on our _[[Project Map|maps]]_. 
+Please take a look to the appearance of all the processes on our _[[Project Map|maps]]_. 
 ***
 <table>
   <thead>
