@@ -8,7 +8,7 @@
       <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
       <th>[[Appearance|:arrow_backward:]] [[Appearance|Prev]]</th>
       <th>[[Mapping|:repeat:]] [[Mapping|Reload|]]</th>
-      <th>[[Mapping-Routines|Next]] [[Mapping-Routines|:arrow_forward:]]</th>
+      <th>[[https://github.com/hyip/info/wiki/%5BMapping%5D-Routines|Next]] [[https://github.com/hyip/info/wiki/%5BMapping%5D-Routines|:arrow_forward:]]</th>
       <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
       <th>[[https://github.com/hyip/rating|:arrow_down_small:]]</th>
       <th>[[https://github.com/hyip/rating/wiki/Introduction|:arrow_double_down:]]</th>
