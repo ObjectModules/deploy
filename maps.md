@@ -4,7 +4,7 @@
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Overall]] [[Prev|[Mapping]-Overall]]</th>
+      <th>[[:arrow_backward:|Mapping-Overall]] [[Prev|Mapping-Overall]]</th>
       <th>[[:repeat:|maps#project-map]] [[Reload|maps]]</th>
       <th>Last :arrow_forward:</th>
       <th>[[Next|https://github.com/hyip/rating]] [[:fast_forward:|https://github.com/hyip/rating]]</th>
@@ -16,7 +16,7 @@
 #Project Map
 This page is the last page of our _[[current section|Home]]_. We have explained all about our _[[Mapping Concept|Mapping]]_. Here we are going to display the overall mapping by _[[diagram|maps#by-diagram]]_ and _[[tabulation|maps#by-tabulation]]_.  
 
-_Hopefully you can follow and able to understand to what we have explained. You may check if you have made clear yourself by answering [[questionnaire|[Mapping]-Overall#question-for-you]] on the last of this page._
+_Hopefully you can follow and able to understand to what we have explained. You may check if you have made clear yourself by answering [[questionnaire|maps#question-for-you]] on the last of this page._
 
 ##By Diagram
 Now it is your turn to familiar with the flow on our concept. If you have followed the _[[previous section|[Mapping]-Overall]]_ you can easily figure out the overall result as shown below.  
@@ -270,7 +270,7 @@ _Please carefully observe [[the mapping|maps#project-map]] before you answer or 
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|[Mapping]-Overall]] [[Prev|[Mapping]-Overall]]</th>
+      <th>[[:arrow_backward:|Mapping-Overall]] [[Prev|Mapping-Overall]]</th>
       <th>[[:repeat:|maps#project-map]] [[Reload|maps]]</th>
       <th>Last :arrow_forward:</th>
       <th>[[Next|https://github.com/hyip/rating]] [[:fast_forward:|https://github.com/hyip/rating]]</th>
