@@ -141,7 +141,6 @@ The power of ''[[Mapping#our-concept|this concept]]'' is that whenever a process
 
 You may also identify the factors using ''<a href="https://en.wikipedia.org/wiki/Ishikawa''diagram" target="''blank">Fishbone Diagram</a>'', put the potential ones in to the mapping. Spread it again when a solution is not going to be achieved. 
 
-
 Here is the diagram is look like:
 
 [[https://tophyipmonitor.files.wordpress.com/2015/10/fishbone.png]]  
@@ -177,42 +176,42 @@ Settled.
 Hopefully you have clear enough to what we have explained above. You see here that we are not going to give your best food, nor even an information about your best food. We just give you a method of how to get an information about your best food.
 
 == What is this project stand for? ==
-Why are we intend to do it then?  
-Simple, it is because you cannot find your best food on search engine, correct?  
+Why are we intend to do it then?  <br />
+Simple, it is because you cannot find your best food on search engine, correct?  <br />
 If you can find easily there then for sure this project will never come to exist. No point for us.
 
-Unfortunately we are not making this project to give an information about your best food.  
+Unfortunately we are not making this project to give an information about your best food.  <br />
 What is really people deeply seeking? A best food? Nope..   
 
-A search engine? You got some already.   
+A search engine? You got some already.   <br />
 We shall go wider.. 
 
-Money? Yes!   
-How to get the money then..  
+Money? Yes!   <br />
+How to get the money then..  <br />
 Of course  we have to do some business.  
 
 Which business then? 
 
-Here a big question mark is coming again. What shall we do?  
-Are we going for searching again? Of course not.  
+Here a big question mark is coming again. What shall we do?  <br />
+Are we going for searching again? Of course not.  <br />
 Let's do the same way as the method of finding your best food. 
 
-You are correct!  
+You are correct!  <br />
 We need to get a library of the business. Then we can find the best business.  
 
-How to define the best one then.  
+How to define the best one then.  <br />
 No other way.. we have to match them to what we need and get them scored one by one.
 
-This is our point!  
+This is our point!  <br />
 That is where we want to go.  
   
 As we have mentioned in our ''[[project description|https://github.com/hyip/info]]'', we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
 
-So how to become the best one then?  
+So how to become the best one then?<br />  
 Let's find first how people define about the best it self is. 
 
 == How to become the best? ==
-Most probably we can say that Google Still World's Most Popular Search Engine By Far.  
+Most probably we can say that Google Still World's Most Popular Search Engine By Far.  <br />
 Why is Google successful?  As usual, Let's try ''<a href="https://www.google.com/search?q=what+makes+google+the+best+search+engine" target="''blank">searching</a>'' again.
 
 Here are what we got. We put here just for example:
@@ -231,8 +230,8 @@ But when people is asked what the best search engine is, although there are so m
 
 ''We can define the best is when people have a different criteria but the same answer.''
 
-Are you with us? We would think so. But it sound unfair, right? Why?  
-You have already the answer to your best search engine easily.  
+Are you with us? We would think so. But it sound unfair, right? Why?  <br />
+You have already the answer to your best search engine easily.  <br />
 How about your best food? Do you have already find one? 
 
 This is the real world.
