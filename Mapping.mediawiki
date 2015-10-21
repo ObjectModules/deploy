@@ -1,18 +1,4 @@
-<table>
-  <thead>
-    <tr>
-      <th>[[https://github.com/hyip/world/wiki/Introduction|:arrow_double_up:]]</th>
-      <th>[[https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction|:arrow_up_small:]]</th>
-      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
-      <th>[[Appearance|:arrow_backward:]] [[Appearance|Prev]]</th>
-      <th>[[Mapping|:repeat:]] [[MappingReload|]]</th>
-      <th>[[[Mapping]-Routines|Next]] [[[Mapping]-Routines|:arrow_forward:]]</th>
-      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
-      <th>[[https://github.com/hyip/rating|:arrow_down_small:]]</th>
-      <th>[[https://github.com/hyip/rating/wiki/Introduction|:arrow_double_down:]]</th>
-    </tr>
-  </thead>
-</table>
+
 
 #Background
 You come to our section that we gonna explain our concept in detail about _[our project](https://github.com/hyip)_.  
