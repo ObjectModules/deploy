@@ -12,7 +12,7 @@
       <th>[[https://github.com/hyip/rating/wiki/Introduction|:arrow_double_down:]]</th>
     </tr>
     <tr>
-<td>:one:</td><td colspan="8">This documentation is courtesy of The HYIP Project. Find all on our Project Map.</td>   
+<td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">]]</td><td colspan="8">This documentation is courtesy of The HYIP Project. Find all on our Project Map.</td>   
 </tr>
   </thead>
 </table>
