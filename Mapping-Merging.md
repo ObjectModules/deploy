@@ -333,7 +333,7 @@ You may found that on every step of process, we always gave you an example or mo
 
 Here we apologize for not doing so. 
 
-Since the time when we found this concept, we always take our position to give our respect to _The Fourth_. So we leave this to you as you may find the sense way by yourself. 
+Since the time when we found this concept, we took our position to always give our respect to _The Fourth_. So we leave this to you as you may find the sense way by yourself. 
 
 Let's continue on the _[[next section|Mapping-Settlement]]_.
 ***
