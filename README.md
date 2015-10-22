@@ -91,6 +91,8 @@ We are going to present the result in the style as business scoring so even the 
 
 As you know that it is really difficult to find such a good services when you have only a little budget. In the contrary you have to be more wise and careful to decide whether you still doing a business with your current partner or go to other more reputable business partner when your budget is growing up. 
 
+How if we say that this does not rule out the possibility for us to provide of like best investment return, best short term investment, low risk investments, investment fund, some more valuable information like short term investment options, reliable advisor company etc. And that we are able to provide all of them with an accountable manner.
+
 That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on '*keyword base*' search result to the world.
 
 [![Target Mapping](https://cloud.githubusercontent.com/assets/8466209/10521251/060b2ce2-7399-11e5-9ac2-480b09c975cb.png)](https://github.com/hyip/info/wiki/Mapping)  
