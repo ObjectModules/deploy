@@ -317,7 +317,7 @@ This is the result of the employment of _The Fourth_. The same as other mappings
 Until this point our section for _a merging_ is completed.
 
 #What's Next 
-You may see that the result is remain consist of _[[the three (3) employments|Mapping-Employment#the-three]]_. Each of them has _four (4) processes_ that remain become _twelve (12) processes_ all together. You may count also that _this twelve_ is remain consist of _six (6) main_ & _six (6) displaying_ processes. 
+You may see that the result is remain consist of _[[the three (3) employments|Mapping-Employment#the-three]]_. Each of them has _four (4) processes_ that remain become _twelve (12) processes_ all together. You may count also that _this twelve_ is also remain consist of _six (6) main_ & _six (6) displaying_ processes. 
 
 **So where is _The Fourth_ then?**
 
