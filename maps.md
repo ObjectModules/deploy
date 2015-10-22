@@ -77,7 +77,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row"><code>main</code></td>
       <td>[[<code>rating</code>|https://github.com/hyip/rating]]</td>
       <td>[[<code>rating</code>|https://github.com/hyip/rating/wiki]]</td>
-      <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
+      <td scope="row"><img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20"></td>
       <td scope="row"><a href="https://github.com/google" target="_blank"><img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20"></a></td>
       <td scope="row">
 <a href="https://www.facebook.com/TopHyipsDotInfo"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
