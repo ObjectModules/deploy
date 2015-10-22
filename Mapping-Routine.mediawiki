@@ -6,33 +6,33 @@
     <tr>
       <td>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</td>
       <td>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</td>
-      <td>[[:rewind:|Introduction]] [[Intro|Introduction]]</td>
-      <td>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</td>
-      <td>[[:repeat:|Mapping-Routine]] [[Reload|Mapping-Routine]]</td>
-      <td>[[Next|Mapping-Spreading]] [[:arrow_forward:|Mapping-Spreading]]</td>
-      <td>[[Last|maps]] [[:fast_forward:|maps]]</td>
+      <td>[[Introduction|:rewind:]] [[Introduction|Intro]]</td>
+      <td>[[Mapping|:arrow_backward:]] [[Mapping|Prev]]</td>
+      <td>[[Mapping-Routine|:repeat:]] [[Mapping-Routine|Reload]]</td>
+      <td>[[Mapping-Spreading|Next]] [[Mapping-Spreading|:arrow_forward:]]</td>
+      <td>[[maps|Last]] [[maps|:fast_forward:]]</td>
       <td>[[:arrow_down_small:|https://github.com/hyip/rating]]</td>
       <td>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</td>
     </tr>
   </thead>
 </table>
-#Routines
+= Routines =
 
-We have explained the [[background of our concept|Mapping]]. Now we will explain the mapping of this project. We will start to explain about _a routine_. The basic mapping on our concept.
+We have explained the [[Mapping|background of our concept]]. Now we will explain the mapping of this project. We will start to explain about ''a routine''. The basic mapping on our concept.
 
-_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping]]._
-##Basic
+''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping|previous section]].''
+== Basic ==
 Let's put again all of the mappings here:
-###Routine
-Mapping of _[[a routine|Mapping#routines]]_
+=== Routine ===
+Mapping of ''[[Mapping#routines|a routine]]''
 ```  
 * Hungry will become an entry point
 * Food is what we need 
 * Eat is the process
 * Exit point  
 ```
-###Parameter
-Mappings by _[[a parameter|Mapping#parameter]]_  
+=== Parameter ===
+Mappings by ''[[Mapping#parameter|a parameter]]''  
 
 Mapping of the change to your routine process:
 ```
@@ -63,7 +63,7 @@ Let's map about the process of getting the best food for you the same way as you
 * Exit point  
 ```
 Here on this section, we will explain about our way on making the mapping using layout diagram. We are going to get it applicable for all the above mappings.
-##Symbol
+== Symbol ==
 See that all of the mappings are consist of four (4) elements which function in all of mappings are the same. So we can define a symbolization for each of elements. 
 
 Let's put this way:
@@ -71,10 +71,12 @@ Let's put this way:
 1. A straight line for entry point
 2. A text to define what we need
 4. A box to indicate the process 
-2. A Dotted line for exit point
-``` 
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure1.png)  
-The diagram as shown in _Figure 1_ has four (4) elements. Each represent each element inside the mapping. We just need to put _what we need_ as a text above the box. 
+2. A Dotted line for exit point  
+```
+
+<img src="https://hyipworld.github.io/images/github/doc/figure1.png"> 
+
+The diagram as shown in ''Figure 1'' has four (4) elements. Each represent each element inside the mapping. We just need to put ''what we need'' as a text above the box. 
 
 Let's take a look into each mapping one by one. You may find that in our case this text can be each of the followings:
 * `Food`
@@ -85,21 +87,21 @@ Let's take a look into each mapping one by one. You may find that in our case th
   
 To identify each of them, here we simply put the word `info` above the box. Basically it can be any word you want. Let's take this word to continue further.
 
-##Identification
+== Identification ==
 The further step is we are going to identify the process inside the box. This will become a repository. We shall better provide it with a documentation to describe the process. 
 
 So let's put a repo and a wiki inside the box.  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure2.png)  
-##Navigation  
+<img src="https://hyipworld.github.io/images/github/doc/figure2.png">  
+== Navigation ==
 As we are going to make a flow system on this project then in order to have a clear navigation we need to define a flowing diagram between the repo and the wiki. Let's put it this way:  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure3.png)
-##Displaying
+<img src="https://hyipworld.github.io/images/github/doc/figure3.png">
+== Displaying ==
 We will need also to display the process to the web. Here we make a separation between the flowing of the process to become able to be displayed. 
 
 We also need to give a different title of on it to be easily defined. So just simply make the same diagram but add another word to the process of this displaying. Here we put our project name `hyip` as our choice on the displaying process.   
 
 Here is now the diagram will look like:  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
+<img src="https://hyipworld.github.io/images/github/doc/figure4.png">  
 
 You can see that this mapping has four (4) elements, consist of two (2) repos and two (2) wikis. Just like the number of elements inside a routines.
 ```
@@ -111,14 +113,14 @@ You can see that this mapping has four (4) elements, consist of two (2) repos an
 
 Until this point the diagram for a mapping is completed.
 
-#What's Next
+= What Next =
 We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
 
-##Behaviour
+== Behaviour ==
 Now we are going to explain the behaviour of a mapping when a parameter is putting inside. On our case you are going to put `the best` as your parameter to your food.
  
-Let's take mapping of _Figure 4_ as _[[a routine|Mapping#routines]]_.  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
+Let's take mapping of ''Figure 4'' as ''[[Mapping#routines|a routine]]''.  
+<img src="https://hyipworld.github.io/images/github/doc/figure4.png"> 
 Let put again the mapping here.
 ```  
 * Hungry will become an entry point
@@ -132,12 +134,12 @@ Of course you remain eat whatever the food you have on hand. Since you insist to
 
 So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. 
 
-In our case this will consist of _two (2) identical_ processes of eating a food which are:
+In our case this will consist of ''two (2) identical'' processes of eating a food which are:
  
-* one process is remain eating _your original food_
-* another new process which is the process of eating _your best food_
+* one process is remain eating ''your original food''
+* another new process which is the process of eating ''your best food''
 
-As we have explained in the _[[settlement|Mapping#settlement]]_ about the behavior of this concept, whenever an identical process is founded then the system will call for _a comparison_.
+As we have explained in the ''[[Mapping#settlement|settlement]]'' about the behavior of this concept, whenever an identical process is founded then the system will call for ''a comparison''.
 
 This comparison process will let the one which giving a better result to take the position as the part of the main process. 
 
@@ -145,10 +147,10 @@ The one which is not taken in the position will keep remain stay but no more car
 
 Consider is a sense way. When you have already know what your best food is then for sure you have to choose whether you remain back to your original routines or change your routines to the new process.  
 
-_You cannot carry out both all together in the same time_.
+''You cannot carry out both all together in the same time''.
 
-##Mitosis
-In our concept another process means another mapping. We are going to explain further how a mapping will become _two (2)_. 
+== Mitosis ==
+In our concept another process means another mapping. We are going to explain further how a mapping will become ''two (2)''. 
 
 You won't believe us that this kind of process is happen as a normal case in our live. It is happen in your routines especially when you want something to get. 
 
@@ -158,21 +160,21 @@ It is even happen normally on a smallest thing that you can find it lives in thi
 
 What is the smallest thing? A cell right? Do you know how many cells in your body? Do you know how your body is having so many cells from you baby time till as big as you are right now? How many of them is making a separation from one (1) to become two (2) each day?
 
-So just to make it short, this kind of process can be identical with when a kind of cell is separated into _two (2) identical sets_, which people call the process as a _[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]_.
+So just to make it short, this kind of process can be identical with when a kind of cell is separated into ''two (2) identical sets'', which people call the process as a ''[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]''.
 
 Here is the process look likes:  
 
-![mitosos](https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg)  
+<img src="https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg">  
 
-The process mitosis of a cell to become two (2) identical sets is consist of _four (4) steps_. 
+The process mitosis of a cell to become two (2) identical sets is consist of ''four (4) steps''. 
 
-As we have explained above about the _[[behaviour|Mapping-Routine#behaviour]]_, in our concept the final result will also produce _two (2) identical sets_. 
+As we have explained above about the ''[[Mapping-Routine#behaviour|behaviour]]'', in our concept the final result will also produce ''two (2) identical sets''. 
 
-The step up to the final result will also consist of _four (4) steps_ which we call them as _[[spreading|Mapping-Spreading]], [[employment|Mapping-Employment]], [[merging|Mapping-Merging]] and [[settlement|Mapping-Settlement]]_. 
+The step up to the final result will also consist of ''four (4) steps'' which we call them as ''[[Mapping-Spreading|spreading]], [[Mapping-Employment|employment]], [[Mapping-Merging|merging]] and [[Mapping-Settlement|settlement]]''. 
 
 We are going to bring you to find them in more details one by one.  
-Let's start first on _[[Spreading|Mapping-Spreading]]_.
-***
+Let's start first on ''[[Mapping-Spreading|Spreading]]''.
+
 <table>
   <thead>
     <tr>
@@ -181,11 +183,11 @@ Let's start first on _[[Spreading|Mapping-Spreading]]_.
     <tr>
       <td>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</td>
       <td>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</td>
-      <td>[[:rewind:|Introduction]] [[Intro|Introduction]]</td>
-      <td>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</td>
-      <td>[[:repeat:|Mapping-Routine]] [[Reload|Mapping-Routine]]</td>
-      <td>[[Next|Mapping-Spreading]] [[:arrow_forward:|Mapping-Spreading]]</td>
-      <td>[[Last|maps]] [[:fast_forward:|maps]]</td>
+      <td>[[Introduction|:rewind:]] [[Introduction|Intro]]</td>
+      <td>[[Mapping|:arrow_backward:]] [[Mapping|Prev]]</td>
+      <td>[[Mapping-Routine|:repeat:]] [[Mapping-Routine|Reload]]</td>
+      <td>[[Mapping-Spreading|Next]] [[Mapping-Spreading|:arrow_forward:]]</td>
+      <td>[[maps|Last]] [[maps|:fast_forward:]]</td>
       <td>[[:arrow_down_small:|https://github.com/hyip/rating]]</td>
       <td>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</td>
     </tr>
