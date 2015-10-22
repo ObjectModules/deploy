@@ -1,15 +1,18 @@
 <table>
   <thead>
     <tr>
-      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
-      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
-      <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</th>
-      <th>[[:repeat:|Mapping-Routine]] [[Reload|Mapping-Routine]]</th>
-      <th>[[Next|Mapping-Spreading]] [[:arrow_forward:|Mapping-Spreading]]</th>
-      <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
-      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
-      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">|https://github.com/hyip]]</td><td colspan="8">This documentation is courtesy of [[The HYIP Project|https://github.com/hyip]]. Find all on [[Project Map|https://github.com/hyip/info/wiki/maps#project-map]].</td>   
+    </tr>
+    <tr>
+      <td>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</td>
+      <td>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</td>
+      <td>[[:rewind:|Introduction]] [[Intro|Introduction]]</td>
+      <td>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</td>
+      <td>[[:repeat:|Mapping-Routine]] [[Reload|Mapping-Routine]]</td>
+      <td>[[Next|Mapping-Spreading]] [[:arrow_forward:|Mapping-Spreading]]</td>
+      <td>[[Last|maps]] [[:fast_forward:|maps]]</td>
+      <td>[[:arrow_down_small:|https://github.com/hyip/rating]]</td>
+      <td>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</td>
     </tr>
   </thead>
 </table>
@@ -173,15 +176,18 @@ Let's start first on _[[Spreading|Mapping-Spreading]]_.
 <table>
   <thead>
     <tr>
-      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
-      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
-      <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</th>
-      <th>[[:repeat:|Mapping-Routine]] [[Reload|Mapping-Routine]]</th>
-      <th>[[Next|Mapping-Spreading]] [[:arrow_forward:|Mapping-Spreading]]</th>
-      <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
-      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
-      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">|https://github.com/hyip]]</td><td colspan="8">This documentation is courtesy of [[The HYIP Project|https://github.com/hyip]]. Find all on [[Project Map|https://github.com/hyip/info/wiki/maps#project-map]].</td>   
+    </tr>
+    <tr>
+      <td>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</td>
+      <td>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</td>
+      <td>[[:rewind:|Introduction]] [[Intro|Introduction]]</td>
+      <td>[[:arrow_backward:|Mapping]] [[Prev|Mapping]]</td>
+      <td>[[:repeat:|Mapping-Routine]] [[Reload|Mapping-Routine]]</td>
+      <td>[[Next|Mapping-Spreading]] [[:arrow_forward:|Mapping-Spreading]]</td>
+      <td>[[Last|maps]] [[:fast_forward:|maps]]</td>
+      <td>[[:arrow_down_small:|https://github.com/hyip/rating]]</td>
+      <td>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</td>
     </tr>
   </thead>
 </table>
