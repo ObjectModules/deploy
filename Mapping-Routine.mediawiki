@@ -119,8 +119,8 @@ Until this point the diagram for a mapping is completed.
 We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
 
 == Behavior ==
-Now we are going to explain the behavior of a mapping when a parameter is putting inside. On our case you are going to put `the best` as your parameter to your food.
- 
+Now we are going to explain the behavior of a mapping when a parameter is putting inside. On our case you are going to put `the best` as your parameter to your food. 
+
 Let's take mapping of ''Figure 4'' as ''[[Mapping#routines|a routine]]''.  
 <img src="https://hyipworld.github.io/images/github/doc/figure4.png"> 
 Let put again the mapping here.
