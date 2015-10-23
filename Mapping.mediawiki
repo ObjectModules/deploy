@@ -125,7 +125,8 @@ You may see that to get your best food the whole process is divided to ''four (4
 Check also that none of them is meaningless. These mappings all together are required to give the result that we are going to achieve. <br /> 
 <br />
 At this point it is a big chance that a best food for you out from the library is founded.. <br /> 
-So now you can eat your best food. Your life will become more valuable. <br />  
+So now you can eat your best food. Your life will become more valuable. <br />
+  
 Congrats!  
 
 == All back to routines ==
@@ -172,6 +173,7 @@ It will become the same routine just exactly the same as before we put the param
 ```
 See here everything is back to normal. <br /> 
 All back to routines.  <br />
+
 Settled.
 
 = What's Next =
