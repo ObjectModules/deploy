@@ -89,6 +89,13 @@ Four (4) elements.
 
 
 ##Application
+
+## All back to routine
+
+As we have explained since the beginning, in our concept whenever _[[a spreading|Mapping-Spreading]]_ is happen then the process will go to find the way to go back to its routine.
+
+_The Fourth_ is again _THE ONE_ that bring the merging by the _[[settlement|Mapping-Settlement]]_ back to _[[employments|Mapping-Employment]]_, _[[comparison|Mapping-Comparison]]_ back to _[[spreading|Mapping-Spreading]]_, _[[overall|Mapping-Overall]]_ back to _[[routine|Mapping-Routine]]_, all together on making all the process to become final and settled.
+
 Now we are going to bring you _[[Overall Mapping|Mapping-Overall]]_.
 ***
 <table>
