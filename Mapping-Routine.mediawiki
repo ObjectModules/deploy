@@ -18,7 +18,7 @@
 </table>
 = Routines =
 
-We have explained the [[Mapping|background of our concept]]. Now we will explain the mapping of this project. We will start to explain about ''a routine''. The basic mapping on our concept.
+We have explained the [[Mapping|background of our concept]]. Now we will explain the mapping of this project. We will start to explain about ''a routine''. Stand as the basic process in our concept.
 
 ''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping|previous section]].''
 == Basic ==
