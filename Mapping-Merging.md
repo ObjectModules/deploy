@@ -321,9 +321,7 @@ You may see that the result is remain consist of _[[the three (3) employments|Ma
 
 ## So where is _The Fourth_ then?
 
-You may agree that _The Fourth_ is not ever seen anywhere. 
-
-But in fact _The Fourth_ is _THE ONE_ that bring the _[[routine|Mapping-Routine]]_, _[[spreading|Mapping-Spreading]]_, _[[employments|Mapping-Employment]]_ all together.
+You may agree that _The Fourth_ is not ever seen anywhere. But in fact _The Fourth_ is _THE ONE_ that bring the _[[routine|Mapping-Routine]]_, _[[spreading|Mapping-Spreading]]_, _[[employments|Mapping-Employment]]_ all together.
 
 ## All back to routine
 
