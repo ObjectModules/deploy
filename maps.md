@@ -68,7 +68,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="https://twitter.com/hyip_world"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
 <a href="https://google.com/+TopHYIPsinfoGigafeed"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="https://tophyipmonitor.wordpress.com/hyip-world/"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>
+<a href="https://disqus.com/by/hyips/"><img src="https://lh3.googleusercontent.com/-cV5C51pgAbg/VipJ2i2FGLI/AAAAAAAAAVM/e8N-UaHMRpw/w20-h20-p/disqus.png"></a>
 <a href="https://about.me/hyip.world"><img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20"></a>
       </td>
     </tr>
