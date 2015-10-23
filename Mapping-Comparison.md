@@ -93,7 +93,7 @@ As we have explained since the beginning, in our concept whenever _[[a spreading
 
 So in this concept you may see the correlation between each process. From the _[[merging|Mapping-Merging]]_ by  _[[a settlement|Mapping-Settlement]]_ it is back to the _[[employment|Mapping-Employment]]_, by _[[a comparison|Mapping-Comparison]]_ it is back to the _[[spreading|Mapping-Spreading]]_.
 
-So we left only to explain about the last process called _[[an overall|Mapping-Overall]]_ which let the whole system back to _[[routine|Mapping-Routine]]_ and making all the process to become final and settled.
+So we left only to explain about the last process called _[[an overall|Mapping-Overall]]_ which let the whole system back to the _[[routine|Mapping-Routine]]_ and making all the process to become final and settled.
 
 Now we are going to bring you _[[Overall Mapping|Mapping-Overall]]_.
 ***
