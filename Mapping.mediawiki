@@ -25,7 +25,7 @@ Welcome to our Mapping Section. You come to our section that we gonna explain ou
 
 == Routine ==
 
-As we have named this project as ''[['The HYIP Project'|https://github.com/hyip]]'', we would like invite you to visit our ''[[blog page|https://tophyipmonitor.wordpress.com/hyip-world/]]'' that describe in general of what target that we want to achieve.  
+As we have named this project as ''[['The HYIP Project'|https://github.com/hyip]]'', we would like invite you to visit our ''[[blog page|https://tophyipmonitor.wordpress.com/hyip-project/]]'' that describe in general of what target that we want to achieve.  
 
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/08/hyip-target.jpg?w=700" alt="High Yard Investment Program">|https://tophyipmonitor.wordpress.com/hyip-world/]]
 
