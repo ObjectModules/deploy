@@ -109,7 +109,7 @@ You have come to the end of our concept. Hopefully you can follow and enable to 
 
 It might be on your question now about what really the content of each repos and wikis are. Well they will be a quite similar with what we have described on this section.
 
-As you are aware this section is about a process of what we called as `info`. We collect, create and write on the code to proceed all aspect, in related to its part on the concept, into the repo and explain it in the same configuration into the topics arrangement of its wiki. 
+As you are aware this section is about a process of what we called as `info`. We collect, create and write on the code to proceed all aspect into the repo in related to its part on the concept, and explain it in the same configuration into the topics arrangement of its wiki. 
 
 You may find that we started this wiki with the concept on how we are going to read an info, how we write the info, following with on how we manage and organize it till a kind of mapping system on the last chapter of the section that you are reading now.
 
