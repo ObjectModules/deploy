@@ -88,7 +88,6 @@ Four (4) repositories.
 Four (4) elements.  
 
 #What's Next
-## All back to routine
 
 As we have explained since the beginning, in our concept whenever _[[a spreading|Mapping-Spreading]]_ is happen then the process will go to find the way to go back to its routine.
 
