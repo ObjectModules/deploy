@@ -319,7 +319,7 @@ Until this point our section for _a merging_ is completed.
 #What's Next 
 You may see that the result is remain consist of _[[the three (3) employments|Mapping-Employment#the-three]]_. Each of them has _four (4) processes_ that remain become _twelve (12) processes_ all together. You may count also that _this twelve_ is also remain consist of _six (6) main_ & _six (6) displaying_ processes. 
 
-**So where is _The Fourth_ then?**
+## So where is _The Fourth_ then?
 
 You may agree that _The Fourth_ is not ever seen anywhere. 
 
@@ -334,6 +334,9 @@ You may found that on every step of process, we always gave you an example or mo
 Here we apologize for not doing so. 
 
 Since the time when we found this concept, we took our position to always give our respect to _The Fourth_. So we leave this to you as you may find such of the sense way by yourself. 
+
+## All back to routine
+
 
 Let's continue on the _[[next section|Mapping-Settlement]]_.
 ***
