@@ -323,7 +323,13 @@ You may see that the result is remain consist of _[[the three (3) employments|Ma
 
 You may agree that _The Fourth_ is not ever seen anywhere. 
 
-But in fact _The Fourth_ is _THE ONE_ that bring _[[the routine|Mapping-Routine]]_, _[[spreading|Mapping-Spreading]]_, _[[employments|Mapping-Employment]]_ all together on making all the process to become final and settled. 
+But in fact _The Fourth_ is _THE ONE_ that bring the _[[routine|Mapping-Routine]]_, _[[spreading|Mapping-Spreading]]_, _[[employments|Mapping-Employment]]_ all together.
+
+## All back to routine
+
+As we have explained since the beginning, in our concept whenever _[[a spreading|Mapping-Spreading]]_ is happen then the process will go to find the way to go back to its routine.
+
+You can find later that _The Fourth_ is again _THE ONE_ that bring the merging by the _[[settlement|Mapping-Settlement]]_ back to _[[employments|Mapping-Employment]]_, _[[comparison|Mapping-Comparison]]_ back to _[[spreading|Mapping-Spreading]]_, _[[overall|Mapping-Overall]]_ back to _[[routine|Mapping-Routine]]_, all together on making all the process to become final and settled.
 
 So it means that _The Fourth_ is exist from the beginning till the end. _The Fourth_ is exist everywhere. From the smallest thing till the biggest part. So _The Fourth_ is overall. 
 
@@ -334,9 +340,6 @@ You may found that on every step of process, we always gave you an example or mo
 Here we apologize for not doing so. 
 
 Since the time when we found this concept, we took our position to always give our respect to _The Fourth_. So we leave this to you as you may find such of the sense way by yourself. 
-
-## All back to routine
-
 
 Let's continue on the _[[next section|Mapping-Settlement]]_.
 ***
