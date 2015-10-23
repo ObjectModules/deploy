@@ -116,7 +116,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="https://twitter.com/tophyipmonitor"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
 <a href="https://google.com/+TopHyipMonitors"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="https://tophyipmonitor.wordpress.com/category/hyip-monitor/"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-<a href="https://github.com/hyip/rating/wiki/HYIP-Monitors"><img src="https://avatars0.githubusercontent.com/u/9919?v=20&s=20"></a>
+<a href="https://moz.com/community/users/4037583"><img src="http://lh3.googleusercontent.com/-PdKcIPUm-Cs/AAAAAAAAAAI/AAAAAAAALEI/HV6em-KZ-yU/s20-c-a/photo.jpg"></a>
 <a href="http://en.gravatar.com/tophyipmonitor"><img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20"></a>
       </td>
     </tr>
