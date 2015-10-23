@@ -92,7 +92,9 @@ Until this point the process of _a comparison_ is completed.
 #What's Next
 As we have explained since the beginning, in our concept whenever _[[a spreading|Mapping-Spreading]]_ is happen then the process will go to find the way to go back to its routine.
 
-So in this concept you may see the correlation between each process. From the _[[merging|Mapping-Merging]]_ by  _[[a settlement|Mapping-Settlement]]_ it is back to the _[[employment|Mapping-Employment]]_, by _[[a comparison|Mapping-Comparison]]_ it is back to the _[[spreading|Mapping-Spreading]]_.
+You may see that from the _[[merging|Mapping-Merging]]_ by  _[[a settlement|Mapping-Settlement]]_ it will be back to the _[[employment|Mapping-Employment]]_, and by _[[a comparison|Mapping-Comparison]]_ it will back to the _[[spreading|Mapping-Spreading]]_.
+
+So in this concept you may see the correlation between each process, it is a kind of one-to-one mapping between the processes like we have explained about the _[[`isogram`|Mapping#isogram]]_. 
 
 We left only now to explain about the last process called _[[an overall|Mapping-Overall]]_ which will let the whole system back to the _[[routine|Mapping-Routine]]_ and making all the processes to become final and settled.
 
