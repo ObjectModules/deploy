@@ -92,7 +92,7 @@ Four (4) elements.
 
 As we have explained since the beginning, in our concept whenever _[[a spreading|Mapping-Spreading]]_ is happen then the process will go to find the way to go back to its routine.
 
-_The Fourth_ is again _THE ONE_ that bring _[[merging|Mapping-Merging]]_ by the _[[settlement|Mapping-Settlement]]_ back to _[[employments|Mapping-Employment]]_, _[[comparison|Mapping-Comparison]]_ back to _[[spreading|Mapping-Spreading]]_, _[[overall|Mapping-Overall]]_ back to _[[routine|Mapping-Routine]]_, all together on making all the process to become final and settled.
+So in this concept you may see the correlation between each process. From the _[[merging|Mapping-Merging]]_ by  _[[a settlement|Mapping-Settlement]]_ it is back to the _[[employment|Mapping-Employment]]_, by _[[a comparison|Mapping-Comparison]]_ it is back to the _[[spreading|Mapping-Spreading]]_, and we left only the last process called _[[an overall|Mapping-Overall]]_ to go back back to _[[routine|Mapping-Routine]]_ which making all the process to become final and settled.
 
 Now we are going to bring you _[[Overall Mapping|Mapping-Overall]]_.
 ***
