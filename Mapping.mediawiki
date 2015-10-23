@@ -151,7 +151,7 @@ Here is the diagram is look like:
 [[https://tophyipmonitor.files.wordpress.com/2015/10/fishbone.png]]<br />
 One thing you shall note about ''[[Mapping-Spreading|a spreading]]'' is that our concept is work only with a new unique process. Whenever it found the same identical process than the one which is already take a place will do its own spreading and open a new place for the said process. 
 
-On the next step the spreading will take the ''[[Mapping-Comparison|a comparison]]'' process which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behavior as a unique process. 
+On the next step the spreading will take the further process for doing ''[[Mapping-Comparison|a comparison]]'' which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behavior as a unique process. 
 
 Therefore the concept will allow an unlimited number of spreading. You can see that you may go into a wider or a global problem solution whatever you want. Get them all into small pieces that you or your team can cope with. Settle them one by one.
 
