@@ -323,7 +323,7 @@ You may see that the result is remain consist of _[[the three (3) employments|Ma
 
 You may agree that _The Fourth_ is not ever seen anywhere. 
 
-But in fact _The Fourth_ is _THE ONE_ that bring _[[the Routine|Mapping-Routine]]_, _[[spreading|Mapping-Spreading]]_, _[[employments|Mapping-Employment]]_ all together on making all the process to become final and settled. 
+But in fact _The Fourth_ is _THE ONE_ that bring _[[the routine|Mapping-Routine]]_, _[[spreading|Mapping-Spreading]]_, _[[employments|Mapping-Employment]]_ all together on making all the process to become final and settled. 
 
 So it means that _The Fourth_ is exist from the beginning till the end. _The Fourth_ is exist everywhere. From the smallest thing till the biggest part. So _The Fourth_ is overall. 
 
