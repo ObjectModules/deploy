@@ -76,7 +76,7 @@ Therefore the kind of employment that represent this mapping will also bring _[[
 
 This will make the number of all employments even. It will be also four (4) exactly the same number as when we do every step of mapping of this concept since the beginning.
 ###Diagrams
-Counting sequentially from _a routine_, _a spreading_, and _an employment_ then _a merging_ stand as the fourth (4th) unique process in our concept.
+Counting sequentially from _a routine_, _a spreading_, and _an employment_ then _a merging_ stand as _the fourth (4th) unique process_ in our concept.
 
 See also that the 1st Employment is produced by _a spreading_, the 2nd and 3rd are produced by _an employment_. The basic different between with other employment is that _The Fourth is not produced_. 
 
