@@ -72,12 +72,14 @@ So now it is left only the last one. Let put the mapping here:
 ```
 See that this mapping is also a process just the same as other mappings. However instead of looking for a kind of a process, this mapping is simply bring all other mapping into its process.
 
-Therefore the kind of employment that represent this mapping will also bring _[[the three (3) employments|Mapping-Employment#the-three]]_ into the employment task. In our concept we call this task as _a merging_.
-
-The basic different between The Fourth with other employment is that The Fourth is not produced. See that the 1st Employment is produced by a spreading, the 2nd and 3rd are produced by an employment.
+Therefore the kind of employment that represent this mapping will also bring _[[the three (3) employments|Mapping-Employment#the-three]]_ into the employment task. In our concept we call this process as _a merging_.
 
 This will make the number of all employments even. It will be also four (4) exactly the same number as when we do every step of mapping of this concept since the beginning.
 ###Diagrams
+Counting sequentially from _a routine_, _a spreading_, and _an employment_ then _a merging_ stand as the fourth (4th) unique process in our concept.
+
+The basic different between The Fourth with other employment is that The Fourth is not produced. See also that the 1st Employment is produced by _a spreading_, the 2nd and 3rd are produced by _an employment_.
+
 Let put again all the diagrams that we have got until the _[[previous section|Mapping-Employment]]_.
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
