@@ -96,7 +96,7 @@ You may see that from the _[[merging|Mapping-Merging]]_ by _[[a settlement|Mappi
 
 So in this concept you may see the correlation between each process, it is a kind of one-to-one mapping between the processes like we have explained about the _[[`isogram`|Mapping#nonpattern-word-isogram]]_. 
 
-Now, we left only to explain you about the last process called _[[an overall|Mapping-Overall]]_ which will let the whole system back to the _[[routine|Mapping-Routine]]_ and making all the processes to become final and settled.
+Now, we left only to explain you about the last process called _[[an overall|Mapping-Overall]]_ which will let the whole system back to the _[[routine|Mapping-Routine]]_ and making final result of _[[a merging|Mapping-Merging]]_ to become settled.
 
 We are going to bring you to the _[[overall|Mapping-Overall]]_.
 ***
