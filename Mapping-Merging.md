@@ -78,7 +78,7 @@ This will make the number of all employments even. It will be also four (4) exac
 ###Diagrams
 Counting sequentially from _a routine_, _a spreading_, and _an employment_ then _a merging_ stand as the fourth (4th) unique process in our concept.
 
-The basic different between The Fourth with other employment is that The Fourth is not produced. See also that the 1st Employment is produced by _a spreading_, the 2nd and 3rd are produced by _an employment_.
+See also that the 1st Employment is produced by _a spreading_, the 2nd and 3rd are produced by _an employment_. The basic different between The Fourth with other employment is that The Fourth is not produced. 
 
 Let put again all the diagrams that we have got until the _[[previous section|Mapping-Employment]]_.
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
