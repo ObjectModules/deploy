@@ -262,7 +262,7 @@ The word of `isogram` it self is a good sample. It contains of ''seven (7)'' let
 
 We have found also that Google has made a single function using this word of `isogram`, this function is used worldwide since many years on their JavaScript Snippet called <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced" target="''blank">Advanced Configuration - Web Tracking (analytics.js)</a>.
 
-`The JavaScript tracking tag for Google's new Universal Analytics uses ''seven (7)'' letter variable names - i, s, o, g, r, a, m.`
+`The JavaScript tracking tag for Google's new Universal Analytics uses a letter variable names - i, s, o, g, r, a, m, and become ''seven (7)'' variables all together`
 
 Here is the function look likes:
 ```js
@@ -272,7 +272,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 ```
 
-We can breakdown the assignment on each letter as below
+We can breakdown the assignment on each of the ''seven (7)'' variables as below
 ```js
 letter i stand as window  
 letter s stand as document  
