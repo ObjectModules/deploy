@@ -17,7 +17,7 @@
 
 Now we will explain about _a merging_ in our concept. The process of _[[The Last Employment|Mapping-Employment#the-last-one]]_. Please be prepared your self as this section is the hardest part to follow. 
 
-_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping-Employment]]._
+_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping-Employment]]_.
 
 ##Basic
 Let's put again all of the mappings here:
@@ -73,6 +73,8 @@ So now it is left only the last one. Let put the mapping here:
 See that this mapping is also a process just the same as other mappings. However instead of looking for a kind of a process, this mapping is simply bring all other mapping into its process.
 
 Therefore the kind of employment that represent this mapping will also bring _[[the three (3) employments|Mapping-Employment#the-three]]_ into the employment task. In our concept we call this task as _a merging_.
+
+The basic different between The Fourth with other employment is that The Fourth is not produced. See that the 1st Employment is produced by a spreading, the 2nd and 3rd are produced by an employment.
 
 This will make the number of all employments even. It will be also four (4) exactly the same number as when we do every step of mapping of this concept since the beginning.
 ###Diagrams
