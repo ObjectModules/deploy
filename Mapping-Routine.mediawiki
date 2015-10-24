@@ -122,8 +122,7 @@ We are going to explain further what going on with a basic diagram when we are p
 Now we are going to explain the behavior of a mapping when a parameter is putting inside. On our case you are going to put `the best` as your parameter to your food. 
 
 Let's take mapping of ''Figure 4'' as ''[[Mapping#routines|a routine]]''.  
-<img src="https://hyipworld.github.io/images/github/doc/figure4.png">
- 
+<img src="https://hyipworld.github.io/images/github/doc/figure4.png"><br /> 
 Let's put again the mapping here.
 ```  
 * Hungry will become an entry point
