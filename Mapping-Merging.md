@@ -315,7 +315,7 @@ Till this point all of employment task is completed.
 </table>
 
 Let's turn the diagram the flow above left to right.   
-Try to compare with the replication figure of a _<a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank">DNA Replication</a>_ as shown below:    
+Try to compare with _<a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank">DNA Replication</a>_ as shown in the figure below:    
 <a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/DNA_replication_en.svg"></a> 
 
 ##Diagram
