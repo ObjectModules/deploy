@@ -25,7 +25,7 @@ We have explained the [[Mapping|background of our concept]]. Now we will explain
 ''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping|previous section]].''
 == Mapping ==
 Let's put again all of the mappings here:
-=== Basic ===
+=== Basic Mapping ===
 Mapping of ''[[Mapping#routines|a routine]]''
 ```  
 * Hungry will become an entry point
@@ -33,7 +33,7 @@ Mapping of ''[[Mapping#routines|a routine]]''
 * Eat is the process
 * Exit point  
 ```
-=== Parameter ===
+=== Mapping by Parameter ===
 Mappings by ''[[Mapping#parameter|a parameter]]''  
 
 Mapping of the change to your routine process:
