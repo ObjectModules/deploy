@@ -316,7 +316,10 @@ Till this point all of employment task is completed.
 
 Let's turn the diagram the flow above left to right.   
 Try to compare with _<a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank">DNA Replication</a>_ as shown in the figure below:    
-<a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/DNA_replication_en.svg"></a> 
+<a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/DNA_replication_en.svg"></a>  
+
+Are both identical? Is there a correlation between them?  
+We leave that question to yourself.  
 
 ##Diagram
 Let's clean the mapping that we get on the last result, now we can get it as shown below:  
