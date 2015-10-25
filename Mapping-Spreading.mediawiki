@@ -20,7 +20,7 @@
 </table>
 = Spreading =
 
-Here we will explain about ''a spreading;; in our concept. A process of factoring ''[[Mapping-Routine|a routine]]'' due to a parameter. Please be prepared your self as we are going deeper ongoing forward.
+Here we will explain about ''a spreading'' in our concept. A process of factoring ''[[Mapping-Routine|a routine]]'' due to a parameter. Please be prepared your self as we are going deeper ongoing forward.
 
 ''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Routine|previous section]]''.
 == Basic ==
@@ -193,9 +193,9 @@ Let's take a look at ''the arrows'' and ''the sequence numbers'' as shown on the
 
 Until this point our section for ''a spreading'' is completed.
 = What's Next =
-From that point you may see that _a routine_ will turn its behavior and seeking a way to return to its routine by calling another mappings that initiated by the spreading.<br />
+From that point you may see that ''a routine'' will turn its behavior and seeking a way to return to its routine by calling another mappings that initiated by the spreading.<br />
 
-So whenever that the result is meeting the requirement of _a query_ then process will end to a settlement which making all process that related to the parameter will no more required. On our case those process are `world` and `hyip world`.<br />
+So whenever that the result is meeting the requirement of ''a query'' then process will end to a settlement which making all process that related to the parameter will no more required. On our case those process are `world` and `hyip world`.<br />
 
 When the `world` and `hyip world` are no more carry out then all of the process is considered settled and will return to ''[[Mapping-Routine|its routine]]''. <br /> 
 [[<img src="https://hyipworld.github.io/images/github/doc/figure4.png">]] 
