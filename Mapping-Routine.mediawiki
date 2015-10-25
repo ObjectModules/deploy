@@ -23,7 +23,7 @@
 We have explained the [[Mapping|background of our concept]]. Now we will explain the mapping of this project. We will start to explain about ''a routine''. Stand as the basic process in our concept.
 
 ''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping|previous section]].''
-== Basic ==
+== Basic Mapping ==
 Let's put again all of the mappings here:
 === Routine ===
 Mapping of ''[[Mapping#routines|a routine]]''
@@ -64,7 +64,7 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
-== Diagram ==
+== Basic Diagram ==
 Here on this section, we will explain about our way on making the mapping using layout diagram. We are going to get it applicable for all the above mappings.
 === Symbol ===
 See that all of the mappings are consist of four (4) elements which function in all of mappings are the same. So we can define a symbolization for each of elements. 
