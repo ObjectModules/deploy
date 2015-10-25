@@ -103,13 +103,8 @@ See that a ''dotted line'' is meeting a ''straight line'' which not correct. You
 [[<img src="https://hyipworld.github.io/images/github/doc/figure12.png">]]  
 === Solution ===
 See that the Employment has also a dotted line. Here you can break it, let try to put ''the rating'' first into the Merging. So the result will be as below:   
-[[<img src="https://hyipworld.github.io/images/github/doc/figure13.png">]] 
+[[<img src="https://hyipworld.github.io/images/github/doc/figure13.png">]]<br />  
   
-Here you will get the correct merging!
-== Collect ==
-If you have followed the ''[[Mapping-Merging|previous section]]'' you can take the result as shown below. 
-[[<img src="https://hyipworld.github.io/images/github/doc/figure13.png">]] 
- 
 Mapping of the process to collect the library in related with the food:
 ```
 * Food will become an entry point
@@ -117,6 +112,7 @@ Mapping of the process to collect the library in related with the food:
 * Collect is the process
 * Exit point  
 ```
+Here you get the correct merging! 
 == Examine ==
 [[<img src="https://hyipworld.github.io/images/github/doc/figure14.png">]]<br /> 
 Then the digram will be as below:
