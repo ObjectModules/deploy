@@ -74,10 +74,10 @@ Let's take again the mapping of ''[[Mapping-Routine|a routine]]'':
 * Eat is the process
 * Exit point  
 ```
-As we have explained, whenever you put a parameter into ''a routine'' then it will call a process of factoring the routine in related to the parameter. We call this process as ''a spreading''.
+As we have explained, whenever you put a parameter into ''a routine'' then it will call a process of factoring the routine in related to the parameter. We call this process as ''a spreading''.<br />
 
-Due to the spreading then the mapping of ''a routine'' will change it behaviour to become ''two (2) sets'' of mappings which are not identical.
-<br />
+Due to the spreading then the mapping of ''a routine'' will change it behaviour to become ''two (2) sets'' of mappings which are not identical.<br />
+
 Here you can put whatever word you like to name the new mapping. However, based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned main process and one assigned displaying process
 * The title of the process shall be different with the Routine
@@ -85,10 +85,8 @@ Here you can put whatever word you like to name the new mapping. However, based 
 Now left the question on how to combine them, right? Here are the rules:  
 * The new process shall be able to be carried out along with the Routine
 * It shall be a clearly sign that a new process is being carried out of the Routine
-
 == Details ==
 Here we will will show the details of spreading by ''diagram'', ''sequence'' and ''tabulation''.
-
 === By Diagram ===
 Let's take again the diagram for ''[[Mapping-Routine|a routine]]'':<br />
 [[<img src="https://hyipworld.github.io/images/github/doc/figure4.png">]]<br />  
@@ -124,11 +122,10 @@ Take a copy of the figure then. Let's put this way:
 Now you can just consider a sense way when you search your best food as below:  
 * Above the line: ''You'' write<sup><i>1</i></sup> a query to ''Google Search'', then ''Google Search'' read<sup><i>2</i></sup> it
 * Below the line: ''Google'' write<sup><i>3</i></sup> a result then ''your computer'' read<sup><i>4</i></sup> and display it  
-
 === By Tabulation ===
-We are going also to describe the diagram in tabulation. 
+We are going also to describe the diagram in tabulation. <br />
 
-Let's put it this way:
+Let's put it this way:<br />
 
 Take the copy of of the sample of the sequence when you search your best food. Put back the name of our repos on the said sample. You will get it then as the following:
 * Above the line: `info` write<sup><i>1</i></sup> a query to `hyip world`, then `hyip world` read<sup><i>2</i></sup> it
@@ -195,34 +192,33 @@ Now you can tabulate the flow of the processes for _a spreading_ as shown below:
 Let's take a look at ''the arrows'' and ''the sequence numbers'' as shown on the table above. You may see that they are in the same flow as ''[[Mapping-Spreading#by-diagram|the diagram]]'' and ''[[Mapping-Spreading#by-sequence|the sequence]]''.
 
 Until this point our section for ''a spreading'' is completed.
-  
 = What's Next =
-From that point you may see that _a routine_ will turn its behavior and seeking a way to return to its routine by calling another mappings that initiated by the spreading. 
+From that point you may see that _a routine_ will turn its behavior and seeking a way to return to its routine by calling another mappings that initiated by the spreading.<br />
 
-So whenever that the result is meeting the requirement of _a query_ then process will end to a settlement which making all process that related to the parameter will no more required. On our case those process are `world` and `hyip world`.
+So whenever that the result is meeting the requirement of _a query_ then process will end to a settlement which making all process that related to the parameter will no more required. On our case those process are `world` and `hyip world`.<br />
 
-When the `world` and `hyip world` are no more carry out then all of the process is considered settled and will return to ''[[Mapping-Routine|its routine]]''.  
+When the `world` and `hyip world` are no more carry out then all of the process is considered settled and will return to ''[[Mapping-Routine|its routine]]''. <br /> 
 [[<img src="https://hyipworld.github.io/images/github/doc/figure4.png">]] 
 
 However when `a settlement` is not going to be achieved then the spreading will continue to another process which in our concept we call them as ''Employment'' and ''Merging''. 
 ##Potential Factor(s)
-As you may guess we are not going for a settlement on this point. We have explained that, in our case, you will not be able to find your best food on search engines.
+As you may guess we are not going for a settlement on this point. We have explained that, in our case, you will not be able to find your best food on search engines.<br />
 
-See again the tabulation of a spreading. Let's try to figure out which potential factor(s) that making your searching stack is.
+See again the tabulation of a spreading. Let's try to figure out which potential factor(s) that making your searching stack is.<br />
 
-Better we put the on the list one by one:
+Better we put the on the list one by one:<br />
 * You write a query of 'best food'. Seems nothing is wrong with it. Your search is correct.
 * Your computer read and displaying the result. Nothing is wrong with your computer.
 * Google receive your Query. Nothing is wrong with Google.
 * Google write the Result. That's it! The result is not meet your query.
 
-So we found a potential factor. Now just think how to solve this..
-See that the result is too big too choose. Is it might be your query?
+So we found a potential factor. Now just think how to solve this..<br />
+See that the result is too big too choose. Is it might be your query?<br />
 
-Yes may be your query. But you don't know what is the right query to find your best food.
+Yes may be your query. But you don't know what is the right query to find your best food.<br />
 So the only way is you have to put your query to some where else.
 
-So now you have another potential factor become two (2) all together.
+So now you have another potential factor become two (2) all together.<br />
 We have put the potential factors in bold. They are the '''Query''' and '''Result'''.
 
 Here you have define the factors. On this point you will need to find another tool or a person that will understand to your need. 
@@ -246,11 +242,11 @@ The employments for the Query is represent the 3rd mapping:
 * Examine is the process
 * Exit point  
 ```
-See that one mapping is doing a process making _a library_ which is concern to collect data to get it to become more specific '''Result''' to only related to the parameter. 
+See that one mapping is doing a process making _a library_ which is concern to collect data to get it to become more specific '''Result''' to only related to the parameter.<br /> 
 
-Another is doing a process of making more specific '''Query''' by examine to the one who is going to use it in related also to the parameter. 
+Another is doing a process of making more specific '''Query''' by examine to the one who is going to use it in related also to the parameter. <br />
 
-Therefore, in purpose of getting _a settlement_, both will goes to different processes but they work in related to the same parameter. So it will be a kind of ''Symbiotic Processes''.
+Therefore, in purpose of getting _a settlement_, both will goes to different processes but they work in related to the same parameter. So it will be a kind of ''Symbiotic Processes''.<br />
 
 Let's find it in more details on our ''[[Mapping-Employment|next section]]''.
 <table>
