@@ -315,8 +315,8 @@ Let's try to tabulate the flow diagram on the merging. Take only the arrow flow 
   </tbody>
 </table>
 
-If you find the same as above, now let's turn the diagram left to right (or see it from backside).   
-Try to compare with the process of _<a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank">DNA Replication</a>_ as shown in the figure below:    
+If you find the same as above, let's turn the diagram left to right (or see it from backside).   
+Now, try to compare with the process of _<a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank">DNA Replication</a>_ as shown in the figure below:    
 <a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/DNA_replication_en.svg"></a>  
 
 Are both identical? Is there a correlation between them?  
