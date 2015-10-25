@@ -64,9 +64,9 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
-= Diagram =
+== Diagram ==
 Here on this section, we will explain about our way on making the mapping using layout diagram. We are going to get it applicable for all the above mappings.
-== Symbol ==
+=== Symbol ===
 See that all of the mappings are consist of four (4) elements which function in all of mappings are the same. So we can define a symbolization for each of elements. 
 
 Let's put this way:
@@ -90,17 +90,17 @@ Let's take a look into each mapping one by one. You may find that in our case th
 
 To identify each of them, here we simply put the word `info` above the box. Basically it can be any word you want. Let's take this word to continue further.
 
-== Identification ==
+=== Identification ===
 The further step is we are going to identify the process inside the box. This will become a repository. We shall better provide it with a documentation to describe the process. 
 
 So let's put a repo and a wiki inside the box.  
 <img src="https://hyipworld.github.io/images/github/doc/figure2.png">  
 
-== Navigation ==
+=== Navigation ===
 As we are going to make a flow system on this project then in order to have a clear navigation we need to define a flowing diagram between the repo and the wiki. Let's put it this way:  
 <img src="https://hyipworld.github.io/images/github/doc/figure3.png">
 
-== Displaying ==
+=== Displaying ===
 We will need also to display the process to the web. Here we make a separation between the flowing of the process to become able to be displayed. 
 
 We also need to give a different title of on it to be easily defined. So just simply make the same diagram but add another word to the process of this displaying. Here we put our project name `hyip` as our choice on the displaying process.   
