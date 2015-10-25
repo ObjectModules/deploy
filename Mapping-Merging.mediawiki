@@ -75,10 +75,10 @@ So now it is left only the last one. Let put the mapping here:
 * Matching the data is the process
 * Exit point  
 ```
-See that this mapping is also a process just the same as other mappings. However instead of looking for a kind of a process, this mapping is simply bring all other mapping into its process.
-<br />
-Therefore the kind of employment that represent this mapping will also bring ''[[Mapping-Employment#the-three|the three (3) employments]]'' into the employment task. In our concept we call this process as ''a merging''.
-<br />
+See that this mapping is also a process just the same as other mappings. However instead of looking for a kind of a process, this mapping is simply bring all other mapping into its process.<br />
+
+Therefore the kind of employment that represent this mapping will also bring ''[[Mapping-Employment#the-three|the three (3) employments]]'' into the employment task. In our concept we call this process as ''a merging''.<br />
+
 This will make the number of all employments even. It will be also four (4) exactly the same number as when we do every step of mapping of this concept since the beginning.
 === Diagrams ===
 Counting sequentially from ''a routine'', ''a spreading'', and ''an employment'' then ''a merging'' stand as ''the fourth (4th) unique process'' in our concept.
