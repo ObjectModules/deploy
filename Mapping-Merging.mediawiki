@@ -86,7 +86,8 @@ Counting sequentially from ''a routine'', ''a spreading'', and ''an employment''
 See also that the 1st Employment is produced by ''a spreading'', the 2nd and 3rd are produced by ''an employment''. The basic different with other employments is that ''The Fourth is not produced''. 
 
 Let put again all the diagrams that we have got until the ''[[Mapping-Employment|previous section]]''.
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
+[[<img src="https://hyipworld.github.io/images/github/doc/figure4.png">]]
+![hyipworld flow]()  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)   
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure7.png)   
