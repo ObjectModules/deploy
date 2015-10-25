@@ -121,9 +121,10 @@ Until this point the diagram for a mapping is completed.
 = What Next =
 We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
 
-== Behavior ==
+== Behavior by Parameter ==
 Now we are going to explain the behavior of a mapping when a parameter is putting inside. On our case you are going to put `the best` as your parameter to your food. 
 
+=== Identical Sets ===
 Let's take mapping of ''Figure 4'' as ''[[Mapping#routines|a routine]]''.  
 <img src="https://hyipworld.github.io/images/github/doc/figure4.png"><br /> 
 Let's put again the mapping here.
@@ -143,6 +144,7 @@ In our case this will consist of ''two (2) identical'' processes of eating a foo
 * one process is remain eating ''your original food''
 * another new process which is the process of eating ''your best food''
 
+=== Comparison ===
 As we have explained in the ''[[Mapping#settlement|settlement]]'' about the behavior of this concept, whenever an identical process is founded then the system will call for ''a comparison''.
 
 This comparison process will let the one which giving a better result to take the position as the part of the main process. 
