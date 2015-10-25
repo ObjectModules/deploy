@@ -72,11 +72,11 @@ Let's take again the mapping of ''[[Mapping-Routine|a routine]]'':
 As we have explained, whenever you put a parameter into ''a routine'' then it will call a process of factoring the routine in related to the parameter. We call this process as ''a spreading''.
 
 Due to the spreading then the mapping of ''a routine'' will change it behaviour to become ''two (2) sets'' of mappings which are not identical.
- 
+<br />
 Here you can put whatever word you like to name the new mapping. However, based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned main process and one assigned displaying process
 * The title of the process shall be different with the Routine
-  
+<br />
 Now left the question on how to combine them, right? Here are the rules:  
 * The new process shall be able to be carried out along with the Routine
 * It shall be a clearly sign that a new process is being carried out of the Routine
