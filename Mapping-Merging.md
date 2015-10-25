@@ -121,11 +121,17 @@ Then we need also the mapping to examine your self to get your data:
 * Examine is the process
 * Exit point  
 ```
-Till this point all of employment task is completed.
+
 #Overall
+Let's clean the mapping that we get on the last result, now we can get it as shown below:  
+![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
+##Diagram
+This is the result of the employment of _The Fourth_. The same as other mappings, this result has also four (4) parts, each of them are separated by a line.
+
 ##Flow
+Now we are going to tabulate the flow of _a merging_ similar to what we done for each of the employments. Let's put again all of the tabulations here.
 ###1st Employment
-<table>
+<table> 
   <thead>
     <tr>
       <th>type</th>
@@ -321,11 +327,6 @@ Now, try to compare with the process of _<a href="https://en.wikipedia.org/wiki/
 
 Are both identical? Is there a correlation between them?  
 We leave the answer of this question to yourself.  
-
-##Diagram
-Let's clean the mapping that we get on the last result, now we can get it as shown below:  
-![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
-This is the result of the employment of _The Fourth_. The same as other mappings, this result has also four (4) parts, each of them are separated by a line.
 
 Until this point our section for _a merging_ is completed.
 
