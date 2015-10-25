@@ -147,7 +147,7 @@ In our case this will consist of ''two (2) identical'' processes of eating a foo
 === Comparison ===
 As we have explained in the ''[[Mapping#settlement|settlement]]'' about the behavior of this concept, whenever an identical process is founded then the system will call for ''[[Mapping-Comparison|a comparison]]''.
 
-This comparison process will let the one which giving a better result to take the position as the part of the main process. 
+This comparison process will let the one which giving a better result to take the position as the part of the main process via another process which we call as ''[[Mapping-Overall|an overall]]''. 
 
 The one which is not taken in the position will keep remain stay but no more carry out. It will stay as a reference or a back-up.
 
@@ -176,7 +176,7 @@ The process mitosis of a cell to become two (2) identical sets is consist of ''f
 === Identical Steps === 
 Identically with the process of ''a mitosis'', in our concept the final result will also produce ''two (2) identical sets'', which the step up to the final result itself will also consist of ''four (4) steps'' which we call them as ''[[Mapping-Spreading|spreading]]'', ''[[Mapping-Employment|employment]]'', ''[[Mapping-Merging|merging]]'' and ''[[Mapping-Settlement|settlement]]''. 
 
-As we have explained above about the ''[[Mapping-Routine#behavior-by-parameter|behavior]]'', this result ''two (2) identical sets'' will be followed by ''[[Mapping-Comparison|a comparison]]''.
+As we have explained above about the ''[[Mapping-Routine#behavior-by-parameter|behavior]]'', this result ''two (2) identical sets'' will be followed by ''[[Mapping-Comparison|a comparison]]'' and ''[[Mapping-Overall|an overall]]'' processes.
 
 We are going to bring you to find them in more details one by one.<br /> 
 Let's start first on ''[[Mapping-Spreading|spreading]]''.
