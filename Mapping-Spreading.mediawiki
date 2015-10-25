@@ -74,7 +74,7 @@ Let's take again the mapping of ''[[Mapping-Routine|a routine]]'':
 * Eat is the process
 * Exit point  
 ```
-As we have explained, whenever you put a parameter into ''a routine'' then it will call a process of factoring the routine in related to the parameter. We call this process as ''a spreading''.<br />
+As we have explained, whenever you put a parameter into ''a routine'' then it will call a process of factoring the routine in related to the parameter. We call this process as ''a spreading''.<br /><br />
 
 Due to the spreading then the mapping of ''a routine'' will change it behaviour to become ''two (2) sets'' of mappings which are not identical.<br />
 
