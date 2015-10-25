@@ -320,7 +320,7 @@ Try to compare with _<a href="https://en.wikipedia.org/wiki/DNA#Replication" tar
 <a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/DNA_replication_en.svg"></a>  
 
 Are both identical? Is there a correlation between them?  
-We leave that question to yourself.  
+We leave the answer of this question to yourself.  
 
 ##Diagram
 Let's clean the mapping that we get on the last result, now we can get it as shown below:  
