@@ -183,7 +183,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="https://github.com/hyipscripts"><img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20"></a>
 <a href="http://sourceforge.net/u/hyipscript/profile/"><img src="https://avatars1.githubusercontent.com/u/11951705?v=3&s=20"></a>
       </td>
-      <td scope="row"><a href="https://sourceforge.net/projects/hyipscript/"><img src="https://sourceforge.net/favicon.ico"></a></td>
+      <td scope="row"><a href="https://sourceforge.net/projects/hyipscript/"><img src="https://lh3.googleusercontent.com/-RS9W3yX70kQ/Vi0QinVIOsI/AAAAAAAAAX4/AsHcKfYT54c/s20/sf-logo.png"></a></td>
       <td scope="row">
 <a href="https://www.facebook.com/hyipscripts"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
