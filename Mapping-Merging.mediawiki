@@ -360,3 +360,24 @@ Here we apologize for not doing so.
 Since the time when we found this concept, we took our position to always give our respect to ''The Fourth''. So we leave this to you as you may find such of the sense way by yourself. 
 
 Let's continue on the ''[[Mapping-Settlement|next section]]''.
+
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This wiki is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find them all on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Employment|:arrow_backward:]] [[Mapping-Employment|Prev]]</th>
+      <th>[[Mapping-Merging|:repeat:]] [[Mapping-Merging|Reload]]</th>
+      <th>[[Mapping-Settlement|Next]] [[Mapping-Settlement|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>
