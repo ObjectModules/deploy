@@ -62,7 +62,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
       <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
-      <td scope="row">[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]]  <a href="http://blog.tophyips.info/"><img src="http://lh3.googleusercontent.com/-dK5aS3tBne0/AAAAAAAAAAI/AAAAAAAAL-Q/wktL27CoDNE/s20-c-a/photo.jpg"></a>
+      <td scope="row">[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]]  <a href="https://github.com/github" target="_blank"><img src="https://avatars3.githubusercontent.com/u/9919?v=3&s=20"></a>
       </td>
       <td scope="row">
 <a href="https://www.facebook.com/hyipworld"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
