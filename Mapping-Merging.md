@@ -313,8 +313,10 @@ Till this point all of employment task is completed.
     <tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td><strong><i>Q</i></strong></td><td>2</td><td>2</td><td>2</td><td>2</td></tr>
   </tbody>
 </table>
-Let's clean the mapping that we get on the last result, now we can get it as shown below:  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/DNA_replication_en.svg"> 
+
+Let's turn the diagram the flow above left to right. 
+Try to compare with the replication figure of a _<a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank">DNA Replication</a>_ as shown below:  
+<a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/DNA_replication_en.svg"></a> 
 
 ##Diagram
 Let's clean the mapping that we get on the last result, now we can get it as shown below:  
