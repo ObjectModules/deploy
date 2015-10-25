@@ -315,7 +315,7 @@ Let's try to tabulate the flow diagram on the merging. Take only the arrow flow 
   </tbody>
 </table>
 
-Let's turn the diagram the flow above left to right.   
+If you find the same as above, now let's turn the diagram left to right (or see it from backside).   
 Try to compare with the process of _<a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank">DNA Replication</a>_ as shown in the figure below:    
 <a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/DNA_replication_en.svg"></a>  
 
