@@ -199,7 +199,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>team|https://github.com/hyipteam/hyipteam.github.io]]</code></td>
       <td>[[<code>team</code>|https://github.com/hyipteam/hyipteam.github.io/wiki]]</td>
       <td scope="row"><img src="https://avatars2.githubusercontent.com/u/11927583?v=10&s=20"></td>
-      <td scope="row">[[:house:|https://github.com/hyipteam]] [[:cinema:|http://team.hyip.world/]] <a href="http://blog.tophyips.info/" target="_blank"><img src="http://lh3.googleusercontent.com/-dK5aS3tBne0/AAAAAAAAAAI/AAAAAAAAL-Q/wktL27CoDNE/s20-c-a/photo.jpg"></a>
+      <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] <a href="https://confluence.atlassian.com/bitbucket/publishing-a-website-on-bitbucket-cloud-221449776.html" target="_blank"><img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20"></a>
       </td>
       <td scope="row">
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
