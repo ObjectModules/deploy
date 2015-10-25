@@ -145,7 +145,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>team</code>|https://github.com/hyip/team]]</td>
       <td>[[<code>team</code>|https://github.com/hyip/team/wiki]]</td>
       <td scope="row"><img src="https://avatars2.githubusercontent.com/u/11927583?v=10&s=20"></a>
-<a href="http://sourceforge.net/u/hyipscript/profile/"><img src="https://avatars1.githubusercontent.com/u/11951705?v=3&s=20"></a>
+<a href="https://bitbucket.org/hyips/"><img src="https://avatars2.githubusercontent.com/u/11951884?v=3&s=20"></a>
       </td>
       <td scope="row"><a href="https://github.com/atlassian" target="_blank"><img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20"></a></td>
       <td scope="row">
