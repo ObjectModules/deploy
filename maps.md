@@ -230,7 +230,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io]]</td>
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io/wiki]]</td>
       <td scope="row"><img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20"></td>
-      <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] <a href="https://www.google.com/intx/en_sg/work/apps/business/products/sites/" target="_blank"><img src="http://lh3.googleusercontent.com/-dK5aS3tBne0/AAAAAAAAAAI/AAAAAAAAL-Q/wktL27CoDNE/s20-c-a/photo.jpg"></a>
+      <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] <a href="https://www.google.com/intx/en_sg/work/apps/business/products/sites/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20"></a>
       </td>
       <td scope="row">
 <a href="https://www.facebook.com/hyipblogs"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
