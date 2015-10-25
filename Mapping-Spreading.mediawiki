@@ -117,7 +117,7 @@ See also _the separated line_ on the diagram of ''Figure 5''. We are going to de
 
 Take a copy of the figure then. Let's put this way:
 * Change the `info` as _yourself_, so `hyip info` will stand as _your computer_
-* Change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. 
+* Change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself.<br />
 
 Now you can just consider a sense way when you search your best food as below:  
 * Above the line: ''You'' write<sup><i>1</i></sup> a query to ''Google Search'', then ''Google Search'' read<sup><i>2</i></sup> it
@@ -131,7 +131,7 @@ Take the copy of of the sample of the sequence when you search your best food. P
 * Above the line: `info` write<sup><i>1</i></sup> a query to `hyip world`, then `hyip world` read<sup><i>2</i></sup> it
 * Below the line: `world` write<sup><i>3</i></sup> a result then `hyip info` read<sup><i>4</i></sup> and display it
 
-Now you can tabulate the flow of the processes for _a spreading_ as shown below:
+Now you can tabulate the flow of the processes for ''a spreading'' as shown below:
 <table>
   <thead>
     <tr>
