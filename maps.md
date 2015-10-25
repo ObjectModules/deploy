@@ -148,7 +148,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="https://tophyipmonitor.wordpress.com/category/hyip-forum/"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
-<a href="https://github.com/Quora-Users"><img src="https://avatars0.githubusercontent.com/u/6815105?v=20&s=20"></a>
+<a href="https://www.quora.com/profile/Hyip-Gigafeed"><img src="https://avatars0.githubusercontent.com/u/6815105?v=20&s=20"></a>
 <a href="http://mashable.com/people/hyip/"><img src="https://avatars3.githubusercontent.com/u/173374?v=3&s=20"></a>
       </td>
     </tr>
