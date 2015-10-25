@@ -103,9 +103,8 @@ See that a ''dotted line'' is meeting a ''straight line'' which not correct. You
 [[<img src="https://hyipworld.github.io/images/github/doc/figure12.png">]]  
 === Solution ===
 See that the Employment has also a dotted line. Here you can break it, let try to put ''the rating'' first into the Merging. So the result will be as below:   
-[[<img src="https://hyipworld.github.io/images/github/doc/figure13.png">]]<br />  
-  
-Mapping of the process to collect the library in related with the food:
+[[<img src="https://hyipworld.github.io/images/github/doc/figure13.png">]]<br />
+Mappin of the process to collect the library in related with the food:
 ```
 * Food will become an entry point
 * Library is what we need 
