@@ -121,7 +121,8 @@ Mapping of the process to collect the library in related with the food:
 [[<img src="https://hyipworld.github.io/images/github/doc/figure14.png">]]
   
 Then the digram will be as below:
-[[<img src="https://hyipworld.github.io/images/github/doc/figure15.png">]]  
+[[<img src="https://hyipworld.github.io/images/github/doc/figure15.png">]]
+  
 Then we need also the mapping to examine your self to get your data:
 ```
 * You will become an entry point
