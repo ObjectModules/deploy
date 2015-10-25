@@ -21,7 +21,7 @@ Here we will explain about ''a spreading;; in our concept. A process of factorin
 == Basic ==
 Let's put again all of the mappings here:
 === Routine ===
-Mapping of ''[[Mapping-Routine|a routine|]]_
+Mapping of ''[[Mapping-Routine|a routine|]]''
 ```  
 * Hungry will become an entry point
 * Food is what we need 
@@ -84,9 +84,9 @@ Now left the question on how to combine them, right? Here are the rules:
 == Details ==
 Here we will will show the details of spreading by ''diagram'', ''sequence'' and ''tabulation''.
 
-###By Diagram
-Let's take again the diagram for ''[[Mapping-Routine|a routine]]'':
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)   
+=== By Diagram ===
+Let's take again the diagram for ''[[Mapping-Routine|a routine]]'':<br />
+[[<img src="https://hyipworld.github.io/images/github/doc/figure4.png">]]<br />  
 To show the spreading by diagram simply make it a copy of the Routine, put another word to replace the word of `info`, let's take the word of `world` then. You will got 2 mapping now, one for your Routine and another one for the new process. 
 
 Let's follow ''[[Mapping-Spreading#rules|the rules]]'' one by one. 
@@ -94,7 +94,7 @@ Let's follow ''[[Mapping-Spreading#rules|the rules]]'' one by one.
 So now you have two mapping with a different process. Then, on fulfilling the rule on making a clear sign that a new process is being carried out, just put ''a separated line'' in between.
 
 So when applying those steps all together then the diagram will be shown as below:  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
+[[<img src="https://hyipworld.github.io/images/github/doc/figure5.png">]]   
 
 This diagram will present all the mappings by ''[[Mapping#parameter|a parameter]]''  
 
@@ -110,15 +110,15 @@ Mapping of the change to your routine process when you search your best food:
 * Looking is the process
 * Exit point  
 ```
-See also _the separated line_ on the diagram of _Figure 5_. We are going to describe this diagram in sequence on what is going on the above and below the line when you search your best food. 
+See also _the separated line_ on the diagram of ''Figure 5''. We are going to describe this diagram in sequence on what is going on the above and below the line when you search your best food. 
 
 Take a copy of the figure then. Let's put this way:
 * Change the `info` as _yourself_, so `hyip info` will stand as _your computer_
 * Change `hyip world` as _Google Search_, so the `world` will stand as _Google_ itself. 
 
 Now you can just consider a sense way when you search your best food as below:  
-* Above the line: _You_ write<sup><i>1</i></sup> a query to ''Google Search'', then _Google Search_ read<sup><i>2</i></sup> it
-* Below the line: _Google_ write<sup><i>3</i></sup> a result then ''your computer'' read<sup><i>4</i></sup> and display it  
+* Above the line: ''You'' write<sup><i>1</i></sup> a query to ''Google Search'', then ''Google Search'' read<sup><i>2</i></sup> it
+* Below the line: ''Google'' write<sup><i>3</i></sup> a result then ''your computer'' read<sup><i>4</i></sup> and display it  
 
 === By Tabulation ===
 We are going also to describe the diagram in tabulation. 
@@ -197,7 +197,7 @@ From that point you may see that _a routine_ will turn its behavior and seeking 
 So whenever that the result is meeting the requirement of _a query_ then process will end to a settlement which making all process that related to the parameter will no more required. On our case those process are `world` and `hyip world`.
 
 When the `world` and `hyip world` are no more carry out then all of the process is considered settled and will return to ''[[Mapping-Routine|its routine]]''.  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png) 
+[[<img src="https://hyipworld.github.io/images/github/doc/figure4.png">]] 
 
 However when `a settlement` is not going to be achieved then the spreading will continue to another process which in our concept we call them as ''Employment'' and ''Merging''. 
 ##Potential Factor(s)
@@ -222,7 +222,7 @@ We have put the potential factors in bold. They are the '''Query''' and '''Resul
 
 Here you have define the factors. On this point you will need to find another tool or a person that will understand to your need. 
 
-So there shall be a process of finding a tool or a person or other media that is required to achieve a settlement. In our concept we call this process as ''an employment''_.
+So there shall be a process of finding a tool or a person or other media that is required to achieve a settlement. In our concept we call this process as ''an employment''.
 
 == Symbiotic ==
 Follow to our explanation above, there will be two kind of employments called. One to settle the Query and another one for the Result. You may see also that each employment will represent the 2nd and the 3rd mapping of a Routine by a parameter.
