@@ -189,7 +189,7 @@ Now you can tabulate the flow of the processes for ''a spreading'' as shown belo
     </tr>
   </tbody>
 </table>
-Let's take a look at ''the arrows'' and ''the sequence numbers'' as shown on the table above. You may see that they are in the same flow as ''[[Mapping-Spreading#by-diagram|the diagram]]'' and ''[[Mapping-Spreading#by-sequence|the sequence]]''.
+Let's take a look at ''the arrows'' and ''the sequence numbers'' as shown on the table above. You may see that they are in the same flow as ''[[Mapping-Spreading#by-diagram|the diagram]]'' and ''[[Mapping-Spreading#by-sequence|the sequence]]''.<br />
 
 Until this point our section for ''a spreading'' is completed.
 = What's Next =
@@ -213,10 +213,10 @@ Better we put the on the list one by one:<br />
 * Google write the Result. That's it! The result is not meet your query.
 
 So we found a potential factor. Now just think how to solve this..<br />
-See that the result is too big too choose. Is it might be your query?<br />
+See that the result is too big too choose. Is it might be your query?<br /><br />
 
 Yes may be your query. But you don't know what is the right query to find your best food.<br />
-So the only way is you have to put your query to some where else.
+So the only way is you have to put your query to somewhere else.
 
 So now you have another potential factor become two (2) all together.<br />
 We have put the potential factors in bold. They are the '''Query''' and '''Result'''.
@@ -242,7 +242,7 @@ The employments for the Query is represent the 3rd mapping:
 * Examine is the process
 * Exit point  
 ```
-See that one mapping is doing a process making _a library_ which is concern to collect data to get it to become more specific '''Result''' to only related to the parameter.<br /> 
+See that one mapping is doing a process making ''a library'' which is concern to collect data to get it to become more specific '''Result''' to only related to the parameter.<br /><br /> 
 
 Another is doing a process of making more specific '''Query''' by examine to the one who is going to use it in related also to the parameter.<br />
 
