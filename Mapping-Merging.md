@@ -299,7 +299,7 @@ Till this point all of employment task is completed.
   </tbody>
 </table>
 ###Overall Flow Tabulation
-Let's to tabulate the flow diagram on the merging. Take only the arrow flow on each employment and connect them each others. You will find then the flow as shown below:
+Let's try to tabulate the flow diagram on the merging. Take only the arrow flow on each employments and connect them each others. You will find then the flow as shown below:
 <table>
   <tbody>
     <tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td><strong><i>R</i></strong></td><td>3</td><td>3</td><td>3</td><td>3</td></tr>
