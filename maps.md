@@ -225,7 +225,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] </td>
       <td scope="row">
 <a href="https://www.facebook.com/hyipblogs"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
-<a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
+<a href="https://twitter.com/#be_sweet_rt"><img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20"></a>
 <a href="maps#project-map"><img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20"></a>
 <a href="https://tophyipmonitor.wordpress.com/hyip-business/"><img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20"></a>
 <a href="http://tophyipmonitor.tumblr.com/"><img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20"></a>
