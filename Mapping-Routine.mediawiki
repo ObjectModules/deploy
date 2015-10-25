@@ -145,7 +145,7 @@ In our case this will consist of ''two (2) identical'' processes of eating a foo
 * another new process which is the process of eating ''your best food''
 
 === Comparison ===
-As we have explained in the ''[[Mapping#settlement|settlement]]'' about the behavior of this concept, whenever an identical process is founded then the system will call for ''a comparison''.
+As we have explained in the ''[[Mapping#settlement|settlement]]'' about the behavior of this concept, whenever an identical process is founded then the system will call for ''[[Mapping-Comparison|a comparison]]''.
 
 This comparison process will let the one which giving a better result to take the position as the part of the main process. 
 
