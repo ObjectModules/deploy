@@ -244,9 +244,9 @@ The employments for the Query is represent the 3rd mapping:
 ```
 See that one mapping is doing a process making _a library_ which is concern to collect data to get it to become more specific '''Result''' to only related to the parameter.<br /> 
 
-Another is doing a process of making more specific '''Query''' by examine to the one who is going to use it in related also to the parameter. <br />
+Another is doing a process of making more specific '''Query''' by examine to the one who is going to use it in related also to the parameter.<br />
 
-Therefore, in purpose of getting _a settlement_, both will goes to different processes but they work in related to the same parameter. So it will be a kind of ''Symbiotic Processes''.<br />
+Therefore, in purpose of getting ''a settlement'', both will goes to different processes but they work in related to the same parameter. So it will be a kind of ''Symbiotic Processes''.<br />
 
 Let's find it in more details on our ''[[Mapping-Employment|next section]]''.
 <table>
