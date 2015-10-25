@@ -86,29 +86,28 @@ Counting sequentially from ''a routine'', ''a spreading'', and ''an employment''
 See also that the 1st Employment is produced by ''a spreading'', the 2nd and 3rd are produced by ''an employment''. The basic different with other employments is that ''The Fourth is not produced''. 
 
 Let put again all the diagrams that we have got until the ''[[Mapping-Employment|previous section]]''.
-[[<img src="https://hyipworld.github.io/images/github/doc/figure4.png">]]
-![hyipworld flow]()  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)   
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure7.png)   
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure8.png)   
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure9.png)   
+[[<img src="https://hyipworld.github.io/images/github/doc/figure4.png">]] 
+[[<img src="https://hyipworld.github.io/images/github/doc/figure5.png">]]  
+[[<img src="https://hyipworld.github.io/images/github/doc/figure6.png">]]   
+[[<img src="https://hyipworld.github.io/images/github/doc/figure7.png">]]   
+[[<img src="https://hyipworld.github.io/images/github/doc/figure8.png">]]   
+[[<img src="https://hyipworld.github.io/images/github/doc/figure9.png">]]   
 === Rules of Merging ===
 See that there is a separated line. The line is separating a dotted line. Means they are the exit points. Here we can place another employment.  
-![Flow](https://hyipworld.github.io/images/github/doc/figure10.png)  
+[[<img src="https://hyipworld.github.io/images/github/doc/figure10.png">]]  
 === Start Puttting ===
 Let start put the Employment of [[Mapping-Employment#hyip-monitoring--rating|HYIP Monitoring & Rating]]
-![Flow](https://hyipworld.github.io/images/github/doc/figure11.png)  
+[[<img src="https://hyipworld.github.io/images/github/doc/figure11.png">]]  
 === Breaking ===
 See that a ''dotted line'' is meeting a ''straight line'' which not correct. You cannot put another Employment that breaking in the middle into a process that are still not settled.  
-![Flow](https://hyipworld.github.io/images/github/doc/figure12.png)  
+[[<img src="https://hyipworld.github.io/images/github/doc/figure12.png">]]  
 === Solution ===
 See that the Employment has also a dotted line. Here you can break it, let try to put ''the rating'' first into the Merging. So the result will be as below:   
-![Flow](https://hyipworld.github.io/images/github/doc/figure13.png)    
+[[<img src="https://hyipworld.github.io/images/github/doc/figure13.png">]]   
 Here you will get the correct merging!
 == Collect ==
 If you have followed the ''[[Mapping-Merging|previous section]]'' you can take the result as shown below. 
-![Flow](https://hyipworld.github.io/images/github/doc/figure13.png)  
+[[<img src="https://hyipworld.github.io/images/github/doc/figure13.png">]]  
 Mapping of the process to collect the library in related with the food:
 ```
 * Food will become an entry point
@@ -117,7 +116,7 @@ Mapping of the process to collect the library in related with the food:
 * Exit point  
 ```
 == Examine ==
-![Flow](https://hyipworld.github.io/images/github/doc/figure14.png)  
+[[<img src="https://hyipworld.github.io/images/github/doc/figure14.png">]]  
 Then the digram will be as below:
 ![Flow](https://hyipworld.github.io/images/github/doc/figure15.png)  
 Then we need also the mapping to examine your self to get your data:
@@ -130,7 +129,7 @@ Then we need also the mapping to examine your self to get your data:
 
 = Overall =
 Let's clean the mapping that we get on the last result, now we can get it as shown below:  
-![Flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
+[[<img src="https://hyipworld.github.io/images/github/doc/figure16.png">]]  
 == Diagram ==
 This is the result of the employment of ''The Fourth''. The same as other mappings, this result has also four (4) parts, each of them are separated by a line.
 
