@@ -3,33 +3,33 @@
     <tr>
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
-      <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|Mapping-Routine]] [[Prev|Mapping-Routine]]</th>
-      <th>[[:repeat:|Mapping-Spreading]] [[Reload|Mapping-Spreading]]</th>
-      <th>[[Next|Mapping-Employment]] [[:arrow_forward:|Mapping-Employment]]</th>
-      <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Routine|:arrow_backward:]] [[Mapping-Routine|Prev]]</th>
+      <th>[[Mapping-Spreading|:repeat:]] [[Mapping-Spreading|Reload]]</th>
+      <th>[[Mapping-Employment|Next]] [[Mapping-Employment|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
   </thead>
 </table>
-#Spreading
+= Spreading =
 
-Here we will explain about _a spreading_ in our concept. A process of factoring _[[a routine|Mapping-Routine]]_ due to a parameter. Please be prepared your self as we are going deeper ongoing forward.
+Here we will explain about ''a spreading;; in our concept. A process of factoring ''[[Mapping-Routine|a routine]]'' due to a parameter. Please be prepared your self as we are going deeper ongoing forward.
 
-_Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping-Routine]]_.
-##Basic
+''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Routine|previous section]]''.
+== Basic ==
 Let's put again all of the mappings here:
-###Routine
-Mapping of _[[a routine|Mapping#Routine]]_
+=== Routine ===
+Mapping of ''[[Mapping-Routine|a routine|]]_
 ```  
 * Hungry will become an entry point
 * Food is what we need 
 * Eat is the process
 * Exit point  
 ```
-###Parameter
-Mappings by _[[a parameter|Mapping#parameter]]_  
+=== Parameter ===
+Mappings by ''[[Mapping#parameter|a parameter]]''  
 
 Mapping of the change to your routine process:
 ```
@@ -61,17 +61,17 @@ Let's map about the process of getting the best food for you the same way as you
 ```
 We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
    
-###Rules
-Let's take again the mapping of _[[a routine|Mapping-Routine]]_:    
+=== Rules ===
+Let's take again the mapping of ''[[Mapping-Routine|a routine]]'':    
 ```  
 * Hungry will become an entry point
 * Food is what we need 
 * Eat is the process
 * Exit point  
 ```
-As we have explained, whenever you put a parameter into _a routine_ then it will call a process of factoring the routine in related to the parameter. We call this process as _a spreading_.
+As we have explained, whenever you put a parameter into ''a routine'' then it will call a process of factoring the routine in related to the parameter. We call this process as ''a spreading''.
 
-Due to the spreading then the mapping of _a routine_ will change it behaviour to become _two (2) sets_ of mappings which are not identical.
+Due to the spreading then the mapping of ''a routine'' will change it behaviour to become ''two (2) sets'' of mappings which are not identical.
  
 Here you can put whatever word you like to name the new mapping. However, based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned main process and one assigned displaying process
@@ -81,27 +81,27 @@ Now left the question on how to combine them, right? Here are the rules:
 * The new process shall be able to be carried out along with the Routine
 * It shall be a clearly sign that a new process is being carried out of the Routine
 
-##Details
-Here we will will show the details of spreading by _diagram_, _sequence_ and _tabulation_.
+== Details ==
+Here we will will show the details of spreading by ''diagram'', ''sequence'' and ''tabulation''.
 
 ###By Diagram
-Let's take again the diagram for _[[a routine|Mapping-Routine]]_:
+Let's take again the diagram for ''[[Mapping-Routine|a routine]]'':
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)   
 To show the spreading by diagram simply make it a copy of the Routine, put another word to replace the word of `info`, let's take the word of `world` then. You will got 2 mapping now, one for your Routine and another one for the new process. 
 
-Let's follow _[[the rules|Mapping-Spreading#rules]]_ one by one. 
+Let's follow ''[[Mapping-Spreading#rules|the rules]]'' one by one. 
 
-So now you have two mapping with a different process. Then, on fulfilling the rule on making a clear sign that a new process is being carried out, just put _a separated line_ in between.
+So now you have two mapping with a different process. Then, on fulfilling the rule on making a clear sign that a new process is being carried out, just put ''a separated line'' in between.
 
 So when applying those steps all together then the diagram will be shown as below:  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
 
-This diagram will present all the mappings by _[[a parameter|Mapping#parameter]]_  
+This diagram will present all the mappings by ''[[Mapping#parameter|a parameter]]''  
 
-You can see that this spreading has _four (4) processes_, just exactly like when we count the number of elements inside _[[a routine|Mapping-Routine]]_.
+You can see that this spreading has ''four (4) processes'', just exactly like when we count the number of elements inside ''[[Mapping-Routine|a routine]]''.
 
-###By Sequence
-See the 1st mappings by _[[a parameter|Mapping-Spreading#parameter]]_, let's put it again here:  
+=== By Sequence ===
+See the 1st mappings by ''[[Mapping-Spreading#parameter|a parameter]]'', let's put it again here:  
 
 Mapping of the change to your routine process when you search your best food:
 ```
@@ -120,7 +120,7 @@ Now you can just consider a sense way when you search your best food as below:
 * Above the line: _You_ write<sup><i>1</i></sup> a query to _Google Search_, then _Google Search_ read<sup><i>2</i></sup> it
 * Below the line: _Google_ write<sup><i>3</i></sup> a result then _your computer_ read<sup><i>4</i></sup> and display it  
 
-###By Tabulation
+=== By Tabulation ===
 We are going also to describe the diagram in tabulation. 
 
 Let's put it this way:
@@ -149,7 +149,7 @@ Now you can tabulate the flow of the processes for _a spreading_ as shown below:
       <td scope="row">main</td>
       <td scope="row">
         <ul>
-          <li>task: <i>write</i><sup><i>1</i></sup></li>
+          <li>task: <i>write<sup>1</sup></i></li>
           <li>way: <i>send</i></li>
           <li>object: <i>Query</i></sup></li>
         </ul>
@@ -157,9 +157,9 @@ Now you can tabulate the flow of the processes for _a spreading_ as shown below:
       <td scope="row">:arrow_lower_right:</td>
       <td scope="row">
         <ul>
-          <li>task: <i>write</i><sup><i>3</i></li>
+          <li>task: <i>write<sup>3</sup></i></li>
           <li>way: <i>send</i></li>
-          <li>object: <strong><i>Result</i></strong></sup></li>
+          <li>object: <strong><i>Result</i></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_left:</td>
@@ -170,7 +170,7 @@ Now you can tabulate the flow of the processes for _a spreading_ as shown below:
       <td scope="row">hyip</td>
       <td scope="row">
         <ul>
-          <li>task: <i>read</i></sup><sup><i>4</i></li>
+          <li>task: <i>read<sup>4</sup></i></li>
           <li>way: <i>display</i></li>
           <li>object: <i>Result</i></li>
         </ul>
@@ -178,28 +178,28 @@ Now you can tabulate the flow of the processes for _a spreading_ as shown below:
       <td scope="row">:arrow_lower_left:</td>
       <td scope="row">
         <ul>
-          <li>task: <i>read</i></sup><sup><i>2</i></li>
+          <li>task: <i>read<sup>2</sup></i></li>
           <li>way: <i>receive</i></li>
-          <li>object: <strong><i>Query</i></sup></strong></li>
+          <li>object: <strong><i>Query</i></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_heading_up:</td>
     </tr>
   </tbody>
 </table>
-Let's take a look at _the arrows_ and _the sequence numbers_ as shown on the table above. You may see that they are in the same flow as _[[the diagram|Mapping-Spreading#by-diagram]]_ and _[[the sequence|Mapping-Spreading#by-sequence]]_.
+Let's take a look at ''the arrows'' and ''the sequence numbers'' as shown on the table above. You may see that they are in the same flow as ''[[Mapping-Spreading#by-diagram|the diagram]]'' and ''[[Mapping-Spreading#by-sequence|the sequence]]''.
 
-Until this point our section for _a spreading_ is completed.
+Until this point our section for ''a spreading'' is completed.
   
-#What's Next
+= What's Next =
 From that point you may see that _a routine_ will turn its behavior and seeking a way to return to its routine by calling another mappings that initiated by the spreading. 
 
 So whenever that the result is meeting the requirement of _a query_ then process will end to a settlement which making all process that related to the parameter will no more required. On our case those process are `world` and `hyip world`.
 
-When the `world` and `hyip world` are no more carry out then all of the process is considered settled and will return to _[[its routine|Mapping-Routine]]_.  
+When the `world` and `hyip world` are no more carry out then all of the process is considered settled and will return to ''[[Mapping-Routine|its routine]]''.  
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png) 
 
-However when `a settlement` is not going to be achieved then the spreading will continue to another process which in our concept we call them as _Employment_ and _Merging_. 
+However when `a settlement` is not going to be achieved then the spreading will continue to another process which in our concept we call them as ''Employment'' and ''Merging''. 
 ##Potential Factor(s)
 As you may guess we are not going for a settlement on this point. We have explained that, in our case, you will not be able to find your best food on search engines.
 
@@ -218,13 +218,13 @@ Yes may be your query. But you don't know what is the right query to find your b
 So the only way is you have to put your query to some where else.
 
 So now you have another potential factor become two (2) all together.
-We have put the potential factors in bold. They are the _**Query**_ and _**Result**_.
+We have put the potential factors in bold. They are the '''Query''' and '''Result'''.
 
 Here you have define the factors. On this point you will need to find another tool or a person that will understand to your need. 
 
-So there shall be a process of finding a tool or a person or other media that is required to achieve a settlement. In our concept we call this process as _an employment_.
+So there shall be a process of finding a tool or a person or other media that is required to achieve a settlement. In our concept we call this process as ''an employment''_.
 
-##Symbiotic
+== Symbiotic ==
 Follow to our explanation above, there will be two kind of employments called. One to settle the Query and another one for the Result. You may see also that each employment will represent the 2nd and the 3rd mapping of a Routine by a parameter.
 
 The employments for the Result is represent the 2nd mapping:  
@@ -241,26 +241,10 @@ The employments for the Query is represent the 3rd mapping:
 * Examine is the process
 * Exit point  
 ```
-See that one mapping is doing a process making _a library_ which is concern to collect data to get it to become more specific _**Result**_ to only related to the parameter. 
+See that one mapping is doing a process making _a library_ which is concern to collect data to get it to become more specific '''Result''' to only related to the parameter. 
 
-Another is doing a process of making more specific **_Query_** by examine to the one who is going to use it in related also to the parameter. 
+Another is doing a process of making more specific '''Query''' by examine to the one who is going to use it in related also to the parameter. 
 
-Therefore, in purpose of getting _a settlement_, both will goes to different processes but they work in related to the same parameter. So it will be a kind of _Symbiotic Processes_.
+Therefore, in purpose of getting _a settlement_, both will goes to different processes but they work in related to the same parameter. So it will be a kind of ''Symbiotic Processes''.
 
-Let's find it in more details on our _[[next section|Mapping-Employment]]_.
-***
-<table>
-  <thead>
-    <tr>
-      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
-      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
-      <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|Mapping-Routine]] [[Prev|Mapping-Routine]]</th>
-      <th>[[:repeat:|Mapping-Spreading]] [[Reload|Mapping-Spreading]]</th>
-      <th>[[Next|Mapping-Employment]] [[:arrow_forward:|Mapping-Employment]]</th>
-      <th>[[Last|maps]] [[:fast_forward:|maps]]</th>
-      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
-      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
-    </tr>
-  </thead>
-</table>
+Let's find it in more details on our ''[[Mapping-Employment|next section]]''.
