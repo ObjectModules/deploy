@@ -175,7 +175,7 @@ Here is the process look likes:
 
 The process mitosis of a cell to become two (2) identical sets is consist of ''four (4) steps''. 
 
-=== Four (4) Steps === 
+=== Identical Steps === 
 As we have explained above about the ''[[Mapping-Routine#behaviour|behaviour]]'', in our concept the final result will also produce ''two (2) identical sets''. 
 
 The step up to the final result will also consist of ''four (4) steps'' which we call them as ''[[Mapping-Spreading|spreading]]'', ''[[Mapping-Employment|employment]]'', ''[[Mapping-Merging|merging]]'' and ''[[Mapping-Settlement|settlement]]''. 
