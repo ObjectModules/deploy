@@ -19,7 +19,7 @@
   </tbody>
 </table>
 #Project Map
-This page is the last page of our _[[current section|Home]]_. We have explained all about our _[[Mapping Concept|Mapping]]_. Here we are going to display the project mapping by _[[diagram|maps#by-diagram]]_ and _[[tabulation|maps#by-tabulation]]_.  
+This page is the last page of our _[[current section|Home]]_. We have explained all about our _[[Mapping Concept|Mapping]]_. Here we are going to display the project mapping by _[[diagram|maps#by-mapping-diagram]]_ and _[[tabulation|maps#by-tabulation]]_.  
 
 _Hopefully you can follow and able to understand to what we have explained. You may check if you have made clear yourself by answering [[questionnaire|maps#question-for-you]] on the last of this page._
 
