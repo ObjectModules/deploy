@@ -261,9 +261,9 @@ Having made a research on what people has been doing a similar with ''[[Mapping#
 
 This `isogram` can be useful as keys in ''<a href="https://en.wikipedia.org/wiki/Cipher" target="''blank">ciphers</a>'', since `isogram` sequences of the same length make for simple one-to-one mapping between the symbols. 
 
-=== The Seven (7) ===
-The word of `isogram` it self is a good sample. It contains of ''seven (7)'' letters. You will not find any repeating on it. So all of them is unique. 
+The word of `isogram` it self is a good sample. It contains of ''seven (7)'' kind of letters. You will not find any repeating on it. So all of them is unique. 
 
+=== Google Analytics.js ===
 We have found also that Google has made a single function using this word of `isogram`, this function is used worldwide since many years on their JavaScript Snippet called <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced" target="''blank">Advanced Configuration - Web Tracking (analytics.js)</a>.
 
 `The JavaScript tracking tag for Google's new Universal Analytics uses a letter variable names - i, s, o, g, r, a, m, and become ''seven (7)'' variables all together`
@@ -289,6 +289,7 @@ letter m stand as s.getElementsByTagName(o)[0]
 
 See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined. You may try to eliminate one or more characters or elements, see if the function is still work.
 
+=== The Seven (7) Kinds ===
 Compare to what we have seen. We found this as a beautiful concept. It's built short but the `isogram` itself is really compact that made Google able to asynchronously loads their library called `analytics.js` onto a page and use it for a broad way ''<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="''blank">utilization</a>''. 
 
 Unfortunately we could not find if Google made it with the word of `isogram` is in a purpose to correlate ''what the word means'' it self into ''what they really want'' with the function. 
