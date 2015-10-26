@@ -54,4 +54,4 @@ You are browsing our **info** wiki:
 
 ###Mapping
 Here :point_down: you are currently         
-[![Flow](https://hyipworld.github.io/images/github/doc/info.png)](https://github.com/hyip/info/wiki/maps#by-diagram)    
+[![Flow](https://hyipworld.github.io/images/github/doc/info.png)](https://github.com/hyip/info/wiki/maps#by-mapping-diagram)    
