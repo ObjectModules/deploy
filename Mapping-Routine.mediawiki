@@ -172,7 +172,7 @@ So just to make it short, this kind of process can be identical with when a kind
 Here is the process look likes:   
 <table>
     <tr>
-      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg?h=268">|https://en.wikipedia.org/wiki/Cell_cycle]]</td><td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/ADN_animation.gif">|https://en.wikipedia.org/wiki/DNA]]</td>   
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg?h=313">|https://en.wikipedia.org/wiki/Cell_cycle]]</td><td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/ADN_animation.gif">|https://en.wikipedia.org/wiki/DNA]]</td>   
   </tr>
 </table>
 === Identical Steps === 
