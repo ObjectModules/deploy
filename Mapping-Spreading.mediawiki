@@ -253,7 +253,7 @@ See that one mapping is doing a process making ''a library'' which is concern to
 
 Another is doing a process of making more specific '''Target''' by examine to the one who is going to use it in related also to the parameter.<br />
 
-Therefore, in purpose of getting ''a settlement'', both will goes to different processes but they work in related to the same parameter. So it will be a kind of ''Symbiotic <a href="https://en.wikipedia.org/wiki/Morphism#Definition" target="_blank">Morphism</a>''.<br />
+Therefore, in purpose of getting ''a settlement'', both will goes to different processes but they work in related to the same parameter. So it will be a kind of ''Symbiotic <a href="https://en.wikipedia.org/wiki/Morphism#Definition" target="_blank">Morphism</a>'', where in the fields of mathematics ''a morphism'' is represented by an arrow from its source to its target.<br />
 
 Let's find it in more details on our ''[[Mapping-Employment|next section]]''.
 <table>
