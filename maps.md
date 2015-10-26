@@ -24,7 +24,7 @@ This page is the last page of our _[[current section|Home]]_. We have explained 
 _Hopefully you can follow and able to understand to what we have explained. You may check if you have made clear yourself by answering [[questionnaire|maps#question-for-you]] on the last of this page._
 
 ##By Mapping Diagram
-Now it is your turn to familiar with _[[the flow|maps#by-tabulation]]_ on our concept. If you have followed the _[[previous section|Mapping-Overall]]_ you can easily figure out the overall project map as shown below.  
+Now it is your turn to familiar with _[[the tabulated flow|maps#by-tabulation]]_ on our concept. If you have followed the _[[previous section|Mapping-Overall]]_ you can easily figure out the overall project map as shown below.  
 [![Project Map](https://hyipworld.github.io/images/github/doc/info.png)](https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-project)      
 **_Guidance:_**
 * _Due to the limitation of this wiki, we cannot put a mapping code on this image. However pointing the image will bring you to a clickable one available on our [[blog page|https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-pworld]]._  
