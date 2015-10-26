@@ -230,7 +230,7 @@ Here are what we got. We put here just for example:
 * <a href="http://searchengineland.com/google-worlds-most-popular-search-engine-148089" target="''blank">Google Still World's Most Popular Search Engine By Far</a>
 * <a href="http://www.businessinsider.com/accurate-contrarian-theories-2011-5" target="''blank">Why Google Succeeded Where Other Search Engines Failed</a>
 
-Here you can see that there are a number of reasons or parameters that people say to describe how Google become the best search engine.
+Here you can see that there are a number of reasons or parameters that people say to describe how Google become the best search engine.<br />
 
 It is quite amazing because usually when people put different criteria then the result can be different, let take an example, say what is the best food now in the world? Every one can give different answer based on their parameter or criteria. 
 
