@@ -195,7 +195,7 @@ Until this point our section for ''a spreading'' is completed.
 = What's Next =
 From that point you may see that ''a routine'' will turn its behavior and seeking a way to return to its routine by calling another mappings that initiated by the spreading.<br />
 
-So whenever that the result is meeting the requirement of ''a query'' then process will end to a settlement which making all process that related to the parameter will no more required. On our case those process are `world` and `hyip world`.<br />
+So whenever ''a result'', in term of a ''<a href="https://en.wikipedia.org/wiki/Data_mapping" target="blank">data mapping</a>'',  meet the requirement of ''a query'' then process will end to a settlement which making all process that related to the parameter will no more required. On our case those process are `world` and `hyip world`.<br />
 
 When the `world` and `hyip world` are no more carry out then all of the process is considered settled and will return to ''[[Mapping-Routine|its routine]]''. <br /> 
 [[<img src="https://hyipworld.github.io/images/github/doc/figure4.png">]] 
