@@ -1,7 +1,7 @@
 <table>
   <thead>
     <tr>
-      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find them all on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td>   
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of **[[The HYIP Project|https://github.com/hyip]]**. Find them all on **[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]**.</td>   
     </tr>
   </thead>
   <tbody>
