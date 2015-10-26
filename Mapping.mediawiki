@@ -244,7 +244,7 @@ How about your best food? Do you have already find one?
 
 This is the real world.
 
-== What we offer ==
+=== What we offer ===
 Here you almost come to the end story behind ''[[Mapping#our-concept|our concept]]''. You can say that this project is about a mapping system. ''A unique mapping system to define between what we do want with the way that we are going to achieve it''.  
 
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/mapping.jpg" alt="Project Mapping">|https://github.com/hyip/info/wiki/maps#project-map]]
@@ -255,12 +255,13 @@ You can find our explanation about this concept in more detail. We are going als
 
 You will also find later that we are going to test our concept in such a way that you can easily find whether it is work on ''[[the real world|http://hyip.world/]]'' or not.  
 
-=== Nonpattern Word (isogram) ===
+== Nonpattern Word (isogram) ==
 
 Having made a research on what people has been doing a similar with ''[[Mapping#our-concept|our concept]]'', we found this on ''<a href="https://en.wikipedia.org/wiki/Isogram" target="''blank">isogram</a>'' which is a word that doesn't contain any repeating letters.  
 
 This `isogram` can be useful as keys in ''<a href="https://en.wikipedia.org/wiki/Cipher" target="''blank">ciphers</a>'', since `isogram` sequences of the same length make for simple one-to-one mapping between the symbols. 
 
+=== The Seven (7) ===
 The word of `isogram` it self is a good sample. It contains of ''seven (7)'' letters. You will not find any repeating on it. So all of them is unique. 
 
 We have found also that Google has made a single function using this word of `isogram`, this function is used worldwide since many years on their JavaScript Snippet called <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced" target="''blank">Advanced Configuration - Web Tracking (analytics.js)</a>.
