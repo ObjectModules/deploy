@@ -169,7 +169,7 @@ What is the smallest thing? A cell right? Do you know how many cells in your bod
 
 So just to make it short, this kind of process can be identical with when a kind of cell is separated into ''two (2) identical sets'', which people call the process as ''<a href="https://en.wikipedia.org/wiki/Mitosis" target="_blank">a mitosis</a>''.
 
-As explained in ''[[cell cycle|https://en.wikipedia.org/wiki/Cell_cycle]]'', ''the mitosis'' is one of the series of events that take place in a cell leading to its division and duplication ''([[replication|https://en.wikipedia.org/wiki/DNA_replication]])'' of its ''[[DNA|https://en.wikipedia.org/wiki/DNA]]'' that produces two daughter cells.
+As explained in ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">cell cycle</a>'', ''the mitosis'' is one of the series of events that take place in a cell leading to its division and duplication ''<a href="https://en.wikipedia.org/wiki/DNA_replication" target="_blank">(replication)</a>'' of its ''<a href="https://en.wikipedia.org/wiki/DNA" target="_blank">DNA</a>'' that produces two daughter cells.
 
 Here are the ''process of a Mitosis'' and the structure ''of two base pairs DNA'' look like:   
 <table>
