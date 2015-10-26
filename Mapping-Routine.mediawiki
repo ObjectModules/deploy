@@ -100,7 +100,7 @@ So let's put a repo and a wiki inside the box.
 As we are going to make a flow system on this project then in order to have a clear navigation we need to define a flowing diagram between the repo and the wiki. Let's put it this way:  
 <img src="https://hyipworld.github.io/images/github/doc/figure3.png">
 
-=== Displaying ===
+=== Portraying ===
 We will need also to display the process to the web. Here we make a separation between the flowing of the process to become able to be displayed. 
 
 We also need to give a different title of on it to be easily defined. So just simply make the same diagram but add another word to the process of this displaying. Here we put our project name `hyip` as our choice on the displaying process.   
