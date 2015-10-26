@@ -63,6 +63,11 @@ You are here :point_down: currently
 <table>
   <thead>
     <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of <strong>[[The HYIP Project|https://github.com/hyip]]</strong>. Find them all on <strong>[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]</strong>.</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyip/info/wiki]]</th>
       <th>[[:rewind:|https://github.com/hyip/rating]] [[Prev|https://github.com/hyip/rating]]</th>
@@ -73,6 +78,5 @@ You are here :point_down: currently
       <th>[[:arrow_down_small:|https://github.com/hyip/rating/wiki/Introduction]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki]]</th>
     </tr>
-  </thead>
-</table>
- 
+  </tbody>
+</table> 
