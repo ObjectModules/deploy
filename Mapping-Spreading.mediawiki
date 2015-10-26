@@ -229,7 +229,7 @@ Here you have define the factors. On this point you will need to find another to
 
 So there shall be a process of finding a tool or a person or other media that is required to achieve a settlement. In our concept we call this process as ''an employment''.
 
-The employment can be considered as identical with ''<a href="https://en.wikipedia.org/wiki/DNA_replication" target="_blank">DNA Replication</a>'' in ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">cell cycles</a>'', where ''<a href="https://en.wikipedia.org/wiki/DNA_polymerase" target="_blank">DNA polymerase</a>'' synthesizes the new DNA by adding complementary ''<a href="https://en.wikipedia.org/wiki/Nucleotides" target="_blank">nucleotides</a>'' to the template strand.
+The employment can be considered as identical with ''<a href="https://en.wikipedia.org/wiki/DNA_replication" target="_blank">DNA Replication</a>'' in ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">cell cycles</a>'', where a number of proteins are associated with the replication fork which helps in terms of the initiation and continuation of DNA synthesis. Most prominently,''<a href="https://en.wikipedia.org/wiki/DNA_polymerase" target="_blank">DNA polymerase</a>'' synthesizes the new DNA by adding complementary ''<a href="https://en.wikipedia.org/wiki/Nucleotides" target="_blank">nucleotides</a>'' to the template strand.
 
 == Symbiotic ==
 Follow to our explanation above, there will be two kind of employments called. One to settle the Query and another one for the Result. You may see also that each employment will represent the 2nd and the 3rd mapping of a Routine by a parameter.
