@@ -67,7 +67,7 @@ Let's map about the process of getting the best food for you the same way as you
 == Basic Diagram ==
 Here on this section, we will explain about our way on making the mapping using layout diagram. We are going to get it applicable for all the above mappings.
 === Symbol ===
-See that all of the mappings are consist of four (4) elements which function in all of mappings are the same. So we can define a symbolization for each of elements. 
+See that all of the mappings are consist of ''four (4) elements'' which function in all of mappings are the same. So we can define a symbolization for each of elements. 
 
 Let's put this way:
 ```
@@ -79,7 +79,7 @@ Let's put this way:
 
 <img src="https://hyipworld.github.io/images/github/doc/figure1.png"> 
 
-The diagram as shown in ''Figure 1'' has four (4) elements. Each represent each element inside the mapping. We just need to put ''what we need'' as a text above the box. 
+The diagram as shown in ''Figure 1'' has ''four (4) elements''. Each represent each element inside the mapping. We just need to put ''what we need'' as a text above the box. 
 
 Let's take a look into each mapping one by one. You may find that in our case this text can be each of the followings:
 * `Food`
@@ -108,7 +108,7 @@ We also need to give a different title of on it to be easily defined. So just si
 Here is now the diagram will look like:  
 <img src="https://hyipworld.github.io/images/github/doc/figure4.png">  
 
-You can see that this mapping has four (4) elements, consist of two (2) repos and two (2) wikis. Just like the number of elements inside a routines.
+You can see that this mapping has ''four (4) elements'', consist of ''two (2) repos'' and ''two (2) wikis''. Just like the number of elements inside a routines.
 ```
 * Hungry will become an entry point
 * Food is what we need 
@@ -178,7 +178,7 @@ You may see from figure above that showing the process of a mitosis, the process
 
 Identically with the process of ''a mitosis'', in our concept the final result will also produce ''two (2) identical sets'', which the step up to the final result itself will also consist of ''four (4) steps'' which we call them as ''[[Mapping-Spreading|a spreading]]'', ''[[Mapping-Employment|an employment]]'', ''[[Mapping-Merging|a merging]]'' and ''[[Mapping-Settlement|a settlement]]''. 
 
-As we have explained, this result of ''two (2) identical sets'' will be followed then by ''[[Mapping-Comparison|a comparison]]'' and ''[[Mapping-Overall|an overall]]'' to become all settled. So starting from ''[[Mapping-Routine#routines|a routine]]'' then the whole system is done within exactly ''seven (7)'' kind of sequential unique processes all together.
+As we have explained, to become all settled this result of ''two (2) identical sets'' will then be followed by ''[[Mapping-Comparison|a comparison]]'' and ''[[Mapping-Overall|an overall]]''. So starting from ''[[Mapping-Routine#routines|a routine]]'' then the whole steps is done within exactly ''seven (7)'' kind of sequential unique processes all together.
 
 As we have explained about ''[[Mapping-Routine#routines|a routine]]'' on this page, then we are going to bring you to the details of other processes in a separated page one by one. 
 
