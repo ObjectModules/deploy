@@ -133,7 +133,7 @@ So now you can eat your best food. Your life will become more valuable.
 Congrats!  
 
 === All back to routines ===
-One thing you shall note here that the original mapping, lets call it as ''[[Mapping-Routine|a routine]]'', is always remain included in the process on getting your best food. It is counted as the part of all of the four (4) mappings. It is still remain do its task of its routine. 
+One thing you shall note here that the original mapping, lets call it as ''[[Mapping-Routine|a routine]]'', is always remain included in the process on getting your best food. It is counted as the part of all of the ''four (4) mappings''. It is still remain do its task of its routine. 
 
 Consider this in a sense way. Let's say you are in the process on finding your best food. Are you going to stop your routines of eating your daily food until you get your best food?
 
@@ -286,8 +286,7 @@ letter r stand as 'ga'
 letter a stand as s.createElement(o)  
 letter m stand as s.getElementsByTagName(o)[0]  
 ```
-
-=== The Seven (7) Kinds ===
+=== The ''Seven (7)'' Kinds ===
 See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined. You may try to eliminate one or more characters or elements, see if the function is still work.
 
 Compare to what we have seen. We found this as a beautiful concept. It's built short but the `isogram` itself is really compact that made Google able to asynchronously loads their library called `analytics.js` onto a page and use it for a broad way ''<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="''blank">utilization</a>''. 
