@@ -122,8 +122,8 @@ Take a copy of the figure then. Let's put this way:
 Now you can just consider a sense way when you search your best food as below:  
 * Above the line: ''You'' write<sup><i>1</i></sup> a query to ''Google Search'', then ''Google Search'' read<sup><i>2</i></sup> it
 * Below the line: ''Google'' write<sup><i>3</i></sup> a result then ''your computer'' read<sup><i>4</i></sup> and display it  
-=== By Tabulation ===
-We are going also to describe the diagram in tabulation. <br />
+=== By Route ===
+We can also present the diagram in kind of a <a href="https://en.wikipedia.org/wiki/Road_map" target="_blank">RoadMap</a> by putting the flowing route in tabulation. <br />
 
 Let's put it this way:<br />
 
