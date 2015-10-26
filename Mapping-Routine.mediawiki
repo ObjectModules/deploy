@@ -171,7 +171,7 @@ So just to make it short, this kind of process can be identical with when a kind
 
 As explained in ''[[cell cycle|https://en.wikipedia.org/wiki/Cell_cycle]]'', ''the mitosis'' is one of the series of events that take place in a cell leading to its division and duplication ''([[replication|https://en.wikipedia.org/wiki/DNA_replication]])'' of its ''[[DNA|https://en.wikipedia.org/wiki/DNA]]'' that produces two daughter cells.
 
-Here are the process and a ''[[DNA|https://en.wikipedia.org/wiki/DNA]]'' look like:   
+Here are the ''Mitosis'' and the ''DNA'' look like:   
 <table>
     <tr>
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg?h=313">|https://en.wikipedia.org/wiki/Cell_cycle]]</td><td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/ADN_animation.gif">|https://en.wikipedia.org/wiki/DNA]]</td>   
