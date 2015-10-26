@@ -170,7 +170,7 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
       <td>[[<code>script|https://github.com/hyipscript/hyipscript.github.io]]</code></td>
       <td>[[<code>script|https://github.com/hyipscript/hyipscript.github.io/wiki]]</code></td>
       <td scope="row"><a href="https://github.com/orgs/hyipscript/teams"><img src="https://avatars2.githubusercontent.com/u/11951705?v=3&s=20"></a></td>
-      <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] <a href="http://tophyipsinfo.blog.com/" target="_blank"><img src="https://lh3.googleusercontent.com/-RS9W3yX70kQ/Vi0QinVIOsI/AAAAAAAAAX4/AsHcKfYT54c/s20/sf-logo.png"></a>
+      <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] <a href="http://tophyipsinfo.blog.com/" target="_blank"><img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png"></a>
       </td>
       <td scope="row">
 <a href="https://www.facebook.com/hyipscript.info"><img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20"></a>
