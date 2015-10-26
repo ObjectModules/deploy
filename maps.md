@@ -1,6 +1,11 @@
 <table>
   <thead>
     <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of <strong>[[The HYIP Project|https://github.com/hyip]]</strong>. Find all of them on <strong>[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]</strong>.</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
@@ -11,7 +16,7 @@
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
-  </thead>
+  </tbody>
 </table>
 #Project Map
 This page is the last page of our _[[current section|Home]]_. We have explained all about our _[[Mapping Concept|Mapping]]_. Here we are going to display the overall mapping by _[[diagram|maps#by-diagram]]_ and _[[tabulation|maps#by-tabulation]]_.  
@@ -279,9 +284,13 @@ As we have mentioned on the top of this page, this page is the last page of _[[T
 * What _Topic_ is supposed to be found there?   
  
 _Please carefully observe [[the mapping|maps#project-map]] before you answer or consider to go [[back again|Mapping]]. If you are sure with your answer just click the **Next** Button below, see if your answer is correct.._
-***
 <table>
   <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of <strong>[[The HYIP Project|https://github.com/hyip]]</strong>. Find all of them on <strong>[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]</strong>.</td>   
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
@@ -293,5 +302,5 @@ _Please carefully observe [[the mapping|maps#project-map]] before you answer or 
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
-  </thead>
+  </tbody>
 </table>
