@@ -27,7 +27,7 @@ _Hopefully you can follow and able to understand to what we have explained. You 
 Now it is your turn to familiar with the flow on our concept. If you have followed the _[[previous section|Mapping-Overall]]_ you can easily figure out the overall project map as shown below.  
 [![Project Map](https://hyipworld.github.io/images/github/doc/info.png)](https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-project)      
 **_Guidance:_**
-* _Due to the limitation of the wiki, we cannot put the map on the image. However pointing it will bring you to the clickable one available on or [[blog page|https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-pworld]]._  
+* _Due to the limitation of the wiki, we cannot put a mapping code on an image. However pointing above the image will bring you to the clickable one that available on or [[blog page|https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-pworld]]._  
 * _Please note that the figure above is only valid for [[The Current Section|https://github.com/hyip/info/wiki]] where this page is reside. You can find the Mapping of each section at the Bottom of Right Sidebar._
 
 ##By Tabulation
