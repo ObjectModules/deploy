@@ -113,7 +113,7 @@ Then the content flow for the ''1st Employment'' can be tabulated as below:
         <ul>
           <li>task: <i>write<sup>3</sup></i></li>
           <li>way: <i>send</i></li>
-          <li>object: <strong><i>Result</i></sup></strong></li>
+          <li>object: <strong><i>Result</i></strong></li>
         </ul>
       </td>
       <td scope="row">:arrow_left:</td>
