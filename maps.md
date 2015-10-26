@@ -31,7 +31,7 @@ _Please note that the figure above is only valid for [[The Current Section|https
 ##By Tabulation
 Here are the tabulation showing the list of all the process that are involved. You may check location on each of the process by clicking on each item.
 
-_Please note that [[This Project|https://github.com/hyip]] is still <u>Under Construction</u>. The Links below are just to represent on how we manage our repositories in correlation to the [[Mapping Concept|Mapping]]._
+_Please note that [[This Project|https://github.com/hyip]] is still <u>Under Construction</u>. The shown links below are just to represent on how we manage our repositories in correlation to the [[Mapping Concept|Mapping]]._
 <table>
   <thead>
     <tr>
