@@ -242,11 +242,11 @@ The employments for the Query is represent the 3rd mapping:
 * Examine is the process
 * Exit point  
 ```
-See that one mapping is doing a process making ''a library'' which is concern to collect data to get it to become more specific '''Result''' to only related to the parameter.<br /><br /> 
+See that one mapping is doing a process making ''a library'' which is concern to collect data to get it to become more specific '''Source''' to only related to the parameter.<br /><br /> 
 
-Another is doing a process of making more specific '''Query''' by examine to the one who is going to use it in related also to the parameter.<br />
+Another is doing a process of making more specific '''Target''' by examine to the one who is going to use it in related also to the parameter.<br />
 
-Therefore, in purpose of getting ''a settlement'', both will goes to different processes but they work in related to the same parameter. So it will be a kind of ''Symbiotic Processes''.<br />
+Therefore, in purpose of getting ''a settlement'', both will goes to different processes but they work in related to the same parameter. So it will be a kind of ''[[Morphism|https://en.wikipedia.org/wiki/Morphism#Definition]]''.<br />
 
 Let's find it in more details on our ''[[Mapping-Employment|next section]]''.
 <table>
