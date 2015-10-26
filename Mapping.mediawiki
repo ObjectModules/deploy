@@ -19,12 +19,12 @@
   </tbody>
 </table>
 
-= Background =
+= Mapping =
 Welcome to our Mapping Section. You come to our section that we gonna explain our own concept in detail about ''[[our project|https://github.com/hyip]]''.<br />
 
 ''Please consider this as a unique concept that you shouldn't find it anywhere without our [[license|https://github.com/hyip/info/wiki/Mapping#license]]. So here we want you to have an open mind. If you're not enjoying it, don't do it.''
 
-== Routine ==
+== Background ==
 
 As we have named this project as ''[['The HYIP Project'|https://github.com/hyip]]'', we would like invite you to visit our ''[[blog page|https://tophyipmonitor.wordpress.com/hyip-project/]]'' that describe in general of what target that we want to achieve.  
 
@@ -36,6 +36,7 @@ To make it more clear, let take an example on our daily live. We have to take an
 
 An easy case is when we are hungry so that we need a food to eat. If we don't eat ''the hungry'' will not became an end point, it is stack there. You can see easily find that this process will need to be settled in order to continue our living. 
 
+=== Routines ===
 Consider our living is the global process. If you don't eat then it will jeopardize the global process. So this particular process need to be settled and it will end when take a food to eat. So then global process is run normally.
 
 Here we make a mapping of the process from ''the hungry'':
@@ -54,7 +55,7 @@ It will become to your concern if we put a parameter. Say you are hungry. You wa
 Let's go for a simple way then. We are going for searching. Try to put a keyword ''<a href="https://www.google.com/search?q=best+food" target="''blank">'best food'</a>'' on Google Search. You will find a huge result which is processed by Google from may be more than a billion pages to choose. 
 
 So which one do you think the best food for you to eat? Are you going to take the food on the top of result? Are you sure if that is the best one for you?
-== How to find it? ==
+=== How to find it? ===
 We can say that from what we have explained above, there is a little chance that you able to find your best food from the search result. One thing you should need to aware is that Google and other search engines concern with the pages, ''not the food''.
 
 When a page has a good scoring in term of their algorithm then the page will go up on their search result so you can easily find it. 
@@ -71,7 +72,7 @@ Of course the doctor will do examine yourself, make a diagnosis, and find a food
 
 It is really different with what if you are going to get the food by yourself, you will find the food with the one you want, ''not the food that best match to your data''. 
 
-== Just do the way they want ==
+=== Just do the way they want ===
 See that the best way you shall do is take the food that the ''doctor want'' you to eat. Not the food that ''you think'' it is the best one for you.
 
 In an extreme case it will be the same. Say you are a very very important person. You are the president of a country. The country will for sure provide you a team of the best doctors in the country. ''They will do their best to find and recommend the best food for you''.
@@ -80,14 +81,14 @@ So here, because you are the president, it is not only the doctors but the count
 
 <blockquote>'''''[[Just do the way they want. Not of what you think.<br />Let them find their way to help you get what you want.|https://tophyipmonitor.wordpress.com/hyip-world/#just-do-the-way-they-want]]'''''</blockquote>
 
-= Our Concept =
+== Our Concept ==
 Here we are going to do the same way when you go to a doctor. We have to collect out all information in related to all kind of the food and make it to become a library. 
 
 We will also need to examine all of your data, including your age, your genre, your blood structure and everything else that required to find your best food. 
 
 Hopefully then you can follow all the method on getting your best food. 
 
-== Parameter ==
+=== Parameter ===
 See that, getting the library of all kind of the food is one process. Getting the data of yourself is also another process. Both are different.   
 
 Let's define how we are going to get the library in related with the food and the data of yourself in the same way as we made the mapping of the process from ''[[Mapping#background|the hungry]]''. 
@@ -131,7 +132,7 @@ So now you can eat your best food. Your life will become more valuable.
 
 Congrats!  
 
-== All back to routines ==
+=== All back to routines ===
 One thing you shall note here that the original mapping, lets call it as ''[[Mapping-Routine|a routine]]'', is always remain included in the process on getting your best food. It is counted as the part of all of the four (4) mappings. It is still remain do its task of its routine. 
 
 Consider this in a sense way. Let's say you are in the process on finding your best food. Are you going to stop your routines of eating your daily food until you get your best food?
@@ -142,7 +143,7 @@ So it is just a food. You will eat it normally as usual. Nothing special.
 
 Once it is happen then the other processes are remain stay but no more required to be carry out as the whole process will return back the original process. All back to routines.
 
-== Factors ==
+=== Factors ===
 The power of ''[[Mapping#our-concept|this concept]]'' is that whenever a process is not going to be settled then you can easily spread those factors that making the process stack with the same method as we have explained above. 
 
 You may also identify the factors using ''<a href="https://en.wikipedia.org/wiki/Ishikawa''diagram" target="''blank">Fishbone Diagram</a>'', put the potential ones in to the mapping. Spread it again when a solution is not going to be achieved. 
@@ -158,7 +159,7 @@ Therefore the concept will allow an unlimited number of spreading. You can see t
 
 Once it is going to be settled then it will return automatically to the original process and keep you remain on the track to what you are going to achieve.
 
-== Settlement ==
+=== Settlement ===
 
 See the mapping of the routines, you may count that number of elements is also ''four (4)'', same as the number of the required mapping when a factor is spread. 
 
@@ -217,7 +218,7 @@ As we have mentioned in our ''[[project description|https://github.com/hyip/info
 So how to become the best one then?<br />  
 Let's find first how people define about the best it self is. 
 
-== How to become the best? ==
+=== How to become the best? ===
 Most probably we can say that Google Still World's Most Popular Search Engine By Far.  <br />
 Why is Google successful?  As usual, Let's try ''<a href="https://www.google.com/search?q=what+makes+google+the+best+search+engine" target="''blank">searching</a>'' again.
 
@@ -254,7 +255,7 @@ You can find our explanation about this concept in more detail. We are going als
 
 You will also find later that we are going to test our concept in such a way that you can easily find whether it is work on ''[[the real world|http://hyip.world/]]'' or not.  
 
-== Nonpattern Word (isogram) ==
+=== Nonpattern Word (isogram) ===
 
 Having made a research on what people has been doing a similar with ''[[Mapping#our-concept|our concept]]'', we found this on ''<a href="https://en.wikipedia.org/wiki/Isogram" target="''blank">isogram</a>'' which is a word that doesn't contain any repeating letters.  
 
