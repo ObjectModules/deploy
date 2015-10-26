@@ -202,7 +202,7 @@ When the `world` and `hyip world` are no more carry out then all of the process 
 
 However when `a settlement` is not going to be achieved then the spreading will continue to another process which in our concept we call them as ''Employment'' and ''Merging''.
 
-This is identical as described on ''<a href="https://en.wikipedia.org/wiki/Gene_mapping#Physical_Mapping">Gene Mapping</a>'', which explained that since actual base-pair distances are generally hard or impossible to directly measure, physical maps are actually constructed by first shattering the genome into ''hierarchically smaller pieces''. 
+This is identical as described on ''<a href="https://en.wikipedia.org/wiki/Gene_mapping#Physical_Mapping" target="_blank">Gene Mapping</a>'', which explained that since actual base-pair distances are generally hard or impossible to directly measure, physical maps are actually constructed by first shattering the genome into ''hierarchically smaller pieces''. 
 
 By characterizing each single piece and ''assembling back together'', the overlapping path or "tiling path" of these small fragments <u>would allow</u> researchers to infer physical distances between genomic features.
 == Potential Factor(s) ==
