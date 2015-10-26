@@ -26,45 +26,6 @@ In this section we will explain about ''an employment'' in our concept. The gene
 ''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Spreading|previous section]]''.
 == Basic ==
 Let's put again all of the mappings here:
-=== Routine ===
-Mapping of ''[[Mapping#Routine|a routine]]''
-```  
-* Hungry will become an entry point
-* Food is what we need 
-* Eat is the process
-* Exit point  
-```
-=== Parameter ===
-Mappings by ''[[Mapping#parameter|a parameter]]''  
-
-Mapping of the change to your routine process:
-```
-* Looking for your best food will become an entry point
-* An information of best food is what we need 
-* Looking is the process
-* Exit point  
-```
-Mapping of the process to collect the library in related with the food:
-```
-* Food will become an entry point
-* Library is what we need 
-* Collect is the process
-* Exit point  
-```
-Then we need also the mapping to examine your self to get your data:
-```
-* You will become an entry point
-* Your data is what we need 
-* Examine is the process
-* Exit point  
-```
-Let's map about the process of getting the best food for you the same way as your doctor do:
-```
-* Both of food library and your data will become the entry point
-* A best food on library for you is what we need 
-* Matching the data is the process
-* Exit point  
-```
 We have explained that the behavior of our mapping will seeking another process to return to its routine by taking the process of spreading. 
 
 Here we will explain further how the spreading will continue to another process when a settlement is not going to be achieved. We will also explain how these processes are going to present the above 2nd and 3rd mapping.
@@ -157,7 +118,7 @@ letter a stand as monitor
 letter b stand as rating  
 letter c stand as hyip  
 
-=== Diagram ===
+=== By Diagram ===
 ```
 Then diagram will be shown as below: <br /> 
 [[<img src="https://hyipworld.github.io/images/github/doc/figure8.png">]]
@@ -220,19 +181,19 @@ Then the content flow for the ''2nd Employment'' can be tabulated as below:
 == 3rd Employment ==
 As a symbiotic relationship with the 2nd employment so the 3rd employment is simply produce ''a query'' in such a way that it will give ''a result'' when it is implemented to the library.  
 
-=== Titling ===
 On the 2nd employment, ''<a href="https://en.wikipedia.org/wiki/Monitoring" target="_blank">Monitoring</a>'' is process to gain the data, ''Rating'' is process of sorting the data to become a library. 
 
-==== Script ====
+=== By Titling ===
 Here we need a language so that a library will understand what ''a query'' is. People call this language as ''<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">SQL</a>'' stand as the abbreviation of ''Structured Query Language''.
 
+''' Script '''
 When we see the explanation of what ''SQL'' is, it contain of statement that structured as a code to do a process on a Library. So it is actually a scripting language.
 
 Let's call it from here as ''<a href="https://en.wiktionary.org/wiki/script" target="_blank">a script</a>'' then.<br />
 
 So how ''a script'' can be produced? How to get it to become able to be implemented?
 
-==== Team ====
+''' Team '''
 In our concept the ''Rating'' shall do the same language with the ''Script'' on managing the data. So here the ''Script'' again has become a symbiotic relationship with the ''Rating''.
 
 So now, it is left only what kind of process that become a symbiotic relationship with the ''Monitoring'', right?
@@ -248,9 +209,8 @@ Let's make a little test in a cross way in related to the symbiotic relation
 * ''Script'' is the language of ''Rating'' activity - ''Monitoring'' is the language of ''Team''  activity
 
 Seems everything are correct. So ''<a href="https://en.wiktionary.org/wiki/team" target="_blank">a team</a>'' is supposed to be the one !
-=== Details ===
 Here we will will show the details of the ''3rd Employment'' by ''diagram'', ''sequence'' and ''tabulation''.
-==== By Diagram ====
+=== By Diagram ===
 ```js
 letter a stand as script  
 letter b stand as team  
@@ -258,7 +218,7 @@ letter c stand as hyip
 ```
 Then diagram will be shown as below:<br />  
 [[<img src="https://hyipworld.github.io/images/github/doc/figure9.png">]]
-==== By Content Flow ====
+=== By Content Flow ===
 Then the content flow for the _3rd Employment_ can be tabulated as below:
 <table>
   <thead>
