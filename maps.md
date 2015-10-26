@@ -31,7 +31,7 @@ Now it is your turn to familiar with the flow on our concept. If you have follow
 * _Please note that the figure above is only valid for [[The Current Section|https://github.com/hyip/info/wiki]] where this page is reside. You can find the Mapping of each section at the Bottom of Right Sidebar._
 
 ##By Tabulation
-Here are the tabulation showing the list of all the process that are involved on the _[[diagram|maps#by-mapping-diagram]]_. You may check location on each of the process by clicking on each item.
+Here are the tabulation showing the list of all the process that are involved on _[[the above diagram|maps#by-mapping-diagram]]_. You may check location on each of the process by clicking on each item.
 
 _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Construction</u>. The shown links below are just to represent on how we manage our repositories in correlation to the [[Mapping Concept|Mapping]]._
 <table>
