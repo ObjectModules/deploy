@@ -169,10 +169,12 @@ What is the smallest thing? A cell right? Do you know how many cells in your bod
 
 So just to make it short, this kind of process can be identical with when a kind of cell is separated into ''two (2) identical sets'', which people call the process as a ''[[mitosis|https://en.wikipedia.org/wiki/Mitosis]]''.
 
-Here is the process look likes:  
-
-<img src="https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg">  
-
+Here is the process look likes:   
+<table>
+    <tr>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg">|https://en.wikipedia.org/wiki/Cell_cycle]]</td><td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/ADN_animation.gif">|https://en.wikipedia.org/wiki/DNA]]</td>   
+  </tr>
+</table>
 === Identical Steps === 
 You may see from figure above that showing the process of a mitosis, the process of a cell to become ''two (2) identical sets'' is consist of ''four (4) steps''. 
 
