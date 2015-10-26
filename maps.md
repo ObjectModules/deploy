@@ -26,7 +26,9 @@ _Hopefully you can follow and able to understand to what we have explained. You 
 ##By Mapping Diagram
 Now it is your turn to familiar with the flow on our concept. If you have followed the _[[previous section|Mapping-Overall]]_ you can easily figure out the overall project map as shown below.  
 [![Project Map](https://hyipworld.github.io/images/github/doc/info.png)](https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-project)      
-_Please note that the figure above is only valid for [[The Current Section|https://github.com/hyip/info/wiki]] where this page is reside. You can find the Mapping of each section at the Bottom of Right Sidebar._
+**_Guidance:_**
+* _Due to the limitation of the wiki, we cannot put the map on the image. However pointing it will bring you to the clickable one available on or [[blog page|https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-pworld]]._  
+* _Please note that the figure above is only valid for [[The Current Section|https://github.com/hyip/info/wiki]] where this page is reside. You can find the Mapping of each section at the Bottom of Right Sidebar._
 
 ##By Tabulation
 Here are the tabulation showing the list of all the process that are involved. You may check location on each of the process by clicking on each item.
