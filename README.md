@@ -62,7 +62,7 @@ It is quite hard to find such of business model that easily to be scored or whet
 
 To rectify _[our concept](https://github.com/hyip/info/wiki/Mapping)_ in a short time basis, means that the script is going to present an correct result, we need to test it on a kind of business model that also can be measured in a short time period as well.   
 
-Having reviewing many alternatives we came to a business category called hyip ([high-yield investment programs](https://tophyipmonitor.wordpress.com/hyip-business/)) which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
+Having reviewing many alternatives we came to a business category called hyip ([high-yield investment programs](https://tophyipmonitor.wordpress.com/hyip-business/#what-is-hyip "what-is-hyip")) which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
 
 - Site that running hyip business are mostly online within short period (*a year or less*) and hyip business has to present  exact profit to the user in a short time basis to market their services.
 - Most important is since the hyip is mostly a *ponzi scheme* so hyip site cannot be run in a long time period so we could  find whether our algorithm in our script is giving a correct scoring result in a short time as well.
