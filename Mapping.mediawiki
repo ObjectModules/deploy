@@ -258,8 +258,11 @@ You will also find later that we are going to test our concept in such a way tha
 == Nonpattern Word (isogram) ==
 
 Having made a research on what people has been doing a similar with ''[[Mapping#our-concept|our concept]]'', we found this on ''<a href="https://en.wikipedia.org/wiki/Isogram" target="''blank">isogram</a>'' which is a word that doesn't contain any repeating letters.  
+
 <blockquote>An isogram (also known as a "nonpattern word") is a logological term for a word or phrase without a repeating letter. It is also used by some to mean a word or phrase in which each letter appears the same number of times, not necessarily just once.</blockquote>
 This `isogram` can be useful as keys in ''<a href="https://en.wikipedia.org/wiki/Cipher" target="''blank">ciphers</a>'', since `isogram` sequences of the same length make for simple one-to-one mapping between the symbols. 
+
+On ''<a href="http://www.thefreedictionary.com/isogram" target="blank">this page</a>'' the isogram is described as ''a line drawn on a map connecting points having the same numerical value of some variable''.
 === Cipher ===
 Cipher was the European pronunciation of sifr, and cipher came to mean a message or communication not easily understood. There are many theories about how the word "cipher" may have come to mean "encoding".
 
@@ -299,6 +302,9 @@ See that each letter has a different assignment, each of them hold a unique task
 Compare to what we have seen. We found this as a beautiful concept. It's built short but the `isogram` itself is really compact that made Google able to asynchronously loads their library called `analytics.js` onto a page and use it for a broad way ''<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="''blank">utilization</a>''. 
 
 === Modification ===
+Google has been beta-testing their asynchronous Analytics snippet for a while now. The code has been revised several times already, but still I think it can use some more optimizations.
+
+There are some optimized version of the official Google Universal Analytics snippet. Check nn this page <a href="https://mathiasbynens.be/notes/async-analytics-snippet" title="_blank">(G,o,O,g,l)</a>, <a href="https://github.com/h5bp/html5-boilerplate/commit/48d49e96d6db282eb9686d31ebbc5cbbbdd4d966#all_commit_comments" title="_blank">(b,o,i,l,e,r)</a>, and also other <a href="" target="_blank">isogramic words</a>.
 === No Body's Perfect ===
 
 === The ''Seven (7)'' Kinds ===
