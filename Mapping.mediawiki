@@ -261,6 +261,15 @@ Having made a research on what people has been doing a similar with ''[[Mapping#
 <blockquote>An isogram (also known as a "nonpattern word") is a logological term for a word or phrase without a repeating letter. It is also used by some to mean a word or phrase in which each letter appears the same number of times, not necessarily just once.</blockquote>
 This `isogram` can be useful as keys in ''<a href="https://en.wikipedia.org/wiki/Cipher" target="''blank">ciphers</a>'', since `isogram` sequences of the same length make for simple one-to-one mapping between the symbols. 
 
+=== Cipher ===. 
+Cipher was the European pronunciation of sifr, and cipher came to mean a message or communication not easily understood. There are many theories about how the word "cipher" may have come to mean "encoding".
+
+Codes generally substitute different length strings of characters in the output, while ciphers generally substitute the same number of characters as are input. There are exceptions and some cipher systems may use slightly more, or fewer, characters when output versus the number that were input.
+
+If the algorithm is symmetric, the key must be known to the recipient and sender and to no one else. If the algorithm is an asymmetric one, the enciphering key is different from, but closely related to, the deciphering key. If one key cannot be deduced from the other, the asymmetric key algorithm has the public/private key property and one of the keys may be made public without loss of confidentiality.
+
+Claude Shannon proved, using information theory considerations, that any theoretically unbreakable cipher must have keys which are at least as long as the plaintext, and ''used only once'': such as ''one-time pad''.
+
 The word of `isogram` it self is a good sample. It contains of ''seven (7)'' kind of letters. You will not find any repeating on it. So all of them is unique. 
 
 === Google Analytics.js ===
