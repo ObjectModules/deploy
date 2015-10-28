@@ -270,7 +270,7 @@ Codes generally substitute different length strings of characters in the output,
 
 If the algorithm is symmetric, the key must be known to the recipient and sender and to no one else. If the algorithm is an asymmetric one, the enciphering key is different from, but closely related to, the deciphering key. If one key cannot be deduced from the other, the asymmetric key algorithm has the public/private key property and one of the keys may be made public without loss of confidentiality.
 
-Claude Shannon proved, using information theory considerations, that any theoretically unbreakable cipher must have keys which are at least as long as the plaintext, and ''used only once'': such as ''one-time pad''.
+<a href="https://en.wikipedia.org/wiki/Claude_Shannon" target="_blank">Claude Shannon</a>  proved, using information theory considerations, that any theoretically unbreakable cipher must have keys which are at least as long as the plaintext, and ''used only once'': such as ''one-time pad''.
 
 The word of `isogram` it self is a good sample. It contains of ''seven (7)'' kind of letters. You will not find any repeating on it. So all of them is unique. 
 === Google Analytics.js ===
