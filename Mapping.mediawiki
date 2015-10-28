@@ -260,7 +260,6 @@ You will also find later that we are going to test our concept in such a way tha
 Having made a research on what people has been doing a similar with ''[[Mapping#our-concept|our concept]]'', we found this on ''<a href="https://en.wikipedia.org/wiki/Isogram" target="''blank">isogram</a>'' which is a word that doesn't contain any repeating letters.  
 <blockquote>An isogram (also known as a "nonpattern word") is a logological term for a word or phrase without a repeating letter. It is also used by some to mean a word or phrase in which each letter appears the same number of times, not necessarily just once.</blockquote>
 This `isogram` can be useful as keys in ''<a href="https://en.wikipedia.org/wiki/Cipher" target="''blank">ciphers</a>'', since `isogram` sequences of the same length make for simple one-to-one mapping between the symbols. 
-
 === Cipher ===. 
 Cipher was the European pronunciation of sifr, and cipher came to mean a message or communication not easily understood. There are many theories about how the word "cipher" may have come to mean "encoding".
 
@@ -271,7 +270,6 @@ If the algorithm is symmetric, the key must be known to the recipient and sender
 Claude Shannon proved, using information theory considerations, that any theoretically unbreakable cipher must have keys which are at least as long as the plaintext, and ''used only once'': such as ''one-time pad''.
 
 The word of `isogram` it self is a good sample. It contains of ''seven (7)'' kind of letters. You will not find any repeating on it. So all of them is unique. 
-
 === Google Analytics.js ===
 We have found also that Google has made a single function using this word of `isogram`, this function is used worldwide since many years on their JavaScript Snippet called <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced" target="''blank">Advanced Configuration - Web Tracking (analytics.js)</a>.
 
