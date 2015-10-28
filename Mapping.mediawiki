@@ -302,7 +302,7 @@ See that each letter has a different assignment, each of them hold a unique task
 Compare to what we have seen. We found this as a beautiful concept. It's built short but the `isogram` itself is really compact that made Google able to asynchronously loads their library called `analytics.js` onto a page and use it for a broad way ''<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="''blank">utilization</a>''. 
 
 === Modification ===
-Google has been beta-testing their asynchronous Analytics snippet for a while now. The code has been revised several times already, but still I think it can use some more optimizations.
+Since Google made a beta-testing their asynchronous Analytics snippet, the code has been revised several times already, but still people think it can use some more optimizations.
 
 There are some optimized version of the official Google Universal Analytics snippet. Infact the letters can be shorten using six (6) letters as shown on ''<a href="https://github.com/h5bp/html5-boilerplate/commit/48d49e96d6db282eb9686d31ebbc5cbbbdd4d966#all_commit_comments" title="_blank">(b,o,i,l,e,r)</a>'', or even ''five (5) letters'' as shown on ''<a href="https://github.com/shinnn/isogram" target="_blank">isogrammic words</a>''.
 === Remain ''Seven (7)'' ===
