@@ -271,9 +271,9 @@ Codes generally substitute different length strings of characters in the output,
 If the algorithm is symmetric, the key must be known to the recipient and sender and to no one else. If the algorithm is an asymmetric one, the enciphering key is different from, but closely related to, the deciphering key. If one key cannot be deduced from the other, the asymmetric key algorithm has the public/private key property and one of the keys may be made public without loss of confidentiality.
 
 <a href="https://en.wikipedia.org/wiki/Claude_Shannon" target="_blank">Claude Shannon</a>  proved, using information theory considerations, that any theoretically unbreakable cipher must have keys which are at least as long as the plaintext, and ''used only once'': such as ''one-time pad''.
-
-The word of `isogram` it self is a good sample. It contains of ''seven (7)'' kind of letters. You will not find any repeating on it. So all of them is unique. 
 === Google Analytics.js ===
+The word of `isogram` it self is a good sample. It contains of ''seven (7)'' kind of letters. You will not find any repeating on it. So all of them is unique. 
+
 We have found also that Google has made a single function using this word of `isogram`, this function is used worldwide since many years on their JavaScript Snippet called <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced" target="''blank">Advanced Configuration - Web Tracking (analytics.js)</a>.
 
 `The JavaScript tracking tag for Google's new Universal Analytics uses a letter variable names - i, s, o, g, r, a, m, and become ''seven (7)'' variables all together`
@@ -299,7 +299,7 @@ letter m stand as s.getElementsByTagName(o)[0]
 === Letter Assignment ===
 See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined. You may try to eliminate one or more characters or elements, see if the function is still work.
 
-Compare to what we have seen. We found this as a beautiful concept. It's built short but the `isogram` itself is really compact that made Google able to asynchronously loads their library called `analytics.js` onto a page and use it for a broad way ''<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="''blank">utilization</a>''. 
+It's even built short but the `isogram` itself is really compact that made Google able to asynchronously loads their library called `analytics.js` onto a page and use it for a broad way ''<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="''blank">utilization</a>''. 
 
 === Modification ===
 Since Google made a beta-testing their asynchronous Analytics snippet, the code has been revised several times already, but still people think it can use some more optimizations.
@@ -314,7 +314,7 @@ Unfortunately we could not find if Google made it with the word of `isogram` is 
 
 They only failed to use ''all the seven (7)'' in such a way so it cannot be shortened.<br />Means here the ''[[Mapping#cipher|Cipher]]'' is not achieved.<br />''Nobody's Perfect''.
 
-Nevertheless, those are really the exact samples that close enough to ''[[Mapping#our-concept|our concept]]'', which coincidentally, or not coincidentally, is also consist of ''seven (7)'' kind of unique processes.
+Nevertheless, compare to what we have seen, we found this as a beautiful concept that close enough to ''[[Mapping#our-concept|our concept]]'', which coincidentally, or not coincidentally, is also consist of ''seven (7)'' kind of unique processes.
 
 Let's start on the ''[[Mapping-Routine|the first one]]''. 
 
