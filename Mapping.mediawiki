@@ -306,7 +306,7 @@ Google has been beta-testing their asynchronous Analytics snippet for a while no
 
 There are some optimized version of the official Google Universal Analytics snippet. Infact the letters can be shorten using six (6) letters as shown on ''<a href="https://github.com/h5bp/html5-boilerplate/commit/48d49e96d6db282eb9686d31ebbc5cbbbdd4d966#all_commit_comments" title="_blank">(b,o,i,l,e,r)</a>'', or even ''five (5) letters'' as shown on ''<a href="https://mathiasbynens.be/notes/async-analytics-snippet" title="_blank">(G,o,O,g,l)</a>'', also other ''<a href="https://github.com/shinnn/isogram" target="_blank">isogrammic words</a>''.
 === Nobody's Perfect ===
-Despite it is proven that variable letters can be shortened to ''six (6)'' or even ''<a href="https://mathiasbynens.be/notes/async-analytics-snippet" traget="_blank">a long discussion</a>'' since 2010 till this documentation is written, that also involving of so many parties to get it to ''<a five (5)'', we found that Google is remain using ''the seven (7)'' letters of `isogram`. 
+Despite it is proven that variable letters can be shortened to ''six (6)'' or even ''<a href="https://mathiasbynens.be/notes/async-analytics-snippet" target="_blank">a long discussion</a>'' since 2010 till this documentation is written, that also involving of so many parties to get it in to ''five (5)'', we found that Google is remain using ''the seven (7)'' letters of word of `isogram`. 
 
 Unfortunately we could not find if Google made it with the word of `isogram` is in a purpose to correlate ''what the word means'' it self into ''what they really want'' with the function. 
 === The ''Seven (7)'' Kinds ===
