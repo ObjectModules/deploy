@@ -256,9 +256,8 @@ In mathematics and logic, the phrase "there is one and only one" is used to indi
 
 The most common technique to proving uniqueness is to first prove existence of entity with the desired condition; then, to assume there exist two entities (say, a and b) that should both satisfy the condition, and logically deduce their equality, i.e. a = b.
 
-From ''<a href="http://searchnetworking.techtarget.com/definition/encoding-and-decoding" title="_blank">this page</a>'' we can describe that in computers, encoding is the process of putting a sequence of characters (letters, numbers, punctuation, and certain symbols) into a specialized format for efficient transmission or storage. Decoding is the opposite process -- the conversion of an encoded format back into the original sequence of characters.
-
 === Encoding and Decoding ===
+From ''<a href="http://searchnetworking.techtarget.com/definition/encoding-and-decoding" title="_blank">this page</a>'' we can describe that in computers, encoding is the process of putting a sequence of characters (letters, numbers, punctuation, and certain symbols) into a specialized format for efficient transmission or storage. Decoding is the opposite process -- the conversion of an encoded format back into the original sequence of characters.
 
 The terms encoding and decoding are often used in reference to the processes of analog-to-digital conversion and digital-to-analog conversion.
 In this sense, these terms can apply to any form of data, including text, images, audio, video, multimedia, computer programs, or signals in sensors, telemetry, and control systems. 
