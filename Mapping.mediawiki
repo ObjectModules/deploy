@@ -245,13 +245,14 @@ How about your best food? Do you have already find one?
 This is the real world.
 
 === Unique Mapping ===
-Here we expect that you got already the bottom line of ''[[Mapping#our-concept|our concept]]''. You can say that this project is about a mapping system. ''A unique mapping system to define between what we do want with the way that we are going to achieve it''.  
+Now we are going to find how that a different criteria will come to the same answer.
 
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/mapping.jpg" alt="Project Mapping">|https://github.com/hyip/info/wiki/maps#project-map]]
+How you think if there is another site provides exactly the same or better service like Google? Of course you will get two choice, so there will be difficult to find which one to become the best.
 
+The logical thing to answer this is that "there is one and only one", so wherever the criteria is used then the answer going to that one since there is no other one to choose.
+
+They can do get as the best because people can only find such of the service in Google. Means here Google can provide a service that is unique. So "there is one and only one". 
 === Overall Implementation ===
-You may agree that this concept is basically applicable for general case. 
-
 In mathematics and logic, the phrase "there is one and only one" is used to indicate that exactly one object with a certain property exists. In mathematical logic, this sort of quantification is known as uniqueness quantification or unique existential quantification.
 
 The most common technique to proving uniqueness is to first prove existence of entity with the desired condition; then, to assume there exist two entities (say, a and b) that should both satisfy the condition, and logically deduce their equality, i.e. a = b.
@@ -264,7 +265,11 @@ In this sense, these terms can apply to any form of data, including text, images
 === Encryption ===
 Encoding should not be confused with encryption, a process in which data is deliberately altered so as to conceal its content. Encryption can be done without changing the particular code that the content is in, and encoding can be done without deliberately concealing the content.
 === What we offer ===
-Since we decided to port this project on GitHub, then we are going to explain on how we make an ''[[overall mapping|https://github.com/hyip/info/wiki/maps#project-map]]'' to manage our repositories of the project follow to the concept.
+Here we expect that you got already the bottom line of ''[[Mapping#our-concept|our concept]]''. You can say that this project is about a mapping system. ''A unique mapping system to define between what we do want with the way that we are going to achieve it''.  
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/mapping.jpg" alt="Project Mapping">|https://github.com/hyip/info/wiki/maps#project-map]]
+
+You may agree that this concept is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to explain on how we make an ''[[overall mapping|https://github.com/hyip/info/wiki/maps#project-map]]'' to manage our repositories of the project follow to the concept.
 
 You can find our explanation about this concept in more detail. We are going also to explain on how we manage a different assignment on our section, how we assign each of them to hold that unique task, and finally how they are getting combined on achieving ''[[Mapping-Settlement|a settlement]]''.
 
