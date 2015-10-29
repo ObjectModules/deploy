@@ -188,6 +188,7 @@ Why are we intend to do it then?  <br />
 Simple, it is because you cannot find your best food on search engine, correct?  <br />
 If you can find easily there then for sure this project will never come to exist. No point for us.
 
+=== Our Target ===
 Unfortunately we are not making this project to give an information about your best food.  <br />
 What is really people deeply seeking? A best food? Nope..   
 
@@ -262,7 +263,7 @@ From ''<a href="http://searchnetworking.techtarget.com/definition/encoding-and-d
 
 The terms encoding and decoding are often used in reference to the processes of analog-to-digital conversion and digital-to-analog conversion.
 In this sense, these terms can apply to any form of data, including text, images, audio, video, multimedia, computer programs, or signals in sensors, telemetry, and control systems. 
-=== Encryption ===
+
 Encoding should not be confused with encryption, a process in which data is deliberately altered so as to conceal its content. Encryption can be done without changing the particular code that the content is in, and encoding can be done without deliberately concealing the content.
 === What we offer ===
 Here we expect that you got already the bottom line of ''[[Mapping#our-concept|our concept]]''. You can say that this project is about a mapping system. ''A unique mapping system to define between what we do want with the way that we are going to achieve it''.  
