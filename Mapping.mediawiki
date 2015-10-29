@@ -324,9 +324,9 @@ See that each letter has a different assignment, each of them hold a unique task
 
 It's even built short but the `isogram` itself is really compact that made Google able to asynchronously loads their library called `analytics.js` onto a page and use it for a broad way ''<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="''blank">utilization</a>''. 
 
-<a href="http://marketingland.com/google-analytics-is-installed-on-more-than-10-million-websites-9935" target="_blank">This report</a> state that while not providing a specific number, Web Technology Surveys says that Google Analytics is used by about 56 percent of all websites.
+<a href="http://marketingland.com/google-analytics-is-installed-on-more-than-10-million-websites-9935" target="_blank">This report</a> state that while not providing a specific number, Web Technology Surveys says that Google Analytics is used by about ''56 percent'' of all websites.
 
-Google Analytics is far and away the number one analytics tool on the web, installed by people on their websites more than ten (10) times from the number two ''<a href="https://statcounter.com/" target="_blank">(StatCounter)</a>'', it appears to be approaching a market share similar to Google Search itself.
+Google Analytics is far and away the number one analytics tool on the web, installed by people on their websites more than ''ten (10) times'' from the number two ''<a href="https://statcounter.com/" target="_blank">(StatCounter)</a>'', it appears to be approaching a market share similar to Google Search itself.
 === Modification ===
 Since Google made a beta-testing their asynchronous Analytics snippet, the code has been revised several times already, but still people think it can use some more optimizations.
 
