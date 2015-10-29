@@ -248,11 +248,13 @@ This is the real world.
 === Unique Mapping ===
 Now we are going to find how that a different criteria will come to the same answer.
 
-How you think if there is another site provides exactly the same or better service like Google? Of course you will get two choice, so there will be difficult to find which one to become the best.
+How you think if there is another site provides exactly the same or better service like Google? Of course you will get two choice, so there will be difficult to find which one as the best.
 
 The logical thing to answer this is that "there is one and only one", so wherever the criteria is used then the answer going to that one since there is no other one to choose.
 
-They can do get as the best because people can only find such of the service in Google. Means here Google can provide a service that is unique. So "there is one and only one". 
+They can do get as the best because people can only find such of the service in Google. Means here Google can provide a service that is unique. 
+
+So "there is one and only one". 
 === Overall Implementation ===
 In mathematics and logic, the phrase "there is one and only one" is used to indicate that exactly one object with a certain property exists. In mathematical logic, this sort of quantification is known as uniqueness quantification or unique existential quantification.
 
