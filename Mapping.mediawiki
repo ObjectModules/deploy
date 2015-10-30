@@ -324,11 +324,6 @@ See that each letter has a different assignment, each of them hold a unique task
 
 It's even built short but the `isogram` itself is really compact that made Google able to asynchronously loads their library called `analytics.js` onto a page and use it for a broad way ''<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="''blank">utilization</a>''. 
 
-<a href="http://marketingland.com/google-analytics-is-installed-on-more-than-10-million-websites-9935" target="_blank">This report</a> state that while not providing a specific number, Web Technology Surveys ''<a href="http://w3techs.com/technologies/details/ta-googleanalytics/all/all" target="_blank">says</a>'' that <a href="https://en.wikipedia.org/wiki/Google_Analytics" target="_blank">Google Analytics</a> is used by about ''56 percent'' of all websites.
-
-Means it is far and away the number one analytics tool on the web, used and installed by people on the websites more than ''ten (10) times'' from the number two ''<a href="https://statcounter.com/" target="_blank">(StatCounter)</a>''. 
-
-It appears to be approaching a market share similar to <a href="https://en.wikipedia.org/wiki/Google_Search" target="_blank">Google Search</a> itself.
 === Modification ===
 Since Google made a beta-testing their asynchronous Analytics snippet, the code has been revised several times already, but still people think it can use some more optimizations.
 
@@ -340,9 +335,13 @@ We believe that since Google is proven as the best one dealing with ''keywords''
 === The ''Seven (7)'' ===
 Unfortunately we could not find if Google made it with the word of `isogram` is in a purpose to correlate ''what the word means'' it self into ''what they really want'' with the function.
 
-We only got ''<a href="http://marketingland.com/google-analytics-is-installed-on-more-than-10-million-websites-9935" target="_blank">the said report</a>'' that this snippet is exist and used on more than half of all websites in the planet combined all together ! 
+<a href="http://marketingland.com/google-analytics-is-installed-on-more-than-10-million-websites-9935" target="_blank">This report</a> state that while not providing a specific number, Web Technology Surveys ''<a href="http://w3techs.com/technologies/details/ta-googleanalytics/all/all" target="_blank">says</a>'' that <a href="https://en.wikipedia.org/wiki/Google_Analytics" target="_blank">Google Analytics</a> is used by about ''56 percent'' of all websites.
 
-Means that Google is more than successful bring this `isogram` to the world.
+Means it is far and away the number one analytics tool on the web, used and installed by people on the websites more than ''ten (10) times'' from the number two ''<a href="https://statcounter.com/" target="_blank">(StatCounter)</a>''. 
+
+It appears to be approaching a market share similar to <a href="https://en.wikipedia.org/wiki/Google_Search" target="_blank">Google Search</a> itself.
+
+Means that Google is more than successful bring this `isogram` to the world, so this snippet is exist and used on more than half of all websites in the planet combined all together ! 
 
 They only failed to use ''all the seven (7)'' in such a way so it cannot be shortened.<br />Means here the ''[[Mapping#cipher|Cipher]]'' is not achieved.<br />''Nobody's Perfect''.
 
