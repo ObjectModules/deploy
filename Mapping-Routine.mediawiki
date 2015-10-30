@@ -191,7 +191,7 @@ Starting from ''[[Mapping-Routine#routines|a routine]]'' then the whole steps is
 We try to illustrate this kind of processes, well it is quite difficult. However, the picture below are considered by us as close to represent what it means is.
 <table>
     <tr>
-      <td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Three_by_Four.svg/640px-Three_by_Four.svg.png">|https://commons.wikimedia.org/wiki/File:Three_by_Four.svg]]</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hexagonal_prism_3.jpg">|http://www.johnrausch.com/puzzleworld/toc.asp?t=_des/sc061.htm%23hexagonal_prism&m=puz/hexagonal_prism.htm]]</td>   
+      <td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Three_by_Four.svg/300px-Three_by_Four.svg.png">|https://commons.wikimedia.org/wiki/File:Three_by_Four.svg]]</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hexagonal_prism_3.jpg">|http://www.johnrausch.com/puzzleworld/toc.asp?t=_des/sc061.htm%23hexagonal_prism&m=puz/hexagonal_prism.htm]]</td>   
   </tr>
 </table>
 
