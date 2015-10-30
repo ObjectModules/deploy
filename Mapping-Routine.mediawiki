@@ -188,7 +188,7 @@ You will see that ''[[Mapping-Merging|a merging]]'' will be the central of our c
 
 Starting from ''[[Mapping-Routine#routines|a routine]]'' then the whole steps is done within ''six (6)'' steps in a kind of ''one-to-one'' mapping as 'isogram' that produce an hexagonal form. 
 
-We try to illustrate this kind of processes, well it is quite difficult. However, the picture below are considered by us as close to represent what it means is.
+We try to illustrate this kind of processes, well it is quite difficult. However, the picture below are considered by us as close to represent what it means.
 <table>
     <tr>
       <td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Three_by_Four.svg/300px-Three_by_Four.svg.png">|https://commons.wikimedia.org/wiki/File:Three_by_Four.svg]]</td><td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Centered_hexagonal_%3D_1_%2B_6triangular.svg/576px-Centered_hexagonal_%3D_1_%2B_6triangular.svg.png">|https://en.wikipedia.org/wiki/Centered_hexagonal_number]]</td>   
