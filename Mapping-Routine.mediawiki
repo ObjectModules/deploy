@@ -186,7 +186,7 @@ As we have explained, to become all settled this result of ''two (2) identical s
 
 You will see that ''[[Mapping-Merging|a merging]]'' will be the central of our concept. So the steps from ''[[Mapping-Routine#routines|a routine]]'' to ''[[Mapping-Merging|a merging]]'' is ''three (3) steps''. From ''[[Mapping-Merging|a merging]]'' there also ''three (3) steps'' to return back to ''[[Mapping-Routine#routines|a routine]]''. That the cycle come to begin again.
 
-Here we have explained the routine in ''three (3)'' by ''four (4)'' that became ''twelve (12)'' which come by ''six (6)'' pairs in hexagonal. 
+Starting from ''[[Mapping-Routine#routines|a routine]]'' then the whole steps is done within ''six (6)'' steps in a kind of ''one-to-one'' mapping as 'isogram' that produce an hexagonal form. 
 
 We try to illustrate this kind of processes, well it is quite difficult. However, the picture below are considered by us as close to represent what it means is.
 <table>
@@ -195,7 +195,7 @@ We try to illustrate this kind of processes, well it is quite difficult. However
   </tr>
 </table>
 
-So that starting from ''[[Mapping-Routine#routines|a routine]]'' then the whole steps is done within exactly ''six (6)'' steps of hexagonal kind of ''sequential unique processes''. 
+Here we have explained the routine in ''three (3)'' by ''four (4)'' that became ''twelve (12)'' which come by ''six (6)'' pairs of ''sequential unique processes'' each presents by ''six (6)'' steps in hexagonal form as explained above. 
 
 This ''six (6)'' combine with ''[[Mapping-Routine#routines|a routine]]'' itself become ''seven (7)'' all together. This is what we means by ''[[Mapping#the-seven-7|the seven]]'' that we have explained on the [[Mapping|previous section]].
 
