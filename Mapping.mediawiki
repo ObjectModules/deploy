@@ -293,7 +293,7 @@ Codes generally substitute different length strings of characters in the output,
 
 If the algorithm is symmetric, the key must be known to the recipient and sender and to no one else. If the algorithm is an asymmetric one, the enciphering key is different from, but closely related to, the deciphering key. If one key cannot be deduced from the other, the asymmetric key algorithm has the public/private key property and one of the keys may be made public without loss of confidentiality.
 
-<a href="https://en.wikipedia.org/wiki/Claude_Shannon" target="_blank">Claude Shannon</a>  proved, using information theory considerations, that any theoretically unbreakable cipher must have keys which are at least as long as the plaintext, and ''used only once'': such as ''one-time pad''.
+<a href="https://en.wikipedia.org/wiki/Claude_Shannon" target="_blank">Claude Shannon</a> proved, using information theory considerations, that any theoretically unbreakable cipher must have keys which are at least as long as the plaintext, and ''used only once'': such as ''one-time pad''.
 === Google Analytics.js ===
 The word of `isogram` it self is a good sample. It contains of ''seven (7)'' kind of letters. You will not find any repeating on it. So all of them is unique. 
 
@@ -339,7 +339,7 @@ Unfortunately we could not find if Google made it with the word of `isogram` is 
 
 It appears to be approaching a market share similar to <a href="https://en.wikipedia.org/wiki/Google_Search" target="_blank">Google Search</a> itself as it is far and away the number one analytics tool on the web, used and installed by people on the websites more than ''ten (10) times'' from the number two ''<a href="https://statcounter.com/" target="_blank">(StatCounter)</a>''. 
 
-Means that Google is more than successful bring this snippet to the world, so that the `isogram` is exist and used on more than half of all websites in the planet combined all together ! 
+Means that Google is more than successful bring this snippet to the world, so that `isogram` is exist and used on more than half of all websites in the planet combined all together ! 
 
 They only failed to use ''all the seven (7)'' in such a way so it cannot be shortened.<br />Means here the ''[[Mapping#cipher|Cipher]]'' is not achieved.<br />''Nobody's Perfect''.
 
