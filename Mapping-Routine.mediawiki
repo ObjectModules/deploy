@@ -167,14 +167,20 @@ What is the smallest thing? A cell right? Do you know how many cells in your bod
 
 So just to make it short, this kind of process can be identical with when a kind of cell is separated into ''two (2) identical sets'', which people call the process as ''<a href="https://en.wikipedia.org/wiki/Mitosis" target="_blank">a mitosis</a>'' as part of ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">cell cycle</a>''.
 
-Let's us just put copy the explanation in the following two chapters.
+Let's us just simply put copy the explanation in the following two chapters.
 
 === Mitosis ===
-Mitosis is a part of the cell cycle in which chromosomes in a cell nucleus are separated into ''two identical sets of chromosomes'', each in its own nucleus. In general, mitosis (division of the nucleus) is often followed by cytokinesis, which divides the cytoplasm, organelles and cell membrane into two new cells containing roughly equal shares of these cellular components. Mitosis and cytokinesis together define the mitotic (M) phase of an animal cell cycle—the division of the mother cell into two daughter cells, '''genetically identical''' to each other and to their parent cell.
+Mitosis is a part of the cell cycle in which chromosomes in a cell nucleus are separated into ''two identical sets of chromosomes'', each in its own nucleus. 
 
-The process of mitosis is divided into stages corresponding to ''the completion of one set of activities and the start of the next''. These stages are prophase, prometaphase, metaphase, anaphase, and telophase. During mitosis, the chromosomes, which have already duplicated, condense and attach to fibers that pull one copy of each chromosome to '''opposite sides''' of the cell. The result is two genetically identical daughter nuclei. 
+In general, mitosis (division of the nucleus) is often followed by cytokinesis, which divides the cytoplasm, organelles and cell membrane into two new cells containing roughly equal shares of these cellular components. Mitosis and cytokinesis together define the mitotic (M) phase of an animal cell cycle—the division of the mother cell into two daughter cells, '''genetically identical''' to each other and to their parent cell.
 
-The cell may then divide by cytokinesis to produce two daughter cells. Producing three or more daughter cells instead of normal two is '''a mitotic error''' called tripolar mitosis or multipolar mitosis (direct cell triplication / multiplication). Other errors during mitosis can induce apoptosis (programmed cell death) or cause mutations. Certain types of cancer can arise from such mutations.
+The process of mitosis is divided into stages corresponding to ''the completion of one set of activities and the start of the next''. These stages are prophase, prometaphase, metaphase, anaphase, and telophase. 
+
+During mitosis, the chromosomes, which have already duplicated, condense and attach to fibers that pull one copy of each chromosome to '''opposite sides''' of the cell. The result is two genetically identical daughter nuclei. 
+
+The cell may then divide by cytokinesis to produce two daughter cells. Producing three or more daughter cells instead of normal two is '''a mitotic error''' called tripolar mitosis or multipolar mitosis (direct cell triplication / multiplication). 
+
+Other errors during mitosis can induce apoptosis (programmed cell death) or cause mutations. Certain types of cancer can arise from such mutations.
 
 Mitosis occurs only in eukaryotic cells and the process varies in different organisms. For example, animals undergo an "open" mitosis, where the nuclear envelope breaks down before the chromosomes separate, while fungi undergo a "closed" mitosis, where chromosomes divide within an intact cell nucleus.
 
@@ -182,9 +188,15 @@ Furthermore, most animal cells undergo a shape change, known as mitotic cell rou
 === Cell Cycle  ===
 The cell cycle or cell-division cycle is the series of events that take place in a cell leading to its division and duplication (replication) that produces two daughter cells. In prokaryotes which lack a cell nucleus, the cell cycle occurs via a process termed ''binary fission''. 
 
-In cells with a nucleus, as in eukaryotes, the cell cycle can be divided into three periods: interphase, the mitotic (M) phase, and cytokinesis. During interphase, the cell grows, '''accumulating nutrients needed for mitosis''', preparing it for cell division and duplicating its DNA. During the mitotic phase, the cell splits itself into two distinct daughter cells. During the final stage, cytokinesis, the new cell is completely divided. To ensure the proper division of the cell, there are control mechanisms known as '''cell cycle checkpoints'''.
+In cells with a nucleus, as in eukaryotes, the cell cycle can be divided into three periods: interphase, the mitotic (M) phase, and cytokinesis. 
 
-The cell-division cycle is a vital process by which a single-celled fertilized egg develops into a mature organism, as well as the process by which hair, skin, blood cells, and some internal organs are renewed. After cell division, each of the daughter cells begin the interphase of a ''new cycle''. 
+During interphase, the cell grows, '''accumulating nutrients needed for mitosis''', preparing it for cell division and duplicating its DNA. 
+
+During the mitotic phase, the cell splits itself into two distinct daughter cells. During the final stage, cytokinesis, the new cell is completely divided. To ensure the proper division of the cell, there are control mechanisms known as '''cell cycle checkpoints'''.
+
+The cell-division cycle is a vital process by which a single-celled fertilized egg develops into a mature organism, as well as the process by which hair, skin, blood cells, and some internal organs are renewed. 
+
+After cell division, each of the daughter cells begin the interphase of a ''new cycle''. 
 === Two (2) Daughter ===
 As explained in ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">cell cycle</a>'', ''the mitosis'' is one of the series of events that take place in a cell leading to its division and duplication ''<a href="https://en.wikipedia.org/wiki/DNA_replication" target="_blank">(replication)</a>'' of its ''<a href="https://en.wikipedia.org/wiki/DNA" target="_blank">DNA</a>'' that produces ''two (2) daughter cells''.
 
