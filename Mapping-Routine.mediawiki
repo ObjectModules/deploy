@@ -167,7 +167,7 @@ What is the smallest thing? A cell right? Do you know how many cells in your bod
 
 So just to make it short, this kind of process can be identical with when a kind of cell is separated into ''two (2) identical sets''.
 
-People call the process as ''<a href="https://en.wikipedia.org/wiki/Mitosis" target="_blank">a mitosis</a>'' as part of ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">cell cycle</a>''. Let's us just simply copy and highlight the explanation in the following two chapters.
+People call the process as ''<a href="https://en.wikipedia.org/wiki/Mitosis" target="_blank">a mitosis</a>'', part of ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">a cell cycle</a>''. Let's us just simply copy and highlight the explanation in the following two chapters.
 
 === Mitosis ===
 <a href="https://en.wikipedia.org/wiki/Mitosis" target="_blank">Mitosis</a> is a part of the cell cycle in which chromosomes in a cell nucleus are separated into ''two identical sets of chromosomes'', each in its own nucleus. 
