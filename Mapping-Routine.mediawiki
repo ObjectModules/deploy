@@ -151,12 +151,11 @@ This comparison process will let the one which giving a better result to take th
 
 The one which is not taken in the position will keep remain stay but no more carry out. It will stay as a reference or a back-up.
 
-Consider is a sense way. When you have already know what your best food is then for sure you have to choose whether you remain back to your original routines or change your routines to the new process.  
+Consider is a sense way. When you have already know what your best food is then for sure you have to choose whether you remain back to your original routines or change your routines to the new process. In our concept another process means another mapping.  
 
 ''You cannot carry out both all together in the same time''.
 
-== How to become two (2)? ==
-In our concept another process means another mapping. We are going to explain further how a mapping will become ''two (2)''. 
+We are going to explain further how a mapping will become ''two (2)''. 
 === Where is it happen? ===
 You won't believe us that this kind of process is happen as a normal case in our live. It is happen in your routines especially when you want something to get. 
 
@@ -177,13 +176,13 @@ Here are the ''process of a Mitosis'' and the structure ''of two base pairs DNA'
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg?h=313">|https://en.wikipedia.org/wiki/Cell_cycle]]</td><td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/ADN_animation.gif">|https://en.wikipedia.org/wiki/DNA]]</td>   
   </tr>
 </table>
-=== Identical Steps === 
+==  Hexagonal Form  ==
 You may see from figure above that showing the process of a mitosis, the process of a cell to become ''two (2) identical sets'' is consist of ''four (4) steps''. 
-
+=== Identical Steps === 
 Identically with the process of ''a mitosis'', in our concept the final result will also produce ''two (2) identical sets'', which the step up to the final result itself will also consist of ''four (4) steps'' which we call them as ''[[Mapping-Spreading|a spreading]]'', ''[[Mapping-Employment|an employment]]'', ''[[Mapping-Merging|a merging]]'' and ''[[Mapping-Settlement|a settlement]]''. 
 
 As we have explained, to become all settled this result of ''two (2) identical sets'' will be followed then by ''[[Mapping-Comparison|a comparison]]'' and ''[[Mapping-Overall|an overall]]'', stand as a control mechanisms that identical as ''<a href="https://en.wikipedia.org/wiki/Cell_cycle_checkpoint" target="_blank">cell cycle checkpoint</a>'' and ''<a href="https://en.wikipedia.org/wiki/Dam_methylase" target="_blank">mismatch repair</a>'' which ensure proper division of the cell.
-=== Hexagonal Form ===
+=== One-to-One Mapping===
 You will see that ''[[Mapping-Merging|a merging]]'' will be the central of our concept. So the steps from ''[[Mapping-Routine#routines|a routine]]'' to ''[[Mapping-Merging|a merging]]'' is ''three (3) steps''. From ''[[Mapping-Merging|a merging]]'' there also ''three (3) steps'' to return back to ''[[Mapping-Routine#routines|a routine]]''. That the cycle come to begin again.
 
 Starting from ''[[Mapping-Routine#routines|a routine]]'' then the whole steps is done within ''six (6)'' steps in a kind of ''one-to-one'' mapping as 'isogram' that produce an hexagonal form. 
