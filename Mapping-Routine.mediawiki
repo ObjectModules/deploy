@@ -223,7 +223,7 @@ We try to illustrate this kind of processes, well it is quite difficult. However
       <td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Three_by_Four.svg/300px-Three_by_Four.svg.png">|https://commons.wikimedia.org/wiki/File:Three_by_Four.svg]]</td><td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Centered_hexagonal_%3D_1_%2B_6triangular.svg/576px-Centered_hexagonal_%3D_1_%2B_6triangular.svg.png">|https://en.wikipedia.org/wiki/Centered_hexagonal_number]]</td>   
   </tr>
 </table>
-
+=== ''Three (3)'' by ''Four (4)'' ===
 Here we have explained the routine in ''three (3)'' by ''four (4)'' that became ''twelve (12)'' which come by ''six (6)'' pairs of ''sequential unique processes'' each presents by ''six (6)'' steps in hexagonal form as explained above.
 
 You may find later the kind of our hexagonal form as well as its contents which in the figure are represented by the ''twelve (12)'' blue dots that are circling in ''the seven (7)'' in hexagonally pairs of two (2) dots each.  
