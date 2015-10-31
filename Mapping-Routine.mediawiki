@@ -196,7 +196,7 @@ During the mitotic phase, the cell splits itself into two distinct daughter cell
 
 The cell-division cycle is a vital process by which a single-celled fertilized egg develops into a mature organism, as well as the process by which hair, skin, blood cells, and some internal organs are renewed. 
 
-After cell division, each of the daughter cells begin the interphase of a ''new cycle''. 
+After cell division, each of the daughter cells begin the interphase of a '''new cycle'''. 
 === Two (2) Daughter ===
 As explained in ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">cell cycle</a>'', ''the mitosis'' is one of the series of events that take place in a cell leading to its division and duplication ''<a href="https://en.wikipedia.org/wiki/DNA_replication" target="_blank">(replication)</a>'' of its ''<a href="https://en.wikipedia.org/wiki/DNA" target="_blank">DNA</a>'' that produces ''two (2) daughter cells''.
 
