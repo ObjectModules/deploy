@@ -105,7 +105,7 @@ Interaction between repositories shall need to be arranged in four (4) groups of
 ![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
 
 #What's Next  
-You’ve reached the last page of the Documentation Section of Mapping on our project. Hopefully you can follow and enable to understand to what we have explained.  
+You’ve reached the end part of the Documentation Section of Mapping on our project. Hopefully you can follow and enable to understand to what we have explained.  
 
 It might be on your question now about what really the content of each repos and wikis are. Well they will be a quite similar with what we have described on this section.
 
