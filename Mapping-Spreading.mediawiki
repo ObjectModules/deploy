@@ -189,7 +189,15 @@ Now you can tabulate the flow of the processes for ''a spreading'' as shown belo
   </tbody>
 </table>
 Let's take a look at ''the arrows'' and ''the sequence numbers'' as shown on the table above. You may see that they are in the same flow as ''[[Mapping-Spreading#by-diagram|the diagram]]'' and ''[[Mapping-Spreading#by-sequence|the sequence]]''.<br />
+<table>
+    <tr>
+      <td>The Nuts and Bolts of Hexagons<br />Most nuts and bolt heads are made in the shape of a hexagon. Because a hexagon has three pairs of parallel faces, a wrench can be placed over any pair. 
 
+In a confined space, the wrench can be turned 60° (the exterior angle of a hexagon) and then the wrench re-positioned on the next pair of sides. Doing this repeatedly will tighten the nut. 
+
+In this way, you do not need room to rotate the entire wrench a full circle</td><td>[[<img src="http://www.mathopenref.com/images/hexagon/hexnut.jpg">|http://www.mathopenref.com/hexagon.html]]</td>   
+  </tr>
+</table>
 Until this point our section for ''a spreading'' is completed.
 = What's Next =
 From that point you may see that ''a routine'' will turn its behavior and seeking a way to return to its routine by calling another mappings that initiated by the spreading.<br />
