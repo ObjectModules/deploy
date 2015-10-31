@@ -177,7 +177,18 @@ Then the content flow for the ''2nd Employment'' can be tabulated as below:
     </tr>
   </tbody>
 </table>
-
+=== Monitoring ===
+<table>
+    <tr>
+      <td>[[<img src="https://pixabay.com/static/uploads/photo/2013/07/12/16/37/cobweb-151265_640.png">|https://pixabay.com/en/cobweb-spiderweb-spider-s-web-151265/]]</td><td>[[<img src="https://pixabay.com/static/uploads/photo/2015/01/30/18/26/spider-web-617769_640.jpg">|https://pixabay.com/en/spider-web-tree-branches-pattern-617769/]]</td>   
+  </tr>
+</table>
+=== Rating ===
+<table>
+    <tr>
+      <td>[[<img src="https://pixabay.com/static/uploads/photo/2013/07/13/10/06/geometry-156568_640.png">|https://pixabay.com/p-156568/?no_redirect]]</td><td>[[<img src="http://news.wisc.edu/news/images/honeybeys-t.jpg">|http://news.wisc.edu/13739]]</td>   
+  </tr>
+</table>
 == 3rd Employment ==
 As a symbiotic relationship with the 2nd employment so the 3rd employment is simply produce ''a query'' in such a way that it will give ''a result'' when it is implemented to the library.  
 
