@@ -64,6 +64,8 @@ Let's map about the process of getting the best food for you the same way as you
 * Matching the data is the process
 * Exit point  
 ```
+=== Mapping by Settlement ===
+Let's map now about the process after getting the best food 
 == Basic Diagram ==
 Here on this section, we will explain about our way on making the mapping using layout diagram. We are going to get it applicable for all the above mappings.
 === Symbology ===
