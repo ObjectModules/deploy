@@ -20,7 +20,7 @@ In order to run all program language in the same time then they are configured a
 
 
 ##Application Structure
-Having possibility to run all language then we have no more resistant to gain a **simultaneously** access to any other [GOOGLE PRODUCT](https://developers.google.com/products/) including *Google Talk, [Google Play Androids](https://developers.google.com/android/), [Google Maps](https://developers.google.com/maps/), [Google Drive](https://drive.google.com/), [Google Wallet](https://developers.google.com/wallet/), [Youtube](https://developers.google.com/youtube/), etc* which also open an access to more **widely and global** application such as *[Compute Engine](https://developers.google.com/compute/) and [Big Query](https://developers.google.com/bigquery/)*.
+Having possibility to run all language then we have no more resistant to gain a **simultaneously** access to any other [GOOGLE PRODUCT](https://developers.google.com/products/) including *Google Talk, [Google Play Androids](https://developers.google.com/android/), [Google Maps](https://developers.google.com/maps/), [Google Drive](https://drive.google.com/), [Google Wallet](https://developers.google.com/wallet/), [Google Tag Manager](http://www.google.co.id/analytics/tag-manager/) [Youtube](https://developers.google.com/youtube/), etc* which also open an access to more **widely and global** application such as *[Compute Engine](https://developers.google.com/compute/) and [Big Query](https://developers.google.com/bigquery/)*.
 
 Find More of Google Products [here](http://en.wikipedia.org/wiki/Google_Services).
 
