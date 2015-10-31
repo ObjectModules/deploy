@@ -225,6 +225,8 @@ We try to illustrate this kind of processes, well it is quite difficult. However
 </table>
 
 Here we have explained the routine in ''three (3)'' by ''four (4)'' that became ''twelve (12)'' which come by ''six (6)'' pairs of ''sequential unique processes'' each presents by ''six (6)'' steps in hexagonal form as explained above.
+
+You may find later the kind of our hexagonal form as well as its contents which in the figure are represented by the ''twelve (12)'' blue dots that are circling in ''the seven (7)'' in hexagonally pairs of two (2) dots each.  
 === Kind of Direction ===
 See that whenever the content is completed then the overall form is remain in hexagonal. 
 
@@ -241,8 +243,6 @@ So similar with what we have explained, this kind of form will be the same for e
 See again the figure of hexagonal form. The ''six (6) steps'' above are represented by the violet dot, they are circling one black dot that you may guess it ''[[Mapping-Routine#routines|a routine]]'' that we have explained on this page. 
 
 This ''six (6)'' combine with ''[[Mapping-Routine#routines|a routine]]'' become ''seven (7)'' all together. This is what we means by ''[[Mapping#the-seven-7|the seven]]'' that explained on the [[Mapping|previous section]].
-
-You may find later the kind of our hexagonal form as well as its contents which in the figure are represented by the ''twelve (12)'' blue dots that are circling in ''the seven (7)'' in hexagonally pairs of two (2) dots each.  
 
 As we have explained about ''[[Mapping-Routine#routines|a routine]]'', so we are going to bring you to the details of other ''six (6)'' processes in a separated page one by one. 
 
