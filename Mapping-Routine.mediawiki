@@ -181,8 +181,6 @@ In cells with a nucleus, as in eukaryotes, the cell cycle can be divided into th
 
 The cell-division cycle is a vital process by which a single-celled fertilized egg develops into a mature organism, as well as the process by which hair, skin, blood cells, and some internal organs are renewed. After cell division, each of the daughter cells begin the interphase of a new cycle. Although the various stages of interphase are not usually morphologically distinguishable, each phase of the cell cycle has a distinct set of specialized biochemical processes that prepare the cell for initiation of cell division.
 === Two (2) Daughter ===
-So just to make it short, this kind of process can be identical with when a kind of cell is separated into ''two (2) identical sets'', which people call the process as ''<a href="https://en.wikipedia.org/wiki/Mitosis" target="_blank">a mitosis</a>''.
-
 As explained in ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">cell cycle</a>'', ''the mitosis'' is one of the series of events that take place in a cell leading to its division and duplication ''<a href="https://en.wikipedia.org/wiki/DNA_replication" target="_blank">(replication)</a>'' of its ''<a href="https://en.wikipedia.org/wiki/DNA" target="_blank">DNA</a>'' that produces ''two (2) daughter cells''.
 
 Here are the ''process of a Mitosis'' and the structure ''of two base pairs DNA'' look like:   
