@@ -195,7 +195,7 @@ So here a process of ''[[Mapping-Comparison|a comparison]]'' will be called, say
 * Exit point  
 ```
 
-Then the 'Best Food' will stand just a 'Food' when it is implemented to overall system.  
+Then the 'Best Food' will stand just a 'Food' when it is implemented as part of ''[[Mapping-Overall|an overall]]'' system.  
 ```
 * Hungry will become an entry point
 * 'Food' is what we need 
@@ -315,7 +315,6 @@ You can find our explanation about this concept in more detail. We are going als
 You will also find later that we are going to test our concept in such a way that you can easily find whether it is work on ''[[the real world|http://hyip.world/]]'' or not.  
 
 == Nonpattern Word (isogram) ==
-
 Having made a research on what people has been doing a similar with ''[[Mapping#our-concept|our concept]]'', we found this on ''<a href="https://en.wikipedia.org/wiki/Isogram" target="''blank">isogram</a>'' which is a word that doesn't contain any repeating letters.  
 
 On ''<a href="http://www.thefreedictionary.com/isogram" target="blank">this page</a>'' the isogram is described as ''a line drawn on a map connecting points having the same numerical value of some variable''.
