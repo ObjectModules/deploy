@@ -187,21 +187,21 @@ Since you still the original process then it will become two of them.
 * Exit point  
 ```
 
-So here a process of comparison will be called, say The '''Best Food''' is the winner.  
+So here a process of ''a comparison'' will be called, say The 'Best Food' is the winner.  
 ```
 * Hungry will become an entry point
 * 'Best Food' is what we need 
 * Eat is the process
 * Exit point  
 ```
-So here in our case, the '''Best Food''' will stand just a Food when it is implemented to overall system.  
+So here in our case, the 'Best Food' will stand just a 'Food' when it is implemented to overall system.  
 ```
 * Hungry will become an entry point
 * 'Food' is what we need 
 * Eat is the process
 * Exit point  
 ```
-Finally, it will become the same routine just exactly the same as before we put the parameter of ''best'' to the food. Just a process of eating a food.
+Finally, it will become the same routine just exactly the same as before we put the parameter of 'best' to the food. Just a process of eating a food.
 ```
 * Hungry will become an entry point
 * Food is what we need 
@@ -209,7 +209,7 @@ Finally, it will become the same routine just exactly the same as before we put 
 * Exit point  
 ```
 See here everything is back to normal. <br /> 
-All back to routines. 
+All back to routines.<br /> 
 
 Settled.
 
