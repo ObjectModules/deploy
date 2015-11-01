@@ -187,7 +187,7 @@ Since you still have the original run in the system then it will become as ''two
 * Exit point  
 ```
 
-So here a process of ''a comparison'' will be called, say The 'Best Food' is the winner.  
+So here a process of ''[[Mapping-Comparison|a comparison]]'' will be called, say The 'Best Food' is the winner.  
 ```
 * Hungry will become an entry point
 * 'Best Food' is what we need 
