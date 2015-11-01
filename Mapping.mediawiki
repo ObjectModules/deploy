@@ -165,7 +165,7 @@ See the mapping of the routines, you may count that number of elements is also '
 
 In our concept, when ''four (4) mappings'' is going to return to its original of ''four (4) elements'', we call it as ''[[Mapping-Settlement|a settlement]]''.  
 
-So here in our case, whatever you have done as long as you follow the concept, all will back to the original process.  
+So here in our case, whatever you have done as long as you follow the concept, all will back to the original process but now you got already your 'Best Food'.  
 ```
 * Hungry will become an entry point
 * 'Best Food' is what we need 
@@ -173,7 +173,7 @@ So here in our case, whatever you have done as long as you follow the concept, a
 * Exit point  
 ```
 
-Since you still the original process then it will become two of them.  
+Since you still have the original run in the process then it will become ''two (2) identical sets'' of them.  
 ```
 * Hungry will become an entry point
 * 'Best Food' is what we need 
@@ -194,13 +194,15 @@ So here a process of ''a comparison'' will be called, say The 'Best Food' is the
 * Eat is the process
 * Exit point  
 ```
-So here in our case, the 'Best Food' will stand just a 'Food' when it is implemented to overall system.  
+
+Then the 'Best Food' will stand just a 'Food' when it is implemented to overall system.  
 ```
 * Hungry will become an entry point
 * 'Food' is what we need 
 * Eat is the process
 * Exit point  
 ```
+
 Finally, it will become the same routine just exactly the same as before we put the parameter of 'best' to the food. Just a process of eating a food.
 ```
 * Hungry will become an entry point
@@ -208,9 +210,9 @@ Finally, it will become the same routine just exactly the same as before we put 
 * Eat is the process
 * Exit point  
 ```
+
 See here everything is back to normal. <br /> 
 All back to routines.<br /> 
-
 Settled.
 
 = What's Next =
