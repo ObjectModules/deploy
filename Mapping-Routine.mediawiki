@@ -297,7 +297,7 @@ So similar with what we have explained, this kind of form will be the same for e
 === ''The Six (6)'' ===
 See again [[Mapping-Routine#one-to-one-mapping|the figure]] of hexagonal form. 
 
-The ''six (6) steps'' above are represented by the violet dot, they are circling one black dot that you may guess it ''[[Mapping-Routine#routines|a routine]]'' that we have explained on this page. 
+The ''six (6) steps'' above are represented by the violet dot, they are circling one black dot that you may guess it is ''[[Mapping-Routine#routines|a routine]]'' that the one we explained on this page. 
 
 This ''six (6)'' combine with ''[[Mapping-Routine#routines|a routine]]'' become ''seven (7)'' all together. This is what we means by ''[[Mapping#the-seven-7|the seven]]'' that explained on the [[Mapping|previous section]].
 
