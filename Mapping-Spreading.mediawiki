@@ -196,7 +196,7 @@ Until this point our section for ''a spreading'' is completed.
 == Hexagon ==
 In a regular hexagon, the radius equals the side length. That is, a line from the center to any vertex will have the same length as any side.
 
-=== Radius equals side length ===
+=== Radius ===
 Because of this, a regular hexagon can be thought of as being made of six equilateral triangles.
 <table>
     <tr>
@@ -204,7 +204,7 @@ Because of this, a regular hexagon can be thought of as being made of six equila
   </tr>
 </table>
 
-=== The Nuts and Bolts of Hexagons ===
+=== The Nuts and Bolts ===
 Most nuts and bolt heads are made in the shape of a hexagon. Because a hexagon has three pairs of parallel faces, a wrench can be placed over any pair. 
 
 In a confined space, the wrench can be turned 60° (the exterior angle of a hexagon) and then the wrench re-positioned on the next pair of sides. Doing this repeatedly will tighten the nut. In this way, you do not need room to rotate the entire wrench a full circle
