@@ -173,7 +173,7 @@ So here in our case, whatever you have done as long as you follow the concept, a
 * Exit point  
 ```
 
-Since you still have the original run in the process then it will become ''two (2) identical sets'' of them where the the 'Best Food' is still considered as ''a new process'' as an unrecognized process on the system.
+Since you still have the original run in the system then it will become as ''two (2) identical sets'' where the 'Best Food' is still considered as ''a new process'' (unrecognized).
 ```
 * Hungry will become an entry point
 * 'Best Food' is what we need 
