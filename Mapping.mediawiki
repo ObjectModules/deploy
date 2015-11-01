@@ -168,7 +168,7 @@ In our concept, when ''four (4) mappings'' is going to return to its original of
 So here in our case, whatever you have done as long as you follow the concept, all will back to the original process.  
 ```
 * Hungry will become an entry point
-* <i>Best Food</i> is what we need 
+* <nowiki><i>Best Food</i></nowiki> is what we need 
 * Eat is the process
 * Exit point  
 ```
