@@ -208,7 +208,7 @@ Because of this, a regular hexagon can be thought of as being made of six equila
 Most nuts and bolt heads are made in the shape of a hexagon. Because a hexagon has three pairs of parallel faces, a wrench can be placed over any pair. 
 
 In a confined space, the wrench can be turned 60° (the exterior angle of a hexagon) and then the wrench re-positioned on the next pair of sides. Doing this repeatedly will tighten the nut. In this way, you do not need room to rotate the entire wrench a full circle
-= Overall =
+== Overall ==
 From that point you may see that ''a routine'' will turn its behavior and seeking a way to return to its routine by calling another mappings that initiated by the spreading.<br />
 
 So whenever ''a result'', by a term of ''<a href="https://en.wikipedia.org/wiki/Data_mapping" target="blank">data mapping</a>'',  meet the requirement of ''a query'' then process will end to a settlement which making all process that related to the parameter will no more required. On our case those process are `world` and `hyip world`.<br />
@@ -221,7 +221,7 @@ However when `a settlement` is not going to be achieved then the spreading will 
 This is identical as described on ''<a href="https://en.wikipedia.org/wiki/Gene_mapping#Physical_Mapping" target="_blank">Gene Mapping</a>'', which explained that since actual base-pair distances are generally hard or impossible to directly measure, physical maps are actually constructed by first shattering the genome into ''hierarchically smaller pieces''. 
 
 By characterizing each single piece and ''assembling back together'', the overlapping path or "tiling path" of these small fragments <u>would allow</u> researchers to infer physical distances between genomic features.
-== Potential Factor(s) ==
+=== Potential Factor(s) ===
 As you may guess we are not going for a settlement on this point. We have explained that, in our case, you will not be able to find your best food on search engines.<br />
 
 See again the tabulation of a spreading. Let's try to figure out which potential factor(s) that making your searching stack is.<br />
@@ -249,7 +249,7 @@ The employment can be considered as identical with ''<a href="https://en.wikiped
 
 It is stated also that the ''<a href="https://en.wikipedia.org/wiki/DNA_polymerase" target="_blank">DNA</a>'' synthesizes ''the new DNA'' by adding complementary ''<a href="https://en.wikipedia.org/wiki/Nucleotides" target="_blank">nucleotides</a>'' to the template strand. Here ''the nucleotides'' stand as '''the said media''' as it serve to carry packets of energy within the cell and playing a central role in <a href="https://en.wikipedia.org/wiki/Metabolism" target="_blank">the process</a>. 
 
-== Symbiotic ==
+=== Symbiotic ===
 Follow to our explanation above, there will be two kind of employments called. One to settle the Query and another one for the Result. You may see also that each employment will represent the 2nd and the 3rd mapping of a Routine by a parameter.
 
 The employments for the Result is represent the 2nd mapping:  
