@@ -210,12 +210,12 @@ Most nuts and bolt heads are made in the shape of a hexagon. Because a hexagon h
 In a confined space, the wrench can be turned 60° (the exterior angle of a hexagon) and then the wrench re-positioned on the next pair of sides. Doing this repeatedly will tighten the nut. In this way, you do not need room to rotate the entire wrench a full circle
 == Overall ==
 From that point you may see that ''a routine'' will turn its behavior and seeking a way to return to its routine by calling another mappings that initiated by the spreading.<br />
-
+=== Data Mapping ===
 So whenever ''a result'', by a term of ''<a href="https://en.wikipedia.org/wiki/Data_mapping" target="blank">data mapping</a>'',  meet the requirement of ''a query'' then process will end to a settlement which making all process that related to the parameter will no more required. On our case those process are `world` and `hyip world`.<br />
 
 When the `world` and `hyip world` are no more carry out then all of the process is considered settled and will return to ''[[Mapping-Routine|its routine]]''. <br /> 
 [[<img src="https://hyipworld.github.io/images/github/doc/figure4.png">]] 
-
+=== Gene Mapping ===
 However when `a settlement` is not going to be achieved then the spreading will continue to another process which in our concept we call them as ''Employment'' and ''Merging''.
 
 This is identical as described on ''<a href="https://en.wikipedia.org/wiki/Gene_mapping#Physical_Mapping" target="_blank">Gene Mapping</a>'', which explained that since actual base-pair distances are generally hard or impossible to directly measure, physical maps are actually constructed by first shattering the genome into ''hierarchically smaller pieces''. 
