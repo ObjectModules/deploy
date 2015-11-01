@@ -195,7 +195,7 @@ So here a process of ''[[Mapping-Comparison|a comparison]]'' will be called, say
 * Exit point  
 ```
 
-Then the 'Best Food' will stand just a 'Food' when it is implemented as part of ''[[Mapping-Overall|an overall]]'' system.  
+Then the 'Best Food' will stand just a 'Food' when it is implemented as part of ''[[Mapping-Overall|an overall]]'' system. Here ''a regular check'' will be assigned ''as part'' of the overall system. 
 ```
 * Hungry will become an entry point
 * 'Food' is what we need 
