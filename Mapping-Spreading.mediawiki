@@ -249,7 +249,7 @@ The employment can be considered as identical with ''<a href="https://en.wikiped
 
 It is stated also that the ''<a href="https://en.wikipedia.org/wiki/DNA_polymerase" target="_blank">DNA</a>'' synthesizes ''the new DNA'' by adding complementary ''<a href="https://en.wikipedia.org/wiki/Nucleotides" target="_blank">nucleotides</a>'' to the template strand. Here ''the nucleotides'' stand as '''the said media''' as it serve to carry packets of energy within the cell and playing a central role in <a href="https://en.wikipedia.org/wiki/Metabolism" target="_blank">the process</a>. 
 
-=== Symbiotic ===
+=== Result vs Query ===
 Follow to our explanation above, there will be two kind of employments called. One to settle the Query and another one for the Result. You may see also that each employment will represent the 2nd and the 3rd mapping of a Routine by a parameter.
 
 The employments for the Result is represent the 2nd mapping:  
@@ -266,6 +266,7 @@ The employments for the Query is represent the 3rd mapping:
 * Examine is the process
 * Exit point  
 ```
+=== Symbiotic Morphism ===
 See that one mapping is doing a process making ''a library'' which is concern to collect data to get it to become more specific '''Source''' to only related to the parameter.<br /><br /> 
 
 Another is doing a process of making more specific '''Target''' by examine to the one who is going to use it in related also to the parameter.<br />
