@@ -65,7 +65,60 @@ Let's map about the process of getting the best food for you the same way as you
 * Exit point  
 ```
 === Mapping by Settlement ===
-Let's map now about the process after getting the best food 
+Let's put again all the map about the process after getting the best food.
+
+In our concept, when ''four (4) mappings'' is going to return to its original of ''four (4) elements'', we call it as ''[[Mapping-Settlement|a settlement]]''.  
+
+So here in our case, whatever you have done as long as you follow the concept, all will back to the original process but now you got already your 'Best Food'.  
+```
+* Hungry will become an entry point
+* 'Best Food' is what we need 
+* Eat is the process
+* Exit point  
+```
+
+Since you still have the original run in the system then it will become as ''two (2) identical sets'' where the 'Best Food' is still considered as ''a new process'' (unrecognized).
+```
+* Hungry will become an entry point
+* 'Best Food' is what we need 
+* Eat is the process
+* Exit point  
+```
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+
+So here a process of ''[[Mapping-Comparison|a comparison]]'' will be called, say The 'Best Food' is the winner. The original one is remain stay as ''a reference'' or ''a backup''.  
+```
+* Hungry will become an entry point
+* 'Best Food' is what we need 
+* Eat is the process
+* Exit point  
+```
+
+Then the 'Best Food' will stand just a 'Food' when it is implemented ''as part'' of ''[[Mapping-Overall|an overall]]'' system. Here ''a regular check'' will be assigned also ''as part'' of the overall system. 
+```
+* Hungry will become an entry point
+* 'Food' is what we need 
+* Eat is the process
+* Exit point  
+```
+
+Finally, it will become the same routine just exactly the same as before we put the parameter of 'best' to the food. Just a process of eating a food.
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+
+See here everything is back to normal. <br /> 
+All back to ''[[Mapping-Routine|a routine]]''.<br /> 
+Settled.
+
 == Basic Diagram ==
 Here on this section, we will explain about our way on making the mapping using layout diagram. We are going to get it applicable for all the above mappings.
 === Symbology ===
