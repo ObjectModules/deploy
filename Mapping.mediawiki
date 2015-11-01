@@ -195,7 +195,7 @@ So here a process of ''[[Mapping-Comparison|a comparison]]'' will be called, say
 * Exit point  
 ```
 
-Then the 'Best Food' will stand just a 'Food' when it is implemented as part of ''[[Mapping-Overall|an overall]]'' system. Here ''a regular check'' will be assigned ''as part'' of the overall system. 
+Then the 'Best Food' will stand just a 'Food' when it is implemented ''as part'' of ''[[Mapping-Overall|an overall]]'' system. Here ''a regular check'' will be assigned also ''as part'' of the overall system. 
 ```
 * Hungry will become an entry point
 * 'Food' is what we need 
@@ -212,7 +212,7 @@ Finally, it will become the same routine just exactly the same as before we put 
 ```
 
 See here everything is back to normal. <br /> 
-All back to routines.<br /> 
+All back to ''[[Mapping-Routine|a routine]]''.<br /> 
 Settled.
 
 = What's Next =
