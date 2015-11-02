@@ -160,7 +160,7 @@ Scientists have marveled at the angular perfection of honeycomb for centuries, b
 <table>
     <tr>
       <td>[[<img src="http://media1.s-nbcnews.com/j/streams/2013/july/130718/6c8310731-honeycomb-2.nbcnews-ux-600-480.jpg">|http://www.nbcnews.com/science/bees-dont-do-math-hexagonal-honeycombs-emerge-naturally-6C10677058]]</td>
-      <td>[[<img src="http://i.livescience.com/images/i/000/022/573/i02/painted-bumblebees.jpg?1323441287">|http://www.livescience.com/17395-honeybees-head-butts-decisions.html]]</td>
+      <td>[[<img src="http://i.livescience.com/images/i/000/022/573/original/painted-bumblebees.jpg?1323441287">|http://www.livescience.com/17395-honeybees-head-butts-decisions.html]]</td>
   </tr>
 </table>
 
