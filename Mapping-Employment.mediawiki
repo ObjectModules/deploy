@@ -117,7 +117,9 @@ To became a valuable info then we need to rate the data and became a library. Th
 On our case we use this monitoring by means of a one who admonishes; one who warns of faults, informs of duty, or gives advice and instruction by way of reproof or caution and capable of being revolved so as to bring the several tools successively into position.
 <table>
     <tr>
-      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-spider.png?h=300">|https://pixabay.com/en/cobweb-spiderweb-spider-s-web-151265/]]</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider-web.jpg?h=300">|https://pixabay.com/en/spider-web-tree-branches-pattern-617769/]]</td>   
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-centered.png?h=300">|https://pixabay.com/en/cobweb-spiderweb-spider-s-web-151265/]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-spider.png?h=300">|https://pixabay.com/en/cobweb-spiderweb-spider-s-web-151265/]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider-web.jpg?h=300">|https://pixabay.com/en/spider-web-tree-branches-pattern-617769/]]</td>   
   </tr>
 </table>
 === Rating ===
