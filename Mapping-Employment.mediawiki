@@ -130,7 +130,7 @@ A ''<a href="https://en.wikipedia.org/wiki/Rating" target="_blank">rating</a>'' 
 On our case we use this rating by means of a ''<a href="https://en.wikipedia.org/wiki/Reputation_system" target="_blank">reputation system</a>'', a score for a set of objects within the community based on a collection of opinions. 
 <table>
     <tr>
-      <td>[[<img src="hhttps://tophyipmonitor.files.wordpress.com/2015/11/hexagon-spider.png?h=300">|https://pixabay.com/p-156568/?no_redirect]]</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/bee-web.jpg?h=300">|http://news.wisc.edu/13739]]</td>   
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-bee.png?h=300">|https://pixabay.com/p-156568/?no_redirect]]</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/bee-web.jpg?h=300">|http://news.wisc.edu/13739]]</td>   
   </tr>
 </table>
 ```js
