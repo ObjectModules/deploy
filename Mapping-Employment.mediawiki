@@ -116,7 +116,6 @@ To became a valuable info then we need to rate the data and became a library. Th
 * A device that detects and informs on the presence, quantity, etc., of something.
 On our case we use this monitoring by means of a one who admonishes; one who warns of faults, informs of duty, or gives advice and instruction by way of reproof or caution and capable of being revolved so as to bring the several tools successively into position.
 <table>
-<table>
     <tr>
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-spider.png?h=300">|https://pixabay.com/en/cobweb-spiderweb-spider-s-web-151265/]]</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider-web.jpg?h=300">|https://pixabay.com/en/spider-web-tree-branches-pattern-617769/]]</td>   
   </tr>
@@ -129,6 +128,7 @@ A ''<a href="https://en.wikipedia.org/wiki/Rating" target="_blank">rating</a>'' 
 * An evaluation of status, especially of financial status
 * A number, letter, or other mark that refers to the ability of something.
 On our case we use this rating by means of a ''<a href="https://en.wikipedia.org/wiki/Reputation_system" target="_blank">reputation system</a>'', a score for a set of objects within the community based on a collection of opinions. 
+<table>
     <tr>
       <td>[[<img src="hhttps://tophyipmonitor.files.wordpress.com/2015/11/hexagon-spider.png?h=300">|https://pixabay.com/p-156568/?no_redirect]]</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/bee-web.jpg?h=300">|http://news.wisc.edu/13739]]</td>   
   </tr>
