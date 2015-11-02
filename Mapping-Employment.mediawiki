@@ -159,8 +159,8 @@ The perfect hexagonal shape of honeycomb cells — once thought to be an incredi
 Scientists have marveled at the angular perfection of honeycomb for centuries, but none have been able to clearly describe how it forms. Engineers in the U.K. and China have taken a step forward by showing that the cells actually start off as circles — molded by the shape of a bee's body — and then flow into a hexagonal pattern seconds later. The researchers reported their findings on July 16 in the Journal of the Royal Society Interface.
 <table>
     <tr>
-      <td>[[<img src="http://media1.s-nbcnews.com/j/streams/2013/july/130718/6c8310731-honeycomb-2.nbcnews-ux-600-480.jpg">|http://www.nbcnews.com/science/bees-dont-do-math-hexagonal-honeycombs-emerge-naturally-6C10677058]]</td>
-      <td>[[<img src="http://i.livescience.com/images/i/000/022/573/original/painted-bumblebees.jpg">|http://www.livescience.com/17395-honeybees-head-butts-decisions.html]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/honeycomb.jpg?h=300">|http://www.nbcnews.com/science/bees-dont-do-math-hexagonal-honeycombs-emerge-naturally-6C10677058]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/painted-bumblebees.jpg?h=300">|http://www.livescience.com/17395-honeybees-head-butts-decisions.html]]</td>
   </tr>
 </table>
 
