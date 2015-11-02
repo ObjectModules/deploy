@@ -24,47 +24,23 @@ Now we will explain about ''a merging'' in our concept. The process of ''[[Mappi
 
 ''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Employment|previous section]]''.
 
-== Basic ==
-Let's put again all of the mappings here:
-=== Routine ===
-Mapping of ''[[Mapping#Routine|a routine]]''
-```  
-* Hungry will become an entry point
-* Food is what we need 
-* Eat is the process
-* Exit point  
-```
-=== Parameter ===
-Mappings by ''[[Mapping#parameter|a parameter]]''  
+= Basic =
+Combining all together we have now 3 kind of Employments which are:  
+ 
+''1. [[Mapping-Employment#1st-employment|Info & World]]: info - world'' <br /> 
+''2. [[Mapping-Employment#2nd-employment|Monitor & Rating]]: monitor - rating'' <br /> 
+''3. [[Mapping-Employment#3rd-employment|Script & Team]]: script - team''  
 
-Mapping of the change to your routine process:
-```
-* Looking for your best food will become an entry point
-* An information of best food is what we need 
-* Looking is the process
-* Exit point  
-```
-Mapping of the process to collect the library in related with the food:
-```
-* Food will become an entry point
-* Library is what we need 
-* Collect is the process
-* Exit point  
-```
-Then we need also the mapping to examine your self to get your data:
-```
-* You will become an entry point
-* Your data is what we need 
-* Examine is the process
-* Exit point  
-```
-Let's map about the process of getting the best food for you the same way as your doctor do:
-```
-* Both of food library and your data will become the entry point
-* A best food on library for you is what we need 
-* Matching the data is the process
-* Exit point  
-```
+== The Three ==
+Employment can be all kind of process that you want. In our concept we just need ''three (3) of employments''. One for Routine, and the other two for the process in related to the parameter.
+
+You may see that each kind of these ''three (3) of employments'' has four (4) processes, becoming twelve (12)  processes all together.
+== The Last One ==
+We have pronounced since the beginning that all the mappings has always got ''four (4) parts''. 
+
+Either mapping for ''[[Mapping-Routine|a routine]]'', diagram for ''[[Mapping-Spreading|a spreading]]'', also for an employment. All of them got always ''four (4) parts'' So why we only take ''three (3) of employments''. Not four (4)? 
+
+Actually there is ''The Fourth (4th)''. Stand as ''The Last Employment''. Very special. The key of all this concept. So let's stop the employments until this point. 
 == ''The Fourth'' ==
 Base the method of mapping, as you have found the the ''[[Mapping-Employment|previous section]]'', we have defined ''[[Mapping-Employment#the-three|the three (3) employments]]'' that represent the first three (3) of our mappings.
 
