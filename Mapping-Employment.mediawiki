@@ -118,7 +118,7 @@ On our case we use this monitoring by means of a one who admonishes; one who war
 <table>
 <table>
     <tr>
-      <td>[[<img src="https://pixabay.com/static/uploads/photo/2013/07/12/16/37/cobweb-151265_640.png">|https://pixabay.com/en/cobweb-spiderweb-spider-s-web-151265/]]</td><td>[[<img src="https://pixabay.com/static/uploads/photo/2015/01/30/18/26/spider-web-617769_640.jpg">|https://pixabay.com/en/spider-web-tree-branches-pattern-617769/]]</td>   
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-spider.png?h=300">|https://pixabay.com/en/cobweb-spiderweb-spider-s-web-151265/]]</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-spider.png?h=300">|https://pixabay.com/en/spider-web-tree-branches-pattern-617769/]]</td>   
   </tr>
 </table>
 === Rating ===
@@ -130,7 +130,7 @@ A ''<a href="https://en.wikipedia.org/wiki/Rating" target="_blank">rating</a>'' 
 * A number, letter, or other mark that refers to the ability of something.
 On our case we use this rating by means of a ''<a href="https://en.wikipedia.org/wiki/Reputation_system" target="_blank">reputation system</a>'', a score for a set of objects within the community based on a collection of opinions. 
     <tr>
-      <td>[[<img src="https://pixabay.com/static/uploads/photo/2013/07/13/10/06/geometry-156568_640.png">|https://pixabay.com/p-156568/?no_redirect]]</td><td>[[<img src="http://news.wisc.edu/news/images/honeybeys-t.jpg">|http://news.wisc.edu/13739]]</td>   
+      <td>[[<img src="hhttps://tophyipmonitor.files.wordpress.com/2015/11/hexagon-spider.png?h=300">|https://pixabay.com/p-156568/?no_redirect]]</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/bee-web.jpg?h=300">|http://news.wisc.edu/13739]]</td>   
   </tr>
 </table>
 ```js
