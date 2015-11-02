@@ -85,12 +85,12 @@ Now left the question on how to combine them, right? Here are the rules:
 * The new process shall be able to be carried out along with the Routine
 * It shall be a clearly sign that a new process is being carried out of the Routine
 
-== Mapping ==
+=== Mapping ===
 Let's put again all of the mappings here:
 We have explained that the behavior of our mapping will seeking another process to return to its routine by taking the process of spreading. 
 
 Here we will explain further how the spreading will continue to another process when a settlement is not going to be achieved. We will also explain how these processes are going to present the above 2nd and 3rd mapping.
-=== Rules Implementation ===
+=== Implementation ===
 A process is considered as settled whenever it can be run or return to the entry point and processed normally without any adjustment or modification into the Routine.
 
 For instance, let say you have eat the food, then you got that it is not suit to your need. Means it is not the best one for you. So you need to do the searching again at which the process back to the entry point again.   
