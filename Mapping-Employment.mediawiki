@@ -202,17 +202,16 @@ As a symbiotic relationship with the 2nd employment so the 3rd employment is sim
 
 On the 2nd employment, ''<a href="https://en.wikipedia.org/wiki/Monitoring" target="_blank">Monitoring</a>'' is process to gain the data, ''Rating'' is process of sorting the data to become a library. 
 
-=== By Titling ===
 Here we need a language so that a library will understand what ''a query'' is. People call this language as ''<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">SQL</a>'' stand as the abbreviation of ''Structured Query Language''.
 
-''' Script '''
+=== Script ===
 When we see the explanation of what ''SQL'' is, it contain of statement that structured as a code to do a process on a Library. So it is actually a scripting language.
 
 Let's call it from here as ''<a href="https://en.wiktionary.org/wiki/script" target="_blank">a script</a>'' then.<br />
 
 So how ''a script'' can be produced? How to get it to become able to be implemented?
 
-''' Team '''
+=== Team ===
 In our concept the ''Rating'' shall do the same language with the ''Script'' on managing the data. So here the ''Script'' again has become a symbiotic relationship with the ''Rating''.
 
 So now, it is left only what kind of process that become a symbiotic relationship with the ''Monitoring'', right?
@@ -302,7 +301,6 @@ Combining all together we have now 3 kind of Employments which are:
 ''3. [[Mapping-Employment#3rd-employment|Script & Team]]: script - team''  
 
 == The Three ==
-
 Employment can be all kind of process that you want. In our concept we just need ''three (3) of employments''. One for Routine, and the other two for the process in related to the parameter.
 
 You may see that each kind of these ''three (3) of employments'' has four (4) processes, becoming twelve (12)  processes all together.
