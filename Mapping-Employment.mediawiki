@@ -25,7 +25,9 @@ In this section we will explain about ''an employment'' in our concept. The gene
 ''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Spreading|previous section]]''.
 
 == 2nd Employment ==
-So in line to what he have explained about ''[[Mapping#nonpattern-word-isogram|isogram]]'' here you can see the breakdown of the assigned letters as below: 
+Here we will explain further how the spreading will continue to another process when a settlement is not going to be achieved. We will also explain how these processes are going to present the above 2nd and 3rd mapping.
+
+In line to what he have explained about ''[[Mapping#nonpattern-word-isogram|isogram]]'' here you can see the breakdown of the assigned letters as below: 
 ```js
 letter a stand as info  
 letter b stand as world  
