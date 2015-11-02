@@ -202,6 +202,8 @@ Then diagram will be shown as below:<br />
 [[<img src="https://hyipworld.github.io/images/github/doc/figure9.png">]]
 
 === Ant ===
+It is easy to find a creature that working as a '''team''' when the are dealing with a '''route'''. We have no other option than ants.
+
 Ants are eusocial insects of the family Formicidae /fɔrˈmɪsɨdiː/ and, along with the related wasps and bees, belong to the order Hymenoptera. Ants evolved from wasp-like ancestors in the mid-Cretaceous period between 110 and 130 million years ago and diversified after the rise of flowering plants. More than 12,500 of an estimated total of 22,000 species have been classified. They are easily identified by their elbowed antennae and the distinctive node-like structure that forms their slender waists.
 
 Ants form colonies that range in size from a few dozen predatory individuals living in small natural cavities to highly organised colonies that may occupy large territories and consist of millions of individuals. Larger colonies consist mostly of sterile, wingless females forming castes of "workers", "soldiers", or other specialised groups. Nearly all ant colonies also have some fertile males called "drones" and one or more fertile females called "queens". The colonies are described as superorganisms because the ants appear to operate as a unified entity, collectively working together to support the colony.
