@@ -232,7 +232,7 @@ Let's take another one, ''a mammal'' which you can easily get to buy or sell tha
 
 So combine the horses with the cows and elephants then it will be '''three (3)''' mammals. Versus the '''three (3)''' insects, its became even ('''pairs'''). 
 === By Content Flow ===
-Then the content flow for the _3rd Employment_ can be tabulated as below:
+Then the content flow for the ''3rd Employment'' can be tabulated as below:
 <table>
   <thead>
     <tr>
