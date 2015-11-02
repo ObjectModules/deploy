@@ -25,7 +25,7 @@ Now we will explain about ''a merging'' in our concept. The process of ''[[Mappi
 ''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Employment|previous section]]''.
 
 = Basic =
-Combining all together we have now 3 kind of Employments which are:  
+Combining all together we have now 3 kind of Employments which are:<br />   
 ''1. [[Mapping-Employment#1st-employment|Info & World]]: info - world'' <br /> 
 ''2. [[Mapping-Employment#2nd-employment|Monitor & Rating]]: monitor - rating'' <br /> 
 ''3. [[Mapping-Employment#3rd-employment|Script & Team]]: script - team''  
