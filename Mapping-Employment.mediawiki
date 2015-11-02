@@ -155,18 +155,18 @@ On our case we use this rating by means of a ''<a href="https://en.wikipedia.org
 </table>
 The perfect hexagonal shape of honeycomb cells — once thought to be an incredible feat of math-savvy insects — has now been explained by simple mechanics.
 
-Scientists have marveled at the angular perfection of honeycomb for centuries, but none have been able to clearly describe how it forms. Engineers in the U.K. and China have taken a step forward by showing that the cells actually start off as circles — molded by the shape of a bee's body — and then flow into a hexagonal pattern seconds later. The researchers reported their findings on July 16 in the Journal of the Royal Society Interface.
+Two possible explanations exist as to why honeycomb is composed of hexagons, rather than any other shape. First, the hexagonal tiling creates a partition with equal-sized cells, while minimizing the total perimeter of the cells.Thus, a hexagonal structure uses the least material to create a lattice of cells within a given volume. 
+
+A second reason is that the shape simply results from the process of individual bees putting cells together: somewhat analogous to the boundary shapes created in a field of soap bubbles. In support of this, he notes that queen cells, which are constructed singly, are irregular and lumpy with no apparent attempt at efficiency.
 <table>
     <tr>
       <td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Honeycomb_cell_3d_rot.svg/320px-Honeycomb_cell_3d_rot.svg.png">|http://www.nbcnews.com/science/bees-dont-do-math-hexagonal-honeycombs-emerge-naturally-6C10677058]]</td>
-      <td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Honeycomb_3d_rot.svg/320px-Honeycomb_3d_rot.svg.png">|http://www.livescience.com/17395-honeybees-head-butts-decisions.html]]</td>
+      <td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Honeycomb_3d_rot.svg/320px-Honeycomb_3d_rot.svg.png">|https://en.wikipedia.org/wiki/Honeycomb]]</td>
   </tr>
 </table>
-Honeybees choose new nest sites by essentially head-butting each other into a consensus, shows a new study.<br /><br />
+The shape of the cells is such that two opposing honeycomb layers nest into each other, with each facet of the closed ends being shared by '''opposing cells'''. Opposing layers of honeycomb cells fit together.
 
-When scout bees find a new potential home, they do a waggle dance to broadcast to other scout bees where the nest is and how suitable it is for the swarm. The nest with the most support in the end becomes the swarm’s new home.
-
-They saw that after dancing for a while, a scout bee would take a break to walk around the swarm. She would then deliver a stop signal to another dancing bee, but only if that bee had checked out the '''opposite nest'''. "It turns out that they are quite discriminating," Seeley said. "That's pretty sophisticated."
+Individual cells do not show this geometric perfection: in a regular comb, deviations of a few percent from the "perfect" hexagonal shape occur. In transition zones between the larger cells of drone comb and the smaller cells of worker comb, or when the bees encounter obstacles, the shapes are often distorted. Cells are also angled up about 13° from horizontal to prevent honey from dripping out
 === Mapping ===
 ```js
 letter a stand as monitor  
