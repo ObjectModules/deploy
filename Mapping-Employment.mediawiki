@@ -158,6 +158,8 @@ Then the content flow for the ''2nd Employment'' can be tabulated as below:
     </tr>
   </tbody>
 </table>
+Until this point our section for ''the 2nd-employment'' is completed.
+
 == 3rd Employment ==
 As a symbiotic relationship with the 2nd employment so the 3rd employment is simply produce ''a query'' in such a way that it will give ''a result'' when it is implemented to the library.  
 
@@ -253,7 +255,7 @@ Then the content flow for the _3rd Employment_ can be tabulated as below:
   </tbody>
 </table>
 
-Until this point our section for the employment is completed.
+Until this point our section for ''the 3rd-employment'' is completed.
 
 We are going to bring you to ''[[Mapping-Merging|The Fourth]]''.
 
