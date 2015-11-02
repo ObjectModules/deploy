@@ -163,6 +163,9 @@ Scientists have marveled at the angular perfection of honeycomb for centuries, b
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/painted-bumblebees.jpg?h=300">|http://www.livescience.com/17395-honeybees-head-butts-decisions.html]]</td>
   </tr>
 </table>
+Honeybees choose new nest sites by essentially head-butting each other into a consensus, shows a new study.
+
+When scout bees find a new potential home, they do a waggle dance to broadcast to other scout bees where the nest is and how suitable it is for the swarm. The nest with the most support in the end becomes the swarm’s new home.
 
 They saw that after dancing for a while, a scout bee would take a break to walk around the swarm. She would then deliver a stop signal to another dancing bee, but only if that bee had checked out the '''opposite nest'''. "It turns out that they are quite discriminating," Seeley said. "That's pretty sophisticated."
 === Mapping ===
