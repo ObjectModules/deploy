@@ -134,10 +134,9 @@ The most interesting fact is that spiders create their nets making inscriptible 
       <td>[[<img src="http://austega.com/florin/CharmOfGeometry_files/image068.jpg?h=300">|http://austega.com/florin/CharmOfGeometry.htm]]</td>
   </tr>
 </table>
-In fact we have here another transformation, “the inversion”. In this case this transformation transform a circle into a different circle. The inversion can transform a circle into a line if the point O (the center of inversion) is on the circle (see the figure). 
+In fact we have here another transformation, “the inversion”. In this case this transformation transform a circle into a different circle. The inversion can transform a circle into a line if the point O (the center of inversion) is on the circle (see the figure).<br /> 
 
-In this case the circle determined by OABCDE is transformed in a line A’B’C’D’E’F’
-It seems that this transformation creates another interesting instrument for geometry. First we have to notice that OAB and OA’B’ are similar triangle, but with '''inverse similarity'''. This means that we can ‘t obtain one from the second one by magnifying and rotating it. So the angle OAB equals the angle OB’A’.
+In this case the circle determined by OABCDE is transformed in a line A’B’C’D’E’F’. It seems that this transformation creates another interesting instrument for geometry. First we have to notice that OAB and OA’B’ are similar triangle, but with '''inverse similarity'''. This means that we can ‘t obtain one from the second one by magnifying and rotating it. So the angle OAB equals the angle OB’A’.
 
 === Rating ===
 A ''<a href="https://en.wikipedia.org/wiki/Rating" target="_blank">rating</a>'' is the evaluation or assessment of something, in terms of quality (as with a critic rating a novel), quantity (as with an athlete being rated by his or her statistics), or some combination of both. 
@@ -163,7 +162,7 @@ Scientists have marveled at the angular perfection of honeycomb for centuries, b
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/painted-bumblebees.jpg?h=300">|http://www.livescience.com/17395-honeybees-head-butts-decisions.html]]</td>
   </tr>
 </table>
-Honeybees choose new nest sites by essentially head-butting each other into a consensus, shows a new study.<br />
+Honeybees choose new nest sites by essentially head-butting each other into a consensus, shows a new study.<br /><br />
 
 When scout bees find a new potential home, they do a waggle dance to broadcast to other scout bees where the nest is and how suitable it is for the swarm. The nest with the most support in the end becomes the swarm’s new home.
 
