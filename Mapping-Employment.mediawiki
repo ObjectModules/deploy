@@ -121,6 +121,13 @@ On our case we use this monitoring by means of a one who admonishes; one who war
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider-web.jpg?h=300">|https://pixabay.com/en/spider-web-tree-branches-pattern-617769/]]</td>   
   </tr>
 </table>
+We wonder if these nets don’t have anything mathematical in them. ''<a href="http://austega.com/florin/CharmOfGeometry.htm" target="_blank">This page</a>'' is explaining  that the answer is positive, and is incredible how an insect with few thousands of neurons know this mathematics. Look at the following figure and try to solve spider’s problem.
+<table>
+    <tr>
+      <td>[[<img src="http://austega.com/florin/CharmOfGeometry_files/image066.jpg?h=300">|http://austega.com/florin/CharmOfGeometry.htm]]</td>
+      <td>[[<img src="http://austega.com/florin/CharmOfGeometry_files/image068.jpg?h=300">|http://austega.com/florin/CharmOfGeometry.htm]]</td>
+  </tr>
+</table>
 === Rating ===
 A ''<a href="https://en.wikipedia.org/wiki/Rating" target="_blank">rating</a>'' is the evaluation or assessment of something, in terms of quality (as with a critic rating a novel), quantity (as with an athlete being rated by his or her statistics), or some combination of both. 
 
@@ -140,9 +147,9 @@ On our case we use this rating by means of a ''<a href="https://en.wikipedia.org
 letter a stand as monitor  
 letter b stand as rating  
 letter c stand as hyip  
+```
 
 === By Diagram ===
-```
 Then diagram will be shown as below: <br /> 
 [[<img src="https://hyipworld.github.io/images/github/doc/figure8.png">]]
 === Content Flow ===
