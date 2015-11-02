@@ -158,8 +158,8 @@ The perfect hexagonal shape of honeycomb cells — once thought to be an incredi
 Scientists have marveled at the angular perfection of honeycomb for centuries, but none have been able to clearly describe how it forms. Engineers in the U.K. and China have taken a step forward by showing that the cells actually start off as circles — molded by the shape of a bee's body — and then flow into a hexagonal pattern seconds later. The researchers reported their findings on July 16 in the Journal of the Royal Society Interface.
 <table>
     <tr>
-      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/honeycomb.jpg?h=300">|http://www.nbcnews.com/science/bees-dont-do-math-hexagonal-honeycombs-emerge-naturally-6C10677058]]</td>
-      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/painted-bumblebees.jpg?h=300">|http://www.livescience.com/17395-honeybees-head-butts-decisions.html]]</td>
+      <td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Honeycomb_cell_3d_rot.svg/320px-Honeycomb_cell_3d_rot.svg.png">|http://www.nbcnews.com/science/bees-dont-do-math-hexagonal-honeycombs-emerge-naturally-6C10677058]]</td>
+      <td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Honeycomb_3d_rot.svg/320px-Honeycomb_3d_rot.svg.png">|http://www.livescience.com/17395-honeybees-head-butts-decisions.html]]</td>
   </tr>
 </table>
 Honeybees choose new nest sites by essentially head-butting each other into a consensus, shows a new study.<br /><br />
