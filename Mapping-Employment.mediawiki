@@ -128,6 +128,13 @@ We wonder if these nets don’t have anything mathematical in them. ''<a href="h
       <td>[[<img src="http://austega.com/florin/CharmOfGeometry_files/image068.jpg?h=300">|http://austega.com/florin/CharmOfGeometry.htm]]</td>
   </tr>
 </table>
+The most interesting fact is that spiders create their nets making inscriptible quadrilaterals. So A’ABB’ is inscriptible, and all the others are the same. Prove that if ABCDEFGHIJ is a polygon with all its vertexes on the same circle, than A’B’C’D’E’F’G’H’I’J’ has all vertexes also on the same circle. The trick is simple, you need first to prove that OA·OA’=OB·PB’=OC·OC’ etc.
+
+In fact we have here another transformation, “the inversion”. In this case this transformation transform a circle into a different circle. The inversion can transform a circle into a line if the point O (the center of inversion) is on the circle (see the figure). 
+
+In this case the circle determined by OABCDE is transformed in a line A’B’C’D’E’F’
+It seems that this transformation creates another interesting instrument for geometry. First we have to notice that OAB and OA’B’ are similar triangle, but with inverse similarity. This means that we can ‘t obtain one from the second one by magnifying and rotating it. So the angle OAB equals the angle OB’A’.
+
 === Rating ===
 A ''<a href="https://en.wikipedia.org/wiki/Rating" target="_blank">rating</a>'' is the evaluation or assessment of something, in terms of quality (as with a critic rating a novel), quantity (as with an athlete being rated by his or her statistics), or some combination of both. 
 
@@ -143,12 +150,6 @@ On our case we use this rating by means of a ''<a href="https://en.wikipedia.org
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/bee-web.jpg?h=300">|http://news.wisc.edu/13739]]</td>   
   </tr>
 </table>
-The most interesting fact is that spiders create their nets making inscriptible quadrilaterals. So A’ABB’ is inscriptible, and all the others are the same. Prove that if ABCDEFGHIJ is a polygon with all its vertexes on the same circle, than A’B’C’D’E’F’G’H’I’J’ has all vertexes also on the same circle. The trick is simple, you need first to prove that OA·OA’=OB·PB’=OC·OC’ etc
-In fact we have here another transformation, “the inversion”. In this case this transformation transform a circle into a different circle. The inversion can transform a circle into a line if the point O (the center of inversion) is on the circle (see the figure). 
-
-In this case the circle determined by OABCDE is transformed in a line A’B’C’D’E’F’
-It seems that this transformation creates another interesting instrument for geometry. First we have to notice that OAB and OA’B’ are similar triangle, but with inverse similarity. This means that we can ‘t obtain one from the second one by magnifying and rotating it. So the angle OAB equals the angle OB’A’.
-
 === Mapping ===
 ```js
 letter a stand as monitor  
