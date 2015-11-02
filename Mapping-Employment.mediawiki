@@ -137,7 +137,7 @@ The most interesting fact is that spiders create their nets making inscriptible 
 In fact we have here another transformation, “the inversion”. In this case this transformation transform a circle into a different circle. The inversion can transform a circle into a line if the point O (the center of inversion) is on the circle (see the figure). 
 
 In this case the circle determined by OABCDE is transformed in a line A’B’C’D’E’F’
-It seems that this transformation creates another interesting instrument for geometry. First we have to notice that OAB and OA’B’ are similar triangle, but with inverse similarity. This means that we can ‘t obtain one from the second one by magnifying and rotating it. So the angle OAB equals the angle OB’A’.
+It seems that this transformation creates another interesting instrument for geometry. First we have to notice that OAB and OA’B’ are similar triangle, but with '''inverse similarity'''. This means that we can ‘t obtain one from the second one by magnifying and rotating it. So the angle OAB equals the angle OB’A’.
 
 === Rating ===
 A ''<a href="https://en.wikipedia.org/wiki/Rating" target="_blank">rating</a>'' is the evaluation or assessment of something, in terms of quality (as with a critic rating a novel), quantity (as with an athlete being rated by his or her statistics), or some combination of both. 
