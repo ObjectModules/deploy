@@ -77,6 +77,7 @@ As we have explained, whenever you put a parameter into ''a routine'' then it wi
 
 Due to the spreading then the mapping of ''a routine'' will change it behaviour to become ''two (2) sets'' of mappings which are not identical.<br />
 
+=== Mapping ===
 Here you can put whatever word you like to name the new mapping. However, based on the concept of mapping then a new process shall follow these basic rules:
 * Have one assigned main process and one assigned displaying process
 * The title of the process shall be different with the Routine
@@ -85,11 +86,6 @@ Now left the question on how to combine them, right? Here are the rules:
 * The new process shall be able to be carried out along with the Routine
 * It shall be a clearly sign that a new process is being carried out of the Routine
 
-=== Mapping ===
-Let's put again all of the mappings here:
-We have explained that the behavior of our mapping will seeking another process to return to its routine by taking the process of spreading. 
-
-Here we will explain further how the spreading will continue to another process when a settlement is not going to be achieved. We will also explain how these processes are going to present the above 2nd and 3rd mapping.
 === Implementation ===
 A process is considered as settled whenever it can be run or return to the entry point and processed normally without any adjustment or modification into the Routine.
 
