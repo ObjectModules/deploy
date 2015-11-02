@@ -200,7 +200,7 @@ In a regular hexagon, the radius equals the side length. That is, a line from th
 Because of this, a regular hexagon can be thought of as being made of six equilateral triangles.
 <table>
     <tr>
-      <td>[[<https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-radius1.gif?h=120">|http://www.mathopenref.com/hexagon.html]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-radius1.gif?h=120">|http://www.mathopenref.com/hexagon.html]]</td>
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-equilat.gif?h=120">|http://www.mathopenref.com/hexagon.html]]</td>
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-nut.jpg?h=120">|http://www.redblobgames.com/grids/hexagons/#coordinates]]</td>   
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-hand.jpg?h=120">|http://www.earth360.com/math-naturesnumbers.html]]</td>   
