@@ -28,20 +28,14 @@ In this section we will explain about ''an employment'' in our concept. The gene
 Here we will explain further how the spreading will continue to another process when a settlement is not going to be achieved. We will also explain how these processes are going to present the above 2nd and 3rd mapping.
 
 In line to what he have explained about ''[[Mapping#nonpattern-word-isogram|isogram]]'' here you can see the breakdown of the assigned letters as below: 
-```js
-letter a stand as info  
-letter b stand as world  
-letter c stand as hyip  
-```
-So we can now put the mapping schema into a standardization as shown below: <br /> 
-[[<img src="https://hyipworld.github.io/images/github/doc/figure7.png">]]<br />  
 === Mapping ===
 ```js
 letter a stand as monitor  
 letter b stand as rating  
 letter c stand as hyip  
 ```
-
+So we can now put the mapping schema into a standardization as shown below: <br /> 
+[[<img src="https://hyipworld.github.io/images/github/doc/figure7.png">]]<br />  
 === By Diagram ===
 Then diagram will be shown as below: <br /> 
 [[<img src="https://hyipworld.github.io/images/github/doc/figure8.png">]]
