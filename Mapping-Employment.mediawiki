@@ -154,6 +154,17 @@ On our case we use this rating by means of a ''<a href="https://en.wikipedia.org
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/bee-web.jpg?h=300">|http://news.wisc.edu/13739]]</td>   
   </tr>
 </table>
+The perfect hexagonal shape of honeycomb cells — once thought to be an incredible feat of math-savvy insects — has now been explained by simple mechanics.
+
+Scientists have marveled at the angular perfection of honeycomb for centuries, but none have been able to clearly describe how it forms. Engineers in the U.K. and China have taken a step forward by showing that the cells actually start off as circles — molded by the shape of a bee's body — and then flow into a hexagonal pattern seconds later. The researchers reported their findings on July 16 in the Journal of the Royal Society Interface.
+<table>
+    <tr>
+      <td>[[<img src="http://media1.s-nbcnews.com/j/streams/2013/july/130718/6c8310731-honeycomb-2.nbcnews-ux-600-480.jpg">|http://www.nbcnews.com/science/bees-dont-do-math-hexagonal-honeycombs-emerge-naturally-6C10677058]]</td>
+      <td>[[<img src="http://i.livescience.com/images/i/000/022/573/i02/painted-bumblebees.jpg?1323441287">|http://www.livescience.com/17395-honeybees-head-butts-decisions.html]]</td>
+  </tr>
+</table>
+
+They saw that after dancing for a while, a scout bee would take a break to walk around the swarm. She would then deliver a stop signal to another dancing bee, but only if that bee had checked out the '''opposite nest'''. "It turns out that they are quite discriminating," Seeley said. "That's pretty sophisticated."
 === Mapping ===
 ```js
 letter a stand as monitor  
