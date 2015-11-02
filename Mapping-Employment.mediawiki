@@ -254,23 +254,6 @@ Then the content flow for the _3rd Employment_ can be tabulated as below:
 </table>
 
 Until this point our section for the employment is completed.
-= What's Next =
-Combining all together we have now 3 kind of Employments which are:  
- 
-''1. [[Mapping-Employment#1st-employment|Info & World]]: info - world'' <br /> 
-''2. [[Mapping-Employment#2nd-employment|Monitor & Rating]]: monitor - rating'' <br /> 
-''3. [[Mapping-Employment#3rd-employment|Script & Team]]: script - team''  
-
-== The Three ==
-Employment can be all kind of process that you want. In our concept we just need ''three (3) of employments''. One for Routine, and the other two for the process in related to the parameter.
-
-You may see that each kind of these ''three (3) of employments'' has four (4) processes, becoming twelve (12)  processes all together.
-== The Last One ==
-We have pronounced since the beginning that all the mappings has always got ''four (4) parts''. 
-
-Either mapping for ''[[Mapping-Routine|a routine]]'', diagram for ''[[Mapping-Spreading|a spreading]]'', also for an employment. All of them got always ''four (4) parts'' So why we only take ''three (3) of employments''. Not four (4)? 
-
-Actually there is ''The Fourth (4th)''. Stand as ''The Last Employment''. Very special. The key of all this concept. So let's stop the employments until this point. 
 
 We are going to bring you to ''[[Mapping-Merging|The Fourth]]''.
 
