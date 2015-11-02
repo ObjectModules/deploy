@@ -133,7 +133,7 @@ On our case we use this rating by means of a ''<a href="https://en.wikipedia.org
 <table>
     <tr>
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-centered.png?h=300">|https://pixabay.com/en/cobweb-spiderweb-spider-s-web-151265/]]</td>
-      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-bee.png?h=240">|https://pixabay.com/p-156568/?no_redirect]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-bee.png?h=300">|https://pixabay.com/p-156568/?no_redirect]]</td>
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/bee-web.jpg?h=300">|http://news.wisc.edu/13739]]</td>   
   </tr>
 </table>
