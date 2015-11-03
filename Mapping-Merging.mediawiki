@@ -122,7 +122,9 @@ Here we apologize for not doing so.
 Since the time when we found this concept, we took our position to always give our respect to ''The Fourth''. So, again, we leave this to you as you may find such of the sense way by yourself. 
 
 == The Route ==
-Let talk again about the creature of employments. You can consider the above diagram is ''the form'' that dominated by ''the spider'' and ''the honeybees''. We will show ''the route'' that dominated by ''the ants'' and ''the horses''.
+Let talk again about the creature of employments. 
+
+You can consider the above diagram is ''the form'' that dominated by ''the spider'' and ''the honeybees''. We will show ''the route'' that dominated by ''the ants'' and ''the horses''.
 === Flow ===
 Now we are going to tabulate the flow of ''a merging'' similar to what we done for each of the employments. Let's put again all of the tabulations here.
 '''1st Employment'''
@@ -326,6 +328,10 @@ Again, we leave the answer of this question to yourself.
 
 Until this point our section for ''a merging'' is completed.
 == Morphism ==
+Let's talk again about the creatures.
+
+We have get our ''form and the route'' by having sacrificing ''our cows'', we shall now find the way to get ''our elephants''. Here we bring you again to discuss in more details about a morphism that we have mentioned before. 
+
 In many fields of mathematics, ''<a href="https://en.wikipedia.org/wiki/Morphism#Definition" target="_blank">morphism</a>'' refers to a structure-preserving map from one mathematical structure to another. The notion of morphism recurs in much of contemporary mathematics. In set theory, morphisms are functions; in linear algebra, linear transformations; in group theory, group ''<a href="https://en.wikipedia.org/wiki/Homomorphism" target="_blank">homomorphism</a>''; in topology, continuous functions, and so on.
 
 In category theory, morphism is a broadly similar idea, but somewhat more abstract: the mathematical objects involved need not be sets, and the relationship between them may be something more general than a map.
