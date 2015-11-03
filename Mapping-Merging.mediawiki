@@ -58,7 +58,7 @@ This will make the number of all employments even. It will be also four (4) exac
 Counting sequentially from ''a routine'', ''a spreading'', and ''an employment'' then ''a merging'' stand as ''the fourth (4th) unique process'' in our concept.
 
 See also that the 1st Employment is produced by ''a spreading'', the 2nd and 3rd are produced by ''an employment''. The basic different with other employments is that ''The Fourth is not produced''. 
-
+=== 1st Placement ===
 Let put again all the diagrams that we have got until the ''[[Mapping-Employment|previous section]]''.
 [[<img src="https://hyipworld.github.io/images/github/doc/figure4.png">]] 
 [[<img src="https://hyipworld.github.io/images/github/doc/figure5.png">]]  
@@ -69,7 +69,7 @@ Let put again all the diagrams that we have got until the ''[[Mapping-Employment
 
 See that there is a separated line. The line is separating a dotted line. Means they are the exit points. Here we can place another employment.  
 [[<img src="https://hyipworld.github.io/images/github/doc/figure10.png">]]  
-== 1st Step ==
+=== 2nd Placement ===
 Let start put the Employment of [[Mapping-Employment#hyip-monitoring--rating|HYIP Monitoring & Rating]]
 [[<img src="https://hyipworld.github.io/images/github/doc/figure11.png">]]  
 
@@ -86,7 +86,7 @@ Mapping of the process to collect the library in related with the food:
 * Exit point  
 ```
 Here you get the correct merging! 
-== 2nd Step ==
+=== 3rd Placement ===
 [[<img src="https://hyipworld.github.io/images/github/doc/figure14.png">]]<br /> 
 Then the digram will be as below:
 [[<img src="https://hyipworld.github.io/images/github/doc/figure15.png">]]<br /> 
@@ -98,7 +98,7 @@ Then we need also the mapping to examine your self to get your data:
 * Exit point  
 ```
 
-= What's Next =
+== Route ==
 Let's clean the mapping that we get on the last result, now we can get it as shown below:  
 [[<img src="https://hyipworld.github.io/images/github/doc/figure16.png">]]  
 
@@ -309,7 +309,7 @@ We leave the answer of this question to yourself.
 
 Until this point our section for ''a merging'' is completed.
 
-== What's Next ==
+== Accomplishment ==
 
 Let's put again the diagram of ''a merging'' here:  
 [[<img src="https://hyipworld.github.io/images/github/doc/figure16.png">]]  
