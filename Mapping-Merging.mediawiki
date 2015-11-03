@@ -24,13 +24,12 @@ Now we will explain about ''a merging'' in our concept. The process of ''[[Mappi
 
 ''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Employment|previous section]]''.
 
-= Basic =
+== ''The Fourth'' ==
 Combining all together we have now 3 kind of Employments which are:<br />   
 ''1. [[Mapping-Employment#1st-employment|Info & World]]: info - world'' <br /> 
 ''2. [[Mapping-Employment#2nd-employment|Monitor & Rating]]: monitor - rating'' <br /> 
 ''3. [[Mapping-Employment#3rd-employment|Script & Team]]: script - team''  
 
-== The Three ==
 Employment can be all kind of process that you want. In our concept we just need ''three (3) of employments''. One for Routine, and the other two for the process in related to the parameter.
 
 You may see that each kind of these ''three (3) of employments'' has four (4) processes, becoming twelve (12)  processes all together.
@@ -40,7 +39,7 @@ We have pronounced since the beginning that all the mappings has always got ''fo
 Either mapping for ''[[Mapping-Routine|a routine]]'', diagram for ''[[Mapping-Spreading|a spreading]]'', also for an employment. All of them got always ''four (4) parts'' So why we only take ''three (3) of employments''. Not four (4)? 
 
 Actually there is ''The Fourth (4th)''. Stand as ''The Last Employment''. Very special. The key of all this concept. So let's stop the employments until this point. 
-== ''The Fourth'' ==
+
 Base the method of mapping, as you have found the the ''[[Mapping-Employment|previous section]]'', we have defined ''[[Mapping-Employment#the-three|the three (3) employments]]'' that represent the first three (3) of our mappings.
 
 So now it is left only the last one. Let put the mapping here:
@@ -67,16 +66,16 @@ Let put again all the diagrams that we have got until the ''[[Mapping-Employment
 [[<img src="https://hyipworld.github.io/images/github/doc/figure7.png">]]   
 [[<img src="https://hyipworld.github.io/images/github/doc/figure8.png">]]   
 [[<img src="https://hyipworld.github.io/images/github/doc/figure9.png">]]   
-=== Rules of Merging ===
+
 See that there is a separated line. The line is separating a dotted line. Means they are the exit points. Here we can place another employment.  
 [[<img src="https://hyipworld.github.io/images/github/doc/figure10.png">]]  
-=== Start Puttting ===
+=== 1st Step ===
 Let start put the Employment of [[Mapping-Employment#hyip-monitoring--rating|HYIP Monitoring & Rating]]
 [[<img src="https://hyipworld.github.io/images/github/doc/figure11.png">]]  
-=== Breaking ===
+
 See that a ''dotted line'' is meeting a ''straight line'' which not correct. You cannot put another Employment that breaking in the middle into a process that are still not settled.  
 [[<img src="https://hyipworld.github.io/images/github/doc/figure12.png">]]  
-=== Solution ===
+
 See that the Employment has also a dotted line. Here you can break it, let try to put ''the rating'' first into the Merging. So the result will be as below:   
 [[<img src="https://hyipworld.github.io/images/github/doc/figure13.png">]]<br />
 Mapping of the process to collect the library in related with the food:
@@ -87,7 +86,7 @@ Mapping of the process to collect the library in related with the food:
 * Exit point  
 ```
 Here you get the correct merging! 
-== Examine ==
+=== 2nd Step ===
 [[<img src="https://hyipworld.github.io/images/github/doc/figure14.png">]]<br /> 
 Then the digram will be as below:
 [[<img src="https://hyipworld.github.io/images/github/doc/figure15.png">]]<br /> 
@@ -99,17 +98,15 @@ Then we need also the mapping to examine your self to get your data:
 * Exit point  
 ```
 
-= Overall =
+= What's Next =
 Let's clean the mapping that we get on the last result, now we can get it as shown below:  
 [[<img src="https://hyipworld.github.io/images/github/doc/figure16.png">]]  
-== Diagram ==
-This is the result of the employment of ''The Fourth''. The same as other mappings, this result has also four (4) parts, each of them are separated by a line.
 
-== Flow ==
+This is the result of the employment of ''The Fourth''. The same as other mappings, this result has also four (4) parts, each of them are separated by a line.
+== Route ==
 Now we are going to tabulate the flow of ''a merging'' similar to what we done for each of the employments. Let's put again all of the tabulations here.
 
-=== 1st Employment ===
-
+'''1st Employment'''
 <table> 
   <thead>
     <tr>
@@ -168,8 +165,7 @@ Now we are going to tabulate the flow of ''a merging'' similar to what we done f
   </tbody>
 </table>
 
-=== 2nd Employment ===
-
+'''2nd Employment'''
 <table>
   <thead>
     <tr>
@@ -227,9 +223,7 @@ Now we are going to tabulate the flow of ''a merging'' similar to what we done f
     </tr>
   </tbody>
 </table>
-
-=== 3rd Employment ===
-
+'''3rd Employment'''
 <table>
   <thead>
     <tr>
@@ -288,7 +282,7 @@ Now we are going to tabulate the flow of ''a merging'' similar to what we done f
   </tbody>
 </table>
 
-=== Overall Flow Tabulation ===
+=== Overall ===
 Let's try to tabulate the flow diagram on the merging. Take only the arrow flow on each employments and connect them each others. You will find then the flow as shown below:
 <table>
   <tbody>
@@ -315,7 +309,7 @@ We leave the answer of this question to yourself.
 
 Until this point our section for ''a merging'' is completed.
 
-= What's Next =
+== What's Next ==
 
 Let's put again the diagram of ''a merging'' here:  
 [[<img src="https://hyipworld.github.io/images/github/doc/figure16.png">]]  
