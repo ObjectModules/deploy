@@ -306,9 +306,13 @@ Are the both identical? Is there any correlation between them?<br />
 We leave the answer of this question to yourself.  
 
 Until this point our section for ''a merging'' is completed.
+== Morphism ==
+In many fields of mathematics, ''<a href="https://en.wikipedia.org/wiki/Morphism#Definition" target="_blank">morphism</a>'' refers to a structure-preserving map from one mathematical structure to another. The notion of morphism recurs in much of contemporary mathematics. In set theory, morphisms are functions; in linear algebra, linear transformations; in group theory, group ''<a href="https://en.wikipedia.org/wiki/Homomorphism" target="_blank">homomorphism</a>''; in topology, continuous functions, and so on.
 
-== Accomplishment ==
+In category theory, morphism is a broadly similar idea, but somewhat more abstract: the mathematical objects involved need not be sets, and the relationship between them may be something more general than a map.
 
+The study of morphisms and of the structures (called objects) over which they are defined is central to category theory. Much of the terminology of morphisms, as well as the intuition underlying them, comes from concrete categories, where the objects are simply sets with some additional structure, and morphisms are structure-preserving functions. In category theory, morphisms are sometimes also called ''arrows''.
+=== Accomplishment ===
 Let's put again the diagram of ''a merging'' here:  
 [[<img src="https://hyipworld.github.io/images/github/doc/figure16.png">]]  
 
