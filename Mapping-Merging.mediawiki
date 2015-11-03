@@ -98,14 +98,32 @@ Then we need also the mapping to examine your self to get your data:
 * Exit point  
 ```
 
-== The Route ==
 Let's clean the mapping that we get on the last result, now we can get it as shown below:  
 [[<img src="https://hyipworld.github.io/images/github/doc/figure16.png">]]  
 
 This is the result of the employment of ''The Fourth''. The same as other mappings, this result has also four (4) parts, each of them are separated by a line.
-=== Flow ===
-Now we are going to tabulate the flow of ''a merging'' similar to what we done for each of the employments. Let's put again all of the tabulations here.
 
+You may see that the result is remain consist of ''[[Mapping-Employment#the-three|the three (3) employments]]''. Each of them has ''four (4) processes'' that remain become ''twelve (12) processes'' all together. 
+
+You may count also that ''this twelve'' processes are also remain consist of ''six (6) main'' & ''six (6) displaying'' processes exactly the same when we collect ''[[Mapping-Employment#the-three|the three (3) employments]]''. 
+
+'''So where is ''The Fourth'' then?'''
+
+You may agree that ''The Fourth'' is not ever seen anywhere. But in fact ''The Fourth'' is ''THE ONE'' that bring the merging of ''[[Mapping-Routine|a routine]]'', ''[[Mapping-Spreading|a spreading]]'', ''[[Mapping-Employment|an employment]]'' all together.
+
+So it means that ''The Fourth'' is exist from the beginning till the end. ''The Fourth'' is exist everywhere. From the smallest thing till the biggest part. So ''The Fourth'' is overall. 
+
+'''Without ''The Fourth'' all is nothing!''' 
+
+You may found that on every step of process, we always gave you an example or more in sense way on our daily lives for a kind of every processes that we presented. 
+
+Here we apologize for not doing so. 
+
+Since the time when we found this concept, we took our position to always give our respect to ''The Fourth''. So, again, we leave this to you as you may find such of the sense way by yourself. 
+
+== The Route ==
+Now we are going to tabulate the flow of ''a merging'' similar to what we done for each of the employments. Let's put again all of the tabulations here.
+=== Flow ===
 '''1st Employment'''
 <table> 
   <thead>
@@ -322,28 +340,6 @@ For most algebraic structures, including groups and rings, a homomorphism is an 
 In topology, where the morphisms are continuous functions, isomorphisms are also called homeomorphisms or bicontinuous functions. In mathematical analysis, where the morphisms are differentiable functions, isomorphisms are also called diffeomorphisms.
 
 A canonical isomorphism is a canonical map that is an isomorphism. Two objects are said to be canonically isomorphic if there is a canonical isomorphism between them. For example, the canonical map from a finite-dimensional vector space V to its second dual space is a canonical isomorphism; on the other hand, V is isomorphic to its dual space but not canonically in general.
-=== Accomplishment ===
-Let's put again the diagram of ''a merging'' here:  
-[[<img src="https://hyipworld.github.io/images/github/doc/figure16.png">]]  
-
-You may see that the result is remain consist of ''[[Mapping-Employment#the-three|the three (3) employments]]''. Each of them has ''four (4) processes'' that remain become ''twelve (12) processes'' all together. 
-
-You may count also that ''this twelve'' processes are also remain consist of ''six (6) main'' & ''six (6) displaying'' processes exactly the same when we collect ''[[Mapping-Employment#the-three|the three (3) employments]]''. 
-
-'''So where is ''The Fourth'' then?'''
-
-You may agree that ''The Fourth'' is not ever seen anywhere. But in fact ''The Fourth'' is ''THE ONE'' that bring the merging of ''[[Mapping-Routine|a routine]]'', ''[[Mapping-Spreading|a spreading]]'', ''[[Mapping-Employment|an employment]]'' all together.
-
-So it means that ''The Fourth'' is exist from the beginning till the end. ''The Fourth'' is exist everywhere. From the smallest thing till the biggest part. So ''The Fourth'' is overall. 
-
-'''Without ''The Fourth'' all is nothing!''' 
-
-You may found that on every step of process, we always gave you an example or more in sense way on our daily lives for a kind of every processes that we presented. 
-
-Here we apologize for not doing so. 
-
-Since the time when we found this concept, we took our position to always give our respect to ''The Fourth''. So, again, we leave this to you as you may find such of the sense way by yourself. 
-
 Let's continue on the ''[[Mapping-Settlement|next section]]''.
 
 <table>
