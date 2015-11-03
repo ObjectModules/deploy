@@ -103,7 +103,7 @@ Let's clean the mapping that we get on the last result, now we can get it as sho
 [[<img src="https://hyipworld.github.io/images/github/doc/figure16.png">]]  
 
 This is the result of the employment of ''The Fourth''. The same as other mappings, this result has also four (4) parts, each of them are separated by a line.
-== Route ==
+=== Flow ===
 Now we are going to tabulate the flow of ''a merging'' similar to what we done for each of the employments. Let's put again all of the tabulations here.
 
 '''1st Employment'''
@@ -164,7 +164,6 @@ Now we are going to tabulate the flow of ''a merging'' similar to what we done f
     </tr>
   </tbody>
 </table>
-
 '''2nd Employment'''
 <table>
   <thead>
@@ -281,7 +280,6 @@ Now we are going to tabulate the flow of ''a merging'' similar to what we done f
     </tr>
   </tbody>
 </table>
-
 === Overall ===
 Let's try to tabulate the flow diagram on the merging. Take only the arrow flow on each employments and connect them each others. You will find then the flow as shown below:
 <table>
