@@ -270,7 +270,7 @@ The employments for the Query is represent the 3rd mapping:
 * Exit point  
 ```
 === Symbiotic Morphism ===
-See that one mapping is doing a process making ''a library'' which is concern to collect data to get it to become more specific '''Source''' to only related to the parameter.<br /><br /> 
+See that one mapping is doing a process making ''a library'' which is concern to collect data to get it to become more specific '''Source''' to only related to the parameter.
 
 Another is doing a process of making more specific '''Target''' by examine to the one who is going to use it in related also to the parameter.<br />
 
