@@ -312,6 +312,16 @@ In many fields of mathematics, ''<a href="https://en.wikipedia.org/wiki/Morphism
 In category theory, morphism is a broadly similar idea, but somewhat more abstract: the mathematical objects involved need not be sets, and the relationship between them may be something more general than a map.
 
 The study of morphisms and of the structures (called objects) over which they are defined is central to category theory. Much of the terminology of morphisms, as well as the intuition underlying them, comes from concrete categories, where the objects are simply sets with some additional structure, and morphisms are structure-preserving functions. In category theory, morphisms are sometimes also called ''arrows''.
+=== Isomorphism ===
+In mathematics, an ''<a href="https://en.wikipedia.org/wiki/Isomorphism" target="_blank">isomorphism</a>'' (from the Ancient Greek: ἴσος isos "equal", and μορφή morphe "form" or "shape") is a homomorphism (or more generally a morphism) that admits an inverse.[note 1] Two mathematical objects are isomorphic if an isomorphism exists between them. An automorphism is an isomorphism whose source and target coincide. 
+
+The interest of isomorphisms lies in the fact that two isomorphic objects cannot be distinguished by using only the properties used to define morphisms; thus isomorphic objects may be considered the same as long as one considers only these properties and their consequences.
+
+For most algebraic structures, including groups and rings, a homomorphism is an isomorphism if and only if it is bijective.
+
+In topology, where the morphisms are continuous functions, isomorphisms are also called homeomorphisms or bicontinuous functions. In mathematical analysis, where the morphisms are differentiable functions, isomorphisms are also called diffeomorphisms.
+
+A canonical isomorphism is a canonical map that is an isomorphism. Two objects are said to be canonically isomorphic if there is a canonical isomorphism between them. For example, the canonical map from a finite-dimensional vector space V to its second dual space is a canonical isomorphism; on the other hand, V is isomorphic to its dual space but not canonically in general.
 === Accomplishment ===
 Let's put again the diagram of ''a merging'' here:  
 [[<img src="https://hyipworld.github.io/images/github/doc/figure16.png">]]  
