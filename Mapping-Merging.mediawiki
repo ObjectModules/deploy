@@ -334,13 +334,15 @@ We have get our ''form and the route'' by sacrificing ''our cows'', we haven't c
 === How it is work ===
 A simple way to explain this is thru the utilizing the power of each creatures. You could imagine this is done like the process of ''cell cycle''.
 
-The ''1st process'' will be done like ''the honeybee'' when they are making their perfect combs. Then we go to monitor and catch any useful thing using a kind of tools similar like when ''the spider'' making and catch its food using their nets. Then it will be sorted and placed in a appropriate way as ''the bees'' store honey. 
+Then process begin with process to do a monitoring similar like when ''the spider'' on making and catch '''their food''' using their nets. Then it will be managed like ''the honeybee'' when they are making their perfect combs to sort and store '''their food'''. 
 
-The further process is that we need to find an exact way to bring this in to a correct destination which is done like when ''the ants'' finding their route. The last process is place it as tight using a power like when we drive ''the horses''.
+The further process is like when we drive ''a horse'' and force its power into a destination which is made 'like 'the ants'' when they are working as a team to find ''their route'' on getting '''their food'''.
 
-Please note that the changing process are done piece by piece in a correct form and route then finally ''the cow'' will become ''an elephant''!. 
+Now let's consider the word of '''their food''' in the above explanation is referring the same thing. That is a simple way to figure out how it is work. 
 
-That is a simple way to figure out how it is work. Now we are going to explain in details. 
+=== Isomorphism ===
+
+Please note that the changing process are done piece by piece word of in within a correct form and route. Now we are going to explain in details. 
 
 Since we are talking now about a '''''Specific Target''''' then we want to bring you again to discuss in more details about the ''[[Mapping-Spreading#symbiotic-morphism|Symbiotic Morphism]]'' that we have mentioned before. 
 
@@ -349,7 +351,7 @@ In many fields of mathematics, ''<a href="https://en.wikipedia.org/wiki/Morphism
 In category theory, morphism is a broadly similar idea, but somewhat more abstract: the mathematical objects involved need not be sets, and the relationship between them may be something more general than a map.
 
 The study of morphisms and of the structures (called objects) over which they are defined is central to category theory. Much of the terminology of morphisms, as well as the intuition underlying them, comes from concrete categories, where the objects are simply sets with some additional structure, and morphisms are structure-preserving functions. In category theory, morphisms are sometimes also called ''arrows''.
-=== Isomorphism ===
+
 In mathematics, an ''<a href="https://en.wikipedia.org/wiki/Isomorphism" target="_blank">isomorphism</a>'' (from the Ancient Greek: ἴσος isos "equal", and μορφή morphe "form" or "shape") is a homomorphism (or more generally a morphism) that admits an inverse.[note 1] Two mathematical objects are isomorphic if an isomorphism exists between them. An automorphism is an isomorphism whose source and target coincide. 
 
 The interest of isomorphisms lies in the fact that two isomorphic objects cannot be distinguished by using only the properties used to define morphisms; thus isomorphic objects may be considered the same as long as one considers only these properties and their consequences.
