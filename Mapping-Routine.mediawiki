@@ -148,7 +148,7 @@ To identify each of them, here we simply put the word `info` above the box. Basi
 === Naming ===
 The further step is we are going to identify the process inside the box. This will become a repository. We shall better provide it with a documentation to describe the process. 
 
-So let's put a repo and a wiki inside the box.  
+So just in purpose of ''<a href="https://en.wikipedia.org/wiki/Cartography#Naming_conventions" target="_blank">naming</a>'', let's put a repo and a wiki inside the box.  
 <img src="https://hyipworld.github.io/images/github/doc/figure2.png">  
 
 === Navigation ===
