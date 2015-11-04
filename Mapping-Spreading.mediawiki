@@ -293,7 +293,7 @@ On our case this project is an exact sample. We have set that our target is gett
 
 We aware that we are not good in writing but we believe that the concept is valuable for people. So we just do our best to write it here. The place that is well known to share something and everyone can easily reach. ''So this project is simply our employment''.
 
-So back to the elephant, since it is a creature, so you will need to give also a creature which is worth to get an elephant, something is also big. Something worth for an elephant.
+So back to the elephant, since it is a creature, you will also need to provide a creature which is worth to get an elephant, something is also big. Something worth for an elephant.
 
 === Replication ===
 The employment can be considered as identical with ''<a href="https://en.wikipedia.org/wiki/DNA_replication" target="_blank">DNA Replication</a>'' in ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">cell cycles</a>'', where a number of proteins are associated with the replication fork which helps in terms of the initiation and continuation of ''<a href="https://en.wikipedia.org/wiki/S_phase" target="_blank">DNA synthesis</a>''. 
