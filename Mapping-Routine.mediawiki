@@ -154,7 +154,7 @@ So just in purpose of ''<a href="https://en.wikipedia.org/wiki/Cartography#Namin
 === Navigation ===
 As we are going to make a kind of ''<a href="https://en.wikibooks.org/wiki/Robotics/Navigation/Mapping" target="_blank">robotic route system</a>'' on this project. Then in order to have a clear navigation we need to define a flowing diagram between the repo and the wiki. 
 
-Let's put it this way:  
+Let's put it this way:<br /> 
 <img src="https://hyipworld.github.io/images/github/doc/figure3.png">
 
 === Portraying ===
