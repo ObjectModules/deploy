@@ -156,7 +156,7 @@ As we are going to make a flow system on this project then in order to have a cl
 <img src="https://hyipworld.github.io/images/github/doc/figure3.png">
 
 === Portraying ===
-We will need also to display the process to the web. Here we make a separation between the flowing of the process to become able to be displayed. 
+We will need also to display the process to the web. Here we make a separation between the flowing of the process to become able to be displayed (''<a href="https://en.wikipedia.org/wiki/Cartography#Map_generalization" target="_blank">portraying</a>''). 
 
 We also need to give a different title of on it to be easily defined. So just simply make the same diagram but add another word to the process of this displaying. Here we put our project name `hyip` as our choice on the displaying process.   
 
