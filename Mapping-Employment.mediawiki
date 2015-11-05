@@ -196,10 +196,10 @@ letter b stand as team
 letter c stand as hyip  
 ```
 So we can now put the mapping schema into a standardization as shown below: <br /> 
-[[<img src="https://hyipworld.github.io/images/github/doc/figure7.png">]]<br />  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_7.png">]]<br />  
 
 Then diagram will be shown as below:<br />  
-[[<img src="https://hyipworld.github.io/images/github/doc/figure9.png">]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_9.png">]]
 
 === Ants ===
 It is easy to find a creature that working as a '''team''' when the are dealing with a '''route'''. 
