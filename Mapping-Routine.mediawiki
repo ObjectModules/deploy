@@ -132,7 +132,7 @@ Let's put this way:
 2. A Dotted line for exit point  
 ```
 
-<img src="https://hyipworld.github.io/images/github/doc/figure1.png"> 
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_1.png"> 
 
 The diagram as shown in ''Figure 1'' has ''four (4) elements''. Each represent each element inside the mapping. We just need to put ''what we need'' as a text above the box. 
 
@@ -149,13 +149,13 @@ To identify each of them, here we simply put the word `info` above the box. Basi
 The further step is we are going to identify the process inside the box. This will become a repository. We shall better provide it with a documentation to describe the process. 
 
 So just in purpose of ''<a href="https://en.wikipedia.org/wiki/Cartography#Naming_conventions" target="_blank">naming</a>'', let's put a repo and a wiki inside the box.  
-<img src="https://hyipworld.github.io/images/github/doc/figure2.png">  
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_2.png">  
 
 === Navigation ===
 As we are going to make a kind of ''<a href="https://en.wikibooks.org/wiki/Robotics/Navigation/Mapping" target="_blank">robotic route system</a>'' on this project. Then in order to have a clear navigation we need to define a flowing diagram between the repo and the wiki. 
 
 Let's put it this way:<br /> 
-<img src="https://hyipworld.github.io/images/github/doc/figure3.png">
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_3.png">
 
 === Portraying ===
 We will need also to display the process to the web. Here we make a separation between the flowing of the process to become able to be displayed (''<a href="https://en.wikipedia.org/wiki/Cartography#Map_generalization" target="_blank">portraying</a>''). 
@@ -163,7 +163,7 @@ We will need also to display the process to the web. Here we make a separation b
 We also need to give a different title of on it to be easily defined. So just simply make the same diagram but add another word to the process of this displaying. Here we put our project name `hyip` as our choice on the displaying process.   
 
 Here is now the diagram will look like:  
-<img src="https://hyipworld.github.io/images/github/doc/figure4.png">  
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png">  
 
 You can see that this mapping has ''four (4) elements'', consist of ''two (2) repos'' and ''two (2) wikis''. Just like the number of elements inside a routines.
 ```
@@ -183,7 +183,7 @@ Now we are going to explain the behavior of a mapping when a parameter is puttin
 
 === Identical Sets ===
 Let's take mapping of ''Figure 4'' as ''[[Mapping#routines|a routine]]''.  
-<img src="https://hyipworld.github.io/images/github/doc/figure4.png"><br /> 
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png"><br /> 
 Let's put again the mapping here.
 ```  
 * Hungry will become an entry point
