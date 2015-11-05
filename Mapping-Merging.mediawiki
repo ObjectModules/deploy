@@ -370,9 +370,9 @@ It turns out that if the vertex set is countable then there is, up to isomorphis
 
 In mathematics, the <a href="https://en.wikipedia.org/wiki/Four_color_theorem" target="_blank">four color theorem</a>, or the four color map theorem, states that, given any separation of a plane into contiguous regions, producing a figure called a map, no more than four colors are required to color the regions of the map so that no two adjacent regions have the same color. Two regions are called adjacent if they share a common boundary that is not a corner, where corners are the points shared by three or more regions. For example, in the map of the United States of America, Utah and Arizona are adjacent, but Utah and New Mexico, which only share a point that also belongs to Arizona and Colorado, are not.
 
-The following discussion is a summary based on the introduction to Appel and Haken's book Every Planar Map is Four Colorable (Appel & Haken 1989). Although flawed, Kempe's original purported proof of the four color theorem provided some of the basic tools later used to prove it. The explanation here is reworded in terms of the modern graph theory formulation.<br />
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/vertex.png">|https://en.wikipedia.org/wiki/Four_color_theorem#Summary_of_proof_ideas]]<br />
-Which finally recalled as: <br />
+The following discussion is a summary based on the introduction to Appel and Haken's book Every Planar Map is Four Colorable (Appel & Haken 1989). Although flawed, Kempe's original purported proof of the four color theorem provided some of the basic tools later used to prove it. The explanation here is reworded in terms of the modern graph theory formulation.<br /><br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/vertex.png">|https://en.wikipedia.org/wiki/Four_color_theorem#Summary_of_proof_ideas]]<br /><br />
+Which finally recalled as: <br /><br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/formula.png">|https://en.wikipedia.org/wiki/Four_color_theorem#Summary_of_proof_ideas]]<br />
 Each vertex is assigned an initial charge of 6-deg(v). Then one "flows" the charge by systematically redistributing the charge from a vertex to its neighboring vertices according to a set of rules, the discharging procedure. Since charge is preserved, some vertices still have positive charge. The rules restrict the possibilities for configurations of positively charged vertices, so enumerating all such possible configurations gives an unavoidable set.
 
