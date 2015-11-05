@@ -48,10 +48,10 @@ letter b stand as rating
 letter c stand as hyip  
 ```
 So we can now put the mapping schema into a standardization as shown below: <br /> 
-[[<img src="https://hyipworld.github.io/images/github/doc/figure7.png">]]<br />  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_7.png">]]<br />  
 
 Then diagram will be shown as below: <br /> 
-[[<img src="https://hyipworld.github.io/images/github/doc/figure8.png">]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_8.png">]]
 
 === Spiders ===
 <table>
