@@ -373,7 +373,7 @@ In mathematics, the <a href="https://en.wikipedia.org/wiki/Four_color_theorem" t
 The following discussion is a summary based on the introduction to Appel and Haken's book Every Planar Map is Four Colorable (Appel & Haken 1989). Although flawed, Kempe's original purported proof of the four color theorem provided some of the basic tools later used to prove it. The explanation here is reworded in terms of the modern graph theory formulation.<br /><br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/vertex.png">|https://en.wikipedia.org/wiki/Four_color_theorem#Summary_of_proof_ideas]]<br /><br />
 Which finally recalled as: <br /><br />
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/formula.png">|https://en.wikipedia.org/wiki/Four_color_theorem#Summary_of_proof_ideas]]<br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/formula.png">|https://en.wikipedia.org/wiki/Four_color_theorem#Summary_of_proof_ideas]]<br /><br />
 Each vertex is assigned an initial charge of 6-deg(v). Then one "flows" the charge by systematically redistributing the charge from a vertex to its neighboring vertices according to a set of rules, the discharging procedure. Since charge is preserved, some vertices still have positive charge. The rules restrict the possibilities for configurations of positively charged vertices, so enumerating all such possible configurations gives an unavoidable set.
 
 Let's continue on the ''[[Mapping-Settlement|next section]]''.
