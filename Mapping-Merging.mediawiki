@@ -368,6 +368,11 @@ A <a href="https://en.wikipedia.org/wiki/Random_graph" target="_blank">random gr
 
 It turns out that if the vertex set is countable then there is, up to isomorphism, only a single graph with this property, namely the Rado graph. Thus any countably infinite random graph is almost surely the Rado graph, which for this reason is sometimes called simply the random graph. However, the analogous result is not true for uncountable graphs, of which there are many (nonisomorphic) graphs satisfying the above property.
 
+https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms
+https://en.wikipedia.org/wiki/Graph_(mathematics)
+https://en.wikipedia.org/wiki/Graph_theory
+https://en.wikipedia.org/wiki/Four_color_theorem
+
 In mathematics, the <a href="https://en.wikipedia.org/wiki/Four_color_theorem" target="_blank">four color theorem</a>, or the four color map theorem, states that, given any separation of a plane into contiguous regions, producing a figure called a map, no more than four colors are required to color the regions of the map so that no two adjacent regions have the same color. Two regions are called adjacent if they share a common boundary that is not a corner, where corners are the points shared by three or more regions. For example, in the map of the United States of America, Utah and Arizona are adjacent, but Utah and New Mexico, which only share a point that also belongs to Arizona and Colorado, are not.
 
 The following discussion is a summary based on the introduction to Appel and Haken's book Every Planar Map is Four Colorable (Appel & Haken 1989). Although flawed, Kempe's original purported proof of the four color theorem provided some of the basic tools later used to prove it. The explanation here is reworded in terms of the modern graph theory formulation.<br /><br />
