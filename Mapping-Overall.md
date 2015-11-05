@@ -73,7 +73,7 @@ To make clear separation to the process here we take a new repo and wiki for the
 * The Process of `hyip info` will stand as Organization Repository
 
 ###Forked Repository
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)   
+![hyipworld flow](https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png)   
 * The Process of `hyip info` be displayed as Organization Pages
 * The process of `info` will be displayed as Project Pages  
 
@@ -86,23 +86,23 @@ Here is the appearance of repositories will look like:
 You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
 ###Employments
 We shall do the displaying for three (3) employments of four (4) repositories each. Each will need to be arranged as below:
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)   
+![hyipworld flow](https://tophyipmonitor.files.wordpress.com/2015/11/map_5.png)   
 We are going to make the displaying between six (6) Users and six (6) Organizations. 
 ###1st Employment
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure6.png)   
+![hyipworld flow](https://tophyipmonitor.files.wordpress.com/2015/11/map_6.png)   
 ###2nd Employment
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure8.png)   
+![hyipworld flow](https://tophyipmonitor.files.wordpress.com/2015/11/map_8.png)   
 ###3rd Employment
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure9.png)   
+![hyipworld flow](https://tophyipmonitor.files.wordpress.com/2015/11/map_9.png)   
 
 ##Interaction
 ###Overall
 Interaction between repositories shall need to be arranged in four (4) groups of interaction follow to this diagram.  
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure16.png)  
+![hyipworld flow](https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png)  
 ###Matching
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure5.png)  
+![hyipworld flow](https://tophyipmonitor.files.wordpress.com/2015/11/map_15.png)  
 ###Routine
-![hyipworld flow](https://hyipworld.github.io/images/github/doc/figure4.png)  
+![hyipworld flow](https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png)  
 
 #What's Next  
 You’ve reached the end part of the Documentation Section of Mapping on our project. Hopefully you can follow and enable to understand to what we have explained.  
