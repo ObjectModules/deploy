@@ -343,7 +343,7 @@ The further process is like when we drive ''a horse'' and force its power into a
 
 Now let's consider the word of '''their food''' in the above explanation is referring the same thing. Do you find a correlation on it? 
 
-That is a simple way to figure out how it is work. 
+That is a simple way to figure out how it is work. Let's find how it is work in detail.
 
 === Isomorphism ===
 Since we are talking now about a '''''Specific Target''''' then we want to bring you again to discuss in more details about the ''[[Mapping-Spreading#symbiotic-morphism|Symbiotic Morphism]]'' that we have mentioned before. 
