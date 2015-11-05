@@ -363,13 +363,15 @@ For most algebraic structures, including groups and rings, a homomorphism is an 
 In topology, where the morphisms are continuous functions, isomorphisms are also called homeomorphisms or bicontinuous functions. In mathematical analysis, where the morphisms are differentiable functions, isomorphisms are also called diffeomorphisms.
 
 A canonical isomorphism is a canonical map that is an isomorphism. Two objects are said to be canonically isomorphic if there is a canonical isomorphism between them. For example, the canonical map from a finite-dimensional vector space V to its second dual space is a canonical isomorphism; on the other hand, V is isomorphic to its dual space but not canonically in general.
-=== Graph Theory ===
+=== Four Color Theorem ===
 A <a href="https://en.wikipedia.org/wiki/Random_graph" target="_blank">random graph</a> is obtained by starting with a set of n isolated vertices and adding successive edges between them at random. The theory of random graphs lies at the intersection between graph theory and probability theory. 
 
 It turns out that if the vertex set is countable then there is, up to isomorphism, only a single graph with this property, namely the Rado graph. Thus any countably infinite random graph is almost surely the Rado graph, which for this reason is sometimes called simply the random graph. However, the analogous result is not true for uncountable graphs, of which there are many (nonisomorphic) graphs satisfying the above property.
-=== Four Color Theorem ===
-In mathematics, the four color theorem, or the four color map theorem, states that, given any separation of a plane into contiguous regions, producing a figure called a map, no more than four colors are required to color the regions of the map so that no two adjacent regions have the same color. Two regions are called adjacent if they share a common boundary that is not a corner, where corners are the points shared by three or more regions.[1] For example, in the map of the United States of America, Utah and Arizona are adjacent, but Utah and New Mexico, which only share a point that also belongs to Arizona and Colorado, are not.
 
+In mathematics, the <a href="https://en.wikipedia.org/wiki/Four_color_theorem" target="_blank">four color theorem</a>, or the four color map theorem, states that, given any separation of a plane into contiguous regions, producing a figure called a map, no more than four colors are required to color the regions of the map so that no two adjacent regions have the same color. Two regions are called adjacent if they share a common boundary that is not a corner, where corners are the points shared by three or more regions. For example, in the map of the United States of America, Utah and Arizona are adjacent, but Utah and New Mexico, which only share a point that also belongs to Arizona and Colorado, are not.
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/formula.png">|https://en.wikipedia.org/wiki/Four_color_theorem#Summary_of_proof_ideas]]
+Each vertex is assigned an initial charge of 6-deg(v). Then one "flows" the charge by systematically redistributing the charge from a vertex to its neighboring vertices according to a set of rules, the discharging procedure. Since charge is preserved, some vertices still have positive charge. The rules restrict the possibilities for configurations of positively charged vertices, so enumerating all such possible configurations gives an unavoidable set.
 
 Let's continue on the ''[[Mapping-Settlement|next section]]''.
 
