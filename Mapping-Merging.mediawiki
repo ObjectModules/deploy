@@ -342,7 +342,7 @@ Now let's consider the word of '''their food''' in the above explanation is refe
 
 That is a simple way to figure out how it is work. 
 
-Please note that the changing process are done piece by piece, step-by-step within the '''form and route''' that we have explained above. 
+Please note that the changing process are done piece by piece, step-by-step within ''[[Mapping-Merging#The_Form|the form]]'' and ''[[Mapping-Merging#The_Route|the route]]'' that we have explained above. 
 
 To discover this we shall go in details, we are going to explain by step-by-step set of operations to be performed. So generally it will be a kind of ''<a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank">algorithm</a>''.
 === Isomorphism ===
