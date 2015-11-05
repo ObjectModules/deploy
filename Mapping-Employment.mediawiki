@@ -233,7 +233,7 @@ Horses are used by humans in equine sports such as cross-country, showjumping, d
 
 Please note that choosing the creatures may free to whatever you like. However they will need to be in pairs all together. See that on this page we have ''three (3) insects'' which are ''spiders, honeybees and ants''.
 
-Horse is a mammal. Let's get back to ''[[Mapping-Spreading#employment|the creature for our 1st employment]]''. We have set ''an elephant'' there, which is also a mammal. 
+Horse is ''<a href="https://en.wikipedia.org/wiki/Mammal" target="_blank">a mammal</a>''. Let's get back to ''[[Mapping-Spreading#employment|the creature for our 1st employment]]''. We have set ''an elephant'' there, which is also a mammal. 
 
 Let's take another one, ''a mammal'' which you can easily get to buy or sell that worth for an elephant. How about a cow? It is worth right? Hope you agree with us.
 
