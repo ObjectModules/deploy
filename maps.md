@@ -25,7 +25,7 @@ _Hopefully you can follow and able to understand to what we have explained. You 
 
 ##By Mapping Diagram
 Now it is your turn to familiar with our mapping by _diagram_ and _[[tabulation|maps#by-tabulation]]_. If you have followed the _[[previous section|Mapping-Overall]]_ you can figure out the overall mapping as shown below.  
-[![Project Map](https://hyipworld.github.io/images/github/doc/info.png)](https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-project)      
+[![Project Map](https://tophyipmonitor.files.wordpress.com/2015/11/mapping.png)](https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-project)      
 **_Guidance:_**
 * _Due to the limitation of this wiki, we cannot do an <a href="https://en.wikipedia.org/wiki/Image_map" target="_blank">image mapping</a>. However, pointing the above image will bring you to a clickable one available on our [[blog page|https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-pworld]]._  
 * _Please note that the figure above is only valid for [[The Current Section|https://github.com/hyip/info/wiki]] where this page is reside. You can find the [[Mapping|maps#by-mapping-diagram]] of each sections at the Bottom of Right Sidebar._
