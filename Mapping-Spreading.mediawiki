@@ -95,7 +95,7 @@ For instance, let say you have eat the food, then you got that it is not suit to
 Here we will will show the details of spreading by ''diagram'', ''sequence'' and ''tabulation''.
 === By Diagram ===
 Let's take again the diagram for ''[[Mapping-Routine|a routine]]'':<br />
-[[<img src="https://hyipworld.github.io/images/github/doc/figure4.png">]]<br />  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png">]]<br />  
 To show the spreading by diagram simply make it a copy of the Routine, put another word to replace the word of `info`, let's take the word of `world` then. You will got 2 mapping now, one for your Routine and another one for the new process. 
 
 Let's follow ''[[Mapping-Spreading#rules|the rules]]'' one by one. 
@@ -103,13 +103,13 @@ Let's follow ''[[Mapping-Spreading#rules|the rules]]'' one by one.
 So now you have two mapping with a different process. Then, on fulfilling the rule on making a clear sign that a new process is being carried out, just put ''a separated line'' in between.
 
 So when applying those steps all together then the diagram will be shown as below:  
-[[<img src="https://hyipworld.github.io/images/github/doc/figure5.png">]]   
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_5.png">]]   
 
 This diagram will present all the mappings by ''[[Mapping#parameter|a parameter]]''  
 
 You can see that this spreading has ''four (4) processes'', just exactly like when we count the number of elements inside ''[[Mapping-Routine|a routine]]''.
 
-[[<img src="https://hyipworld.github.io/images/github/doc/figure6.png">]]  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_6.png">]]  
 
 === By Sequence ===
 See the 1st mappings by ''[[Mapping-Spreading#parameter|a parameter]]'', let's put it again here:  
