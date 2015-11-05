@@ -342,10 +342,8 @@ Now let's consider the word of '''their food''' in the above explanation is refe
 
 That is a simple way to figure out how it is work. 
 
+To discover this we shall go in details, we are going to explain by step-by-step set of operations to be performed. Please note that the changing process are done piece by piece in within the form and route that we have explained above. So generally it will be a kind of ''<a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank">algorithm</a>''.
 === Isomorphism ===
-
-Please note that the changing process are done piece by piece word of in within a correct form and route. Now we are going to explain in details. 
-
 Since we are talking now about a '''''Specific Target''''' then we want to bring you again to discuss in more details about the ''[[Mapping-Spreading#symbiotic-morphism|Symbiotic Morphism]]'' that we have mentioned before. 
 
 In many fields of mathematics, ''<a href="https://en.wikipedia.org/wiki/Morphism#Definition" target="_blank">morphism</a>'' refers to a structure-preserving map from one mathematical structure to another. The notion of morphism recurs in much of contemporary mathematics. In set theory, morphisms are functions; in linear algebra, linear transformations; in group theory, group ''<a href="https://en.wikipedia.org/wiki/Homomorphism" target="_blank">homomorphism</a>''; in topology, continuous functions, and so on.
