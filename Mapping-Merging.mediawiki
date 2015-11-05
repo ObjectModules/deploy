@@ -326,7 +326,7 @@ Now, try to compare the flow that you see with the process of ''<a href="https:/
 Are the both identical? Is there any correlation between them?<br />  
 Again, we leave the answer of this question to yourself.  
 
-== Morphism ==
+== Algorithm ==
 Let's talk again about the creatures.
 
 We have get our ''form and the route'' by sacrificing ''our cows'', we haven't come yet to ''our target''. We shall find now how ''The Fourth'' bring all those creatures on getting ''the elephants''. 
