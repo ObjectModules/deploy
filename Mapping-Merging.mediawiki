@@ -60,24 +60,24 @@ Counting sequentially from ''a routine'', ''a spreading'', and ''an employment''
 See also that the 1st Employment is produced by ''a spreading'', the 2nd and 3rd are produced by ''an employment''. The basic different with other employments is that ''The Fourth is not produced''. 
 === 1st Placement ===
 Let put again all the diagrams that we have got until the ''[[Mapping-Employment|previous section]]''.
-[[<img src="https://hyipworld.github.io/images/github/doc/figure4.png">]] 
-[[<img src="https://hyipworld.github.io/images/github/doc/figure5.png">]]  
-[[<img src="https://hyipworld.github.io/images/github/doc/figure6.png">]]   
-[[<img src="https://hyipworld.github.io/images/github/doc/figure7.png">]]   
-[[<img src="https://hyipworld.github.io/images/github/doc/figure8.png">]]   
-[[<img src="https://hyipworld.github.io/images/github/doc/figure9.png">]]   
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png">]] 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_5.png">]]  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_6.png">]]   
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_7.png">]]   
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_8.png">]]   
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_9.png">]]   
 
 See that there is a separated line. The line is separating a dotted line. Means they are the exit points. Here we can place another employment.  
-[[<img src="https://hyipworld.github.io/images/github/doc/figure10.png">]]  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_10.png">]]  
 === 2nd Placement ===
 Let start put the Employment of [[Mapping-Employment#hyip-monitoring--rating|HYIP Monitoring & Rating]]
-[[<img src="https://hyipworld.github.io/images/github/doc/figure11.png">]]  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_11.png">]]  
 
 See that a ''dotted line'' is meeting a ''straight line'' which not correct. You cannot put another Employment that breaking in the middle into a process that are still not settled.  
-[[<img src="https://hyipworld.github.io/images/github/doc/figure12.png">]]  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_12.png">]]  
 
 See that the Employment has also a dotted line. Here you can break it, let try to put ''the rating'' first into the Merging. So the result will be as below:   
-[[<img src="https://hyipworld.github.io/images/github/doc/figure13.png">]]<br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_13.png">]]<br />
 Mapping of the process to collect the library in related with the food:
 ```
 * Food will become an entry point
@@ -87,9 +87,9 @@ Mapping of the process to collect the library in related with the food:
 ```
 Here you get the correct merging! 
 === 3rd Placement ===
-[[<img src="https://hyipworld.github.io/images/github/doc/figure14.png">]]<br /> 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_14.png">]]<br /> 
 Then the digram will be as below:
-[[<img src="https://hyipworld.github.io/images/github/doc/figure15.png">]]<br /> 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_15.png">]]<br /> 
 Then we need also the mapping to examine your self to get your data:
 ```
 * You will become an entry point
@@ -99,7 +99,7 @@ Then we need also the mapping to examine your self to get your data:
 ```
 
 Let's clean the mapping that we get on the last result, now we can get it as shown below:  
-[[<img src="https://hyipworld.github.io/images/github/doc/figure16.png">]]  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png">]]  
 
 This is the result of the employment of ''The Fourth''. The same as other mappings, this result has also four (4) parts, each of them are separated by a line.
 
