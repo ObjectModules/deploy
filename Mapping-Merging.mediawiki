@@ -327,6 +327,10 @@ Are the both identical? Is there any correlation between them?<br />
 Again, we leave the answer of this question to yourself.  
 
 == Algorithm ==
+We haven't come yet to ''our target''. We shall find now how ''The Fourth'' bring all those creatures on getting ''the elephants''. 
+
+To discover this we shall go in details, we are going to explain by step-by-step set of operations to be performed. So generally it will be a kind of ''<a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank">algorithm</a>''. 
+=== The Cow ===
 Let's talk again about the creatures.
 
 Let's get back to ''[[Mapping-Spreading#employment|the creature for our 1st employment]]''. Please note that choosing the creatures may free to whatever you like. However they will need to be in pairs all together.
@@ -341,9 +345,6 @@ Take also the creatures that dealing with kind of ''[[Mapping-Merging#the-route|
 
 So either for ''[[Mapping-Merging#the-form|the form]]'' or ''[[Mapping-Merging#the-route|the route]]'' we find them are in '''pairs'''.
 
-We have get our ''form and the route'' by sacrificing ''our cows'', we haven't come yet to ''our target''. We shall find now how ''The Fourth'' bring all those creatures on getting ''the elephants''. 
-
-To discover this we shall go in details, we are going to explain by step-by-step set of operations to be performed. So generally it will be a kind of ''<a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank">algorithm</a>''. 
 === How it is work ===
 A simple way to explain this is thru the utilizing the power of each creatures. You could imagine this is done like the process of ''cell cycle''.
 
