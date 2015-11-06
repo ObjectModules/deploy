@@ -329,6 +329,18 @@ Again, we leave the answer of this question to yourself.
 == Algorithm ==
 Let's talk again about the creatures.
 
+Let's get back to ''[[Mapping-Spreading#employment|the creature for our 1st employment]]''. Please note that choosing the creatures may free to whatever you like. However they will need to be in pairs all together.
+
+Horse is ''a mammal''. We have set ''an elephant'' there, which is also ''a mammal''. 
+
+Let's take another one, ''a mammal'' which you can easily get to buy or sell that worth for an elephant. How about a cow? It is worth right? Hope you agree with us.
+
+So combine the horses with the cows and elephants then it will be ''three (3) mammals''. This is the kind of form of those creatures. Versus the ''three (3) non mammals'' which are ''spiders, honeybees and ants'', its became even (''pairs'').
+
+Take also the creatures that dealing with kind of the route then we will get ''ant, honeybees and horses''. Let's call them as ''three (3) route''. Versus the ''three (3) non route'' which are ''elephant, spider and cow'', its became also even (''pairs'').
+
+So either for ''[[Mapping-Merging#the-form|the form]]'' or ''[[Mapping-Merging#the-route|the route]]'' we find them are in '''pairs'''.
+
 We have get our ''form and the route'' by sacrificing ''our cows'', we haven't come yet to ''our target''. We shall find now how ''The Fourth'' bring all those creatures on getting ''the elephants''. 
 
 To discover this we shall go in details, we are going to explain by step-by-step set of operations to be performed. So generally it will be a kind of ''<a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank">algorithm</a>''. 
