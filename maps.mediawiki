@@ -130,6 +130,58 @@ Here are the tabulation showing the list of all the process that are involved on
 [[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipmonitor]]
       </td>
     </tr>
+    <tr>
+      <td scope="row">:clock1:</td>
+      <td scope="row"><code>hyip</code></td>
+      <td>[[<code>rating</code>|https://github.com/hyiprating/hyiprating.github.io]]</td>
+      <td>[[<code>rating</code>|https://github.com/hyiprating/hyiprating.github.io/wiki]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20">]]</td>
+      <td scope="row">[[:house:|https://github.com/hyiprating]] [[:cinema:|http://tophyips.info/]] [[<img src="http://lh3.googleusercontent.com/-dK5aS3tBne0/AAAAAAAAAAI/AAAAAAAAL-Q/wktL27CoDNE/s20-c-a/photo.jpg">|http://blog.tophyips.info/]]
+      </td>
+      <td scope="row">
+[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/tophyips.info]]
+[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-rating/]]
+[[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-analysis]]
+[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/tophyips.info]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">:clock1:</td>
+      <td scope="row"><code>main</code></td>
+      <td>[[<code>team</code>|https://github.com/hyip/team]]</td>
+      <td>[[<code>team</code>|https://github.com/hyip/team/wiki]]</td>
+      <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11927583?v=10&s=20">]]
+[[<img src="https://avatars2.githubusercontent.com/u/11951884?v=3&s=20">|https://bitbucket.org/hyips/]]
+      </td>
+      <td scope="row">[[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://github.com/atlassian]]</td>
+      <td scope="row">
+[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/hyip-forum/]]
+[[<img src="https://avatars0.githubusercontent.com/u/6815105?v=20&s=20">|https://www.quora.com/profile/Hyip-Gigafeed]]
+[[<img src="https://avatars3.githubusercontent.com/u/173374?v=3&s=20">|http://mashable.com/people/hyip/]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">:clock12:</td>
+      <td scope="row"><code>hyip</code></td>
+      <td>[[<code>script</code>|https://github.com/hyipscript/hyipscript.github.io]]</td>
+      <td>[[<code>script</code>|https://github.com/hyipscript/hyipscript.github.io/wiki]]</td>
+      <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11951705?v=3&s=20">|https://github.com/orgs/hyipscript/teams]]</td>
+      <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] [[<img src="http://lh3.googleusercontent.com/-xSKJbyl_5ZA/AAAAAAAAAAI/AAAAAAAAAGs/87PBRUKgmr0/s20-c-a/photo.jpg">|https://plus.google.com/+WordPress/]]
+      </td>
+      <td scope="row">
+[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipscript.info]]
+[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/hyip_script]]
+[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://google.com/+HyipScript]]
+[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-scripts/]]
+[[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-script]]
+[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyipscript.info]]
+      </td>
+    </tr>
   </tbody>
 </table>
 '''Legend:'''  
