@@ -34,3 +34,16 @@ Here are the tabulation showing the list of all the process that are involved on
 
 ''Please note that [[This Project|https://github.com/hyip]] is still <u>Under Construction</u>. The shown links below are just to represent on how we manage our repositories in correlation to the [[Mapping|Mapping Concept]].''
 
+<table>
+  <thead>
+    <tr>
+      <th>:radio_button:</th>
+      <th>Type</th>
+      <th>Repo</th>
+      <th>Wiki</th>
+      <th>Team</th>
+      <th>Platform</th>
+      <th>Channel</th>
+    </tr>
+  </thead>
+</table>
