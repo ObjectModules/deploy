@@ -8,9 +8,9 @@
     <tr>
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
-      <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|Mapping-Overall]] [[Prev|Mapping-Overall]]</th>
-      <th>[[:repeat:|maps#project-map]] [[Reload|maps]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Overall|:arrow_backward:]] [[Mapping-Overall|Prev]]</th>
+      <th>[[maps#project-map|:repeat:]] [[maps|Reload]]</th>
       <th>Last :arrow_forward:</th>
       <th>[[Next|https://github.com/hyip/rating]] [[:fast_forward:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
@@ -18,22 +18,22 @@
     </tr>
   </tbody>
 </table>
-#Project Map
-This page is the last page of our _[[current section|Home]]_. We have explained all about our _[[Mapping Concept|Mapping]]_. Here we are going to display the project mapping by _[[diagram|maps#by-mapping-diagram]]_ and _[[tabulation|maps#by-tabulation]]_.  
+= Project Map =
+This page is the last page of our ''[[Home|current section]]''. We have explained all about our ''[[Mapping|Mapping Concept]]''. Here we are going to display the project mapping by ''[[maps#by-mapping-diagram|diagram]]'' and ''[[maps#by-tabulation|tabulation]]''.  
 
-_Hopefully you can follow and able to understand to what we have explained. You may check if you have made clear yourself by answering [[questionnaire|maps#question-for-you]] on the last of this page._
+''Hopefully you can follow and able to understand to what we have explained. You may check if you have made clear yourself by answering [[maps#question-for-you|questionnaire]] on the last of this page.''
 
-##By Mapping Diagram
-Now it is your turn to familiar with our mapping by _diagram_ and _[[tabulation|maps#by-tabulation]]_. If you have followed the _[[previous section|Mapping-Overall]]_ you can figure out the overall mapping as shown below.  
-[![Project Map](https://tophyipmonitor.files.wordpress.com/2015/11/mapping.png)](https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-project)      
-**_Guidance:_**
-* _Due to the limitation of this wiki, we cannot do an <a href="https://en.wikipedia.org/wiki/Image_map" target="_blank">image mapping</a>. However, pointing the above image will bring you to a clickable one available on our [[blog page|https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-pworld]]._  
-* _Please note that the figure above is only valid for [[The Current Section|https://github.com/hyip/info/wiki]] where this page is reside. You can find the [[Mapping|maps#by-mapping-diagram]] of each sections at the Bottom of Right Sidebar._
+== By Mapping Diagram ==
+Now it is your turn to familiar with our mapping by ''diagram'' and ''[[maps#by-tabulation|tabulation]]''. If you have followed the ''[[Mapping-Overall|previous section]]'' you can figure out the overall mapping as shown below.<br />  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/mapping.png">|https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-project]]<br />     
+'''''Guidance:'''''
+* ''Due to the limitation of this wiki, we cannot do an <a href="https://en.wikipedia.org/wiki/Image_map" target="_blank">image mapping</a>. However, pointing the above image will bring you to a clickable one available on our [[blog page|https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-pworld]].''  
+* ''Please note that the figure above is only valid for [[The Current Section|https://github.com/hyip/info/wiki]] where this page is reside. You can find the [[Mapping|maps#by-mapping-diagram]] of each sections at the Bottom of Right Sidebar.''
+== By Tabulation ==
+Here are the tabulation showing the list of all the process that are involved on ''[[maps#by-mapping-diagram|the above diagram]]''. You may check location on each of the process by clicking on each item.
 
-##By Tabulation
-Here are the tabulation showing the list of all the process that are involved on _[[the above diagram|maps#by-mapping-diagram]]_. You may check location on each of the process by clicking on each item.
+''Please note that [[This Project|https://github.com/hyip]] is still <u>Under Construction</u>. The shown links below are just to represent on how we manage our repositories in correlation to the [[Mapping|Mapping Concept]].''
 
-_Please note that [[This Project|https://github.com/hyip]] is still <u>Under Construction</u>. The shown links below are just to represent on how we manage our repositories in correlation to the [[Mapping Concept|Mapping]]._
 <table>
   <thead>
     <tr>
@@ -258,51 +258,5 @@ _Please note that [[This Project|https://github.com/hyip]] is still <u>Under Con
   </tbody>
 </table>
 
-**Legend:**  
-:radio_button: Progress Status, Defined by Clock, :clock12: = 0%  
-:house: Organization Page, The List of Repositories (User+Forked)  
-:cinema: Assigned Page to demonstrate the content of each process on the web  
 
-**_Guidance:_**
-* _As shown in [[the table|maps#by-tabulation]], channel consist of twelve (12) rows. You may choose whatever the links you like. However, the first four (4) domains of each channels will need to be the same. They also need to be arranged on pair in six (6) groups of two (2) channels each._  
-* _You can follow us for assignment of your domains follow to the above sample. Take a look at the assigned url's for the last two (2) :cinema:. These two (2) will need to use subdomain from the first of your assigned domain as they will be used in implementing <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing" target="_blank">cross domain</a>_.
 
-#TODO List
-No matter whether your lists are work related or just for fun. No matter what you’re planning, how big or small the task may be, TODO list makes it easy to get stuff done. 
-##Further Development
-We are going to develop further our concept on mapping. We would like to have it displayed on the mapping section of _[[our main site|http://hyip.world/#templatemo-contact]]_ using a programmatic way. 
-
-We have found some projects on GitHub that we can start to do so. Following are the list of URL's which is generated from our forked repository of the said projects.
- 
-- http://hyip.world/GoJS  
-- http://hyip.world/js-sequence-diagrams  
-- http://hyip.world/railroad-diagrams/generator.html 
- 
-##Question for you
-We have mentioned our TODO List. Now we have a little TODO List for you which is our question to answer as below: 
-
-As we have mentioned on the top of this page, this page is the last page of _[[The Current Section|https://github.com/hyip/info/wiki]]_. So would you please define for the followings:
-* What _Section_ shall we get next? 
-* What _Topic_ is supposed to be found there?   
- 
-_Please carefully observe [[the mapping|maps#project-map]] before you answer or consider to go [[back again|Mapping]]. If you are sure with your answer just click the **Next** Button below, see if your answer is correct.._
-<table>
-  <thead>
-    <tr>
-      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of <strong>[[The HYIP Project|https://github.com/hyip]]</strong>. Find all of them on <strong>[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]</strong>.</td>   
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
-      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
-      <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
-      <th>[[:arrow_backward:|Mapping-Overall]] [[Prev|Mapping-Overall]]</th>
-      <th>[[:repeat:|maps#project-map]] [[Reload|maps]]</th>
-      <th>Last :arrow_forward:</th>
-      <th>[[Next|https://github.com/hyip/rating]] [[:fast_forward:|https://github.com/hyip/rating]]</th>
-      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
-      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
-    </tr>
-  </tbody>
-</table>
