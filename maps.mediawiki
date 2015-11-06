@@ -97,6 +97,23 @@ Here are the tabulation showing the list of all the process that are involved on
 [[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyips]]
       </td>
     </tr>
+    <tr>
+      <td scope="row">:clock1:</td>
+      <td scope="row"><code>hyip</code></td>
+      <td>[[<code>monitor</code>|https://github.com/hyipmonitor/hyipmonitor.github.io]] </td>
+      <td>[[<code>monitor</code>|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20"]]</td>
+      <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] [[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]]
+      </td>
+      <td scope="row">
+[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipmonitors.info]]
+[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/]]
+[[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-monitor]]
+[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyipmonitors.info]]
+      </td>
+    </tr>
   </tbody>
 </table>
 '''Legend:'''  
