@@ -28,10 +28,11 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 == Application ==
 
 Now we are going to bring you to ''[[Mapping-Comparison|Comparison]]''.
+
 == Test<ref>This link goes nowhere.</ref> ==
 Now we are going to bring you to ''[[Mapping-Comparison|Comparison]]''.
 
-We recommend using Embed Core; however, if you're maintaining code that uses the old API, you can find its documentation on the [[JavaIntegration|legacy embedding]]<ref>This link goes nowhere.</ref> page.
+We recommend using Embed Core; however, if you're maintaining code that uses the old API, you can find its documentation on the [[JavaIntegration|legacy embedding]]<ref>{{cite web|url=https://github.com/hyip/info/wiki/Mapping-Merging#Four_Color_Theorem |title=Concept of Merging |publisher=Reviewing Page |accessdate=2015-10-15 }}</ref> page.
 
 = References =
 <references/>
