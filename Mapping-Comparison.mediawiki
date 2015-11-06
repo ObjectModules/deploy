@@ -1,6 +1,11 @@
 <table>
   <thead>
     <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
       <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
@@ -11,7 +16,7 @@
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
-  </thead>
+  </tbody>
 </table>
 = Comparison =
 In this section we will explain in details about ''a comparison'' in our concept. The called process whenever _two (2) or more identical sets_ of ''[[Mapping-Routine|a routine]]'' are founded.
@@ -28,3 +33,24 @@ So in this concept you may see the correlation between each process, it is a kin
 Now, we left only to explain you about the last process called ''[[Mapping-Overall|an overall]]'' which will let the whole system back to the ''[[Mapping-Routine|routine]]'' and making the final result of ''[[Mapping-Merging|a merging]]'' to become settled.
 
 We are going to bring you to the ''[[Mapping-Overall|overall]]''.
+
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Settlement|:arrow_backward:]] [[Mapping-Settlement|Prev]]</th>
+      <th>[[Mapping-Comparison|:repeat:]] [[Mapping-Comparison|Reload]]</th>
+      <th>[[Mapping-Overall|Next]] [[Mapping-Overall|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>
