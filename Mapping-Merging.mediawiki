@@ -394,7 +394,9 @@ To become pair here we shall get the ''three (3) non route'' which are ''the ele
 
 So all creatures are managed either for ''[[Mapping-Merging#the-form|the form]]'' or ''[[Mapping-Merging#the-route|the route]]'' in ''Isomorphism'' (''pairs''), "four color", and "hexagonal".
 
-That is a simple way to figure out how it is work where the process are carried out on piece by piece within ''[[Mapping-Merging#The_Form|the form]]'' and flowing through ''[[Mapping-Merging#The_Route|the route]]'' that the basic of the ''[[Mapping-Settlement|a settlement]]''.
+That is a simple way to figure out how it is work where the process are carried out on piece by piece within ''[[Mapping-Merging#The_Form|the form]]'' and flowing through ''[[Mapping-Merging#The_Route|the route]]''.
+
+That is the basic of ''[[Mapping-Settlement|a settlement]]''.
 
 <table>
   <thead>
