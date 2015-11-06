@@ -1,0 +1,30 @@
+<table>
+  <thead>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Settlement|:arrow_backward:]] [[Mapping-Settlement|Prev]]</th>
+      <th>[[Mapping-Comparison|:repeat:]] [[Mapping-Comparison|Reload]]</th>
+      <th>[[Mapping-Overall|Next]] [[Mapping-Overall|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </thead>
+</table>
+= Comparison =
+In this section we will explain in details about ''a comparison'' in our concept. The called process whenever _two (2) or more identical sets_ of ''[[Mapping-Routine|a routine]]'' are founded.
+
+''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Settlement|previous section]].''
+
+== Algorithm ==
+As we have explained since the beginning, in our concept whenever ''[[Mapping-Spreading|a spreading]]'' is happen then the process will go to find the way to go back to its routine.
+
+You may see that from the ''[[Mapping-Merging|merging]]'' by ''[[Mapping-Settlement|a settlement]]'' it will be back to the ''[[Mapping-Employment|employment]]'', and by ''[[Mapping-Comparison|a comparison]]'' it will back to the ''[[Mapping-Spreading|spreading]]''.
+
+So in this concept you may see the correlation between each process, it is a kind of one-to-one mapping between the processes like we have explained about the ''[[Mapping#nonpattern-word-isogram|`isogram`]]''. 
+
+Now, we left only to explain you about the last process called ''[[Mapping-Overall|an overall]]'' which will let the whole system back to the ''[[Mapping-Routine|routine]]'' and making the final result of ''[[Mapping-Merging|a merging]]'' to become settled.
+
+We are going to bring you to the ''[[Mapping-Overall|overall]]''.
