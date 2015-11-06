@@ -26,7 +26,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 
 
 == Form ==
-Now we are going to bring you to ''[[Mapping-Comparison|Comparison]]''.
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png">]]
 
 == Route ==
 Now we are going to bring you to [[Mapping-Comparison|Comparison]]<ref>[[Link to the repo|https://github.com/hyip/info/tree/master/root/srv]]</ref>.
