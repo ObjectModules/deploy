@@ -326,7 +326,7 @@ Now, try to compare the flow that you see with the process of ''<a href="https:/
 Are the both identical? Is there any correlation between them?<br />  
 Again, we leave the answer of this question to yourself.  
 
-== Algorithm ==
+== How It Works ==
 Let's talk again about the creatures.
 
 We haven't come yet to ''our target''. We shall find now how ''The Fourth'' bring all those creatures on getting ''the elephant''. 
@@ -387,12 +387,12 @@ To become pair here we need to take another mammal. Just call it ''the mammal''.
 Take also the creatures that dealing with kind of ''[[Mapping-Merging#the-route|the route]]'' then we will get ''ants, honeybees and horses''. Let's call them as ''three (3) route''. 
 
 To become pair here we shall get the ''three (3) non route'' which are ''the elephant, the spider and the mammal''. So the ''the mammal'' shall be ''non route'' as ''the elephant'' and shall be not like ''the horses'' which are route.
-=== The Cow ===
+=== Algorithm ===
 So all creatures are managed either for ''[[Mapping-Merging#the-form|the form]]'' or ''[[Mapping-Merging#the-route|the route]]'' in ''Isomorphism'' (''pairs''), "four color", and "hexagonal".
 
 That is a simple way to figure out how it is work where the process are carried out on piece by piece within ''[[Mapping-Merging#The_Form|the form]]'' and flowing through ''[[Mapping-Merging#The_Route|the route]]''.
 
-<blockquote>'''''[[Mapping-Overall#routine|Just do the way they want. Not of what you think.<br />Let them find their way to help you get what you want.]'''''</blockquote>
+<blockquote>'''''[[Mapping-Overall#routine|Just do the way they want. Not of what you think.<br />Let them find their way to help you get what you want.]]'''''</blockquote>
 
 That is the basic on getting ''[[Mapping-Settlement|a settlement]]''.
 
