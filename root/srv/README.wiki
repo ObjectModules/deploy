@@ -1,9 +1,10 @@
+= test =
 __TOC__
 
-= test =
+= test toc =
 
 test
 
-== test ==
+== test toc ==
 
 test
