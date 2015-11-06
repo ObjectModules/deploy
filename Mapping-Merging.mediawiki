@@ -369,7 +369,7 @@ The following discussion is a summary based on the introduction to Appel and Hak
 Which finally recalled as: <br /><br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/formula.png">|https://en.wikipedia.org/wiki/Four_color_theorem#Summary_of_proof_ideas]]<br /><br />
 Each vertex is assigned an initial charge of 6-deg(v). Then one "flows" the charge by systematically redistributing the charge from a vertex to its neighboring vertices according to a set of rules, the discharging procedure. Since charge is preserved, some vertices still have positive charge. The rules restrict the possibilities for configurations of positively charged vertices, so enumerating all such possible configurations gives an unavoidable set.
-=== How it is work ===
+=== How Hexagon is work ===
 A simple way to explain this is thru the utilizing the power of each creatures. You could imagine this is done like the process of ''cell cycle''.
 
 The process begin with process to do a monitoring similar like when ''the spider'' on making and catch '''their food''' using their nets. Then it will be managed like ''the honeybee'' when they are making their perfect combs to sort and store '''their food'''. 
