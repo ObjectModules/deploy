@@ -210,6 +210,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 <references/>
 
 == Opposite ==
+We shall do again the same process for opposite direction. Please note that the link to repo are the same. Different thing is just a matter of flowing data.
 === Form ===
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png">]]
 
@@ -272,7 +273,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
     </tr>
   </tbody>
 </table>
-'''2nd Employment'''
+'''2nd Employment'''<sup>[<a href="#repo">2</a>]</sup>
 <table>
   <thead>
     <tr>
@@ -330,7 +331,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
     </tr>
   </tbody>
 </table>
-'''3rd Employment'''
+'''3rd Employment'''<sup>[<a href="#repo">3</a>]</sup>
 <table>
   <thead>
     <tr>
