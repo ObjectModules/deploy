@@ -28,7 +28,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 == Application ==
 
 Now we are going to bring you to ''[[Mapping-Comparison|Comparison]]''.
-== Test ==
+== Test<ref>This link goes nowhere.</ref> ==
 Now we are going to bring you to ''[[Mapping-Comparison|Comparison]]''.
 
 We recommend using Embed Core; however, if you're maintaining code that uses the old API, you can find its documentation on the [[JavaIntegration|legacy embedding]]<ref>This link goes nowhere.</ref> page.
