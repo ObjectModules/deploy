@@ -390,7 +390,7 @@ Take also the creatures that dealing with kind of ''[[Mapping-Merging#the-route|
 
 To become pair here we shall get the ''three (3) non route'' which are ''the elephant, the spider and the mammal''. So the ''the mammal'' shall be ''non route'' as ''the elephant'' and shall be not like ''the horses'' which are route.
 === Algorithm ===
-So all creatures are managed either for ''[[Mapping-Merging#the-form|the form]]'' or ''[[Mapping-Merging#the-route|the route]]'' in ''[[Mapping-Merging#Isomorphism|Isomorphism]]'' (''pairs''), ''[[Mapping-Merging#the-route|four color]]'', and ''[[Mapping-Merging#the-route|hexagonal]]''.
+So all creatures are managed either for ''[[Mapping-Merging#the-form|the form]]'' or ''[[Mapping-Merging#the-route|the route]]'' in ''[[Mapping-Merging#Isomorphism|Isomorphism]]'' (''pairs''), ''[[Mapping-Merging#Four_Color_Theorem|four color]]'', and ''[[Mapping-Merging#the-route|hexagonal]]''.
 
 That is a simple way to figure out how it is work where the process are carried out on piece by piece within ''[[Mapping-Merging#The_Form|the form]]'' and flowing through ''[[Mapping-Merging#The_Route|the route]]''.
 
