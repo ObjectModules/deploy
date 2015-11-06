@@ -18,7 +18,7 @@ You are browsing our **info** wiki:
 * [[Introduction]]
 * [[Writing]]
     * [[AsCiiDoc|[Writing]-AsCiiDoc]]
-    * [[Creole|[Writing]-Creole]]
+    * [[Creole|Writing-Creole]]
     * [[Markdown|[Writing]-Markdown]]
     * [[Mediawiki|[Writing]-Mediawiki]]
     * [[Org-mode|[Writing]-Org]]
