@@ -203,6 +203,8 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
     </tr>
   </tbody>
 </table>
+== Link to Repo ==
+<references/>
 
 == Opposite ==
 === Form ===
@@ -387,8 +389,6 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 
 Now we are going to bring you to [[Mapping-Comparison|Comparison]]<ref>[[Link to the repo|https://github.com/hyip/info/tree/master/root/srv]]</ref>.
 
-= Link to Repo =
-<references/>
 <table>
   <thead>
     <tr>
