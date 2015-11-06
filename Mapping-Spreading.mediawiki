@@ -220,7 +220,7 @@ Because of this, a regular hexagon can be thought of as being made of six equila
 Most nuts and bolt heads are made in the shape of a hexagon. Because a hexagon has three pairs of parallel faces, a wrench can be placed over any pair. 
 
 In a confined space, the wrench can be turned 60° (the exterior angle of a hexagon) and then the wrench re-positioned on the next pair of sides. Doing this repeatedly will tighten the nut. In this way, you do not need room to rotate the entire wrench a full circle
-== Overall ==
+== Morphism ==
 From that point you may see that ''a routine'' will turn its behavior and seeking a way to return to its routine by calling another mappings that initiated by the spreading.<br />
 === Data Mapping ===
 So whenever ''a result'', by a term of ''<a href="https://en.wikipedia.org/wiki/Data_mapping" target="blank">data mapping</a>'',  meet the requirement of ''a query'' then process will end to a settlement which making all process that related to the parameter will no more required. On our case those process are `world` and `hyip world`.<br />
