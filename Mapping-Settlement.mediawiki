@@ -29,7 +29,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png">]]
 
 === Route ===
-'''1st Employment'''
+'''1st Employment'''<ref>[[Core 1|https://github.com/hyip/info/tree/master/root/srv]]</ref>.<br />
 <table> 
   <thead>
     <tr>
@@ -87,7 +87,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
     </tr>
   </tbody>
 </table>
-Core 1<ref>[[Core 1|https://github.com/hyip/info/tree/master/root/srv]]</ref>.<br />
+
 '''2nd Employment'''
 <table>
   <thead>
