@@ -18,7 +18,6 @@
     </tr>
   </tbody>
 </table>
-
 = Settlement =
 
 In this section we will explain in details about ''[[Mapping#settlement|settlement]]'' in our concept. The process of handed over from ''[[Mapping-Merging|a merging]]'' in related to the assigned parameter of ''[[Mapping-Routine|a routine]]''. 
@@ -54,4 +53,3 @@ Now we are going to bring you to ''[[Mapping-Comparison|Comparison]]''.
     </tr>
   </tbody>
 </table>
-
