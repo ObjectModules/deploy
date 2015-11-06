@@ -59,3 +59,9 @@ Here are the tabulation showing the list of all the process that are involved on
     </tr>
   </tbody>
 </table>
+
+'''Legend:'''  
+:radio_button: Progress Status, Defined by Clock, :clock12: = 0%  
+:house: Organization Page, The List of Repositories (User+Forked)  
+:cinema: Assigned Page to demonstrate the content of each process on the web  
+
