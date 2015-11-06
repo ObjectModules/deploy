@@ -18,49 +18,6 @@ This page is the last page of our _[[Mapping Concept|Mapping]]_. Here we are goi
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping-Comparison]]._
 
-##Basic
-Let's put again all of the mappings here:
-###Routine
-Mapping of _[[a routine|Mapping#Routine]]_
-```  
-* Hungry will become an entry point
-* Food is what we need 
-* Eat is the process
-* Exit point  
-```
-###Parameter
-Mappings by _[[a parameter|Mapping#parameter]]_  
-
-Mapping of the change to your routine process:
-```
-* Looking for your best food will become an entry point
-* An information of best food is what we need 
-* Looking is the process
-* Exit point  
-```
-Mapping of the process to collect the library in related with the food:
-```
-* Food will become an entry point
-* Library is what we need 
-* Collect is the process
-* Exit point  
-```
-Then we need also the mapping to examine your self to get your data:
-```
-* You will become an entry point
-* Your data is what we need 
-* Examine is the process
-* Exit point  
-```
-Let's map about the process of getting the best food for you the same way as your doctor do:
-```
-* Both of food library and your data will become the entry point
-* A best food on library for you is what we need 
-* Matching the data is the process
-* Exit point  
-```
-
-#Assignment
 Hopefully you can follow and enable to understand to what we have explained. Now we are going to explain what we are going to do with this concept in our project.
 
 ##Repositories
