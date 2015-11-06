@@ -301,7 +301,7 @@ Now we are going to tabulate the flow of ''a merging'' similar to what we done f
     </tr>
   </tbody>
 </table>
-=== Overall ===
+=== The Creatures ===
 Let's try to tabulate the flow diagram on the merging. Take only the arrow flow on each employments and connect them each others. You will find then the flow as shown below:
 <table>
   <tbody>
