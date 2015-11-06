@@ -46,4 +46,15 @@ Here are the tabulation showing the list of all the process that are involved on
       <th>Channel</th>
     </tr>
   </thead>
+  <tbody>
+    <tr>
+      <td scope="row">:clock3:</td>
+      <td scope="row"><code>main</code></td>
+      <td>[[<code>info</code>|https://github.com/hyip/info]]</td>
+      <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
+      <td scope="row">:clock3:</td>
+      <td scope="row">:clock3:</td>
+      <td scope="row"><code>main</code></td>
+    </tr>
+  </tbody>
 </table>
