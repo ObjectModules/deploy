@@ -335,13 +335,15 @@ To discover this we shall go in details, we are going to explain by step-by-step
 === The Cow ===
 Let's get back to ''[[Mapping-Spreading#employment|the creature for our 1st employment]]''. Please note that choosing the creatures may free to whatever you like. However they will need to be in pairs all together.
 
-Horse is ''a mammal''. We have set ''an elephant'' there, which is also ''a mammal''. 
+So either for ''[[Mapping-Merging#the-form|the form]]'' or ''[[Mapping-Merging#the-route|the route]]'' we shall find them in '''pairs'''.
 
-Let's take another one, ''a mammal'' which you can easily get to buy or sell that worth for an elephant. How about a cow? It is worth right? Hope you agree with us.
+This is kind of ''[[Mapping-Merging#the-form|the form]]'' of those creatures. We have set ''the elephant'' there, which is ''a mammal''. Horse is also ''a mammal''. The others which are ''spiders, honeybees and ants'' are ''three (3) non mammals''
 
-So combine ''the horses'' with ''the cow'' and ''the elephant'' then it will be ''three (3) mammals''. This is kind of ''[[Mapping-Merging#the-form|the form]]'' of those creatures. Versus the ''three (3) non mammals'' which are ''spiders, honeybees and ants'', its became even (''pairs'').
+To become pair here we need to take another mammal. Just call it ''the mammal''. So combine ''the mammal'' with''the horses'' and ''the elephant'' then it will be ''three (3) mammals''.
 
-Take also the creatures that dealing with kind of ''[[Mapping-Merging#the-route|the route]]'' then we will get ''ants, honeybees and horses''. Let's call them as ''three (3) route''. Versus the ''three (3) non route'' which are ''elephant, spider and cow'', its became also even (''pairs'').
+Take also the creatures that dealing with kind of ''[[Mapping-Merging#the-route|the route]]'' then we will get ''ants, honeybees and horses''. Let's call them as ''three (3) route''. 
+
+To become pair here we shall get the ''three (3) non route'' which are ''the elephant, the spider and the mammal''. So the ''the mammal'' shall be ''non route'' as ''the elephant'' and shall be not like ''the horses'' which are route.
 
 So either for ''[[Mapping-Merging#the-form|the form]]'' or ''[[Mapping-Merging#the-route|the route]]'' we find them are in '''pairs'''.
 
