@@ -28,7 +28,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 == Test ==
 Now we are going to bring you to ''[[Mapping-Comparison|Comparison]]''.
 
-== Test [[:low_brightness:|https://github.com/hyip/info/tree/master/root/srv]] ==
+== Test ==
 Now we are going to bring you to [[Mapping-Comparison|Comparison]]<ref>[[Link to the repo|https://github.com/hyip/info/tree/master/root/srv]]</ref>.
 
 = Link to Repo =
