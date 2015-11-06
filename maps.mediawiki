@@ -83,6 +83,7 @@ As we have mentioned on the top of this page, this page is the last page of ''[[
 * What ''Topic'' is supposed to be found there?
 
 ''Please carefully observe [[maps#project-map|the mapping]] before you answer or consider to go [[Mapping|back again]]. If you are sure with your answer just click the '''Next''' Button below, see if your answer is correct..''
+
 <table>
   <thead>
     <tr>
