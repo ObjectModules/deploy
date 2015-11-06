@@ -396,7 +396,7 @@ So all creatures are managed either for ''[[Mapping-Merging#the-form|the form]]'
 
 That is a simple way to figure out how it is work where the process are carried out on piece by piece within ''[[Mapping-Merging#The_Form|the form]]'' and flowing through ''[[Mapping-Merging#The_Route|the route]]''.
 
-That is the basic of ''[[Mapping-Settlement|a settlement]]''.
+That is the basic on getting ''[[Mapping-Settlement|a settlement]]''.
 
 <table>
   <thead>
