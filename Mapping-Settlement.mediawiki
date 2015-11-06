@@ -28,10 +28,10 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 == Test ==
 Now we are going to bring you to ''[[Mapping-Comparison|Comparison]]''.
 
-== Test<ref>[[:low_brightness:repo|https://github.com/hyip/info/tree/master/root/srv]]</ref> ==
+== Test<ref>[[:low_brightness:|https://github.com/hyip/info/tree/master/root/srv]]</ref> ==
 Now we are going to bring you to [[Mapping-Comparison|Comparison]]<ref>[[Link to the repo|https://github.com/hyip/info/tree/master/root/srv]]</ref>.
 
-= References =
+= Cite Link to Repo =
 <references/>
 <table>
   <thead>
