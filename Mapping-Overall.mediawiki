@@ -41,30 +41,30 @@ To make clear separation to the process here we take a new repo and wiki for the
 
 Follow to the diagram, all the code of main process will be put on User. Out of those main processes such of code will be arranged so it can be displayed on Organization and described on their correspond wikis. 
 === Appearance ===
-Here is the appearance of repositories will look like: 
+Here is the appearance of repositories will look like:<br />
 <img src="https://tophyipmonitor.files.wordpress.com/2015/11/mapping.png"> 
 
 == Displaying ==
 You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
 === Employments ===
 We shall do the displaying for three (3) employments of four (4) repositories each. Each will need to be arranged as below:
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_5.png">   
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_5.png"><br /> 
 We are going to make the displaying between six (6) Users and six (6) Organizations. 
 === 1st Employment ===
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_6.png">   
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_6.png"><br /> 
 === 2nd Employment ===
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_8.png">  
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_8.png"><br />
 === 3rd Employment ===
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_9.png">   
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_9.png"><br />
 
 ==Interaction ==
 === Overall ===
 Interaction between repositories shall need to be arranged in four (4) groups of interaction follow to this diagram.  
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png">   
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png"><br />
 === Matching ===
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_15.png">   
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_15.png"><br />
 === Routine ===
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png"> 
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png"><br />
 
 <blockquote>'''''[[Just do the way they want. Not of what you think.<br />Let them find their way to help you get what you want.|https://tophyipmonitor.wordpress.com/hyip-world/#just-do-the-way-they-want]]'''''</blockquote>
 
