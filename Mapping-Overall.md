@@ -18,9 +18,9 @@ This page is the last page of our _[[Mapping Concept|Mapping]]_. Here we are goi
 
 _Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[previous section|Mapping-Comparison]]._
 
+##Repositories
 Hopefully you can follow and enable to understand to what we have explained. Now we are going to explain what we are going to do with this concept in our project.
 
-##Repositories
 You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
 
 ###User, organization, and project
