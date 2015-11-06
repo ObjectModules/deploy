@@ -74,10 +74,9 @@ We are going to develop further our concept on mapping. We would like to have it
 We have found some projects on GitHub that we can start to do so. Following are the list of URL's which is generated from our forked repository of the said projects.
 * http://hyip.world/GoJS  
 * http://hyip.world/js-sequence-diagrams  
-* http://hyip.world/railroad-diagrams/generator.html 
- 
-== Question for you ==
-We have mentioned our TODO List. Now we have a little TODO List for you which is our question to answer as below: 
+* http://hyip.world/railroad-diagrams/generator.html
+== Questionnaire ==
+We have mentioned our TODO List. Now we have a little TODO List for you which is our question to answer as below:
 
 As we have mentioned on the top of this page, this page is the last page of ''[[The Current Section|https://github.com/hyip/info/wiki]]''. So would you please define for the followings:
 * What ''Section'' shall we get next? 
