@@ -104,6 +104,8 @@ Interaction between repositories shall need to be arranged in four (4) groups of
 ###Routine
 ![hyipworld flow](https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png)  
 
+<blockquote>'''''[[Just do the way they want. Not of what you think.<br />Let them find their way to help you get what you want.|https://tophyipmonitor.wordpress.com/hyip-world/#just-do-the-way-they-want]]'''''</blockquote>
+
 #What's Next  
 You’ve reached the end part of the Documentation Section of Mapping on our project. Hopefully you can follow and enable to understand to what we have explained.  
 
