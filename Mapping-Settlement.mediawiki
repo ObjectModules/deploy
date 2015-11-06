@@ -29,7 +29,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 
 Now we are going to bring you to ''[[Mapping-Comparison|Comparison]]''.
 
-== Test<ref> ==[[Mapping-Comparison|Comparison]]</ref>
+== Test<ref> == [[Mapping-Comparison|Comparison]]</ref>
 Now we are going to bring you to ''[[Mapping-Comparison|Comparison]]''.
 
 We recommend using Embed Core; however, if you're maintaining code that uses the old API, you can find its documentation on the [[Mapping-Comparison|Comparison]]<ref>{{cite web|url=https://github.com/hyip/info/wiki/Mapping-Merging#Four_Color_Theorem |title=Concept of Merging |publisher=Reviewing Page |accessdate=2015-10-15 }}</ref> page.
