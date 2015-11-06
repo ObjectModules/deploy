@@ -88,7 +88,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
   </tbody>
 </table>
 
-'''2nd Employment'''
+'''2nd Employment'''C<ref>[[2nd Employment|https://github.com/hyip/info/tree/master/root/srv]]</ref>.<br />
 <table>
   <thead>
     <tr>
@@ -146,8 +146,8 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
     </tr>
   </tbody>
 </table>
-Core 2<ref>[[Core 2|https://github.com/hyip/info/tree/master/root/srv]]</ref>.<br />
-'''3rd Employment'''
+
+'''3rd Employment'''<ref>[[3rd Employment|https://github.com/hyip/info/tree/master/root/srv]]</ref>.<br />
 <table>
   <thead>
     <tr>
@@ -205,7 +205,7 @@ Core 2<ref>[[Core 2|https://github.com/hyip/info/tree/master/root/srv]]</ref>.<b
     </tr>
   </tbody>
 </table>
-Core 3<ref>[[Core 3|https://github.com/hyip/info/tree/master/root/srv]]</ref>.<br />
+
 == Repo ==
 <references/>
 
