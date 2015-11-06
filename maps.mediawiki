@@ -207,7 +207,7 @@ Here are the tabulation showing the list of all the process that are involved on
     <tr>
       <td scope="row">:clock12:</td>
       <td scope="row"><code>hyip</code></td>
-      <td>[[<code>team|https://github.com/hyipteam/hyipteam.github.io]]</code></td>
+      <td>[[<code>team</code>|https://github.com/hyipteam/hyipteam.github.io]]</td>
       <td>[[<code>team</code>|https://github.com/hyipteam/hyipteam.github.io/wiki]]</td>
       <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11927583?v=10&s=20">]]</td>
       <td scope="row">[[:house:|https://github.com/hyipteam]] [[:cinema:|http://team.hyip.world/]] [[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://confluence.atlassian.com/bitbucket/publishing-a-website-on-bitbucket-cloud-221449776.html]]
