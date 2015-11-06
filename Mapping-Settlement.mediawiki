@@ -34,6 +34,10 @@ Now we are going to bring you to ''[[Mapping-Comparison|Comparison]]''.
 
 = Set =
 Test
+We recommend using Embed Core; however, if you're maintaining code that uses the old API, you can find its documentation on the [[JavaIntegration|legacy embedding]]<ref>This link goes nowhere.</ref> page.
+
+= References =
+<references/>
 <table>
   <thead>
     <tr>
