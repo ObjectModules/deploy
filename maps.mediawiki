@@ -54,7 +54,7 @@ Here are the tabulation showing the list of all the process that are involved on
       <td>[[<code>info</code>|https://github.com/hyip/info/wiki]]</td>
       <td scope="row">:clock3:</td>
       <td scope="row">:clock3:</td>
-      <td scope="row"><code>main</code></td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">]]</td>
     </tr>
   </tbody>
 </table>
