@@ -262,7 +262,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 * :house: Organization Page, The List of Repositories (User+Forked)  
 * :cinema: Assigned Page to demonstrate the content of each process on the web  
 '''''Guidance:'''''
-* ''As shown in [[maps#by-tabulation|the table]]. You may choose one (1) kind of nature per rows. Plus (2) links in team column, and three (3) in platform column become six (6) in total. This six (6) will need to be on pair with another six (6) links on channels column.''  
+* ''As shown in [[maps#by-tabulation|the table]]. You may choose one (1) kind of nature per rows. Plus (2) links in team column, and three (3) in platform column become six (6) in total. This six (6) will need to be on pair with another six (6) links on channel column.''  
 * ''For this  6 (six) links, you may choose whatever the links you like. However, the first four (4) domains on each of twelve (12) rows of channels will need to be the same. They also need to be arranged on pair in six (6) groups of two (2) channels each.''  
 * ''You can follow us for assignment of your domains follow to the above sample. Take a look at the assigned url's for the last two (2) :cinema:. These two (2) will need to use subdomain from the first of your assigned domain as they will be used in implementing <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing" target="_blank">cross domain</a>''.
 = TODO List =
