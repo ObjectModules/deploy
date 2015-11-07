@@ -28,7 +28,7 @@ Now it is your turn to familiar with our mapping by ''diagram'' and ''[[maps#by-
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/mapping.png">|https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-project]]<br />     
 '''''Guidance:'''''
 * ''Due to the limitation of this wiki, we cannot do an <a href="https://en.wikipedia.org/wiki/Image_map" target="_blank">image mapping</a>. However, pointing the above image will bring you to a clickable one available on our [[blog page|https://tophyipmonitor.wordpress.com/hyip-world/#Image-Maps-Com-hyip-pworld]].''  
-* ''Please note that the figure above is only valid for [[The Current Section|https://github.com/hyip/info/wiki]] where this page is reside. You can find the [[maps#by-mapping-diagram|Mapping]] of each sections at the Bottom of Right Sidebar.''
+* ''Please note that the figure above is only valid for [[The Current Section|https://github.com/hyip/info/wiki]] where this page is reside. You can find the [[maps#by-mapping-diagram|Mapping]] of each sections at the Bottom of Right Sidebar'' :point_right:
 == By Tabulation ==
 Here are the tabulation showing the list of all the process that are involved on ''[[maps#by-mapping-diagram|the above diagram]]''. You may check location on each of the process by clicking on each item.
 
