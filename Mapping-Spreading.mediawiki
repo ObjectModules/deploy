@@ -233,6 +233,11 @@ However when `a settlement` is not going to be achieved then the spreading will 
 This is identical as described on ''<a href="https://en.wikipedia.org/wiki/Gene_mapping#Physical_Mapping" target="_blank">Gene Mapping</a>'', which explained that since actual base-pair distances are generally hard or impossible to directly measure, physical maps are actually constructed by first shattering the genome into ''hierarchically smaller pieces''. 
 
 By characterizing each single piece and ''assembling back together'', the overlapping path or "tiling path" of these small fragments <u>would allow</u> researchers to infer physical distances between genomic features.
+=== Replication ===
+The employment can be considered as identical with ''<a href="https://en.wikipedia.org/wiki/DNA_replication" target="_blank">DNA Replication</a>'' in ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">cell cycles</a>'', where a number of proteins are associated with the replication fork which helps in terms of the initiation and continuation of ''<a href="https://en.wikipedia.org/wiki/S_phase" target="_blank">DNA synthesis</a>''. 
+
+It is stated also that the ''<a href="https://en.wikipedia.org/wiki/DNA_polymerase" target="_blank">DNA</a>'' synthesizes ''the new DNA'' by adding complementary ''<a href="https://en.wikipedia.org/wiki/Nucleotides" target="_blank">nucleotides</a>'' to the template strand. Here ''the nucleotides'' stand as '''the said media''' as it serve to carry packets of energy within the cell and playing a central role in <a href="https://en.wikipedia.org/wiki/Metabolism" target="_blank">the process</a>. 
+
 === Potential Factor(s) ===
 As you may guess we are not going for a settlement on this point. We have explained that, in our case, you will not be able to find your best food on search engines.<br />
 
@@ -294,11 +299,6 @@ On our case this project is an exact sample. We have set that our target is gett
 We aware that we are not good in writing but we believe that the concept is valuable for people. So we just do our best to write it here. The place that is well known to share something and everyone can easily reach. ''So this project is simply our employment''.
 
 So back to the elephant, since it is a creature, you will also need to provide a creature which is worth to get an elephant, something is also big. Something worth for an elephant.
-
-=== Replication ===
-The employment can be considered as identical with ''<a href="https://en.wikipedia.org/wiki/DNA_replication" target="_blank">DNA Replication</a>'' in ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">cell cycles</a>'', where a number of proteins are associated with the replication fork which helps in terms of the initiation and continuation of ''<a href="https://en.wikipedia.org/wiki/S_phase" target="_blank">DNA synthesis</a>''. 
-
-It is stated also that the ''<a href="https://en.wikipedia.org/wiki/DNA_polymerase" target="_blank">DNA</a>'' synthesizes ''the new DNA'' by adding complementary ''<a href="https://en.wikipedia.org/wiki/Nucleotides" target="_blank">nucleotides</a>'' to the template strand. Here ''the nucleotides'' stand as '''the said media''' as it serve to carry packets of energy within the cell and playing a central role in <a href="https://en.wikipedia.org/wiki/Metabolism" target="_blank">the process</a>. 
 
 Let's find it in more details on our ''[[Mapping-Employment|next section]]''.
 <table>
