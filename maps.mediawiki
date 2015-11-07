@@ -101,7 +101,7 @@ Here are the tabulation showing the list of all the process that are involved on
       <td scope="row">:clock1:</td>
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>monitor</code>|https://github.com/hyipmonitor/hyipmonitor.github.io]] </td>
-      <td>[[:beetle:|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider.png?w=20">|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</td>
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20"]]</td>
       <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] [[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]]
       </td>
@@ -118,7 +118,7 @@ Here are the tabulation showing the list of all the process that are involved on
       <td scope="row">:clock1:</td>
       <td scope="row"><code>main</code></td>
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor]]</td>
-      <td>[[:beetle:|https://github.com/hyip/monitor/wiki]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider.png?w=20">|https://github.com/hyip/monitor/wiki]]</td>
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20"]]</td>
       <td scope="row">[[<img src="https://lh5.googleusercontent.com/-LNdqhqT7v3w/T4itJ_UEeFI/AAAAAAAAJUE/B9Os5cJUxUA/s20-no/GooglePlusProfileImage.png">|https://github.com/aws]]</td>
       <td scope="row">
