@@ -36,8 +36,8 @@ You are browsing our **info** wiki:
 
 ### Contents
 * [[Introduction]]
-* [[Writing]]
 * [[Reading]]
+* [[Writing]]
 * [[Discussion]]
 * [[Library]]
 * [[Category]]
