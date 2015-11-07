@@ -101,7 +101,7 @@ The shape of the cells is such that two opposing honeycomb layers nest into each
 
 Individual cells do not show this geometric perfection: in a regular comb, deviations of a few percent from the "perfect" hexagonal shape occur. In transition zones between the larger cells of drone comb and the smaller cells of worker comb, or when the bees encounter obstacles, the shapes are often distorted. Cells are also angled up about 13° from horizontal to prevent honey from dripping out
 
-=== Content Flow ===
+=== By Route ===
 Then the content flow for the ''2nd Employment'' can be tabulated as below:
 <table>
   <thead>
@@ -239,7 +239,7 @@ They are used for riding, as transport, racing, and just plain riding. They are 
 
 Horses are used by humans in equine sports such as cross-country, showjumping, dressage, horse polo, rodeo events etc. Showjumping, cross-country and dressage are Olympic sports can be competed together in one event (known as one/three day events) or as separate events.
 
-=== By Content Flow ===
+=== By Route ===
 Then the content flow for the ''3rd Employment'' can be tabulated as below:
 <table>
   <thead>
