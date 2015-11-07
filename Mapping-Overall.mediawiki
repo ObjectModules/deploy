@@ -23,7 +23,7 @@ You have reached the last section of our ''[[Mapping|Mapping System]]''. Here we
 
 ''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Comparison|previous section]].''
 
-== Repositories ==
+== Regulate ==
 We hope you have enjoyed to what we have explained. Now we are going to explain what we are going to do with this concept in our project.
 
 You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
@@ -44,7 +44,7 @@ Follow to the diagram, all the code of main process will be put on User. Out of 
 Here is the appearance of repositories will look like:<br />
 <img src="https://tophyipmonitor.files.wordpress.com/2015/11/hyip_info.png"> 
 
-== Displaying ==
+== Unregulate ==
 You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
 === Employments ===
 We shall do the displaying for three (3) employments of four (4) repositories each. Each will need to be arranged as below:
