@@ -68,7 +68,7 @@ Interaction between repositories shall need to be arranged in four (4) groups of
 
 See here everything is back to normal.<br />All back to a routine.<br />Settled.
 
-== Appearance ==
+== Conclusion ==
 Congratulations! You've finally reached the end of our Documentation Section of Mapping on our project. Hopefully you can follow and enable to understand to what we have explained.  
 
 That is all what we can say about our concept. We can’t say that all are true but at least here is our chance of to explain a way to find something that is being true.
@@ -87,7 +87,7 @@ You may find that we started this wiki with the concept on how we are going to r
 
 You will find that the same thing are done also to other sections but provided in a different topic and purposes as they have their own assignment on the system follow to the concept.
 
-Please take a look to the appearance of all the processes on our ''[[maps|Project Map]]''. 
+You may take a look to the appearance of all the processes on our ''[[maps|Project Map]]''. 
 
 <table>
   <thead>
