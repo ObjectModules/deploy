@@ -206,7 +206,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
   </tbody>
 </table>
 
-== Repo ==
+== Linking ==
 <references/>
 
 == Opposite ==
