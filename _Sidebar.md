@@ -16,6 +16,7 @@ You are browsing our **info** wiki:
 
 ### Contents
 * [[Introduction]]
+* [[Reading]]
 * [[Writing]]
     * [[AsCiiDoc|[Writing]-AsCiiDoc]]
     * [[Creole|Writing-Creole]]
@@ -26,7 +27,6 @@ You are browsing our **info** wiki:
     * [[RDoc|[Writing]-RDoc]]
     * [[Textile|[Writing]-Textile]]
     * [[reStructuredText|[Writing]-reStructuredText]]
-* [[Reading]]
 * [[Discussion]]
 * [[Library]]
 * [[Category]]
