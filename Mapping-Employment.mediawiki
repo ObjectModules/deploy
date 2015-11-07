@@ -165,6 +165,18 @@ On the 2nd employment, ''<a href="https://en.wikipedia.org/wiki/Monitoring" targ
 
 Here we need a language so that a library will understand what ''a query'' is. People call this language as ''<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">SQL</a>'' stand as the abbreviation of ''Structured Query Language''.
 
+=== By Diagram ===
+```js
+letter a stand as script  
+letter b stand as team  
+letter c stand as hyip  
+```
+So we can now put the mapping schema into a standardization as shown below: <br /> 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_7.png">]]<br />  
+
+Then diagram will be shown as below:<br />  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_9.png">]]
+
 === Script ===
 When we see the explanation of what ''SQL'' is, it contain of statement that structured as a code to do a process on a Library. So it is actually a scripting language.
 
@@ -189,18 +201,6 @@ Let's make a little test in a cross way in related to the symbiotic relation
 
 Seems everything are correct. So ''<a href="https://en.wiktionary.org/wiki/team" target="_blank">a team</a>'' is supposed to be the one !
 Here we will will show the details of the ''3rd Employment'' by ''diagram'', ''sequence'' and ''tabulation''.
-=== By Diagram ===
-```js
-letter a stand as script  
-letter b stand as team  
-letter c stand as hyip  
-```
-So we can now put the mapping schema into a standardization as shown below: <br /> 
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_7.png">]]<br />  
-
-Then diagram will be shown as below:<br />  
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_9.png">]]
-
 === Ants ===
 It is easy to find a creature that working as a '''team''' when the are dealing with a '''route'''. 
 We have no other option better than <a href="https://en.wikipedia.org/wiki/Ant" target="_blank">ants</a>.
