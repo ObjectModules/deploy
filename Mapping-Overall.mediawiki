@@ -29,7 +29,7 @@ Hopefully you can follow and enable to understand to what we have explained. Now
 You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
 
 === User, organization, and project ===
-To make clear separation to the process here we take a new repo and wiki for the displaying purpose. Based on the documentatin about ''<a href="https://help.github.com/articles/user-organization-and-project-pages/#building-your-user--organization-pages" target="_blank">GitHub Pages</a>'' we recommend to use User Repository for the main process, and take the Organization for displaying purpose.
+To make clear separation to the process here we take a new repo and wiki for the displaying purpose. Based on the documentatin about ''<a href="https://github.com/hyipworld/hyipworld.github.io/wiki/GitHub-Pages">GitHub Pages</a>'' we recommend to use User Repository for the main process, and take the Organization for displaying purpose.
 
 * The process of `info` will stand as User Repository
 * The Process of `hyip info` will stand as Organization Repository
