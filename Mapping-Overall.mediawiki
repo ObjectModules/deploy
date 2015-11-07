@@ -19,7 +19,7 @@
   </tbody>
 </table>
 = Overall =
-This page is the last page of our ''[[Mapping|Mapping System]]''. Here we are going to explain on how we manage our [[project repositories|https://github.com/hyip?tab=repositories]] towards an [[maps|overall map]] follow to the concept.
+This page is the last page of our ''[[Mapping|Mapping System]]''. Here we are going to explain on how we provide our [[project repositories|https://github.com/hyip?tab=repositories]] towards an [[maps|overall map]] follow to the concept.
 
 ''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Comparison|previous section]].''
 
