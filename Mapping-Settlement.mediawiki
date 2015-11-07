@@ -24,7 +24,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 
 ''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Merging|previous section]].''  
 
-== Result ==
+== Storing ==
 === Form ===
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png">]]
 
@@ -209,7 +209,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 == Linking ==
 <references/>
 
-== Query ==
+== Querying ==
 We shall do again the same process for opposite direction. Please note that the link to repo are the same. Different thing is just a matter of flowing data.
 === Form ===
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png">]]
