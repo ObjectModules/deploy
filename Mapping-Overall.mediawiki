@@ -42,7 +42,7 @@ To make clear separation to the process here we take a new repo and wiki for the
 Follow to the diagram, all the code of main process will be put on User. Out of those main processes such of code will be arranged so it can be displayed on Organization and described on their correspond wikis. 
 === Appearance ===
 Here is the appearance of repositories will look like:<br />
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/mapping.png"> 
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hyip_info.png"> 
 
 == Displaying ==
 You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
