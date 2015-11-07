@@ -26,9 +26,9 @@ Now we will explain about ''a merging'' in our concept. The process of ''The Las
 
 == The Form ==
 Combining all together we have now 3 kind of Employments which are:<br />   
-''1. [[Mapping-Employment#1st-employment|Info & World]]: info - world'' <br /> 
-''2. [[Mapping-Employment#2nd-employment|Monitor & Rating]]: monitor - rating'' <br /> 
-''3. [[Mapping-Employment#3rd-employment|Script & Team]]: script - team''  
+* ''1. [[Mapping-Employment#1st-employment|Info & World]]: info - world'' <br /> 
+* ''2. [[Mapping-Employment#2nd-employment|Monitor & Rating]]: monitor - rating'' <br /> 
+* ''3. [[Mapping-Employment#3rd-employment|Script & Team]]: script - team''  
 
 Employment can be all kind of process that you want. In our concept we just need ''three (3) of employments''. One for Routine, and the other two for the process in related to the parameter.
 
