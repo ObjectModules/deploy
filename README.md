@@ -93,7 +93,7 @@ We are going to present the result in the style as business scoring so even the 
 
 As you know that it is really difficult to find such a good services when you have only a little budget. In the contrary you have to be more wise and careful to decide whether you still doing a business with your current partner or go to other more reputable business partner when your budget is growing up. 
 
-How if we say that this does not rule out the possibility for us to provide such kind of real business information like *best investment return*, *best short term investment*, *low risk investments*, *investment fund*, also some more valuable ones like *short term investment options*, *reliable advisor company* etc. And that we are able to provide all of them with an accountable manner.
+How if we say that this does not rule out the possibility for us to provide such kind of real business information like *best investment return*, *best short term investment*, *low risk investments*, *investment fund*, that can be also some more valuable ones like *short or long term loans*, *reliable insurance company*, as well as for *finance*, *trading* etc. And that we are able to provide all of them in an accountable manner.
 
 That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on '*keyword base*' search result to the world.
 
