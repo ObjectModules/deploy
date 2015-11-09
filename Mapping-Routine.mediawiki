@@ -132,7 +132,7 @@ Let's put this way:
 2. A Dotted line for exit point  
 ```
 
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_1.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_routine_1/#main]] 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_routine_1.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_routine_1/#main]] 
 
 The diagram as shown in ''Figure 1'' has ''four (4) elements''. Each represent each element inside the mapping. We just need to put ''what we need'' as a text above the box. 
 
