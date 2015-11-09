@@ -26,7 +26,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 
 == Storing ==
 === Form ===
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png">]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png">|https://github.com/hyip/info/tree/master/root/srv]]
 
 === Route ===
 '''1st Employment'''<ref>[[1st Employment|https://github.com/hyip/info/tree/master/root/srv]]</ref>.<br />
