@@ -87,7 +87,7 @@ This software will be the basic core of our project used for further development
 
 We have also setup our [Official Blog](https://tophyipmonitor.wordpress.com/hyip-world/) for public discussion. The project discussion will not only cover the [HYIP Sites and Rating Analysis](https://tophyipmonitor.wordpress.com/hyip-rating/) but also the [HYIP Forum](https://tophyipmonitor.wordpress.com/hyip-forums/), [HYIP Monitor](https://tophyipmonitor.wordpress.com/hyip-monitors/), [HYIP Script](https://tophyipmonitor.wordpress.com/hyip-scripts/), and every other sources that are involved in this business model.
 
-This is just a model to give you a figure on how we are going to start. On the long time running we also want to go to **other widely business** such as scoring of who is *the best domain registrant*, who is *the best web designer*, who is *the best of seo provider*, who is *the best submission service* etc. 
+This is just a model to give you a figure on how we are going to start. On the long time running we also want to go to **other widely business** such as scoring of who is *the best domain registrant*, who is *the best web designer*, who is *the best of hosting provider*, who is *the best in seo service* etc. 
 
 We are going to present the result in the style as business scoring so even the user only have a small amount in their budget they could find our scoring is useful for them. 
 
