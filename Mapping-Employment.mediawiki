@@ -34,10 +34,10 @@ letter b stand as rating
 letter c stand as hyip  
 ```
 So we can now put the mapping schema into a standardization as shown below: <br /> 
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_7.png">]]<br />  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment/#main]]<br />  
 
 Then diagram will be shown as below: <br /> 
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_8.png">]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment_2.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment_2/#main]]
 
 === Monitoring ===
 To became a valuable info then we need to rate the data and became a library. The info it self is got from searching and investigation which in the business is known as monitoring or in a short: ''<a href="https://en.wiktionary.org/wiki/monitor" target="_blank">monitor</a>''.  
@@ -175,7 +175,7 @@ So we can now put the mapping schema into a standardization as shown below: <br 
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment/#main]]<br />  
 
 Then diagram will be shown as below:<br />  
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment_2.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment_2/#main]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment_3.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment_3/#main]]
 
 === Script ===
 When we see the explanation of what ''SQL'' is, it contain of statement that structured as a code to do a process on a Library. So it is actually a scripting language.
