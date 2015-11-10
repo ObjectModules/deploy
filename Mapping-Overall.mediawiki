@@ -26,7 +26,7 @@ You have reached the last section of our ''[[Mapping|Mapping System]]''. Here we
 == Algorithm ==
 We hope you have enjoyed to what we have explained. Now we are going to explain what we are going to do with this concept in our project.
 
-You can consider to check all diagram of our mapping on a slideshow. This slideshow is presenting Step by Step Process is assigned from and back to a routine task.
+You can consider to check all diagram of our mapping on a slideshow. This slideshow is presenting ''[[Step by Step Process|https://tophyipmonitor.wordpress.com/hyip-world/mapping/#step-by-step-process]]'' is assigned from and back to ''[[Mapping-Routine|a routine]]''.
 
 === User, organization, and project ===
 To make clear separation to the process here we take a new repo and wiki for the displaying purpose. Based on our documentatin about ''[[GitHub Pages|https://github.com/hyipworld/hyipworld.github.io/wiki/GitHub-Pages]]'' we recommend to use User Repository for the main process, and take the Organization for displaying purpose.
