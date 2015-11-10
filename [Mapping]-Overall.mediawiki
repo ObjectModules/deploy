@@ -1,0 +1,103 @@
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Comparison|:arrow_backward:]] [[Mapping-Comparison|Prev]]</th>
+      <th>[[Mapping-Overall|:repeat:]] [[Mapping-Overall|Reload]]</th>
+      <th>[[maps|Next]] [[maps|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>
+= Overall Map =
+You have reached the last section of our ''[[Mapping|Mapping System]]''. Here we are going to locate a set of ''key-value mappings'' on our [[project repositories|https://github.com/hyip?tab=repositories]] and drive them towards an [[maps|overall map]].
+
+''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Comparison|previous section]].''
+
+== Algorithm ==
+We hope you have enjoyed to what we have explained. You can consider to check all diagram of our mapping on a slideshow available on our [[blog page|https://tophyipmonitor.wordpress.com/hyip-world/mapping/]]. 
+
+This slideshow is presenting ''[[Step by Step Process|https://tophyipmonitor.wordpress.com/hyip-world/mapping/#step-by-step-process]]'' is assigned from and back to ''[[Mapping-Routine|a routine]]''. Now we are going to explain what we are going to do with this concept in our project.
+
+=== User, organization, and project ===
+To make clear separation to the process here we take a new repo and wiki for the displaying purpose. Based on our documentatin about ''[[GitHub Pages|https://github.com/hyipworld/hyipworld.github.io/wiki/GitHub-Pages]]'' we recommend to use User Repository for the main process, and take the Organization for displaying purpose.
+
+* The process of `info` will stand as User Repository
+* The Process of `hyip info` will stand as Organization Repository
+
+=== Forked Repository ===
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]]
+* The Process of `hyip info` be displayed as Organization Pages
+* The process of `info` will be displayed as Project Pages  
+
+Follow to the diagram, all the code of main process will be put on User. Out of those main processes such of code will be arranged so it can be displayed on Organization and described on their correspond wikis. 
+=== Appearance ===
+Here is the appearance of repositories will look like:<br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_quest_4.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_quest_4/#main]]
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_1.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_1/#main]]
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_2.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_2/#main]]
+
+== Unformed ==
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_3.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_3/#main]]
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_4.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_4/#main]]
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_5.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_5/#main]]
+
+== Unrouted ==
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_6.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main]]
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_7.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_7/#main]]
+
+See here everything is back to normal.<br />All back to a routine.<br />Settled.
+
+== Conclusion ==
+Congratulations! You've finally reached the end of our Documentation Section of Mapping on our project. Hopefully you can follow and enable to understand to what we have explained.  
+
+It might be on your question now about what really the content of each repos and wikis are. Well they will be a quite similar with what we have described on this section.
+
+As you are aware this section is about a process of what we called as `info`. We collect, create and write on the code to proceed all aspect into the repo in related to its part on the concept, and explain it in the same configuration into the topics arrangement of its wiki. 
+
+You may find that we started this wiki with the concept on how we are going to read an info, how we write the info, following with on how we manage and organize it till a kind of mapping system on the last chapter of the section that you are reading now.
+
+You will find that the same thing are done also to other sections but provided in a different topic and purposes as they have their own assignment on the system follow to the concept.
+
+That is all what we can say about our concept. We can’t say that all are true but at least here is our chance of to explain a way to find something that is being true.
+
+Every empirical case on the nature or in our live on this universe are sometimes not easy to define of what the true is. ''Let's them answer by themselves. What we need is only to find a way to understand when they speak on their language.''
+
+<blockquote>'''''[[Just do the way they want. Not of what you think.<br />Let them find their way to help you get what you want.|https://tophyipmonitor.wordpress.com/hyip-world/#just-do-the-way-they-want]]'''''</blockquote>
+
+Thank you reading our concept. We appreciate your taking the time for it. You may just take a look to the appearance of all the system on our ''[[maps|Project Map]]''. 
+
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Comparison|:arrow_backward:]] [[Mapping-Comparison|Prev]]</th>
+      <th>[[Mapping-Overall|:repeat:]] [[Mapping-Overall|Reload]]</th>
+      <th>[[maps|Next]] [[maps|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>
