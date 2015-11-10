@@ -102,7 +102,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>monitor</code>|https://github.com/hyipmonitor/hyipmonitor.github.io]] </td>
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider.png?w=20">|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</td>
-      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20"]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/hyip/rating/wiki/HYIP-Monitors]]</td>
       <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] [[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]]
       </td>
       <td scope="row">
@@ -135,7 +135,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>rating</code>|https://github.com/hyiprating/hyiprating.github.io]]</td>
       <td>[[:honeybee:|https://github.com/hyiprating/hyiprating.github.io/wiki]]</td>
-      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20">]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20">|https://github.com/hyip/rating/wiki/HYIP-Forums]]</td>
       <td scope="row">[[:house:|https://github.com/hyiprating]] [[:cinema:|http://tophyips.info/]] [[<img src="http://lh3.googleusercontent.com/-dK5aS3tBne0/AAAAAAAAAAI/AAAAAAAAL-Q/wktL27CoDNE/s20-c-a/photo.jpg">|http://blog.tophyips.info/]]
       </td>
       <td scope="row">
