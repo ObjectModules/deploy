@@ -35,7 +35,7 @@ To make clear separation to the process here we take a new repo and wiki for the
 * The Process of `hyip info` will stand as Organization Repository
 
 === Forked Repository ===
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png"> 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]]
 * The Process of `hyip info` be displayed as Organization Pages
 * The process of `info` will be displayed as Project Pages  
 
