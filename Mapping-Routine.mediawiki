@@ -183,7 +183,7 @@ Now we are going to explain the behavior of a mapping when a parameter is puttin
 
 === Identical Sets ===
 Let's take mapping of ''Figure 4'' as ''[[Mapping#routines|a routine]]''.  
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]]  <br /> 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]]<br /> 
 Let's put again the mapping here.
 ```  
 * Hungry will become an entry point
