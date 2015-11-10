@@ -103,7 +103,7 @@ Let's follow ''[[Mapping-Spreading#rules|the rules]]'' one by one.
 So now you have two mapping with a different process. Then, on fulfilling the rule on making a clear sign that a new process is being carried out, just put ''a separated line'' in between.
 
 So when applying those steps all together then the diagram will be shown as below:  
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_5.png">]]   
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_spreading.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_spreading/#main]]<br />
 
 This diagram will present all the mappings by ''[[Mapping#parameter|a parameter]]''  
 
