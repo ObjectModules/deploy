@@ -44,6 +44,7 @@ Follow to the diagram, all the code of main process will be put on User. Out of 
 Here is the appearance of repositories will look like:<br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_quest_4.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_quest_4/#main]]
 
+== Unformed ==
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_1.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_1/#main]]
 
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_2.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_2/#main]]
@@ -54,33 +55,11 @@ Here is the appearance of repositories will look like:<br />
 
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_5.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_5/#main]]
 
+== Unrouted ==
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_6.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main]]
 
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_7.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_7/#main]]
 
- 
-
-== Unformed ==
-You can consider that the diagram as shown above stand as our basic diagram of a mapping. This diagram is presenting when a process is assigned to do a routine task.
-=== Employments ===
-We shall do the displaying for three (3) employments of four (4) repositories each. Each will need to be arranged as below:
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_5.png"><br /> 
-We are going to make the displaying between six (6) Users and six (6) Organizations. 
-=== 1st Employment ===
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_6.png"><br /> 
-=== 2nd Employment ===
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_8.png"><br />
-=== 3rd Employment ===
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_9.png"><br />
-
-== Unrouted ==
-=== Overall ===
-Interaction between repositories shall need to be arranged in four (4) groups of interaction follow to this diagram.<br />
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png"><br />
-=== Matching ===
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_15.png"><br />
-=== Routine ===
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png"><br />
 
 See here everything is back to normal.<br />All back to a routine.<br />Settled.
 
