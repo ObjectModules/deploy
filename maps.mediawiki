@@ -226,7 +226,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>main</code></td>
       <td>[[<code>world</code>|https://github.com/hyip/world]]</td>
       <td>[[:elephant:|https://github.com/hyip/world/wiki]]</td>
-      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://en.wikipedia.org/wiki/User:Hyipworld]]</td>
       <td scope="row">[[<img src="http://hyip.world/favicon.ico">|https://en.wikipedia.org/wiki/User:Hyipworld]]</td>
       <td scope="row">
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
@@ -242,7 +242,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io]]</td>
       <td>[[:cow2:|https://github.com/hyipinfo/hyipinfo.github.io/wiki]]</td>
-      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program]]</td>
       <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] [[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://www.google.com/intx/en_sg/work/apps/business/products/sites/]]
       </td>
       <td scope="row">
