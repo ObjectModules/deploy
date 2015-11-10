@@ -155,7 +155,7 @@ So just in purpose of ''<a href="https://en.wikipedia.org/wiki/Cartography#Namin
 As we are going to make a kind of ''<a href="https://en.wikibooks.org/wiki/Robotics/Navigation/Mapping" target="_blank">robotic route system</a>'' on this project. Then in order to have a clear navigation we need to define a flowing diagram between the repo and the wiki. 
 
 Let's put it this way:<br /> 
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_3.png">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_navigation.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_navigation/#main]] 
 
 === Portraying ===
 We will need also to display the process to the web. Here we make a separation between the flowing of the process to become able to be displayed (''<a href="https://en.wikipedia.org/wiki/Cartography#Map_generalization" target="_blank">portraying</a>''). 
