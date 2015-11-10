@@ -214,7 +214,14 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 == Querying ==
 We shall do again the same process for opposite direction. Please note that the link to repo are the same. Different thing is just a matter of flowing data.
 === Form ===
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_18.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_18/#main]]
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_19.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_19/#main]]
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_20.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_20/#main]]
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_21.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_21/#main]]
+
 
 === Route ===
 '''1st Employment'''<sup>[<a href="#repo">1</a>]</sup>
