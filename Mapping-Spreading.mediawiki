@@ -109,7 +109,7 @@ This diagram will present all the mappings by ''[[Mapping#parameter|a parameter]
 
 You can see that this spreading has ''four (4) processes'', just exactly like when we count the number of elements inside ''[[Mapping-Routine|a routine]]''.
 
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_6.png">]]  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment_1.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment_1/#main]]  
 
 === By Sequence ===
 See the 1st mappings by ''[[Mapping-Spreading#parameter|a parameter]]'', let's put it again here:  
