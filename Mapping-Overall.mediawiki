@@ -24,7 +24,7 @@ You have reached the last section of our ''[[Mapping|Mapping System]]''. Here we
 ''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Comparison|previous section]].''
 
 == Algorithm ==
-We hope you have enjoyed to what we have explained. You can consider to check all diagram of our mapping on a slideshow. 
+We hope you have enjoyed to what we have explained. You can consider to check all diagram of our mapping on a slideshow available on our [[blog page|https://tophyipmonitor.wordpress.com/hyip-world/mapping/]]. 
 
 This slideshow is presenting ''[[Step by Step Process|https://tophyipmonitor.wordpress.com/hyip-world/mapping/#step-by-step-process]]'' is assigned from and back to ''[[Mapping-Routine|a routine]]''. Now we are going to explain what we are going to do with this concept in our project.
 
