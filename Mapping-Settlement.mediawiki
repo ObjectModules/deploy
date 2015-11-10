@@ -212,7 +212,7 @@ In this section we will explain in details about ''[[Mapping#settlement|settleme
 == Querying ==
 We shall do again the same process for opposite direction. Please note that the link to repo are the same. Different thing is just a matter of flowing data.
 === Form ===
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png">]]
+<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_16.png">
 
 === Route ===
 '''1st Employment'''<sup>[<a href="#repo">1</a>]</sup>
