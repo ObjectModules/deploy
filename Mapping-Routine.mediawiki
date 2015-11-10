@@ -163,7 +163,7 @@ We will need also to display the process to the web. Here we make a separation b
 We also need to give a different title of on it to be easily defined. So just simply make the same diagram but add another word to the process of this displaying. Here we put our project name `hyip` as our choice on the displaying process.   
 
 Here is now the diagram will look like:  
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png">  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]]  
 
 You can see that this mapping has ''four (4) elements'', consist of ''two (2) repos'' and ''two (2) wikis''. Just like the number of elements inside a routines.
 ```
@@ -183,7 +183,7 @@ Now we are going to explain the behavior of a mapping when a parameter is puttin
 
 === Identical Sets ===
 Let's take mapping of ''Figure 4'' as ''[[Mapping#routines|a routine]]''.  
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png"><br /> 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]]  <br /> 
 Let's put again the mapping here.
 ```  
 * Hungry will become an entry point
