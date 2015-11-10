@@ -149,7 +149,7 @@ To identify each of them, here we simply put the word `info` above the box. Basi
 The further step is we are going to identify the process inside the box. This will become a repository. We shall better provide it with a documentation to describe the process. 
 
 So just in purpose of ''<a href="https://en.wikipedia.org/wiki/Cartography#Naming_conventions" target="_blank">naming</a>'', let's put a repo and a wiki inside the box.  
-<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_2.png">  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_routine_2.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_routine_2/#main]]  
 
 === Navigation ===
 As we are going to make a kind of ''<a href="https://en.wikibooks.org/wiki/Robotics/Navigation/Mapping" target="_blank">robotic route system</a>'' on this project. Then in order to have a clear navigation we need to define a flowing diagram between the repo and the wiki. 
