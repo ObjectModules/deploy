@@ -95,7 +95,7 @@ For instance, let say you have eat the food, then you got that it is not suit to
 Here we will will show the details of spreading by ''diagram'', ''sequence'' and ''tabulation''.
 === By Diagram ===
 Let's take again the diagram for ''[[Mapping-Routine|a routine]]'':<br />
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/map_4.png">]]<br />  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]]<br />  
 To show the spreading by diagram simply make it a copy of the Routine, put another word to replace the word of `info`, let's take the word of `world` then. You will got 2 mapping now, one for your Routine and another one for the new process. 
 
 Let's follow ''[[Mapping-Spreading#rules|the rules]]'' one by one. 
