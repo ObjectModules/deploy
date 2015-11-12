@@ -12,7 +12,7 @@
 ! This
 ! is
 |- 
-| a
+| <img src="">
 | ![alt-text-2](image2.png "title-2")
 |}
 
