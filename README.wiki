@@ -73,8 +73,7 @@ However as additional features compares to others we are providing the score wit
 == Released Software ==
 [*Here*](https://tophyipmonitor.wordpress.com/2015/05/17/hyip-analysis/) we have released our first project so far:
 
-''<a href="http://all.hyip.world/" title="HYIP Score Analysis v1.2" target="_blank">
-HYIP Score Analysis v1.2</a>''  
+[[http://all.hyip.world/|HYIP Score Analysis v1.2]]<br />  
 [[<img src="https://hyip-world.appspot.com/UA-51930984-2/github/info?gif=v1.2>]]|http://all.hyip.world/]]  
 
 This software will be the basic core of our project used for further development and to be widely open to the world on the future at our main site called [The World of High Yield Investment Program [[http://hyip.world/|HYIP]]. You may also get in detail later in ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|our tutorial]]'' on how we started to get this site ''Up and Running on Github''.
@@ -91,7 +90,7 @@ How if we say that this does not rule out the possibility for us to provide such
 
 That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ''keyword base'' search result to the world.
 
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/08/hyip-target.jpg>|https://github.com/hyip/info/wiki/Mapping]]  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/08/hyip-target.jpg">|https://github.com/hyip/info/wiki/Mapping]]  
 
 At last but not least we welcome for your comments or [[https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program|opinion to our project]]. Please feel free to try your hand at building other formats; any discussion will be opened later once the application is meeting the most targets as described above.
 
