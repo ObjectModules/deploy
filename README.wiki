@@ -2,7 +2,7 @@
 <table>
   <thead>
     <tr>
-      <td>[[https://www.python.org/|Python]]</td><td>bb</td>   
+      <td>[[https://www.python.org/|Python]]</td><td>This [[https://github.com/hyip/info|repo]] is courtesy of '''[[https://github.com/hyip|The HYIP Project]]'''. Find all of them on '''[[https://github.com/hyip/info/wiki/maps#project-map|The Project Map]]'''.</td>   
     </tr>
   </thead>
 </table>
