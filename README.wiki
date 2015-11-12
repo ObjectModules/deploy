@@ -40,7 +40,7 @@ Others programming language like ''[[http://www.scala-lang.org/|Scala]]'' and ''
 * Automate deployments on [[https://aws.amazon.com/|Amazon Platform]] using [[https://github.com/integrations/aws-codedeploy|AWS CodeDeploy]] avalaible at [[(https://github.com/integrations|GitHub Integration]]
 
 == Documentation Structure ==
-As Google has made a nice and beautiful documentation for each of their product then the documentation of this project will be [combined](https://github.com/hyip/info/wiki/maps#by-tabulation) as simple as possible in only to explain a specific task on how to make the code running and successfully gain the access to each Google Product. 
+As Google has made a nice and beautiful documentation for each of their product then the documentation of this project will be [[https://github.com/hyip/info/wiki/maps#by-tabulation|combined]] as simple as possible in only to explain a specific task on how to make the code running and successfully gain the access to each Google Product. 
 
 Building and Test is being carried out. As a sample for online demo that create a simple page applying the above scheme using Google App Engine with the Google Cloud Storage as well also use the following Google Products as below:
 
@@ -52,7 +52,7 @@ The link to develop in deeper will be provided in the discussed section.
 
 == Algorithm Structure ==
 
-For the time being this project is developed using all benefits on Google Products even all program code available in the planet to generate a widely integrated information to score and rate a group of sites running in **a same business category**.
+For the time being this project is developed using all benefits on Google Products even all program code available in the planet to generate a widely integrated information to score and rate a group of sites running in ''a same business category''.
 
 It is quite hard to find such of business model that easily to be scored or whether our score is really represent the actual situation in the business live. 
 
@@ -73,29 +73,29 @@ However as additional features compares to others we are providing the score wit
 == Released Software ==
 [*Here*](https://tophyipmonitor.wordpress.com/2015/05/17/hyip-analysis/) we have released our first project so far:
 
-<a href="http://all.hyip.world/" title="HYIP Score Analysis v1.2" target="_blank">
-**HYIP Score Analysis v1.2**</a>  
-[![Version](https://hyip-world.appspot.com/UA-51930984-2/github/info?gif=v1.2)](http://all.hyip.world/)  
+''<a href="http://all.hyip.world/" title="HYIP Score Analysis v1.2" target="_blank">
+HYIP Score Analysis v1.2</a>''  
+[[<img src="https://hyip-world.appspot.com/UA-51930984-2/github/info?gif=v1.2>]]|http://all.hyip.world/]]  
 
-This software will be the basic core of our project used for further development and to be widely open to the world on the future at our main site called [The World of High Yield Investment Program (HYIP)](http://hyip.world/). You may also get in detail later in [*our tutorial*](https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md) on how we started to get this site *Up and Running on Github*.
+This software will be the basic core of our project used for further development and to be widely open to the world on the future at our main site called [The World of High Yield Investment Program [[http://hyip.world/|HYIP]]. You may also get in detail later in ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|our tutorial]]'' on how we started to get this site ''Up and Running on Github''.
 
-We have also setup our [Official Blog](https://tophyipmonitor.wordpress.com/hyip-world/) for public discussion. The project discussion will not only cover the [HYIP Sites and Rating Analysis](https://tophyipmonitor.wordpress.com/hyip-rating/) but also the [HYIP Forum](https://tophyipmonitor.wordpress.com/hyip-forums/), [HYIP Monitor](https://tophyipmonitor.wordpress.com/hyip-monitors/), [HYIP Script](https://tophyipmonitor.wordpress.com/hyip-scripts/), and every other sources that are involved in this business model.
+We have also setup our [[https://tophyipmonitor.wordpress.com/hyip-world/|Official Blog]] for public discussion. The project discussion will not only cover the [[https://tophyipmonitor.wordpress.com/hyip-rating/|HYIP Sites and Rating Analysis]] but also the [[https://tophyipmonitor.wordpress.com/hyip-forums/|HYIP Forum]], [[https://tophyipmonitor.wordpress.com/hyip-monitors/|HYIP Monitor]], [[https://tophyipmonitor.wordpress.com/hyip-scripts/|HYIP Script]], and every other sources that are involved in this business model.
 
-This is just a model to give you a figure on how we are going to start. On the long time running we also want to go to **other widely business** such as scoring of who is *the best domain registrant*, who is *the best web designer*, who is *the best of hosting provider*, who is *the best in seo service* etc. 
+This is just a model to give you a figure on how we are going to start. On the long time running we also want to go to ''other widely business'' such as scoring of who is ''the best domain registrant'', who is ''the best web designer'', who is ''the best of hosting provider'', who is ''the best in seo service'' etc. 
 
 We are going to present the result in the style as business scoring so even the user only have a small amount in their budget they could find our scoring is useful for them. 
 
 As you know that it is really difficult to find such a good services when you have only a little budget. In the contrary you have to be more wise and careful to decide whether you still doing a business with your current partner or go to other more reputable business partner when your budget is growing up. 
 
-How if we say that this does not rule out the possibility for us to provide such kind of real business information like *best investment return*, *best short term investment*, *low risk investments*, *investment fund*, that can be also some more valuable ones like *short or long term loans*, *reliable insurance company*, as well as for *finance*, *trading* etc. And that we are able to provide all of them in an accountable manner.
+How if we say that this does not rule out the possibility for us to provide such kind of real business information like ''best investment return'', ''best short term investment'', ''low risk investments'', ''investment fund'', that can be also some more valuable ones like ''short or long term loans'', ''reliable insurance company'', as well as for ''finance'', ''trading'' etc. And that we are able to provide all of them in an accountable manner.
 
-That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on '*keyword base*' search result to the world.
+That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ''keyword base'' search result to the world.
 
-[![Target Mapping](https://tophyipmonitor.files.wordpress.com/2015/08/hyip-target.jpg)](https://github.com/hyip/info/wiki/Mapping)  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/08/hyip-target.jpg>|https://github.com/hyip/info/wiki/Mapping]]  
 
-At last but not least we welcome for your comments or [opinion to our project](https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program). Please feel free to try your hand at building other formats; any discussion will be opened later once the application is meeting the most targets as described above.
+At last but not least we welcome for your comments or [[https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program|opinion to our project]]. Please feel free to try your hand at building other formats; any discussion will be opened later once the application is meeting the most targets as described above.
 
 As an update we would like to announce that we have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer.:pray:    
 
-You may start to browse the documentation. Usually people begin with a tutorial page titled '_Hello World!_'. Here we have a little bit different. Let's call it ['*Hyip World!*'](https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md)
+You may start to browse the documentation. Usually people begin with a tutorial page titled '_Hello World!_'. Here we have a little bit different. Let's call it ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|'*Hyip World!]]''
 
