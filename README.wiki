@@ -1,8 +1,10 @@
 
 <table>
+  <thead>
     <tr>
       <td>bb</td>   
     </tr>
+  </thead>
 </table>
 __TOC__
 
