@@ -71,10 +71,10 @@ Despite we are still trying hard to predict how long a hyip site can be running 
 However as additional features compares to others we are providing the score with a numbers of category base on the investment or **budget level** start from as low as US$ 1. 
 
 == Released Software ==
-[*Here*](https://tophyipmonitor.wordpress.com/2015/05/17/hyip-analysis/) we have released our first project so far:
+''[[https://tophyipmonitor.wordpress.com/2015/05/17/hyip-analysis/|Here]]'' we have released our first project so far:
 
 [[http://all.hyip.world/|HYIP Score Analysis v1.2]]<br />  
-[[<img src="https://hyip-world.appspot.com/UA-51930984-2/github/info?gif=v1.2">]]|http://all.hyip.world/]]  
+[[http://all.hyip.world/|<img src="https://hyip-world.appspot.com/UA-51930984-2/github/info?gif=v1.2">]]
 
 This software will be the basic core of our project used for further development and to be widely open to the world on the future at our main site called [The World of High Yield Investment Program [[http://hyip.world/|HYIP]]. You may also get in detail later in ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|our tutorial]]'' on how we started to get this site ''Up and Running on Github''.
 
@@ -96,5 +96,5 @@ At last but not least we welcome for your comments or [[https://en.wikipedia.org
 
 As an update we would like to announce that we have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer.:pray:    
 
-You may start to browse the documentation. Usually people begin with a tutorial page titled '_Hello World!_'. Here we have a little bit different. Let's call it ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|'*Hyip World!]]''
+You may start to browse the documentation. Usually people begin with a tutorial page titled ''Hello World!''. Here we have a little bit different. Let's call it ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|'*Hyip World!]]''
 
