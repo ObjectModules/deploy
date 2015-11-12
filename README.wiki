@@ -1,8 +1,6 @@
 __TOC__
 
-Project Info
-============
-
+= Project Info =
 This project is made in the purpose of getting a possibility to build an interface to generate an **integrated info** from all [GOOGLE CLOUDS PLATFORM](https://cloud.google.com/developers/) including *[API's](https://developers.google.com/apis-explorer/#p/), [Application API](https://developers.google.com/google-apps/app-apis), [Application Sripts](https://developers.google.com/apps-script/), [Application Engine](https://developers.google.com/appengine/); [Cloud Storage](https://developers.google.com/storage/), [Cloud Datastore](https://developers.google.com/datastore/), [Cloud SQL](https://developers.google.com/cloud-sql/)* etc. 
 
 It aim to have the access and running all available program language like *[Python](https://developers.google.com/appengine/docs/python/), [Java](https://developers.google.com/appengine/docs/java/), [PHP](https://developers.google.com/appengine/docs/php/), [Go](https://developers.google.com/appengine/docs/go/)* with possible also *[Scala](http://www.scala-lang.org/old/node/1831) and [Ruby](http://code.google.com/p/appengine-jruby/)* and run them in the **same time** into a SINGLE PAGE using a SINGLE DOMAIN without even need any sub domains! 
@@ -10,7 +8,7 @@ It aim to have the access and running all available program language like *[Pyth
 Thanks to Google for bring this possibility to the world and making it happen.
 
 
-##Languange Structure
+== Languange Structure ==
 In order to run all program language in the same time then they are configured as below:
 - **[Python](https://www.python.org/)** is used to access all images with an access to any Image Manipulation run from Phyton Frame such as *[Django](https://www.djangoproject.com/)* and compiled as 'images module'.
 - **[Java](https://www.java.com/en/)** is used to access all javascript file with an access to Servlet Application run from Java / Javascript Framework such as *[GWT](http://www.gwtproject.org/)* and compiled as 'scripts module'.
@@ -18,7 +16,7 @@ In order to run all program language in the same time then they are configured a
 - **[Go](http://golang.org/)** is used to access any application that Support for *[Docker images](https://www.docker.com/)* in Google Cloud Platform with an intention to have a possibility to run and gain access a global structure application that run in other languages such as *[Perl](http://www.perl.org/), [C, C++](http://en.wikipedia.org/wiki/C%2B%2B), etc*.
 
 
-##Application Structure
+== Application Structure ==
 Having possibility to run all language then we have no more resistant to gain a **simultaneously** access to any other [GOOGLE PRODUCT](https://developers.google.com/products/) including *Google Talk, [Google Play Androids](https://developers.google.com/android/), [Google Maps](https://developers.google.com/maps/), [Google Drive](https://drive.google.com/), [Google Wallet](https://developers.google.com/wallet/), [Google Tag Manager](http://www.google.co.id/analytics/tag-manager/) [Youtube](https://developers.google.com/youtube/), etc* which also open an access to more **widely and global** application such as *[Compute Engine](https://developers.google.com/compute/) and [Big Query](https://developers.google.com/bigquery/)*.
 
 Find More of Google Products [here](http://en.wikipedia.org/wiki/Google_Services).
@@ -42,7 +40,7 @@ Others programming language like **[Scala](http://www.scala-lang.org/)** and **[
 - Generate Styles Manipulation to run Go Framework using [Kubernetess/Docker](https://developers.google.com/compute/docs/containers)
 - Automate deployments on [Amazon Platform](https://aws.amazon.com/) using [AWS CodeDeploy](https://github.com/integrations/aws-codedeploy) avalaible at [GitHub Integration](https://github.com/integrations)
 
-##Documentation Structure
+== Documentation Structure ==
 As Google has made a nice and beautiful documentation for each of their product then the documentation of this project will be [combined](https://github.com/hyip/info/wiki/maps#by-tabulation) as simple as possible in only to explain a specific task on how to make the code running and successfully gain the access to each Google Product. 
 
 Building and Test is being carried out. As a sample for online demo that create a simple page applying the above scheme using Google App Engine with the Google Cloud Storage as well also use the following Google Products as below:
@@ -53,7 +51,7 @@ Building and Test is being carried out. As a sample for online demo that create 
 
 The link to develop in deeper will be provided in the discussed section.
 
-##Algorithm Structure
+== Algorithm Structure ==
 
 For the time being this project is developed using all benefits on Google Products even all program code available in the planet to generate a widely integrated information to score and rate a group of sites running in **a same business category**.
 
@@ -73,7 +71,7 @@ Despite we are still trying hard to predict how long a hyip site can be running 
 
 However as additional features compares to others we are providing the score with a numbers of category base on the investment or **budget level** start from as low as US$ 1. 
 
-##Released Software
+== Released Software ==
 [*Here*](https://tophyipmonitor.wordpress.com/2015/05/17/hyip-analysis/) we have released our first project so far:
 
 <a href="http://all.hyip.world/" title="HYIP Score Analysis v1.2" target="_blank">
@@ -101,6 +99,4 @@ At last but not least we welcome for your comments or [opinion to our project](h
 As an update we would like to announce that we have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer.:pray:    
 
 You may start to browse the documentation. Usually people begin with a tutorial page titled '_Hello World!_'. Here we have a little bit different. Let's call it ['*Hyip World!*'](https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md)
-***
-|[:house:](https://github.com/hyip) [Home](https://github.com/hyip)|[Next](https://github.com/hyipworld/hyipworld.github.io) [:arrow_forward:](https://github.com/hyipworld/hyipworld.github.io)|
-|:----|----:|
+
