@@ -8,12 +8,8 @@
 </table>
 
 {| border="1" cellspacing="0" cellpadding="5" align="center"
-|-
-! This
-! is
-|- 
 | <img src="">
-| ![alt-text-2](image2.png "title-2")
+| This [[https://github.com/hyip/info|repo]] is courtesy of '''[[https://github.com/hyip|The HYIP Project]]'''. Find all of them on '''[[https://github.com/hyip/info/wiki/maps#project-map|The Project Map]]'''.
 |}
 
 __TOC__
