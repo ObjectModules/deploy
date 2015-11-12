@@ -2,7 +2,7 @@
 <table>
   <thead>
     <tr>
-      <td>![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")</td><td>This [[https://github.com/hyip/info|repo]] is courtesy of '''[[https://github.com/hyip|The HYIP Project]]'''. Find all of them on '''[[https://github.com/hyip/info/wiki/maps#project-map|The Project Map]]'''.</td>   
+      <td>![alt-text-2](image2.png "title-2")</td><td>This [[https://github.com/hyip/info|repo]] is courtesy of '''[[https://github.com/hyip|The HYIP Project]]'''. Find all of them on '''[[https://github.com/hyip/info/wiki/maps#project-map|The Project Map]]'''.</td>   
     </tr>
   </thead>
 </table>
