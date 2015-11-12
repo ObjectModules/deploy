@@ -2,7 +2,7 @@
 <table>
   <thead>
     <tr>
-      <td>[[https://www.python.org/|Python]]</td><td>This [[https://github.com/hyip/info|repo]] is courtesy of '''[[https://github.com/hyip|The HYIP Project]]'''. Find all of them on '''[[https://github.com/hyip/info/wiki/maps#project-map|The Project Map]]'''.</td>   
+      <td>[[http://all.hyip.world/|<img src="https://hyip-world.appspot.com/UA-51930984-2/github/info?gif=v1.2">]]</td><td>This [[https://github.com/hyip/info|repo]] is courtesy of '''[[https://github.com/hyip|The HYIP Project]]'''. Find all of them on '''[[https://github.com/hyip/info/wiki/maps#project-map|The Project Map]]'''.</td>   
     </tr>
   </thead>
 </table>
