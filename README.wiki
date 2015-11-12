@@ -68,7 +68,7 @@ So base on the above measurement we can take all information of hyip service bei
 
 Despite we are still trying hard to predict how long a hyip site can be running online we have came to have a scoring result of best site which is more or less are the same as represent by other site that comparing those hyip sites. 
 
-However as additional features compares to others we are providing the score with a numbers of category base on the investment or **budget level** start from as low as US$ 1. 
+However as additional features compares to others we are providing the score with a numbers of category base on the investment or ''budget level'' start from as low as US$ 1. 
 
 === Released Software ===
 ''[[https://tophyipmonitor.wordpress.com/2015/05/17/hyip-analysis/|Here]]'' we have released our first project so far:
