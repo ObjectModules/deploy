@@ -44,9 +44,9 @@ As Google has made a nice and beautiful documentation for each of their product 
 
 Building and Test is being carried out. As a sample for online demo that create a simple page applying the above scheme using Google App Engine with the Google Cloud Storage as well also use the following Google Products as below:
 
-- [Google AdWords](https://adwords.google.com) to promote the front page
-- [Google Analitycs](https://www.google.com/analytics/) to measure the pageview
-- [Google Talk](http://www.google.com/talk/whatsnew_more.html) for online communication
+- [[https://adwords.google.com|Google AdWords]] to promote the front page
+- [[https://www.google.com/analytics/|Google Analitycs]] to measure the pageview
+- [[http://www.google.com/talk/whatsnew_more.html|Google Talk]] for online communication
 
 The link to develop in deeper will be provided in the discussed section.
 
@@ -56,15 +56,15 @@ For the time being this project is developed using all benefits on Google Produc
 
 It is quite hard to find such of business model that easily to be scored or whether our score is really represent the actual situation in the business live. 
 
-To rectify _[our concept](https://github.com/hyip/info/wiki/Mapping)_ in a short time basis, means that the script is going to present an correct result, we need to test it on a kind of business model that also can be measured in a short time period as well.   
+To rectify ''[[https://github.com/hyip/info/wiki/Mapping|our concept]]'' in a short time basis, means that the script is going to present an correct result, we need to test it on a kind of business model that also can be measured in a short time period as well.   
 
-Having reviewing many alternatives we came to a business category called hyip ([high-yield investment programs](https://tophyipmonitor.wordpress.com/hyip-business/#what-is-hyip "what-is-hyip")) which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
+Having reviewing many alternatives we came to a business category called hyip [[(https://tophyipmonitor.wordpress.com/hyip-business/#what-is-hyip|high-yield investment programs]] which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
 
-- Site that running hyip business are mostly online within short period (*a year or less*) and hyip business has to present  exact profit to the user in a short time basis to market their services.
-- Most important is since the hyip is mostly a *ponzi scheme* so hyip site cannot be run in a long time period so we could  find whether our algorithm in our script is giving a correct scoring result in a short time as well.
-- Hyip site is easily to be considered as dead or as a *hyip scam* when the site is stop paying so we consider that they could not blame our scoring (as we still on start to test it) in the same way that we cannot blame when they collapse or even run and take our investment away.
+* Site that running hyip business are mostly online within short period (''a year or less'') and hyip business has to present  exact profit to the user in a short time basis to market their services.
+* Most important is since the hyip is mostly a *ponzi scheme* so hyip site cannot be run in a long time period so we could  find whether our algorithm in our script is giving a correct scoring result in a short time as well.
+* Hyip site is easily to be considered as dead or as a ''hyip scam'' when the site is stop paying so we consider that they could not blame our scoring (as we still on start to test it) in the same way that we cannot blame when they collapse or even run and take our investment away.
 
-So base on the above measurement we can take all information of hyip service being offered compare to the trust of the domain that can be put altogether to [*score and rank the hyip sites*](https://tophyipmonitor.wordpress.com/hyip-rating/). 
+So base on the above measurement we can take all information of hyip service being offered compare to the trust of the domain that can be put altogether to ''[[https://tophyipmonitor.wordpress.com/hyip-rating/|score and rank the hyip sites]]''. 
 
 Despite we are still trying hard to predict how long a hyip site can be running online we have came to have a scoring result of best site which is more or less are the same as represent by other site that comparing those hyip sites. 
 
