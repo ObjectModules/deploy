@@ -13,7 +13,7 @@
 ! is
 |- 
 | a
-| table
+| ![alt-text-2](image2.png "title-2")
 |}
 
 __TOC__
