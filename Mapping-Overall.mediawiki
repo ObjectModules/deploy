@@ -67,7 +67,7 @@ Fhis step is in correlation with ''[[the structure|https://github.com/hyip/info#
 This step is in correlation with ''[[the algorithm|https://github.com/hyip/info#algorithm]]''.
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_7.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_7/#main]]
 
-See here everything is back to normal.<br />All back to a routine.<br />Settled.
+See here everything is back to normal.<br />All back to [[Mapping-Routine|a routine]].<br />Settled.
 
 == Conclusion ==
 Congratulations! You've finally reached the end of our Documentation Section of Mapping on our project. Hopefully you can follow and enable to understand to what we have explained.  
