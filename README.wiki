@@ -9,10 +9,10 @@ Thanks to Google for bring this possibility to the world and making it happen.
 
 == Languange Structure ==
 In order to run all program language in the same time then they are configured as below:
-* ''[[https://www.python.org/|Python]]'' is used to access all images with an access to any Image Manipulation run from Phyton Frame such as ''[[https://www.djangoproject.com/|Django]]'' and compiled as ''images module''.
-* ''[[https://www.java.com/en/|Java]]'' is used to access all javascript file with an access to Servlet Application run from Java / Javascript Framework such as ''[[http://www.gwtproject.org/|GWT]]'' and compiled as ''scripts module''.
-* ''[[http://php.net/|PHP]]'' is used to generate the front page run from PHP Framework such as ''[[http://www.zend.com/|Zend]], [[http://kohanaframework.org/|Kohana]]'' etc and collected altogether in a ''default module''.
-* ''[[http://golang.org/|Go]]'' is used to access any application that Support for ''[[https://www.docker.com/|Docker images]]'' in Google Cloud Platform with an intention to have a possibility to run and gain access a global structure application that run in other languages such as ''[[http://www.perl.org/|Perl]], [[http://en.wikipedia.org/wiki/C%2B%2B|C, C++]]'', etc.
+* '''''[[https://www.python.org/|Python]]'''''' is used to access all images with an access to any Image Manipulation run from Phyton Frame such as ''[[https://www.djangoproject.com/|Django]]'' and compiled as ''images module''.
+* '''''[[https://www.java.com/en/|Java]]''''' is used to access all javascript file with an access to Servlet Application run from Java / Javascript Framework such as ''[[http://www.gwtproject.org/|GWT]]'' and compiled as ''scripts module''.
+* '''''[[http://php.net/|PHP]]''''' is used to generate the front page run from PHP Framework such as ''[[http://www.zend.com/|Zend]], [[http://kohanaframework.org/|Kohana]]'' etc and collected altogether in a ''default module''.
+* '''''[[http://golang.org/|Go]]''''' is used to access any application that Support for ''[[https://www.docker.com/|Docker images]]'' in Google Cloud Platform with an intention to have a possibility to run and gain access a global structure application that run in other languages such as ''[[http://www.perl.org/|Perl]], [[http://en.wikipedia.org/wiki/C%2B%2B|C, C++]]'', etc.
 
 
 == Application Structure ==
