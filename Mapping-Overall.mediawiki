@@ -50,14 +50,17 @@ Here is the appearance of repositories will look like:<br />
 
 == Forming ==
 === Unformed ===
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_2.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_2/#main]]
+=== Portraying on Wiki ===
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_3.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_3/#main]]
-
+=== Portraying on Repo ===
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_4.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_4/#main]]
-
+=== On Repo ===
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_5.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_5/#main]]
 
 == Routing ==
 === Unrouted ===
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_5.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_5/#main]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_6.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main]]
 === Key Value Mapping ===
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_7.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_7/#main]]
