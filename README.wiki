@@ -76,7 +76,7 @@ However as additional features compares to others we are providing the score wit
 [[http://all.hyip.world/|HYIP Score Analysis v1.2]]<br />  
 [[http://all.hyip.world/|<img src="https://hyip-world.appspot.com/UA-51930984-2/github/info?gif=v1.2">]]
 
-This software will be the basic core of our project used for further development and to be widely open to the world on the future at our main site called [[http://hyip.world/|[The World of High Yield Investment Program (HYIP)]]. You may also get in detail later in ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|our tutorial]]'' on how we started to get this site ''Up and Running on Github''.
+This software will be the basic core of our project used for further development and to be widely open to the world on the future at our main site called [[http://hyip.world/|The World of High Yield Investment Program (HYIP)]]. You may also get in detail later in ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|our tutorial]]'' on how we started to get this site ''Up and Running on Github''.
 
 This is just a model to give you a figure on how we are going to start. 
 
