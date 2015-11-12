@@ -2,7 +2,7 @@
 <table>
   <thead>
     <tr>
-      <td>[[https://github.com/hyip|<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">]]</td><td>bb</td>   
+      <td>[[https://www.python.org/|Python]]</td><td>bb</td>   
     </tr>
   </thead>
 </table>
