@@ -7,103 +7,15 @@
   </thead>
 </table>
 
-{|width="80%"  border="1" cellpadding="2" cellspacing="0"
-
-!What it looks like
-!What you type
+{| border="1" cellspacing="0" cellpadding="5" align="center"
 |-
-|
-You can ''italicize'' text by putting 2 
-apostrophes on ''each'' side. 
-
-3 apostrophes will '''bold''' the text.
-
-5 apostrophes will '''''bold and italicize''''' 
-the text.
-
-(Using 4 apostrophes doesn't do anything
-special -- <br /> 3 of them '''bold''' the text
-as usual; the others are ''''just'''' apostrophes
-around the text.) 
-
-|<pre>
-You can ''italicize'' text by putting 2 
-apostrophes on ''each'' side. 
-
-3 apostrophes will '''bold''' the text. 
-
-5 apostrophes will '''''bold and italicize''''' 
-the text.
-
-(Using 4 apostrophes doesn't do anything
-special -- <br /> 3 of them '''bold''' the text as
-usual; the others are ''''just'''' apostrophes 
-around the text.)
-</pre>
-|-
-|
-A single newline
-generally has no effect on the layout.
-These can be used to separate
-sentences within a paragraph.
-Some editors find that this aids editing
-and improves the ''diff'' function
-(used internally to compare
-different versions of a page).
-
-But an empty line
-starts a new paragraph.
-
-When used in a list, a newline ''does'' affect the layout ([[#lists|see below]]).
-|<pre>
-A single newline
-generally has no effect on the layout.
-These can be used to separate
-sentences within a paragraph.
-Some editors find that this aids editing
-and improves the ''diff'' function
-(used internally to compare
-different versions of a page).
-
-But an empty line
-starts a new paragraph.
-
-When used in a list, a newline ''does''
-affect the layout ([[#lists|see below]]).
-</pre>
-|-
-|
-You can break lines<br/>
-without a new paragraph.<br/>
-Please use this sparingly.
-
-Please do not start a link or ''italics'' or '''bold''' text on one line and end on the next.
-|<pre>
-You can break lines<br/>
-without a new paragraph.<br/>
-Please use this sparingly.
-
-Please do not start a link or
-''italics'' or '''bold''' text on one line
-and end on the next.
-</pre>
-|-
-
-|You should "sign" your comments on talk pages: <br/>
-* Three tildes gives your signature: [[User:Example|Example]] <br/>
-* Four tildes give your signature plus date/time: [[User:Example|Example]] 07:46, 27 November 2005 (UTC) <br/>
-* Five tildes gives the date/time alone: 07:46, 27 November 2005 (UTC) <br/>
-|<pre>
-You should "sign" your comments 
-on talk pages:
-* Three tildes gives your
-signature: ~~~
-* Four tildes give your 
-signature plus date/time: ~~~~
-* Five tildes gives the 
-date/time alone: ~~~~~
-</pre>
+! This
+! is
+|- 
+| a
+| table
 |}
+
 __TOC__
 
 = Project Info =
