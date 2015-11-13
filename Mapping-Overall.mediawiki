@@ -61,7 +61,7 @@ Here is the appearance of repositories will look like:<br />
 == Routing ==
 It is left now the last (two) steps to finalize all the process.
 === Unrouted ===
-Fhis step is in correlation with ''[[the structure|https://github.com/hyip/info#structure]]''.
+This step is in correlation with ''[[the structure|https://github.com/hyip/info#structure]]''.
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_6.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main]]
 === Key Value Mapping ===
 This step is in correlation with ''[[the algorithm|https://github.com/hyip/info#algorithm]]''.
