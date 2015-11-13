@@ -48,7 +48,7 @@ Others programming language like ''[[http://www.scala-lang.org/|Scala]]'' and ''
 * [[https://www.google.com/analytics/|Google Analitycs]] to measure the pageview
 * [[http://www.google.com/talk/whatsnew_more.html|Google Talk]] for online communication
 
-The link to develop in deeper will be provided in the discussed section.
+The ''[[https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main|link]]'' to develop in deeper will be provided in the discussed section.
 
 == Algorithm ==
 
