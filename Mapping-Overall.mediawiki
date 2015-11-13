@@ -66,7 +66,7 @@ This step is in correlation with ''[[the structure|https://github.com/hyip/info#
 === Key Value Mapping ===
 This step is in correlation with ''[[the algorithm|https://github.com/hyip/info#algorithm]]''.
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_7.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_7/#main]]
-
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_basic_routine.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_routine_1/#main]]<br />
 See here everything is back to normal.<br />All back to [[Mapping-Routine|a routine]].<br />Settled.
 
 == Conclusion ==
