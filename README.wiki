@@ -56,7 +56,7 @@ For the time being this project is developed using all benefits on Google Produc
 
 It is quite hard to find such of business model that easily to be scored or whether our score is really represent the actual situation in the business live. 
 
-To rectify ''[[https://github.com/hyip/info/wiki/Mapping|our concept]]'' in a short time basis, means that the script is going to present an correct result, we need to test it on a kind of business model that also can be measured in a short time period as well.   
+To rectify ''[[https://github.com/hyip/info/wiki/Mapping|our concept]]'' in a short time basis, means that the script is going to present a ''[[correct algorithm|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_7/#main]]'', we need to test it on a kind of business model that also can be measured in a short time period as well.   
 
 === High-yield investment program ===
 Having reviewing many alternatives we came to a business category called hyip known as the abbreviation of ''[[https://tophyipmonitor.wordpress.com/hyip-business/#what-is-hyip|high-yield investment program]]'', which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
