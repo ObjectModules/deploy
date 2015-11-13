@@ -61,7 +61,7 @@ Here is the appearance of repositories will look like:<br />
 == Routing ==
 It is left now the last (two) steps to finalize all the process.
 === Unrouted ===
-This step is in correlation with ''[[the structure|https://github.com/hyip/info#structure]]'' and ''[[GitHub API|https://github.com/hyipworld/hyipworld.github.io/wiki/Using-Jekyll#github-api]]''. We shall get a way to translate what we have written on this wiki to become the process on the repo.
+This step is in correlation with ''[[the structure|https://github.com/hyip/info#structure]]'' and ''[[GitHub API|https://github.com/hyipworld/hyipworld.github.io/wiki/Using-Jekyll#github-api]]''. We shall get a programmatic way to translate what we have written on this wiki to become the process on the repo.
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_6.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main]]
 We have do the writing in this wiki then we shall go this vise versa (''unrouted'').<br />That will become the ''key value'' of all the mapping.
 === Key Value Mapping ===
