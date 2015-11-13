@@ -63,7 +63,8 @@ It is left now the last (two) steps to finalize all the process.
 === Unrouted ===
 This step is in correlation with ''[[the structure|https://github.com/hyip/info#structure]]'' and ''[[GitHub API|https://github.com/hyipworld/hyipworld.github.io/wiki/Using-Jekyll#github-api]]''.
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_6.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main]]
-We have do the writing in this wiki then we shall go this vise versa (unrouted) and that become key value mapping.
+We have do the writing in this wiki then we shall go this vise versa (unrouted).
+That will become the key value mapping.
 === Key Value Mapping ===
 Means that what you ''[[read|https://github.com/hyip/info/wiki/Reading]]'' on this wiki is what that ''[[written|https://github.com/hyip/info/wiki/Writing]]'' in the repo.
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_7.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_7/#main]]
