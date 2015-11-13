@@ -64,8 +64,8 @@ It is left now the last (two) steps to finalize all the process.
 This step is in correlation with ''[[the structure|https://github.com/hyip/info#structure]]''.
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_6.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main]]
 === Key Value Mapping ===
-Means that what you ''[[read|https://github.com/hyip/info/wiki/Reading]]'' on this wiki is what that [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_7.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_7/#main]]
-''[[written|https://github.com/hyip/info/wiki/Writing]]'' in the repo.
+Means that what you ''[[read|https://github.com/hyip/info/wiki/Reading]]'' on this wiki is what that ''[[written|https://github.com/hyip/info/wiki/Writing]]'' in the repo.
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_7.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_7/#main]]
 Means the repo and wiki are in the same ''[[algorithm|https://github.com/hyip/info#algorithm]]''.
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_basic_routine.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_routine_1/#main]]<br />
 See here everything is back to normal.<br />All back to [[Mapping-Routine|a routine]].<br />Settled.
