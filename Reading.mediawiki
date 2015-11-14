@@ -24,6 +24,8 @@ Welcome to our Reading Section. You just come to our section that we gonna expla
 ''Please consider this as a unique concept that you shouldn't find it anywhere without our [[license|https://github.com/hyip/info/wiki/Reading#license]]. So here we want you to have an open mind. If you're not enjoying it, don't do it.''
 
 == Background ==
+Before we bring you to our concept, let's talk about reading according to [[Wikipedia|https://www.wikipedia.org/]].
+
 [[Reading|https://en.wikipedia.org/wiki/Reading]] is a complex cognitive process of decoding symbols in order to construct or derive meaning (reading comprehension). It is a means of language acquisition, of communication, and of sharing information and ideas. 
 
 Beside ''[[Reading#text|text]]'' and ''[[Reading#computer|computer data]]'', there are another form of reading called ''[[Reading#divination|divination]]'' and ''[[Reading#fortune-telling|fortune-telling]]'', which does not rely on specific devices or methods, but rather the practitioner gives the client advice and predictions which are said to have come from spirits or in visions.
