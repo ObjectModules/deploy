@@ -19,7 +19,7 @@
   </tbody>
 </table>
 = Reading =
-Welcome to our Reading Section. You just come to our section that we gonna explain our own concept in detail about the mapping on ''[[our project|https://github.com/hyip]]''.<br />
+Welcome to our Reading Section. You just come to our section that we gonna explain our own concept in detail about the reading on ''[[our project|https://github.com/hyip]]''.<br />
 
 ''Please consider this as a unique concept that you shouldn't find it anywhere without our [[license|https://github.com/hyip/info/wiki/Reading#license]]. So here we want you to have an open mind. If you're not enjoying it, don't do it.''
 
@@ -28,23 +28,23 @@ Welcome to our Reading Section. You just come to our section that we gonna expla
 
 Beside ''[[Reading#text|text]]'' and ''[[Reading#computer|computer data]]'', there are another form of reading called ''[[Reading#divination|divination]]'' and ''[[Reading#fortune-telling|fortune-telling]]'', which does not rely on specific devices or methods, but rather the practitioner gives the client advice and predictions which are said to have come from spirits or in visions.
 
-== Text ==
+=== Text ===
 Like all language, it is a complex interaction between the text and the reader which is shaped by the reader’s prior knowledge, experiences, attitude, and language community which is culturally and socially situated. 
 
 The reading process requires continuous practice, development, and refinement. In addition, reading requires creativity and critical analysis.
-=== Writing ===
+
 The process of recording information to be read later is [[writing|https://en.wikipedia.org/wiki/Writing]]. In the case of computer and microfiche storage there is the separate step of displaying the written text. For humans, reading is usually faster and easier than writing.
-=== Literacy ===
+
 [[Literacy|https://en.wikipedia.org/wiki/Literacy]] is the ability to use the symbols of a writing system. It is the ability to interpret what the information symbols represent, and to be able to re-create those same symbols so that others can derive the same meaning. Illiteracy is not having the ability to derive meaning from the symbols used in a writing system.
-== Computer ==
+=== Computer ===
 [[Reading|https://en.wikipedia.org/wiki/Reading_(computer)]] on computers is to acquire data from a source and place it into their volatile memory for processing. 
-=== Memory ===
+
 For example, a computer may read information off a floppy disk and store it in random access memory to be placed on the hard drive to be processed at a future date. 
-=== Bits ===
+
 Computers may read information from a variety of sources, such as magnetic storage, the Internet, or audio and video input ports.
 
 A read cycle is the act of reading one unit of information (e.g. a byte). A read channel is an electrical circuit that transforms the physical magnetic flux changes into abstract bits. 
-== Divination ==
+=== Divination ===
 [[Divination|https://en.wikipedia.org/wiki/Divination]] (from Latin divinare "to foresee, to be inspired by a god", related to divinus, divine) is the attempt to gain insight into a question or situation by way of an occultic, standardized process or ritual. 
 === Forms ===
 Used in various forms throughout history, diviners ascertain their interpretations of how a querent should proceed by reading signs, events, or [[omens|https://en.wikipedia.org/wiki/Omen]], or through alleged contact with a supernatural agency.
