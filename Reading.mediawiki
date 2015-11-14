@@ -26,7 +26,9 @@ Like all language, it is a complex interaction between the text and the reader w
 
 The reading process requires continuous practice, development, and refinement. In addition, reading requires creativity and critical analysis.
 == Writing ==
-The process of recording information to be read later is [[writing|https://en.wikipedia.org/wiki/Writing]]. In the case of computer and microfiche storage there is the separate step of displaying the written text. For humans, reading is usually faster and easier than writing
+The process of recording information to be read later is [[writing|https://en.wikipedia.org/wiki/Writing]]. In the case of computer and microfiche storage there is the separate step of displaying the written text. For humans, reading is usually faster and easier than writing.
+== Literacy ==
+[[Literacy|https://en.wikipedia.org/wiki/Literacy]] is the ability to use the symbols of a writing system. It is the ability to interpret what the information symbols represent, and to be able to re-create those same symbols so that others can derive the same meaning. Illiteracy is not having the ability to derive meaning from the symbols used in a writing system.
 <table>
   <thead>
     <tr>
