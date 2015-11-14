@@ -56,8 +56,8 @@ Another form of fortune-telling, sometimes called "'''''reading'''''" or "spirit
 
 <table>
     <tr>
-      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/chart_of_the_hand.png?h=300">|https://en.wikipedia.org/wiki/Fortune-telling]]</td>
-      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/zodiac_man.jpg?h=300">|https://en.wikipedia.org/wiki/Astrology]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/chart_of_the_hand.png?h=180">|https://en.wikipedia.org/wiki/Fortune-telling]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/zodiac_man.jpg?h=180">|https://en.wikipedia.org/wiki/Astrology]]</td>
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/fengshui_compass.jpg?h=300">|https://en.wikipedia.org/wiki/Feng_shui]]</td>   
   </tr>
 </table>
