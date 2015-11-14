@@ -49,6 +49,10 @@ Divination can be seen as a systematic method with which to organize what appear
 The difference is that divination is the term used for predictions considered part of a religious ritual, invoking deities or spirits, while the term fortune-telling implies a less serious or formal setting, even one of popular culture, where belief in occult workings behind the prediction is less prominent than the concept of suggestion, spiritual or practical advisory or affirmation.
 === Magic ===
 Historically, fortune-telling grows out of folkloristic reception of Renaissance magic, specifically associated with Romani people. During the 19th and 20th century, methods of divination from non-Western cultures, such as the I Ching, were also adopted as methods of fortune-telling in western popular culture.
+=== Methods ===
+Common methods used for fortune telling in Europe and the Americas include astromancy, horary astrology, pendulum reading, spirit board reading, tasseography (reading tea leaves in a cup), cartomancy (fortune telling with cards), tarot reading, crystallomancy (reading of a crystal sphere), and chiromancy (palmistry, reading of the palms). The last three have traditional associations in the popular mind with the Roma and Sinti people (often called "gypsies").
+
+Another form of fortune-telling, sometimes called "reading" or "spiritual consultation", does not rely on specific devices or methods, but rather the practitioner gives the client advice and predictions which are said to have come from spirits or in visions.
 <table>
   <thead>
     <tr>
