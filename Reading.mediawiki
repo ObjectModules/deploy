@@ -44,9 +44,9 @@ Used in various forms throughout history, diviners ascertain their interpretatio
 === Insight ===
 Divination can be seen as a systematic method with which to organize what appear to be disjointed, random facets of existence such that they provide insight into a problem at hand. If a distinction is to be made between divination and fortune-telling.
 == Fortune-telling ==
-[[Fortune-telling|https://en.wikipedia.org/wiki/Fortune-telling]] is the practice of predicting information about a person's life.
+[[Fortune-telling|https://en.wikipedia.org/wiki/Fortune-telling]] is the practice of predicting information about a person's life. The scope of fortune-telling is in principle identical with the practice of divination. 
 === Culture === 
-The scope of fortune-telling is in principle identical with the practice of divination. The difference is that divination is the term used for predictions considered part of a religious ritual, invoking deities or spirits, while the term fortune-telling implies a less serious or formal setting, even one of popular culture, where belief in occult workings behind the prediction is less prominent than the concept of suggestion, spiritual or practical advisory or affirmation.
+The difference is that divination is the term used for predictions considered part of a religious ritual, invoking deities or spirits, while the term fortune-telling implies a less serious or formal setting, even one of popular culture, where belief in occult workings behind the prediction is less prominent than the concept of suggestion, spiritual or practical advisory or affirmation.
 <table>
   <thead>
     <tr>
