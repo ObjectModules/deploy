@@ -25,7 +25,8 @@
 Like all language, it is a complex interaction between the text and the reader which is shaped by the reader’s prior knowledge, experiences, attitude, and language community which is culturally and socially situated. 
 
 The reading process requires continuous practice, development, and refinement. In addition, reading requires creativity and critical analysis.
-
+== Writing ==
+The process of recording information to be read later is [[writing|https://en.wikipedia.org/wiki/Writing]]. In the case of computer and microfiche storage there is the separate step of displaying the written text. For humans, reading is usually faster and easier than writing
 <table>
   <thead>
     <tr>
