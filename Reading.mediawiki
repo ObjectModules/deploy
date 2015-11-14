@@ -31,8 +31,10 @@ The process of recording information to be read later is [[writing|https://en.wi
 [[Literacy|https://en.wikipedia.org/wiki/Literacy]] is the ability to use the symbols of a writing system. It is the ability to interpret what the information symbols represent, and to be able to re-create those same symbols so that others can derive the same meaning. Illiteracy is not having the ability to derive meaning from the symbols used in a writing system.
 == Computer ==
 [[Reading|https://en.wikipedia.org/wiki/Reading_(computer)]] on computers is to acquire data from a source and place it into their volatile memory for processing. For example, a computer may read information off a floppy disk and store it in random access memory to be placed on the hard drive to be processed at a future date. 
-
+== Bits ==
 Computers may read information from a variety of sources, such as magnetic storage, the Internet, or audio and video input ports.
+
+A read cycle is the act of reading one unit of information (e.g. a byte). A read channel is an electrical circuit that transforms the physical magnetic flux changes into abstract bits. 
 
 <table>
   <thead>
