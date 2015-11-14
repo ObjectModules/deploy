@@ -42,7 +42,9 @@ A read cycle is the act of reading one unit of information (e.g. a byte). A read
 === Forms ===
 Used in various forms throughout history, diviners ascertain their interpretations of how a querent should proceed by reading signs, events, or [[omens|https://en.wikipedia.org/wiki/Omen]], or through alleged contact with a supernatural agency.
 
-Psychologist [[Julian Jaynes|https://en.wikipedia.org/wiki/Julian_Jaynes]] categorized divination into four types which are Omens and omen texts, Sortilege ([[cleromancy|https://en.wikipedia.org/wiki/Cleromancy]]), [[Augury|]], and Spontaneous.
+Psychologist [[Julian Jaynes|https://en.wikipedia.org/wiki/Julian_Jaynes]] categorized divination into four types which are Omens and omen texts, Sortilege ([[cleromancy|https://en.wikipedia.org/wiki/Cleromancy]]), [[Augury|https://en.wikipedia.org/wiki/Augury]], and Spontaneous.
+
+Spontaneous. An unconstrained form of divination, free from any particular medium, and actually a generalization of all types of divination. The answer comes from whatever object the diviner happens to see or hear. Some religions use a form of bibliomancy: they ask a question, riffle the pages of their holy book, and take as their answer the first passage their eyes light upon. Other forms of spontaneous divination include reading auras and New Age methods of feng shui such as "intuitive" and "fuzion".
 
 In addition to these four broad categories, there is [[palmistry|https://en.wikipedia.org/wiki/Palmistry]], also called chiromancy, a practice common to many different places on the Eurasian landmass; it has been practised in the cultures of India, Tibet, China, Persia, Sumeria, Ancient Israel and Babylonia. In this practice, the diviner examines the hands of a person for whom they are divining for indications of their future.
 === Insight ===
