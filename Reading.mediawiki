@@ -38,7 +38,7 @@ Computers may read information from a variety of sources, such as magnetic stora
 
 A read cycle is the act of reading one unit of information (e.g. a byte). A read channel is an electrical circuit that transforms the physical magnetic flux changes into abstract bits. 
 == Divination ==
-Divination (from Latin divinare "to foresee, to be inspired by a god", related to divinus, divine) is the attempt to gain insight into a question or situation by way of an occultic, standardized process or ritual. 
+[[Divination|https://en.wikipedia.org/wiki/Divination]] (from Latin divinare "to foresee, to be inspired by a god", related to divinus, divine) is the attempt to gain insight into a question or situation by way of an occultic, standardized process or ritual. 
 === Forms ===
 Used in various forms throughout history, diviners ascertain their interpretations of how a querent should proceed by reading signs, events, or omens, or through alleged contact with a supernatural agency.
 === Insight ===
