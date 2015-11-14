@@ -46,7 +46,7 @@ Computers may read information from a variety of sources, such as magnetic stora
 A read cycle is the act of reading one unit of information (e.g. a byte). A read channel is an electrical circuit that transforms the physical magnetic flux changes into abstract bits. 
 === Divination ===
 [[Divination|https://en.wikipedia.org/wiki/Divination]] (from Latin divinare "to foresee, to be inspired by a god", related to divinus, divine) is the attempt to gain insight into a question or situation by way of an occultic, standardized process or ritual. 
-=== Forms ===
+
 Used in various forms throughout history, diviners ascertain their interpretations of how a querent should proceed by reading signs, events, or [[omens|https://en.wikipedia.org/wiki/Omen]], or through alleged contact with a supernatural agency.
 
 Psychologist [[Julian Jaynes|https://en.wikipedia.org/wiki/Julian_Jaynes]] categorized divination into four types which are Omens and omen texts, Sortilege ([[cleromancy|https://en.wikipedia.org/wiki/Cleromancy]]), [[Augury|https://en.wikipedia.org/wiki/Augury]], and Spontaneous.
@@ -54,15 +54,15 @@ Psychologist [[Julian Jaynes|https://en.wikipedia.org/wiki/Julian_Jaynes]] categ
 Spontaneous. An unconstrained form of divination, free from any particular medium, and actually a generalization of all types of divination. The answer comes from whatever object the diviner happens to see or hear. Some religions use a form of bibliomancy: they ask a question, riffle the pages of their holy book, and take as their answer the first passage their eyes light upon. Other forms of spontaneous divination include reading [[auras|https://en.wikipedia.org/wiki/Aura_(paranormal)]] and [[New Age|https://en.wikipedia.org/wiki/Aura_(paranormal)]] methods of [[feng shui|https://en.wikipedia.org/wiki/Feng_shui]] such as "intuitive" and "fuzion".
 
 In addition to these four broad categories, there is [[palmistry|https://en.wikipedia.org/wiki/Palmistry]], also called chiromancy, a practice common to many different places on the Eurasian landmass; it has been practised in the cultures of India, Tibet, China, Persia, Sumeria, Ancient Israel and Babylonia. In this practice, the diviner examines the hands of a person for whom they are divining for indications of their future.
-=== Insight ===
+
 Divination can be seen as a systematic method with which to organize what appear to be disjointed, random facets of existence such that they provide insight into a problem at hand. If a distinction is to be made between divination and fortune-telling.
 == Fortune-telling ==
 [[Fortune-telling|https://en.wikipedia.org/wiki/Fortune-telling]] is the practice of predicting information about a person's life. The scope of fortune-telling is in principle identical with the practice of divination.
 
 The difference is that divination is the term used for predictions considered part of a religious ritual, invoking deities or spirits, while the term fortune-telling implies a less serious or formal setting, even one of popular culture, where belief in occult workings behind the prediction is less prominent than the concept of suggestion, spiritual or practical advisory or affirmation.
-=== Magic ===
+
 Historically, fortune-telling grows out of folkloristic reception of Renaissance magic, specifically associated with Romani people. During the 19th and 20th century, methods of divination from non-Western cultures, such as the I Ching, were also adopted as methods of fortune-telling in western popular culture.
-=== Methods ===
+
 Common methods used for fortune telling in Europe and the Americas include astromancy, horary astrology, pendulum reading, spirit board reading, tasseography (reading tea leaves in a cup), cartomancy (fortune telling with cards), tarot reading, crystallomancy (reading of a crystal sphere), and chiromancy (palmistry, reading of the palms). The last three have traditional associations in the popular mind with the Roma and Sinti people (often called "gypsies").
 
 <table>
