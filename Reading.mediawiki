@@ -40,7 +40,11 @@ A read cycle is the act of reading one unit of information (e.g. a byte). A read
 == Divination ==
 [[Divination|https://en.wikipedia.org/wiki/Divination]] (from Latin divinare "to foresee, to be inspired by a god", related to divinus, divine) is the attempt to gain insight into a question or situation by way of an occultic, standardized process or ritual. 
 === Forms ===
-Used in various forms throughout history, diviners ascertain their interpretations of how a querent should proceed by reading signs, events, or omens, or through alleged contact with a supernatural agency.
+Used in various forms throughout history, diviners ascertain their interpretations of how a querent should proceed by reading signs, events, or [[omens|https://en.wikipedia.org/wiki/Omen]], or through alleged contact with a supernatural agency.
+
+Psychologist [[Julian Jaynes|https://en.wikipedia.org/wiki/Julian_Jaynes]] categorized divination into four types which are Omens and omen texts, Sortilege ([[cleromancy|https://en.wikipedia.org/wiki/Cleromancy]]), [[Augury|]], and Spontaneous.
+
+In addition to these four broad categories, there is [[palmistry|https://en.wikipedia.org/wiki/Palmistry]], also called chiromancy, a practice common to many different places on the Eurasian landmass; it has been practised in the cultures of India, Tibet, China, Persia, Sumeria, Ancient Israel and Babylonia. In this practice, the diviner examines the hands of a person for whom they are divining for indications of their future.
 === Insight ===
 Divination can be seen as a systematic method with which to organize what appear to be disjointed, random facets of existence such that they provide insight into a problem at hand. If a distinction is to be made between divination and fortune-telling.
 == Fortune-telling ==
