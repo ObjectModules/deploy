@@ -1,23 +1,10 @@
 <table>
   <thead>
     <tr>
-      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
-      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
-      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
-      <th>[[Writing|:arrow_backward:]] [[Writing|Prev]]</th>
-      <th>[[Reading|:repeat:]] [[Reading|Reload]]</th>
-      <th>[[Discussion|Next]] [[Discussion|:arrow_forward:]]</th>
-      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
-      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
-      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of <strong>[[The HYIP Project|https://github.com/hyip]]</strong>. Find all of them on <strong>[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]</strong>.</td>   
     </tr>
   </thead>
-</table>
-= Reading =
-[[Reading|https://en.wikipedia.org/wiki/Reading]] is a complex cognitive process of decoding symbols in order to construct or derive meaning (reading comprehension). It is a means of language acquisition, of communication, and of sharing information and ideas. Like all language, it is a complex interaction between the text and the reader which is shaped by the reader’s prior knowledge, experiences, attitude, and language community which is culturally and socially situated. The reading process requires continuous practice, development, and refinement. In addition, reading requires creativity and critical analysis.
-
-<table>
-  <thead>
+  <tbody>
     <tr>
       <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
       <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
@@ -29,5 +16,28 @@
       <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
       <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
     </tr>
+  </tbody>
+</table>
+= Reading =
+[[Reading|https://en.wikipedia.org/wiki/Reading]] is a complex cognitive process of decoding symbols in order to construct or derive meaning (reading comprehension). It is a means of language acquisition, of communication, and of sharing information and ideas. Like all language, it is a complex interaction between the text and the reader which is shaped by the reader’s prior knowledge, experiences, attitude, and language community which is culturally and socially situated. The reading process requires continuous practice, development, and refinement. In addition, reading requires creativity and critical analysis.
+
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of <strong>[[The HYIP Project|https://github.com/hyip]]</strong>. Find all of them on <strong>[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]</strong>.</td>   
+    </tr>
   </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Writing|:arrow_backward:]] [[Writing|Prev]]</th>
+      <th>[[Reading|:repeat:]] [[Reading|Reload]]</th>
+      <th>[[Discussion|Next]] [[Discussion|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
 </table>
