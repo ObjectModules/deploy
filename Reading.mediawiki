@@ -37,6 +37,12 @@ For example, a computer may read information off a floppy disk and store it in r
 Computers may read information from a variety of sources, such as magnetic storage, the Internet, or audio and video input ports.
 
 A read cycle is the act of reading one unit of information (e.g. a byte). A read channel is an electrical circuit that transforms the physical magnetic flux changes into abstract bits. 
+== Divination ==
+Divination (from Latin divinare "to foresee, to be inspired by a god", related to divinus, divine) is the attempt to gain insight into a question or situation by way of an occultic, standardized process or ritual. 
+=== Forms ===
+Used in various forms throughout history, diviners ascertain their interpretations of how a querent should proceed by reading signs, events, or omens, or through alleged contact with a supernatural agency.
+=== Insight ===
+Divination can be seen as a systematic method with which to organize what appear to be disjointed, random facets of existence such that they provide insight into a problem at hand. If a distinction is to be made between divination and fortune-telling.
 
 <table>
   <thead>
