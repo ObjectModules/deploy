@@ -13,8 +13,9 @@
     </tr>
   </thead>
 </table>
-Reserved1
-***
+= Reading =
+[[Reading|https://en.wikipedia.org/wiki/Reading]] is a complex cognitive process of decoding symbols in order to construct or derive meaning (reading comprehension). It is a means of language acquisition, of communication, and of sharing information and ideas. Like all language, it is a complex interaction between the text and the reader which is shaped by the reader’s prior knowledge, experiences, attitude, and language community which is culturally and socially situated. The reading process requires continuous practice, development, and refinement. In addition, reading requires creativity and critical analysis.
+
 <table>
   <thead>
     <tr>
