@@ -78,7 +78,7 @@ It might be on your question now about what really the content of each repos and
 
 As you are aware this section is about a process of what we called as [[`info`|https://github.com/hyip/info/wiki]]. We collect, create and write on the code to proceed all aspect into the repo in related to its part on the concept, and explain it in the same configuration into the topics arrangement of its wiki. 
 
-You may find that we started this wiki with the concept on how we are going to read an info, how we write the info, following with on how we manage and organize it till a kind of [[Mapping-Overall#Routing|its routing]] in mapping system on the last chapter of the section that you are reading now.
+You may find that we started this wiki with the concept on how we are going to [[Reading|read]] an info, how we write the info, following with on how we manage and organize it till a kind of [[Mapping-Overall#Routing|its routing]] in mapping system on the last chapter of the section that you are reading now.
 
 You will find that the same thing are done also to other sections but provided in a different topic and purposes as they have their own assignment on the system follow to the concept. Just for example you can find a ranking of hyip forum that we did it in relevant with the topic of rating.
 
