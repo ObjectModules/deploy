@@ -102,7 +102,8 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>monitor</code>|https://github.com/hyipmonitor/hyipmonitor.github.io]] </td>
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider.png?w=20">|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</td>
-      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/hyip/rating/wiki/HYIP-Monitors]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/hyip/rating/wiki/HYIP-Monitors]] [[<img src="https://avatars2.githubusercontent.com/u/11951884?v=3&s=20">|https://bitbucket.org/hyips/]]
+      </td>
       <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] [[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]]
       </td>
       <td scope="row">
