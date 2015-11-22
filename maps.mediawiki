@@ -98,7 +98,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       </td>
     </tr>
     <tr>
-      <td scope="row">:clock1:</td>
+      <td scope="row">[[:clock1:|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_6/#main]]</td>
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>monitor</code>|https://github.com/hyipmonitor/hyipmonitor.github.io]] </td>
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider.png?w=20">|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</td>
