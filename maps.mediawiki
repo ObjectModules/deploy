@@ -108,9 +108,9 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       </td>
       <td scope="row">
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/channel-1/#main]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/]]
+[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/channel-2/#main]]
+[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/channel-3/#main]]
+[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/channel-4/#main]]
 [[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-monitor]]
 [[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyipmonitors.info]]
       </td>
