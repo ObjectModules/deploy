@@ -381,19 +381,6 @@ Nevertheless, compare to what we have seen, we found this as a beautiful concept
 Let's start on the ''[[Mapping-Routine|the first one]]''. 
 
 <table>
-  <thead>
-    <tr>
-      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
-      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
-      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
-      <th>[[Appearance|:arrow_backward:]] [[Appearance|Prev]]</th>
-      <th>[[Mapping|:repeat:]] [[Mapping|Reload|]]</th>
-      <th>[[Mapping-Routine|Next]] [[Mapping-Routine|:arrow_forward:]]</th>
-      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
-      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
-      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="8">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td>   
