@@ -80,7 +80,7 @@ As you are aware this section is about a process of what we called as [[`info`|h
 
 You may find that we started this wiki with the concept on how we are going to [[Reading|read]] an info, how we [[Writing|write]] the info, following with on how we manage and organize it till a kind of [[Mapping-Overall#Routing|its routing]] in mapping system on the last chapter of the section that you are reading now.
 
-You will get that similar thing on other sections as well. Just for example you will find later a site ranking of ''[[hyip forum|https://github.com/hyip/rating/wiki/HYIP-Forums]]'' and ''[[hyip monitor|https://github.com/hyip/rating/wiki/HYIP-Monitors]]'' that were made in relevant with the topic of [[`rating`|https://github.com/hyip/rating/wiki]].
+You will get that similar thing on other sections as well. Just for example you will find later a site ranking of ''[[hyip forum|https://github.com/hyip/rating/wiki/HYIP-Forums]]'' and ''[[hyip monitor|https://github.com/hyip/rating/wiki/HYIP-Monitors]]'' that were made in relevant with the topic of [[`rating`|https://github.com/hyip/rating/wiki]]. 
 
 So kind of the same thing are done also on each of sections provided in a different topic and purposes as they have their own assignment on the system follow to the concept.
 
