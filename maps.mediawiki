@@ -107,12 +107,12 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] [[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]]
       </td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/channel-1/#main]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/channel-2/#main]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/channel-3/#main]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/channel-4/#main]]
-[[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/channel-5/#main]]
-[[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/channel-6/#main]]
+[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/tophyipmonitors/]]
+[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/tophyipmonitor]]
+[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://plus.google.com/+TopHyipMonitors]]
+[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/]]
+[[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-monitor]]
+[[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipmonitor]]
       </td>
     </tr>
     <tr>
