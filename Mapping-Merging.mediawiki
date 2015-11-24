@@ -392,7 +392,7 @@ To become pair here we shall get the ''three (3) non route'' which are ''the ele
 === Algorithm ===
 So all creatures are managed either for ''[[Mapping-Merging#the-form|the form]]'' or ''[[Mapping-Merging#the-route|the route]]'' in ''[[Mapping-Merging#Isomorphism|Isomorphism]]'' (''pairs''), ''[[Mapping-Merging#four-color-theorem|four color]]'', and ''[[Mapping-Merging#how-hexagon-is-work|hexagonal]]''.
 
-Later we will discuss that this result applies to a wide variety of data sets, including electricity bills, street addresses, stock prices, population numbers, death rates, lengths of rivers, physical and mathematical constants,[3] and processes as described in [[Benford's law|https://en.wikipedia.org/wiki/Benford%27s_law]].
+Later we will discuss that this result applies to a wide variety of data sets, including electricity bills, street addresses, stock prices, population numbers, death rates, lengths of rivers, physical and mathematical constants, and processes as described in ''[[Benford's law|https://en.wikipedia.org/wiki/Benford%27s_law]]''.
 
 That is a simple way to figure out how it is work where the process are carried out on piece by piece within ''[[Mapping-Merging#The_Form|the form]]'' and flowing through ''[[Mapping-Merging#The_Route|the route]]''.
 
