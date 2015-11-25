@@ -53,7 +53,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td>[[<code>info</code>|https://github.com/hyip/info]]</td>
       <td>[[:cow2:|https://github.com/hyip/info/wiki]]</td>
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://github.com/hyip]] [[w|https://en.wikipedia.org/wiki/User:Hyipworld]]</td>
-      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg"|https://en.wikipedia.org/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/info/wiki]] [[:house_with_garden:|https://github.com/hyip/info]]
+      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/info/wiki]] [[:house_with_garden:|https://github.com/hyip/info]]
       </td>
       <td scope="row">
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipproject]]
