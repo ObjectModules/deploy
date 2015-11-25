@@ -70,7 +70,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
       <td>[[:elephant:|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
       <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|http://hyip.kinja.com/]]</td>
-      <td scope="row>[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] [[<img src="https://avatars3.githubusercontent.com/u/9919?v=3&s=20">|https://github.com/github]]
+      <td scope="row>[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] [[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]]
       </td>
       <td scope="row">
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipworld]]
@@ -104,7 +104,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider.png?w=20">|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</td>
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951330?v=3&s=20">|https://github.com/orgs/hyipmonitor/teams]] [[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/hyip/rating/wiki/HYIP-Monitors]]
       </td>
-      <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] [[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]]
+      <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] [[<img src="https://avatars3.githubusercontent.com/u/9919?v=3&s=20">|https://github.com/hyip/rating/wiki/HYIP-Monitors]]
       </td>
       <td scope="row">
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/tophyipmonitors/]]
