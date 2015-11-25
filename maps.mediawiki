@@ -156,7 +156,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11927583?v=10&s=20">|https://github.com/hyip/info/blob/master/README.md#languange-structure]]
 [[<img src="https://avatars2.githubusercontent.com/u/11951884?v=3&s=20">|https://bitbucket.org/hyips/]]
       </td>
-      <td scope="row">[[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://github.com/atlassian]]</td>
+      <td scope="row">[[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://github.com/atlassian]] :twisted_rightwards_arrows: :house_with_garden:</td>
       <td scope="row">
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
@@ -194,7 +194,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       </td>
       <td scope="row">
 [[<img src="https://lh3.googleusercontent.com/-RS9W3yX70kQ/Vi0QinVIOsI/AAAAAAAAAX4/AsHcKfYT54c/s20/sf-logo.png">|http://sourceforge.net/p/hyipscript/wiki/]]
-[[<img src="https://avatars3.githubusercontent.com/u/5281428?v=3&s=20"|https://feedburner.google.com/fb/a/myfeeds>]]
+[[:twisted_rightwards_arrows:|https://feedburner.google.com/fb/a/myfeeds>]] :house_with_garden:
       </td>
       <td scope="row">
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipscripts]]
