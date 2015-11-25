@@ -87,7 +87,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td>[[<code>rating</code>|https://github.com/hyip/rating]]</td>
       <td>[[:honeybee:|https://github.com/hyip/rating/wiki]]</td>
       <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/16017028?v=20&s=20">|https://github.com/tophyip]]</td>
-      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]] [[:twisted_rightwards_arrows:|http://all.hyip.world/]] :house_with_garden:</td>
+      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/rating/wiki]] :house_with_garden:</td>
       <td scope="row">
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/TopHyipsDotInfo]]
 [[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/#growsafely]]
