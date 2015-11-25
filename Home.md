@@ -58,7 +58,7 @@ You are browsing our **info** wiki:
 
 ###Mapping
 You are here :point_down: currently         
-[![Flow](https://tophyipmonitor.files.wordpress.com/2015/11/map_wiki_info.png)](https://github.com/hyip/info/wiki)   
+[![Flow](https://tophyipmonitor.files.wordpress.com/2015/11/map_wiki_info.png)](http://www.talkgold.com/forum/group.php?discussionid=1019&do=discuss)   
 <table>
   <thead>
     <tr>
