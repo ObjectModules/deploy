@@ -43,7 +43,7 @@ Tip: As recomended by GitHub on ''[[multiple accounts|https://help.github.com/ar
 Follow to the diagram, all the code of main process will be put on User. Out of those main processes such of code will be arranged so it can be displayed on Organization and described on their correspond wikis. 
 === Appearance ===
 Here is the appearance of repositories will look like:<br />
-[[<img src="http://hyip.world/images/github/doc/Hyip-Info.png">|https://github.com/hyipinfo]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipinfo.png">|https://github.com/hyipinfo]]
 == Forming ==
 === Unformed ===
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_quest_4.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_quest_4/#main]]
