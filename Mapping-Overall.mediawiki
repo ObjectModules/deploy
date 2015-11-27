@@ -53,7 +53,7 @@ Taken the picture above then the arrangement of repositories can be explained as
 <br />
 The same also applied to the correspond Organization:
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipinfo.png">|https://github.com/hyipinfo]]<br />
-Taken the picture above then the arrangement of repositories can be explained as below:
+Taken the picture above then the arrangement of repositories can be explained as below:<br /><br />
 * The Organization Pages of [[<code>hyipinfo.github.io</code>|http://info.hyip.world/]] will stand as ''[[portraying|https://github.com/hyip/info/wiki/Mapping-Routine#portraying]]''.  
 * The Project Pages of [[<code>world</code>|https://github.com/hyipinfo/world]] will stand as a process outside the routine
 * The Project Pages of [[<code>info</code>|https://github.com/hyipinfo/info]] will stand as main process on ''[[Mapping-Routine|a routine]]''
