@@ -48,8 +48,8 @@ So an Organizational will get two of main repos. One for its own routine and ano
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipwordorg.png">|https://github.com/hyipworld]]<br />
 Taken the picture above then the arrangement of repositories can be explained as below:
 * The Project Pages of [[`world`|https://github.com/hyipworld/world]] will stand as main process on ''[[a routine|Mapping-Routine]]''
-* The Project Pages of [`[info`|https://github.com/hyipworld/winfo]] will stand as main process outside the routine
-* The Organization Pages of `hyipworld.github.io` will stand as ''[[portraying|https://github.com/hyip/info/wiki/Mapping-Routine#portraying]]''.  
+* The Project Pages of [[`info`|https://github.com/hyipworld/info]] will stand as main process outside the routine
+* The Organization Pages of [[`hyipworld.github.io`|https://hyip.world/]] will stand as ''[[portraying|https://github.com/hyip/info/wiki/Mapping-Routine#portraying]]''.  
 <br />
 The same also applied to the correspond Organization:
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipinfo.png">|https://github.com/hyipinfo]]<br />
