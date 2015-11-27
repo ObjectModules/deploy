@@ -49,16 +49,15 @@ So an Organizational will get two of main repos. One for its own routine and ano
 Taken the picture above then the arrangement of repositories can be explained as below:
 * The Organization Pages of [[<code>hyipworld.github.io</code>|http://hyip.world/]] will stand as ''[[portraying|https://github.com/hyip/info/wiki/Mapping-Routine#portraying]]''.  
 * The Project Pages of [[<code>info</code>|https://github.com/hyipworld/info]] will stand as a process outside the routine
-* The Project Pages of [[<code>world</code>|https://github.com/hyipworld/world]] will stand as main process on ''[[Mapping-Routine|a routine]]''
-<br />
+* The Project Pages of [[<code>world</code>|https://github.com/hyipworld/world]] will stand as main process on ''[[Mapping-Routine|a routine]]''<br />
 The same also applied to the correspond Organization:
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipinfo.png">|https://github.com/hyipinfo]]<br />
 Taken the picture above then the arrangement of repositories can be explained as below:<br />
 <br />
-* The Organization Pages of [[<code>hyipinfo.github.io</code>|http://info.hyip.world/]] will stand as ''[[portraying|https://github.com/hyip/info/wiki/Mapping-Routine#portraying]]''.  
-* The Project Pages of [[<code>world</code>|https://github.com/hyipinfo/world]] will stand as a process outside the routine
-* The Project Pages of [[<code>info</code>|https://github.com/hyipinfo/info]] will stand as main process on ''[[Mapping-Routine|a routine]]''
-<br />
+Taken the picture above then the arrangement of repositories can be explained as below:
+* The Organization Pages of [[<code>hyipworld.github.io</code>|http://hyip.world/]] will stand as ''[[portraying|https://github.com/hyip/info/wiki/Mapping-Routine#portraying]]''.  
+* The Project Pages of [[<code>info</code>|https://github.com/hyipworld/info]] will stand as a process outside the routine
+* The Project Pages of [[<code>world</code>|https://github.com/hyipworld/world]] will stand as main process on ''[[Mapping-Routine|a routine]]''<br />
 == Forming ==
 === Unformed ===
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_quest_4.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_quest_4/#main]]<br />
