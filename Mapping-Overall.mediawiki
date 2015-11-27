@@ -44,7 +44,7 @@ Follow to the diagram, all the code of main process will be put on User. Out of 
 === Appearance ===
 When applying the steps outside a routine then the diagram will be shown as below:  
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_spreading.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_spreading/#main]]<br />
-So an Organizational will get two of main repos. One for its own routine and another one is the associated repos when a spreading is taken a place.<br /><br />Here is the appearance of repositories will look like:<br />
+So an Organizational will get two of main repos. One for its own routine and another one is the associated repos when ''[[Mapping-Spreading|a spreading]]'' is taken a place.<br /><br />Here is the appearance of repositories will look like:<br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipinfo.png">|https://github.com/hyipinfo]]
 == Forming ==
 === Unformed ===
