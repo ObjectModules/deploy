@@ -189,7 +189,7 @@ So the result of combination of the above will be as below:
 </table>
 '''''Note:'''''
 * ''The selection on the brand of channel links are not mandatory to be the same as per our selection shown on the tabulation above. You can choose the brands to whatever you like.''
-* ''However four (4) of the same brands will be required since the combination of routes get always four (4) internal processes which symbols are :twisted_rightwards_arrows:, :house_with_garden:, :cinema:, and :house:.''
+* ''However four (4) of the same brands will be required to be uniform as the combination of routes will get always four (4) internal processes which symbols are :twisted_rightwards_arrows:, :house_with_garden:, :cinema:, and :house:.''
 === Correspond ===
 The same also applied to the correspond Organization:<br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipinfo.png">|https://github.com/hyipinfo]]<br />
