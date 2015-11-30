@@ -245,6 +245,8 @@ By the same explanation as the appearance then the combination will be as shown 
     </tr>
   </tbody>
 </table>
+
+See that the combination of routes will get always four (4) internal processes which symbols are :twisted_rightwards_arrows:, :house_with_garden:, :cinema:, and :house:. They will need also four (4) of same branding on channel links.
 == Forming ==
 Let's combine the tabulation:
 
