@@ -49,11 +49,11 @@ So an Organizational will get two of main repos. One for its own routine and ano
 Here is the appearance of repositories will look like:<br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipwordorg.png">|https://github.com/hyipworld]]<br />
 Taken the picture above then the arrangement of repositories can be explained as below:
-* The Organization Pages of [[<code>hyipworld.github.io</code>|http://hyip.world/]] will stand as ''[[portraying|https://github.com/hyip/info/wiki/Mapping-Routine#portraying]]''.  
+* The Organization Pages of [[<code>hyipworld.github.io</code>|https://github.com/hyipworld/hyipworld.github.io]] will stand as ''[[portraying|https://github.com/hyip/info/wiki/Mapping-Routine#portraying]]''.  
 * The Project Pages of [[<code>info</code>|https://github.com/hyipworld/info]] will stand as a process outside the routine
 * The Project Pages of [[<code>world</code>|https://github.com/hyipworld/world]] will stand as main process on ''[[Mapping-Routine|a routine]]''<br />
 
-Since we are on spreading direction so we take the [[<code>info</code>|https://github.com/hyipworld/info]] and [[<code>hyipworld.github.io</code>|http://hyip.world/]] in to the mapping which development on each processes are consist to 3 (three) route as listed below:<br /><br />
+Since we are on spreading direction so we take the [[<code>info</code>|https://github.com/hyipworld/info]] and [[<code>hyipworld.github.io</code>|https://github.com/hyipworld/hyipworld.github.io]] in to the mapping which development on each processes are consist to 3 (three) route as listed below:<br /><br />
 * Read & selecting the valuable informations for writing them in to the associated wiki
 * Writing the repo, translate in to the appropriate programming language(s)
 * Reading the repo, process of portraying the repo
