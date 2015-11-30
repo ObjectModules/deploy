@@ -180,7 +180,7 @@ Similar explanation is also applied to the above repos:<br />
 * The Project Pages of [[<code>world</code>|https://github.com/hyipinfo/world]] will stand as a process outside the routine
 * The Project Pages of [[<code>info</code>|https://github.com/hyipinfo/info]] will stand as main process on ''[[Mapping-Routine|a routine]]''<br />
 
-By the same explanation as the appearance then combination will be as shown below:
+By the same explanation as the appearance then the combination will be as shown below:
 
 <table>
   <thead>
@@ -231,6 +231,8 @@ By the same explanation as the appearance then combination will be as shown belo
   </tbody>
 </table>
 == Forming ==
+Let's combine the tabulation:
+
 <table>
   <thead>
     <tr>
