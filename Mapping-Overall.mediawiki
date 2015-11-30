@@ -98,12 +98,12 @@ Chanel Group on main <code>info</code>
     <tr><th>#</th><th>Form</th><th>Route</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>Wiki</td><td>Writing</td></tr>
-    <tr><td>2</td><td>Wiki</td><td>Scripting</td></tr>
-    <tr><td>3</td><td>Wiki</td><td>Portraying</td></tr>
-    <tr><td>4</td><td>Repo</td><td>Writing</td></tr>
-    <tr><td>5</td><td>Repo</td><td>Scripting</td></tr>
-    <tr><td>6</td><td>Repo</td><td>Portraying</td></tr>
+    <tr><td>1</td><td>Repo</td><td>Writing</td></tr>
+    <tr><td>2</td><td>Wiki</td><td>Writing</td></tr>
+    <tr><td>3</td><td>Repo</td><td>Scripting</td></tr>
+    <tr><td>4</td><td>Wiki</td><td>Scripting</td></tr>
+    <tr><td>5</td><td>Repo</td><td>Portraying</td></tr>
+    <tr><td>6</td><td>Wiki</td><td>Portraying</td></tr>
   </tbody>
 </table>
 
@@ -113,12 +113,12 @@ Chanel Group on hyip <code>world</code>
     <tr><th>#</th><th>Form</th><th>Route</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>Wiki</td><td>Writing</td></tr>
-    <tr><td>2</td><td>Wiki</td><td>Scripting</td></tr>
-    <tr><td>3</td><td>Wiki</td><td>Portraying</td></tr>
-    <tr><td>4</td><td>Repo</td><td>Writing</td></tr>
-    <tr><td>5</td><td>Repo</td><td>Scripting</td></tr>
-    <tr><td>6</td><td>Repo</td><td>Portraying</td></tr>
+    <tr><td>1</td><td>Repo</td><td>Writing</td></tr>
+    <tr><td>2</td><td>Wiki</td><td>Writing</td></tr>
+    <tr><td>3</td><td>Repo</td><td>Scripting</td></tr>
+    <tr><td>4</td><td>Wiki</td><td>Scripting</td></tr>
+    <tr><td>5</td><td>Repo</td><td>Portraying</td></tr>
+    <tr><td>6</td><td>Wiki</td><td>Portraying</td></tr>
   </tbody>
 </table>
 
