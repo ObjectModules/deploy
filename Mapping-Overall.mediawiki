@@ -91,6 +91,21 @@ Each of process will need to put either user or organization accounts under whic
     </tr>
   </tbody>
 </table>
+
+Chanel Group on main <code>info</code>
+<table>
+  <thead>
+    <tr><th>#</th><th>Form</th><th>Route</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>#</td><td>Form</td><td>Route</td></tr>
+    <tr><td>#</td><td>Form</td><td>Route</td></tr>
+    <tr><td>#</td><td>Form</td><td>Route</td></tr>
+    <tr><td>#</td><td>Form</td><td>Route</td></tr>
+    <tr><td>#</td><td>Form</td><td>Route</td></tr>
+    <tr><td>#</td><td>Form</td><td>Route</td></tr>
+  </tbody>
+</table>
 === Correspond ===
 The same also applied to the correspond Organization:<br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipinfo.png">|https://github.com/hyipinfo]]<br />
