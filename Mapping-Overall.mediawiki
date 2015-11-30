@@ -58,9 +58,7 @@ Since we are on spreading direction so we take the [[<code>info</code>|https://g
 * Writing the repo, translate in to the appropriate programming language(s)
 * Reading the repo, process of portraying the current status of repo
 
-Each of process will need to put either user or organization accounts under which the writing for the development is taken a place. This formation shall be provided by ''two (2) accounts'', consist of an account that associated with the place where the wiki is written and another one for the repo.
-
-So when the goes in to a tabulation it will look like as shown below:
+Each of process will need to put either user or organization accounts under which the writing for the development is taken a place. This formation shall be provided by ''two (2) accounts'', consist of an account that associated with the place where the wiki is written and another one for the repo.<br /><br />So when the goes in to a tabulation it will look like as shown below:
 <table>
   <thead>
     <tr>
@@ -82,14 +80,6 @@ So when the goes in to a tabulation it will look like as shown below:
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://github.com/hyip]]</td>
       <td scope="row">[[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/info/wiki/Reading]] [[:house_with_garden:|https://github.com/hyip/info]]
       </td>
-      <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipproject]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/BeSweetRetweets]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://google.com/+TopHYIPsinfoGigafeed]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/hyip/]]
-[[<img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20">|https://www.reddit.com/user/hyips/]]
-[[<img src="https://lh3.googleusercontent.com/-jKtpsvVitSk/VipNbfjC1KI/AAAAAAAAAV4/dgoCUDLzyLw/s20/delicious.png">|https://delicious.com/tophyipsinfo]]
-      </td>
     </tr>
     <tr>
       <td scope="row">:clock4:</td>
@@ -98,14 +88,6 @@ So when the goes in to a tabulation it will look like as shown below:
       <td>[[:elephant:|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
       <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|http://hyip.kinja.com/]]</td>
       <td scope="row>[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] [[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://github.com/google]]
-      </td>
-      <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipworld]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/hyip_world]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://google.com/+TopHYIPsinfoGigafeed]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-world/]]
-[[<img src="https://lh3.googleusercontent.com/-cV5C51pgAbg/VipJ2i2FGLI/AAAAAAAAAVM/e8N-UaHMRpw/w20-h20-p/disqus.png">|https://disqus.com/by/hyips/]]
-[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyip.world]]
       </td>
     </tr>
   </tbody>
