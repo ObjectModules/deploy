@@ -91,19 +91,20 @@ Similar explanation is also applied to the above repos:<br />
       </td>
     </tr>
     <tr>
-      <td scope="row">:clock1:</td>
-      <td scope="row"><code>main</code></td>
-      <td>[[<code>rating</code>|https://github.com/hyip/rating]]</td>
-      <td>[[:honeybee:|https://github.com/hyip/rating/wiki]]</td>
-      <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/16017028?v=20&s=20">|https://github.com/tophyip]]</td>
-      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/rating/wiki]] :house_with_garden:</td>
+      <td scope="row">:clock4:</td>
+      <td scope="row"><code>hyip</code></td>
+      <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
+      <td>[[:elephant:|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
+      <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|http://hyip.kinja.com/]]</td>
+      <td scope="row>[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] [[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://github.com/google]]
+      </td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/TopHyipsDotInfo]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/#growsafely]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://www.youtube.com/user/TophyipsInfoNetwork]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/hyip-rating/]]
-[[<img src="https://avatars3.githubusercontent.com/u/541152?v=20&s=20">|https://www.pinterest.com/HyipMonitor/]]
-[[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyips]]
+[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipworld]]
+[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/hyip_world]]
+[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://google.com/+TopHYIPsinfoGigafeed]]
+[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-world/]]
+[[<img src="https://lh3.googleusercontent.com/-cV5C51pgAbg/VipJ2i2FGLI/AAAAAAAAAVM/e8N-UaHMRpw/w20-h20-p/disqus.png">|https://disqus.com/by/hyips/]]
+[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyip.world]]
       </td>
     </tr>
     <tr>
