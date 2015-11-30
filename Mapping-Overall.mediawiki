@@ -6,50 +6,6 @@
   </thead>
   <tbody>
     <tr>
-      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
-      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
-      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
-      <th>[[Mapping-Comparison|:arrow_backward:]] [[Mapping-Comparison|Prev]]</th>
-      <th>[[Mapping-Overall|:repeat:]] [[Mapping-Overall|Reload]]</th>
-      <th>[[maps|Next]] [[maps|:arrow_forward:]]</th>
-      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
-      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
-      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
-    </tr>
-    <tr>
-      <td scope="row">:clock4:</td>
-      <td scope="row"><code>hyip</code></td>
-      <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
-      <td>[[:elephant:|https://github.com/hyipworld/hyipworld.github.io/wiki]]</td>
-      <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|http://hyip.kinja.com/]]</td>
-      <td scope="row>[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] [[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://github.com/google]]
-      </td>
-      <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipworld]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/hyip_world]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://google.com/+TopHYIPsinfoGigafeed]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-world/]]
-[[<img src="https://lh3.googleusercontent.com/-cV5C51pgAbg/VipJ2i2FGLI/AAAAAAAAAVM/e8N-UaHMRpw/w20-h20-p/disqus.png">|https://disqus.com/by/hyips/]]
-[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyip.world]]
-      </td>
-    </tr>
-    <tr>
-      <td scope="row">:clock1:</td>
-      <td scope="row"><code>main</code></td>
-      <td>[[<code>world</code>|https://github.com/hyip/world]]</td>
-      <td>[[:elephant:|https://github.com/hyip/world/wiki]]</td>
-      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://en.wikipedia.org/wiki/User:Hyipworld]]</td>
-      <td scope="row">[[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://www.google.com/intx/en_sg/work/apps/business/products/sites/]] :twisted_rightwards_arrows: :house_with_garden:</td>
-      <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/our-project/]]
-[[<img src="https://avatars1.githubusercontent.com/u/359869?v=3&s=20">|http://www.stumbleupon.com/stumbler/TopHyipMonitor]]
-[[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipworld]]
-      </td>
-    </tr>
-    <tr>
       <td scope="row">:clock12:</td>
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io]]</td>
@@ -66,7 +22,6 @@
 [[<img src="https://lh3.googleusercontent.com/-twtF1nolk44/VipbLIVZVVI/AAAAAAAAAW4/Lvv3Poy6yZQ/s20/Internetarchive.jpg">|https://archive.org/bookmarks/Hyip]]
       </td>
     </tr>
-  </tbody>
 </table>
 = Overall Map =
 You have reached the last section of our ''[[Mapping|Mapping System]]''. Here we are going to locate a set of ''[[Mapping-Overall#key-value-mapping|key-value mappings]]'' on our [[project repositories|https://github.com/hyip?tab=repositories]] and drive them towards an [[maps|overall project map]].
