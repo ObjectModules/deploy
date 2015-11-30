@@ -121,14 +121,8 @@ Chanel Group on hyip <code>world</code>
     <tr><td>6</td><td>Form</td><td>Route</td></tr>
   </tbody>
 </table>
-=== Correspond ===
-The same also applied to the correspond Organization:<br />
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipinfo.png">|https://github.com/hyipinfo]]<br />
-Similar explanation is also applied to the above repos:<br />
-* The Organization Pages of [[<code>hyipinfo.github.io</code>|https://github.com/hyipinfo/hyipinfo.github.io]] will stand as ''[[portraying|https://github.com/hyip/info/wiki/Mapping-Routine#portraying]]''.  
-* The Project Pages of [[<code>world</code>|https://github.com/hyipinfo/world]] will stand as a process outside the routine
-* The Project Pages of [[<code>info</code>|https://github.com/hyipinfo/info]] will stand as main process on ''[[Mapping-Routine|a routine]]''<br />
-== Forming ==
+
+So the result of combination of the above will be as below:
 <table>
   <thead>
     <tr>
@@ -176,6 +170,33 @@ Similar explanation is also applied to the above repos:<br />
 [[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyip.world]]
       </td>
     </tr>
+  </tbody>
+</table>
+=== Correspond ===
+The same also applied to the correspond Organization:<br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipinfo.png">|https://github.com/hyipinfo]]<br />
+Similar explanation is also applied to the above repos:<br />
+* The Organization Pages of [[<code>hyipinfo.github.io</code>|https://github.com/hyipinfo/hyipinfo.github.io]] will stand as ''[[portraying|https://github.com/hyip/info/wiki/Mapping-Routine#portraying]]''.  
+* The Project Pages of [[<code>world</code>|https://github.com/hyipinfo/world]] will stand as a process outside the routine
+* The Project Pages of [[<code>info</code>|https://github.com/hyipinfo/info]] will stand as main process on ''[[Mapping-Routine|a routine]]''<br />
+
+By the same explanation as the appearance then combination will be as shown below:
+
+
+== Forming ==
+<table>
+  <thead>
+    <tr>
+      <th>:radio_button:</th>
+      <th>Type</th>
+      <th>Repo</th>
+      <th>:cow:</th>
+      <th>Form</th>
+      <th>Route</th>
+      <th>Channel</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td scope="row">:clock1:</td>
       <td scope="row"><code>main</code></td>
