@@ -58,7 +58,7 @@ Since we are on spreading direction so we take the [[<code>info</code>|https://g
 * Writing the repo, translate in to the appropriate programming language(s)
 * Reading the repo, process of portraying the current status of repo
 
-Each of process will need to put the user and organizational profile under the account which the writing for the development is taken a place.
+Each of process will need to put the user and organizational profile under the account which the writing for the development is taken a place. This formation shall be provided by ''two (2)'' accounts, one account associated with the place where the wiki is written another one for the repo.
 === Correspond ===
 The same also applied to the correspond Organization:<br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipinfo.png">|https://github.com/hyipinfo]]<br />
