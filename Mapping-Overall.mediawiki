@@ -187,6 +187,7 @@ So the result of combination of the above will be as below:
     </tr>
   </tbody>
 </table>
+Please note that the selection on the brand of channel links are not mandatory. However four (4) of the same brands will be required since the combination of routes get always four (4) internal processes which symbols are :twisted_rightwards_arrows:, :house_with_garden:, :cinema:, and :house:.
 === Correspond ===
 The same also applied to the correspond Organization:<br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipinfo.png">|https://github.com/hyipinfo]]<br />
@@ -246,7 +247,6 @@ By the same explanation as the appearance then the combination will be as shown 
   </tbody>
 </table>
 
-See that the combination of routes will get always four (4) internal processes which symbols are :twisted_rightwards_arrows:, :house_with_garden:, :cinema:, and :house:. They will need also four (4) of same branding on channel links.
 == Forming ==
 Let's combine the tabulation:
 
