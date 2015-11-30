@@ -53,12 +53,12 @@ Taken the picture above then the arrangement of repositories can be explained as
 * The Project Pages of [[<code>info</code>|https://github.com/hyipworld/info]] will stand as a process [[Mapping-Overall#outside-routine|outside the routine]]
 * The Project Pages of [[<code>world</code>|https://github.com/hyipworld/world]] will stand as main process on ''[[Mapping-Routine|a routine]]''
 
-Since we are on spreading direction so we take the [[<code>info</code>|https://github.com/hyipworld/info]] and [[<code>hyipworld.github.io</code>|https://github.com/hyipworld/hyipworld.github.io]] in to the mapping which development on each processes are consist of 3 (three) route as listed below:
-
+Since we are on spreading direction so we take the [[<code>info</code>|https://github.com/hyipworld/info]] and [[<code>hyipworld.github.io</code>|https://github.com/hyipworld/hyipworld.github.io]] in to the mapping which development on each processes are consist of ''3 (three)'' route as listed below:<br /><br />
 * Read & selecting the valuable information for writing them in to the associated wiki
 * Writing the repo, translate in to the appropriate programming language(s)
 * Reading the repo, process of portraying the current status of repo
 
+Each of process will need to put the user and organizational profile under the account which the writing for the development is taken a place.
 === Correspond ===
 The same also applied to the correspond Organization:<br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipinfo.png">|https://github.com/hyipinfo]]<br />
