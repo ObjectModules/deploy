@@ -339,6 +339,7 @@ This form showing the process that is happened on ''[[Mapping-Spreading|a spread
 
 The table above is represent the form and route on the ''1st-employment'' which form is generated on the beginning phase but the settlement on it is done on the last step of the whole process when the ''2nd and 3rd employment'' are completed.
 
+Forming of 2nd-employment:
 <table>
   <thead>
     <tr>
@@ -352,6 +353,7 @@ The table above is represent the form and route on the ''1st-employment'' which 
     </tr>
   </thead>
   <tbody>
+    <tr>
       <td scope="row">:clock1:</td>
       <td scope="row"><code>main</code></td>
       <td>[[<code>rating</code>|https://github.com/hyip/rating]]</td>
