@@ -249,7 +249,7 @@ By the same explanation as the appearance then the combination will be as shown 
   </tbody>
 </table>
 
-== Forming ==
+=== Forming ===
 Let's combine the tabulation:
 
 <table>
