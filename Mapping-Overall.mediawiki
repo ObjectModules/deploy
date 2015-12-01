@@ -45,7 +45,7 @@ Follow to the diagram, all the code of main process will be put on User. Out of 
 When applying the steps outside a routine then the diagram will be shown as below:  
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_spreading.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_spreading/#main]]
 So an Organizational will get two of main repos. One for its own routine and another one is the associated repo when ''[[Mapping-Spreading|a spreading]]'' is taken a place.
-=== Appearance ===
+=== Spreading ===
 Here is the appearance of repositories will look like:<br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipwordorg.png">|https://github.com/hyipworld]]<br />
 Taken the picture above then the arrangement of repositories can be explained as below:
@@ -338,7 +338,7 @@ Let's combine the tabulation:
 This form showing the process that is happened on ''[[Mapping-Spreading|a spreading]]''. However the complete process is happened on ''[[Mapping-Settlement|a settlement]]'' which is involving all the ''three (3) employments'' that generated on ''[[Mapping-Employment|an employment]]'' and combined by ''[[Mapping-Merging|a merging]]''. 
 
 The table above is represent the form and route on the ''1st-employment'' which form is generated on the beginning phase but the settlement on it is done on the last step of the whole process when the ''2nd and 3rd employment'' are completed.
-
+=== Routing ===
 Forming of 2nd-employment:
 <table>
   <thead>
@@ -424,7 +424,7 @@ Forming of 2nd-employment:
 </table>
 The process of 2nd-employment is begin as shown on mapping below: <br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_route_5.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_5/#main]]<br />
-
+=== Settlement ===
 Forming of 3rd employment:
 <table>
   <thead>
@@ -519,7 +519,7 @@ While the process of 3rd-employment is begin as shown on mapping below: <br />
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_route_13.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_13/#main]]<br />
 So it will come to the mapping as shown below:
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_route_24.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_24/#main]]<br />
-=== Unformed ===
+== Unforming ==
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_quest_4.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_quest_4/#main]]<br />
 
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_1.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_1/#main]]
@@ -532,7 +532,7 @@ So it will come to the mapping as shown below:
 === On Repo ===
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_5.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_5/#main]]
 
-== Routing ==
+== Unrouting ==
 It is left now the last (two) steps to finalize all the process.
 === Unrouted ===
 This step is in correlation with ''[[the structure|https://github.com/hyip/info#structure]]'' and ''[[GitHub API|https://github.com/hyipworld/hyipworld.github.io/wiki/Using-Jekyll#github-api]]''. We shall get a programmatic way to translate what we have written on this wiki to become the process on the repo.
