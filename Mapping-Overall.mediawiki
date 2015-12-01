@@ -35,7 +35,7 @@ To make clear separation to the process here we take a new repo and wiki for the
 * The Process of `hyip info` will stand as Organization Repository
 
 Tip: As recomended by GitHub on ''[[multiple accounts|https://help.github.com/articles/merging-multiple-user-accounts/]]'' it is recomended using only one user account to manage both personal and professional repositories.
-=== Forked Repository ===
+=== Routine ===
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]]
 * The Process of `hyip info` be displayed as Organization Pages
 * The process of `info` will be displayed as Project Pages  
