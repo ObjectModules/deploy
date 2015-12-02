@@ -160,10 +160,10 @@ So the result of combination of the above will be as below:
       <td scope="row">[[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/info/wiki/Reading]] [[:house_with_garden:|https://github.com/hyip/info]]
       </td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipproject]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/BeSweetRetweets]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://google.com/+TopHYIPsinfoGigafeed]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/hyip/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipproject]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/BeSweetRetweets]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://google.com/+TopHYIPsinfoGigafeed]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip/]]
 [[<img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20">|https://www.reddit.com/user/hyips/]]
 [[<img src="https://lh3.googleusercontent.com/-jKtpsvVitSk/VipNbfjC1KI/AAAAAAAAAV4/dgoCUDLzyLw/s20/delicious.png">|https://delicious.com/tophyipsinfo]]
       </td>
@@ -177,10 +177,10 @@ So the result of combination of the above will be as below:
       <td scope="row>[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] [[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://github.com/google]]
       </td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipworld]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/hyip_world]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://google.com/+TopHYIPsinfoGigafeed]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-world/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipworld]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/hyip_world]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://google.com/+TopHYIPsinfoGigafeed]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-world/]]
 [[<img src="https://lh3.googleusercontent.com/-cV5C51pgAbg/VipJ2i2FGLI/AAAAAAAAAVM/e8N-UaHMRpw/w20-h20-p/disqus.png">|https://disqus.com/by/hyips/]]
 [[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyip.world]]
       </td>
@@ -221,10 +221,10 @@ By the same explanation as the appearance then the combination will be as shown 
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://en.wikipedia.org/wiki/User:Hyipworld]]</td>
       <td scope="row">[[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://www.google.com/intx/en_sg/work/apps/business/products/sites/]] :twisted_rightwards_arrows: :house_with_garden:</td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/our-project/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/our-project/]]
 [[<img src="https://avatars1.githubusercontent.com/u/359869?v=3&s=20">|http://www.stumbleupon.com/stumbler/TopHyipMonitor]]
 [[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipworld]]
       </td>
@@ -238,10 +238,10 @@ By the same explanation as the appearance then the combination will be as shown 
       <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] [[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program]]
       </td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipblogs]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/#be_sweet_rt]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-business/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipblogs]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/#be_sweet_rt]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/]]
 [[<img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20">|http://tophyipmonitor.tumblr.com/]]
 [[<img src="https://lh3.googleusercontent.com/-twtF1nolk44/VipbLIVZVVI/AAAAAAAAAW4/Lvv3Poy6yZQ/s20/Internetarchive.jpg">|https://archive.org/bookmarks/Hyip]]
       </td>
@@ -274,10 +274,10 @@ Let's combine the tabulation:
       <td scope="row">[[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/info/wiki/Reading]] [[:house_with_garden:|https://github.com/hyip/info]]
       </td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipproject]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/BeSweetRetweets]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://google.com/+TopHYIPsinfoGigafeed]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/hyip/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipproject]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/BeSweetRetweets]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://google.com/+TopHYIPsinfoGigafeed]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip/]]
 [[<img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20">|https://www.reddit.com/user/hyips/]]
 [[<img src="https://lh3.googleusercontent.com/-jKtpsvVitSk/VipNbfjC1KI/AAAAAAAAAV4/dgoCUDLzyLw/s20/delicious.png">|https://delicious.com/tophyipsinfo]]
       </td>
@@ -291,10 +291,10 @@ Let's combine the tabulation:
       <td scope="row>[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] [[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://github.com/google]]
       </td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipworld]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/hyip_world]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://google.com/+TopHYIPsinfoGigafeed]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-world/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipworld]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/hyip_world]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://google.com/+TopHYIPsinfoGigafeed]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-world/]]
 [[<img src="https://lh3.googleusercontent.com/-cV5C51pgAbg/VipJ2i2FGLI/AAAAAAAAAVM/e8N-UaHMRpw/w20-h20-p/disqus.png">|https://disqus.com/by/hyips/]]
 [[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyip.world]]
       </td>
@@ -307,10 +307,10 @@ Let's combine the tabulation:
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://en.wikipedia.org/wiki/User:Hyipworld]]</td>
       <td scope="row">[[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://www.google.com/intx/en_sg/work/apps/business/products/sites/]] :twisted_rightwards_arrows: :house_with_garden:</td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/our-project/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/our-project/]]
 [[<img src="https://avatars1.githubusercontent.com/u/359869?v=3&s=20">|http://www.stumbleupon.com/stumbler/TopHyipMonitor]]
 [[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipworld]]
       </td>
@@ -324,10 +324,10 @@ Let's combine the tabulation:
       <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] [[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program]]
       </td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipblogs]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/#be_sweet_rt]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-business/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipblogs]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/#be_sweet_rt]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/]]
 [[<img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20">|http://tophyipmonitor.tumblr.com/]]
 [[<img src="https://lh3.googleusercontent.com/-twtF1nolk44/VipbLIVZVVI/AAAAAAAAAW4/Lvv3Poy6yZQ/s20/Internetarchive.jpg">|https://archive.org/bookmarks/Hyip]]
       </td>
@@ -361,10 +361,10 @@ Forming of 2nd-employment:
       <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/16017028?v=20&s=20">|https://github.com/tophyip]]</td>
       <td scope="row">[[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/rating/wiki]] :house_with_garden:</td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/TopHyipsDotInfo]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/#growsafely]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://www.youtube.com/user/TophyipsInfoNetwork]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/hyip-rating/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/TopHyipsDotInfo]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/#growsafely]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://www.youtube.com/user/TophyipsInfoNetwork]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip-rating/]]
 [[<img src="https://avatars3.githubusercontent.com/u/541152?v=20&s=20">|https://www.pinterest.com/HyipMonitor/]]
 [[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyips]]
       </td>
@@ -379,10 +379,10 @@ Forming of 2nd-employment:
       <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] [[<img src="https://avatars3.githubusercontent.com/u/9919?v=3&s=20">|https://github.com/hyip/rating/wiki/HYIP-Monitors]]
       </td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/tophyipmonitors/]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/tophyipmonitor]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://plus.google.com/+TopHyipMonitors]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/tophyipmonitors/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/tophyipmonitor]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://plus.google.com/+TopHyipMonitors]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/]]
 [[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-monitor]]
 [[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipmonitor]]
       </td>
@@ -395,10 +395,10 @@ Forming of 2nd-employment:
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/tophyipmonitor]]</td>
       <td scope="row">[[<img src="https://lh5.googleusercontent.com/-LNdqhqT7v3w/T4itJ_UEeFI/AAAAAAAAJUE/B9Os5cJUxUA/s20-no/GooglePlusProfileImage.png">|https://github.com/aws]] :twisted_rightwards_arrows: :house_with_garden:</td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipmonitors.info]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/tophyipmonitor/timelines/671271380554555392]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://google.com/+TopHyipMonitors]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/hyip-monitor/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipmonitors.info]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/tophyipmonitor/timelines/671271380554555392]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://google.com/+TopHyipMonitors]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip-monitor/]]
 [[<img src="http://lh3.googleusercontent.com/-PdKcIPUm-Cs/AAAAAAAAAAI/AAAAAAAALEI/HV6em-KZ-yU/s20-c-a/photo.jpg">|https://moz.com/community/users/4037583]]
 [[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyipmonitors.info]]
       </td>
@@ -412,10 +412,10 @@ Forming of 2nd-employment:
       <td scope="row">[[:house:|https://github.com/hyiprating]] [[:cinema:|http://tophyips.info/]] [[<img src="http://lh3.googleusercontent.com/-dK5aS3tBne0/AAAAAAAAAAI/AAAAAAAAL-Q/wktL27CoDNE/s20-c-a/photo.jpg">|http://blog.tophyips.info/]]
       </td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/tophyips.info]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-rating/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/tophyips.info]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-rating/]]
 [[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-analysis]]
 [[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/tophyips.info]]
       </td>
@@ -453,10 +453,10 @@ Forming of 3rd employment:
       </td>
       <td scope="row">[[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://github.com/atlassian]] :twisted_rightwards_arrows: :house_with_garden:</td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/hyip-forum/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip-forum/]]
 [[<img src="https://avatars0.githubusercontent.com/u/6815105?v=20&s=20">|https://www.quora.com/profile/Hyip-Gigafeed]]
 [[<img src="https://avatars3.githubusercontent.com/u/173374?v=3&s=20">|http://mashable.com/people/hyip/]]
       </td>
@@ -470,10 +470,10 @@ Forming of 3rd employment:
       <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] [[<img src="http://lh3.googleusercontent.com/-xSKJbyl_5ZA/AAAAAAAAAAI/AAAAAAAAAGs/87PBRUKgmr0/s20-c-a/photo.jpg">|https://plus.google.com/+WordPress/]]
       </td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipscript.info]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/hyip_script]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://google.com/+HyipScript]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-scripts/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipscript.info]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/hyip_script]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://google.com/+HyipScript]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-scripts/]]
 [[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-script]]
 [[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyipscript.info]]
       </td>
@@ -492,10 +492,10 @@ Forming of 3rd employment:
 [[:twisted_rightwards_arrows:|https://feedburner.google.com/fb/a/myfeeds]] :house_with_garden:
       </td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipscripts]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/hyip-script/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipscripts]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip-script/]]
 [[<img src="https://lh3.googleusercontent.com/-DEYxYN_riUY/VipEhu1PPyI/AAAAAAAAAHg/UzX9Nw8QE8I/s20/stackoverflow.png">|http://stackoverflow.com/users/4058484]]
 [[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipscript]]
       </td>
@@ -509,10 +509,10 @@ Forming of 3rd employment:
       <td scope="row">[[:house:|https://github.com/hyipteam]] [[:cinema:|http://team.hyip.world/]] [[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://confluence.atlassian.com/bitbucket/publishing-a-website-on-bitbucket-cloud-221449776.html]]
       </td>
       <td scope="row">
-[[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-forums/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-forums/]]
 [[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|https://www.linkedin.com/company/hyip-reviews]]
 [[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyipmonitor]]
       </td>
