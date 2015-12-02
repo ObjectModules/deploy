@@ -76,7 +76,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipworld]]
 [[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/hyip_world]]
 [[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://google.com/+TopHYIPsinfoGigafeed]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-world/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-world/]]
 [[<img src="https://lh3.googleusercontent.com/-cV5C51pgAbg/VipJ2i2FGLI/AAAAAAAAAVM/e8N-UaHMRpw/w20-h20-p/disqus.png">|https://disqus.com/by/hyips/]]
 [[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyip.world]]
       </td>
@@ -92,7 +92,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/TopHyipsDotInfo]]
 [[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/#growsafely]]
 [[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://www.youtube.com/user/TophyipsInfoNetwork]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/hyip-rating/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip-rating/]]
 [[<img src="https://avatars3.githubusercontent.com/u/541152?v=20&s=20">|https://www.pinterest.com/HyipMonitor/]]
 [[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyips]]
       </td>
@@ -101,7 +101,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row">[[:clock1:|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_6/#main]]</td>
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>monitor</code>|https://github.com/hyipmonitor/hyipmonitor.github.io]] </td>
-      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider.png?w=20">|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://github.com/hyipmonitor/hyipmonitor.github.io/wiki]]</td>
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951330?v=3&s=20">|https://github.com/hyipmonitor]] [[<img src="https://avatars3.githubusercontent.com/u/16017099?s=20">|https://github.com/hyipmonitors]]
       </td>
       <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] [[<img src="https://avatars3.githubusercontent.com/u/9919?v=3&s=20">|https://github.com/hyip/rating/wiki/HYIP-Monitors]]
@@ -119,7 +119,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row">:clock1:</td>
       <td scope="row"><code>main</code></td>
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor]]</td>
-      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider.png?w=20">|https://github.com/hyip/monitor/wiki]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://github.com/hyip/monitor/wiki]]</td>
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/tophyipmonitor]]</td>
       <td scope="row">[[<img src="https://lh5.googleusercontent.com/-LNdqhqT7v3w/T4itJ_UEeFI/AAAAAAAAJUE/B9Os5cJUxUA/s20-no/GooglePlusProfileImage.png">|https://github.com/aws]] :twisted_rightwards_arrows: :house_with_garden:</td>
       <td scope="row">
@@ -143,7 +143,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/tophyips.info]]
 [[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-rating/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-rating/]]
 [[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-analysis]]
 [[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/tophyips.info]]
       </td>
@@ -161,7 +161,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/hyip-forum/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip-forum/]]
 [[<img src="https://avatars0.githubusercontent.com/u/6815105?v=20&s=20">|https://www.quora.com/profile/Hyip-Gigafeed]]
 [[<img src="https://avatars3.githubusercontent.com/u/173374?v=3&s=20">|http://mashable.com/people/hyip/]]
       </td>
@@ -178,7 +178,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipscript.info]]
 [[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/hyip_script]]
 [[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://google.com/+HyipScript]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-scripts/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-scripts/]]
 [[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-script]]
 [[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyipscript.info]]
       </td>
@@ -200,7 +200,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://www.facebook.com/hyipscripts]]
 [[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/hyip-script/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip-script/]]
 [[<img src="https://lh3.googleusercontent.com/-DEYxYN_riUY/VipEhu1PPyI/AAAAAAAAAHg/UzX9Nw8QE8I/s20/stackoverflow.png">|http://stackoverflow.com/users/4058484]]
 [[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipscript]]
       </td>
@@ -217,7 +217,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-forums/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-forums/]]
 [[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|https://www.linkedin.com/company/hyip-reviews]]
 [[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyipmonitor]]
       </td>
@@ -233,7 +233,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 [[<img src="https://avatars0.githubusercontent.com/u/69631?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
-[[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/category/our-project/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/our-project/]]
 [[<img src="https://avatars1.githubusercontent.com/u/359869?v=3&s=20">|http://www.stumbleupon.com/stumbler/TopHyipMonitor]]
 [[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipworld]]
       </td>
@@ -251,7 +251,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 [[<img src="https://avatars0.githubusercontent.com/u/50278?v=20&s=20">|https://twitter.com/#be_sweet_rt]]
 [[<img src="https://avatars0.githubusercontent.com/u/3597853?v=20&s=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://avatars0.githubusercontent.com/u/276006?v=20&s=20">|https://tophyipmonitor.wordpress.com/hyip-business/]]
-[[<img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20">|http://tophyipmonitor.tumblr.com/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|http://tophyipmonitor.tumblr.com/]]
 [[<img src="https://lh3.googleusercontent.com/-twtF1nolk44/VipbLIVZVVI/AAAAAAAAAW4/Lvv3Poy6yZQ/s20/Internetarchive.jpg">|https://archive.org/bookmarks/Hyip]]
       </td>
     </tr>
