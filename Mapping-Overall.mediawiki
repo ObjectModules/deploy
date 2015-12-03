@@ -542,6 +542,8 @@ An easy way to figure out the kind of channel you can see them on [[our blog|htt
    <tbody><tr><td>6</td><td>[[Hyip World|https://tophyipmonitor.wordpress.com/hyip-world/]]</td><td>[[:elephant:|https://tophyipmonitor.wordpress.com/hyip-world/nature-6/#main]]</td></tr></tbody>
 </table>
 
+The page location and position on a site are not mandatory. They will become important when a nature is assigned to a page as it will become the base on further development.
+
 Beside the ''six (6)'' pages there also a main link stand as ''[[the blog address|https://tophyipmonitor.wordpress.com/]]''. The link is assigned to display every other posting that are made and set to be correlated to each of the pages using ''[[category|https://en.support.wordpress.com/posts/categories/]]'' and ''[[tagging|https://en.support.wordpress.com/posts/tags/]]''.
 === Comparation ===
 When all the routes on 2nd and 3rd employment is completed then the mapping will come to the main repo of <code>world </code> which is the 1st route of the 1st-employment as shown below:
