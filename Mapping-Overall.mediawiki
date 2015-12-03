@@ -536,7 +536,7 @@ An easy way to figure out the kind of channel you can see them on [[our blog|htt
    <thead><tr><th>#</th><th>Page Title</th><th>:cow:</th></tr></thead>
    <tbody><tr><td>1</td><td><a href="#">Hyip Business</a></td><td><a href="#">:cow2:</a></td></tr></tbody>
    <tbody><tr><td>2</td><td><a href="#">Hyip Business</a></td><td><a href="#">:honeybee:</a></td></tr></tbody>
-   <tbody><tr><td>3</td><td><a href="#">Hyip Business</a></td><td><a href="#">:spider:</a></td></tr></tbody>
+   <tbody><tr><td>3</td><td><a href="#">Hyip Business</a></td><td><a href="#"><img src="https://tophyipmonitor.files.wordpress.com/2015/06/spider.png?w=20"></a></td></tr></tbody>
    <tbody><tr><td>4</td><td><a href="#">Hyip Business</a></td><td><a href="#">:ant:</a></td></tr></tbody>
    <tbody><tr><td>5</td><td><a href="#">Hyip Business</a></td><td><a href="#">:horse_racing:</a></td></tr></tbody>
    <tbody><tr><td>6</td><td><a href="#">Hyip Business</a></td><td><a href="#">:elephant:</a></td></tr></tbody>
