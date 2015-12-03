@@ -526,9 +526,9 @@ While the process of 3rd-employment is begin as shown on mapping below: <br />
 * ''Therefore it is started on the repo of main <code>team</code> and finished on the wiki of main<code>script</code>'' 
 * ''Counting on all the steps then it will be also eight (8) routes all together.''
 === Channel ===
-On our concept the channel links will stand as an important role particularly on focusing a settlement on every step of process. They will also be taken as initial form on further development when a parameter is assigned in the child processes.
+On our concept the channel links will stand as an important role particularly on focusing ''[[Mapping-Settlement|a settlement]]'' on every step of process. They will also be taken as initial form on further development when a parameter is assigned in the child processes.
 
-The channel selection will best if they are set in ''[[hexagonal|https://github.com/hyip/info/wiki/Mapping-Spreading#hexagon]]'' configuration plus one general links that works as a combination of all of them. You can then configure them to ''twelve (12)'' or ''twenty four (24)'' child processes so it will be able to implement ''[[one-to-one-mapping|https://github.com/hyip/info/wiki/Mapping-Routine#one-to-one-mapping]]''.
+The channel selection will best if they are set in ''[[hexagonal|https://github.com/hyip/info/wiki/Mapping-Spreading#hexagon]]'' configuration plus one general link that works as a combination of all of them. You can then configure them to ''twelve (12)'' or ''twenty four (24)'' child processes so it will be able to implement ''[[one-to-one-mapping|https://github.com/hyip/info/wiki/Mapping-Routine#one-to-one-mapping]]''.
 
 An easy way to figure out the kind of channel you can see them on [[our blog|https://tophyipmonitor.wordpress.com/]] which have ''six (6)'' main pages that also stand as main menu. Here are the tabulation of the pages and their configuration of the concept implementation.
 
