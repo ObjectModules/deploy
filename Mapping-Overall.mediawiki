@@ -530,14 +530,19 @@ On our concept the channel links will stand as an important role particularly on
 
 The channel selection will best if they are able to be set by a kind of hexagonal configuration plus one general links that works as a combination of all of them. Using this hexagonal you can then configure them to ''twelve (12)'' or ''twenty four (24)'' child processes follow to the natures of concept.
 
-An easy way to figure out the kind of channel you can see them on our blog which have ''six (6)'' main pages that also stand as main menu. Here are the tabulation of the pages and their configuration of the concept implementation.
+An easy way to figure out the kind of channel you can see them on [[our blog|https://tophyipmonitor.wordpress.com/]] which have ''six (6)'' main pages that also stand as main menu. Here are the tabulation of the pages and their configuration of the concept implementation.
 
 <table>
    <thead><tr><th>#</th><th>Page Title</th><th>:cow:</th></tr></thead>
    <tbody><tr><td>1</td><td><a href="#">Hyip Business</a></td><td><a href="#">:cow2:</a></td></tr></tbody>
+   <tbody><tr><td>2</td><td><a href="#">Hyip Business</a></td><td><a href="#">:honeybee:</a></td></tr></tbody>
+   <tbody><tr><td>3</td><td><a href="#">Hyip Business</a></td><td><a href="#">:spider:</a></td></tr></tbody>
+   <tbody><tr><td>4</td><td><a href="#">Hyip Business</a></td><td><a href="#">:ant:</a></td></tr></tbody>
+   <tbody><tr><td>5</td><td><a href="#">Hyip Business</a></td><td><a href="#">:horse_racing:</a></td></tr></tbody>
+   <tbody><tr><td>6</td><td><a href="#">Hyip Business</a></td><td><a href="#">:elephant:</a></td></tr></tbody>
 </table>
 
-Beside the six (6) pages there also a main link. The link is assigned to display every posting that are set to correlate to each of the pages using ''category'' and ''tagging''.
+Beside the ''six (6)'' pages there also a main link stand as ''[[the blog address|https://tophyipmonitor.wordpress.com/]]''. The link is assigned to display every other posting that are made and set to be correlated to each of the pages using ''[[category|https://en.support.wordpress.com/posts/categories/]]'' and ''[[tagging|https://en.support.wordpress.com/posts/tags/]]''.
 === Comparation ===
 When all the routes on 2nd and 3rd employment is completed then the mapping will come to the main repo of <code>world </code> which is the 1st route of the 1st-employment as shown below:
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_route_21.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_21/#main]]<br />
