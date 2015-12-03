@@ -106,3 +106,9 @@ At last but not least we welcome for your comments or [[https://en.wikipedia.org
 As an update we would like to announce that we have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer.:pray:    
 
 You may start to browse the documentation. Usually people begin with a tutorial page titled ''Hello World!''. Here we have a little bit different. Let's call it ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|Hyip World!]]''
+
+{|
+| [[https://github.com/hyip|<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">]]
+| This [[https://github.com/hyip/info|repo]] is courtesy of '''[[https://github.com/hyip|The HYIP Project]]'''. Find all of them on '''[[https://github.com/hyip/info/wiki/maps#project-map|The Project Map]]'''.
+| [[https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main|<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">]]  
+|}
