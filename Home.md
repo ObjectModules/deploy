@@ -58,7 +58,7 @@ You are browsing our **info** wiki:
 
 ###Mapping
 You are here :point_down: currently         
-[![Flow](https://tophyipmonitor.files.wordpress.com/2015/10/map_route_4.png)](https://github.com/hyip/info/wiki/maps#by-mapping-diagram)   
+[![Flow](https://tophyipmonitor.files.wordpress.com/2015/10/map_route_4.png)](https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_4/#main)   
 <table>
   <thead>
     <tr>
