@@ -542,7 +542,7 @@ An easy way to figure out the kind of channel you can see them on [[our blog|htt
    <tbody><tr><td>6</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2014/11/hyipworld.jpeg?w=20"|https://tophyipmonitor.wordpress.com/hyip-world/hyipworld/#main]]</td><td>[[Hyip World|https://tophyipmonitor.wordpress.com/hyip-world/]]</td><td>[[:elephant:|https://tophyipmonitor.wordpress.com/hyip-world/nature-6/#main]]</td></tr></tbody>
 </table>
 
-The page location and position on a site are not mandatory. They will become important when a nature is assigned to a page as it will become the base on further development. Try to click the image (:camera:) or nature (:cow:) of each pages, you will see a map showing a pair of our related repos and wikis.
+The page location and position on a site are not mandatory. They will become important when a nature is assigned to a page as it will become the base on further development. Try to click the picture (:camera:) or nature (:cow:) of each pages, you will see a map showing a pair of our related repos and wikis.
 
 Beside the ''six (6)'' pages there also a main link stand as ''[[the site address|https://tophyipmonitor.wordpress.com/]]''. The link is assigned to display every other posting that are made and set to be correlated to each of the pages using ''[[category|https://en.support.wordpress.com/posts/categories/]]'' and ''[[tagging|https://en.support.wordpress.com/posts/tags/]]''.
 === Comparation ===
