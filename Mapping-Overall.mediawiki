@@ -533,7 +533,8 @@ The channel selection will best if they are able to be set by a kind of hexagona
 An easy way to figure out the kind of channel you can see them on our blog which have ''six (6)'' main pages that also stand as main menu. Here are the tabulation of the pages and their configuration of the concept implementation.
 
 <table>
-   <thead><tr><th>#</th><th>Page Title</th></tr></thead>
+   <thead><tr><th>#</th><th>Page Title</th><th>:cow:</th></tr></thead>
+   <tbody><tr><td>1</td><td><a href="#">Hyip Business</a></td><td><a href="#">:cow2:</a></td></tr></tbody>
 </table>
 
 Beside the six (6) pages there also a main link. The link is assigned to display every posting that are set to correlate to each of the pages using ''category'' and ''tagging''.
