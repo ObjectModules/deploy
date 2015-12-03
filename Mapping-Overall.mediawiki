@@ -525,6 +525,8 @@ While the process of 3rd-employment is begin as shown on mapping below: <br />
 * ''The routing of the rdd-employment is indicated by the 2nd and the 3rd of separated lines''
 * ''Therefore it is started on the repo of main <code>team</code> and finished on the wiki of main<code>script</code>'' 
 * ''Counting on all the steps then it will be also eight (8) routes all together.''
+=== Channel Links ===
+On our concept the channel links will stand as an important role particularly on focusing a settlement on every step of process. They will also be taken as initial form on further development when a parameter is assigned in the child processes.
 === Comparation ===
 When all the routes on 2nd and 3rd employment is completed then the mapping will come to the main repo of <code>world </code> which is the 1st route of the 1st-employment as shown below:
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_route_21.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_21/#main]]<br />
