@@ -528,7 +528,7 @@ While the process of 3rd-employment is begin as shown on mapping below: <br />
 === Channel ===
 On our concept the channel links will stand as an important role particularly on focusing a settlement on every step of process. They will also be taken as initial form on further development when a parameter is assigned in the child processes.
 
-The channel selection will best if they are able to be set by a kind of hexagonal configuration plus one general links that works as a combination of all of them. Using this hexagonal you can then configure them to ''twelve (12)'' or ''twenty four (24)'' child processes follow to the natures of concept.
+The channel selection will best if they are set by a kind of hexagonal configuration plus one general links that works as a combination of all of them. Using this hexagonal you can then configure them to ''twelve (12)'' or ''twenty four (24)'' child processes so it will be able to be to implement ''[[one-to-one-mapping|https://github.com/hyip/info/wiki/Mapping-Routine#one-to-one-mapping]]''.
 
 An easy way to figure out the kind of channel you can see them on [[our blog|https://tophyipmonitor.wordpress.com/]] which have ''six (6)'' main pages that also stand as main menu. Here are the tabulation of the pages and their configuration of the concept implementation.
 
