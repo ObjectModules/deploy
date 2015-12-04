@@ -532,9 +532,7 @@ The channel selection will best if they are set in ''[[hexagonal|https://github.
 
 The page location and position on a site are not mandatory. They will become important when a nature is assigned to a page as it will become the base on further development. 
 
-An easy way to figure out the kind of channel you can see them on [[our blog|https://tophyipmonitor.wordpress.com/]] which have ''six (6)'' main pages that also stand as main menu.
-
-Here are the tabulation of the pages and their configuration of the concept implementation.
+An easy way to figure out the kind of channel you can see them on [[our blog|https://tophyipmonitor.wordpress.com/]] which have ''six (6)'' main pages that also stand as main menu. Here are the tabulation of the pages and their configuration of the concept implementation.
 
 <table>
    <thead><tr><th>#</th><th>:camera:</th><th>Page Title</th><th>:cow:</th></tr></thead>
