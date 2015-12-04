@@ -546,9 +546,7 @@ Here are the tabulation of the pages and their configuration of the concept impl
    <tbody><tr><td>6</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2014/11/hyipworld.jpeg?w=20"|https://tophyipmonitor.wordpress.com/hyip-world/hyipworld/#main]]</td><td>[[Hyip World|https://tophyipmonitor.wordpress.com/hyip-world/]]</td><td>[[:elephant:|https://tophyipmonitor.wordpress.com/hyip-world/nature-6/#main]]</td></tr></tbody>
 </table>
 
-You may to click the picture (:camera:) or nature (:cow:) of each pages, you will see a map showing a pair of our related repos and wikis that connected to the page as a user profile.
-
-Other than the ''six (6) main pages'' like ''[[mapping|https://tophyipmonitor.wordpress.com/hyip-world/mapping/]]'' is put under the sub menus. 
+Try to click the picture (:camera:) or nature (:cow:) of each pages, you will see a map showing a pair of our related repos and wikis that connected to the page as a user profile. You may see also that every other page than the ''six (6) main pages'' like ''[[mapping|https://tophyipmonitor.wordpress.com/hyip-world/mapping/]]'' is put under the sub menus. 
 
 Beside the ''six (6)'' pages there also a main link stand as ''[[the site address|https://tophyipmonitor.wordpress.com/]]''. The link is assigned to display every other posting that are made and set to be correlated to each of the pages using ''[[category|https://en.support.wordpress.com/posts/categories/]]'' and ''[[tagging|https://en.support.wordpress.com/posts/tags/]]''.
 === Comparation ===
