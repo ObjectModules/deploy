@@ -552,10 +552,23 @@ When all the routes on 2nd and 3rd employment is completed then the mapping will
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_route_21.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_21/#main]]<br />
 Here the process will be step further the same as the 2nd and the 3rd employment for another ''three (3) routes'' for doing ''[[Mapping-Comparison|a comparison]]'' up to the condition of the mapping as shown below: [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_route_24.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_24/#main]]<br />
 This mapping condition will be ''[[Mapping-Overall#key-value-mapping|the key value]]'' of our mapping system. Where the result of all the process are began to be verified in correlation to our setting target which we have written in 'the info's wiki'. On our case 'the info's wiki' is no other than ''[[this wiki|https://github.com/hyip/info/wiki]]'' that you are reading now..
-== Unforming ==
+== Unrouting ==
+When you the step which has been passed by the process you can mark that there are the same number of ''eight (8) steps'' happen either by the 2nd and the 3rd employment.
+
+This is a kind of pairing that you will find by the whole of our system. Every kind of process that was occured then it will got the same kind of form or route by the opposite direction.
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_quest_4.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_quest_4/#main]]<br />
 
+The ''eight (8) steps'' were done. You see there is ''three (3) steps'' also happen which did their task for ''a comparison''. So then another ''three (3) steps'' will also happen to make they even.
+
+The another ''three (3) steps'' will happen on opposite direction just exactly follow to what we have explained where they will be occured on the paired form of the first ''three (3) steps'' is happen means it will be occured on the main of <code>info</code> and the hyip <code>world</code>.
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_1.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_1/#main]]
+See the grey box that staying now on the wiki of main <code>info</code>. It will go ''three (3) steps'' on opposite direction of the route from the ''three (3) steps'' of the black box up to the mapping condition as shown below:
+
+The opposite route of the grey box is called ''UnRouting'' stand as the verification to the result of comparison process. The special thing with the ''UnRouting'' is that the process involves the whole system as a part of overall mapping which we have described on the beginning of our concept expalanation.
+
+By this ''UnRouting'' so now it left only the last process that happen within ''two (2) steps'' conssist of one step of black box and one step of grey box formed in an opposite direction to each other.
+
+Thsi step is called "UnFormed". Stand as the key of all process that were done where the whole process ican be declared as successfully gain the target when the ''two (2) box'' are satisfy each other.
 
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_2.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_2/#main]]
 
@@ -565,9 +578,12 @@ This mapping condition will be ''[[Mapping-Overall#key-value-mapping|the key val
 === On Repo ===
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_5.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_5/#main]]
 
-== Unrouting ==
+== Unforming ==
 It is left now the last (two) steps to finalize all the process.
-=== Unrouted ===
+
+The ''eight (8) steps'' were done. You see there is ''three (3) steps'' also happen which did their task for ''a comparison''. So then another ''three (3) steps'' will also happen to make they even.
+
+The another ''three (3) steps'' will happen on opposite direction just exactly follow to what we have explained where they will be occured on the paired form of the first ''three (3) steps'' is happen means it will be occured on the main of <code>info</code> and the hyip <code>world</code>.
 This step is in correlation with ''[[the structure|https://github.com/hyip/info#structure]]'' and ''[[GitHub API|https://github.com/hyipworld/hyipworld.github.io/wiki/Using-Jekyll#github-api]]''. We shall get a programmatic way to translate what we have written on this wiki to become the process on the repo.
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_6.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main]]
 We have do the writing in this wiki then we shall go this vise versa (''unrouted'').<br />That will become the ''key value'' of all the mapping.
