@@ -530,7 +530,11 @@ On our concept the channel links will stand as an important role particularly on
 
 The channel selection will best if they are set in ''[[hexagonal|https://github.com/hyip/info/wiki/Mapping-Spreading#hexagon]]'' configuration plus one general link that works as a combination of all of them. You can then configure them to ''twelve (12)'' or ''twenty four (24)'' child processes so it will be able to implement ''[[one-to-one-mapping|https://github.com/hyip/info/wiki/Mapping-Routine#one-to-one-mapping]]''.
 
-An easy way to figure out the kind of channel you can see them on [[our blog|https://tophyipmonitor.wordpress.com/]] which have ''six (6)'' main pages that also stand as main menu. Here are the tabulation of the pages and their configuration of the concept implementation.
+The page location and position on a site are not mandatory. They will become important when a nature is assigned to a page as it will become the base on further development. 
+
+An easy way to figure out the kind of channel you can see them on [[our blog|https://tophyipmonitor.wordpress.com/]] which have ''six (6)'' main pages that also stand as main menu.
+
+Here are the tabulation of the pages and their configuration of the concept implementation.
 
 <table>
    <thead><tr><th>#</th><th>:camera:</th><th>Page Title</th><th>:cow:</th></tr></thead>
@@ -542,7 +546,9 @@ An easy way to figure out the kind of channel you can see them on [[our blog|htt
    <tbody><tr><td>6</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2014/11/hyipworld.jpeg?w=20"|https://tophyipmonitor.wordpress.com/hyip-world/hyipworld/#main]]</td><td>[[Hyip World|https://tophyipmonitor.wordpress.com/hyip-world/]]</td><td>[[:elephant:|https://tophyipmonitor.wordpress.com/hyip-world/nature-6/#main]]</td></tr></tbody>
 </table>
 
-The page location and position on a site are not mandatory. They will become important when a nature is assigned to a page as it will become the base on further development. Try to click the picture (:camera:) or nature (:cow:) of each pages, you will see a map showing a pair of our related repos and wikis.
+You may to click the picture (:camera:) or nature (:cow:) of each pages, you will see a map showing a pair of our related repos and wikis that connected to the page as a user profile.
+
+Other than the ''six (6) main pages'' like ''[[https://tophyipmonitor.wordpress.com/hyip-world/mapping/]]'' is put under the sub menus. 
 
 Beside the ''six (6)'' pages there also a main link stand as ''[[the site address|https://tophyipmonitor.wordpress.com/]]''. The link is assigned to display every other posting that are made and set to be correlated to each of the pages using ''[[category|https://en.support.wordpress.com/posts/categories/]]'' and ''[[tagging|https://en.support.wordpress.com/posts/tags/]]''.
 === Comparation ===
