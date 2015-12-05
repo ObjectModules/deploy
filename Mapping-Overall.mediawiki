@@ -580,7 +580,7 @@ By this ''UnRouting'' so now it left only the last process that happen within ''
 == Unforming ==
 The another ''three (3) steps'' will happen on opposite direction just exactly follow to what we have explained where they will be occurred on the paired form of the first ''three (3) steps'' is happen means it will be occurred on the main of <code>info</code> and the hyip <code>world</code>.
 
-This step is in correlation with ''[[the structure|https://github.com/hyip/info#structure]]'' and ''[[GitHub API|https://github.com/hyipworld/hyipworld.github.io/wiki/Using-Jekyll#github-api]]''. 
+This step is in correlation with ''[[the structure|https://github.com/hyip/info#structure]]'' and ''[[GitHub API|https://github.com/hyipworld/hyipworld.github.io/wiki/Using-Jekyll#github-api]]''. <br />
 
 We shall get a programmatic way to translate what we have written on this wiki to become the process on the repo.
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_6.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main]]
