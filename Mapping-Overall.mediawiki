@@ -583,7 +583,7 @@ The another ''three (3) steps'' will happen on opposite direction just exactly f
 This step is in correlation with ''[[the structure|https://github.com/hyip/info#structure]]'' and ''[[GitHub API|https://github.com/hyipworld/hyipworld.github.io/wiki/Using-Jekyll#github-api]]''. <br />
 
 We shall get a programmatic way to translate what we have written on this wiki to become the process on the repo.
-[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_6.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_6.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main]]<br />
 We have do the writing in this wiki then we shall go this vise versa (''unrouted'').<br />That will become the ''key value'' of all the mapping.
 === Key Value Mapping ===
 Means that what you ''[[read|https://github.com/hyip/info/wiki/Reading]]'' on this wiki is what that ''[[written|https://github.com/hyip/info/wiki/Writing]]'' in the repo.
