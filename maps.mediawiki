@@ -86,7 +86,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>main</code></td>
       <td>[[<code>rating</code>|https://github.com/hyip/rating]]</td>
       <td>[[:honeybee:|https://tophyipmonitor.wordpress.com/hyip-rating/nature-2/#main]]</td>
-      <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/16017028?v=20&s=20">|https://github.com/tophyip]]</td>
+      <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/16017028?v=20&s=20">|https://github.com/tophyip]] [[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/tophyipmonitor]]</td>
       <td scope="row">[[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/rating/wiki]] :house_with_garden:</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/TopHyipsDotInfo]]
@@ -120,7 +120,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>main</code></td>
       <td>[[<code>monitor</code>|https://github.com/hyip/monitor]]</td>
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/nature-3/#main]]</td>
-      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/tophyipmonitor]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/tophyipmonitor]] [[<img src="https://avatars1.githubusercontent.com/u/16017028?v=20&s=20">|https://github.com/tophyip]]</td>
       <td scope="row">[[<img src="https://lh5.googleusercontent.com/-LNdqhqT7v3w/T4itJ_UEeFI/AAAAAAAAJUE/B9Os5cJUxUA/s20-no/GooglePlusProfileImage.png">|https://github.com/aws]] :twisted_rightwards_arrows: :house_with_garden:</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipmonitors.info]]
