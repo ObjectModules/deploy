@@ -153,10 +153,9 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>main</code></td>
       <td>[[<code>team</code>|https://github.com/hyip/team]]</td>
       <td>[[:ant:|https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main]]</td>
-      <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11927583?v=10&s=20">|https://github.com/hyip/info/blob/master/README.md#languange-structure]]
-[[<img src="https://avatars2.githubusercontent.com/u/11951884?v=3&s=20">|https://bitbucket.org/hyips/]]
+      <td scope="row">[[<img src="https://avatars0.githubusercontent.com/u/16302900?v=3&s=20">|https://github.com/hyipforum]] [[<img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20">|https://github.com/hyipscripts]]
       </td>
-      <td scope="row">[[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://github.com/atlassian]] :twisted_rightwards_arrows: :house_with_garden:</td>
+      <td scope="row">[[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://github.com/atlassian]] [[:twisted_rightwards_arrows:|https://bitbucket.org/hyips/]] :house_with_garden:</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
