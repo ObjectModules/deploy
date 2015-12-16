@@ -170,7 +170,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>script</code>|https://github.com/hyipscript/hyipscript.github.io]]</td>
       <td>[[:horse_racing:|https://tophyipmonitor.wordpress.com/hyip-scripts/nature-5/#main]]</td>
-      <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11951705?v=3&s=20">|https://github.com/orgs/hyipscript/teams]]</td>
+      <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11951705?v=3&s=20">|https://github.com/hyipscript]] [[<img src="https://avatars2.githubusercontent.com/u/11951884?v=3&s=20">|https://github.com/hyipteam]]</td>
       <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] [[<img src="http://lh3.googleusercontent.com/-xSKJbyl_5ZA/AAAAAAAAAAI/AAAAAAAAAGs/87PBRUKgmr0/s20-c-a/photo.jpg">|https://plus.google.com/+WordPress/]]
       </td>
       <td scope="row">
@@ -209,7 +209,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>team</code>|https://github.com/hyipteam/hyipteam.github.io]]</td>
       <td>[[:ant:|https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main]]</td>
-      <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11927583?v=10&s=20">|http://hyip.world/#templatemo-blog]]</td>
+      <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11951884?v=3&s=20">|https://github.com/hyipteam]] [[<img src="https://avatars2.githubusercontent.com/u/11951705?v=3&s=20">|https://github.com/hyipscript]]</td>
       <td scope="row">[[:house:|https://github.com/hyipteam]] [[:cinema:|http://team.hyip.world/]] [[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://confluence.atlassian.com/bitbucket/publishing-a-website-on-bitbucket-cloud-221449776.html]]
       </td>
       <td scope="row">
