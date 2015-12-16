@@ -102,7 +102,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>monitor</code>|https://github.com/hyipmonitor/hyipmonitor.github.io]] </td>
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/nature-3/#main]]</td>
-      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951330?v=3&s=20">|https://github.com/hyipmonitor]] [[<img src="https://avatars3.githubusercontent.com/u/16017099?s=20">|https://github.com/hyipmonitors]]
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951330?v=3&s=20">|https://github.com/hyipmonitor]] [[<img src="https://avatars1.githubusercontent.com/u/11951695?v=20&s=20">|https://github.com/hyiprating]]
       </td>
       <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] [[<img src="https://avatars3.githubusercontent.com/u/9919?v=3&s=20">|https://github.com/hyip/rating/wiki/HYIP-Monitors]]
       </td>
@@ -136,7 +136,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>rating</code>|https://github.com/hyiprating/hyiprating.github.io]]</td>
       <td>[[:honeybee:|https://tophyipmonitor.wordpress.com/hyip-rating/nature-2/#main]]</td>
-      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951695?v=20&s=20">|https://github.com/hyip/rating/wiki/HYIP-Forums]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951695?v=20&s=20">|https://github.com/hyiprating]] [[<img src="https://avatars1.githubusercontent.com/u/11951330?v=3&s=20">|https://github.com/hyipmonitor]]</td>
       <td scope="row">[[:house:|https://github.com/hyiprating]] [[:cinema:|http://tophyips.info/]] [[<img src="http://lh3.googleusercontent.com/-dK5aS3tBne0/AAAAAAAAAAI/AAAAAAAAL-Q/wktL27CoDNE/s20-c-a/photo.jpg">|http://blog.tophyips.info/]]
       </td>
       <td scope="row">
