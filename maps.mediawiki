@@ -87,7 +87,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td>[[<code>rating</code>|https://github.com/hyip/rating]]</td>
       <td>[[:honeybee:|https://tophyipmonitor.wordpress.com/hyip-rating/nature-2/#main]]</td>
       <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/16017028?v=20&s=20">|https://github.com/tophyip]] [[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/tophyipmonitor]]</td>
-      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/rating/wiki]] :house_with_garden:</td>
+      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/rating/wiki/HYIP-Forums]] :house_with_garden:</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/TopHyipsDotInfo]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/#growsafely]]
