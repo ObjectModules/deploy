@@ -276,7 +276,7 @@ Whenever you find it relevant to your need then you are free to use, copy and di
 
 Please note that we are not implementing any ''License Key'' on this project as the mapping itself will stand as the same for this purpose.
 
-The easiest way to indicate when you are using this concept is when there ''hexagonal pairing sets'' stays where ''each sets'' is implementing ''six (6) routes'' and ''twelve (12) channels'' that are combined for a development. 
+The easiest way to indicate when you are using this concept is when there are staying a kind of ''hexagonal pairing sets'' where ''each sets'' is implementing ''six (6) routes'' and ''twelve (12) channels'' that are in a combination for a development. 
 
 On this case then we consider that the licence will need to be attached on your project.
 
