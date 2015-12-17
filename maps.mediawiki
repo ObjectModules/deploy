@@ -270,15 +270,13 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 In ''[[maps#by-tabulation|the table]]'', on each rows of <code>main</code>, follow to the '''''one (1)''''' link of their nature in kind of ''repo or wiki'', the '''''two (2)''''' kind of links in the ''Form Column'' will represent ''[[Mapping-Spreading|a spreading]]'' while the '''''three (3)''''' links in ''Route Column'' will present ''[[Mapping-Employment|an employment]]''.<br /><br />When these links are combined with the '''''six (6)''''' ''Channel Links'' by ''[[Mapping-Merging|a merging]]'' they will generate a group of '''''twelve (12)''''' new kind of processes. Pairing the twelve (12) with the associated group on the row of <code>hyip</code> then it will become '''''twenty four (24)''''' of new processes all together.<br /><br />See that the ''twenty four (24)'' formation is the same again with the mapping that is shown ''[[by diagram|https://github.com/hyip/info/wiki/maps#by-mapping-diagram]]''. So it will let the mapping always be the same and widely applicable either for '''''up''''' direction (attaching), '''''side by side''''' direction (combining), or evenso '''''spread''''' direction (digging).<br /><br />This kind of configuration will then allow ''[[the unique system|https://github.com/hyip/info/wiki/Mapping#what-we-offer]]'' to be implemented throughout an unlimited destination as their formation will always become uniform on every directions.
 
 == License ==
-We believe that until this concept is written by us, there is no such thing similar to our concept. 
-
-Whenever you find it relevant to your need then you are free to use, copy and distributed this concept under our ''[[maps#license|License]]''. 
+We believe that until this concept is written by us, there is no such thing similar to our concept. You may use, copy and distributed this concept under our ''[[maps#license|License]]''. 
 
 Please note that we are not implementing any ''License Key'' on this project as the mapping itself will stand as the same for this purpose.
 
-The easiest way to indicate when you are using this concept is when there are staying a kind of ''hexagonal pairing sets'' where ''each sets'' is implementing ''six (6) routes'' and ''twelve (12) channels'' that are in a combination for a development. 
+The easiest way to indicate when you are using this concept is when there are staying a kind of ''hexagonal pairing sets'' where ''each sets'' is implementing a total of ''six (6) routes'' and ''twelve (12) channels'' that are in a combination for a development. 
 
-On this case then we consider that the licence will need to be attached on your project.
+On this case then we consider that the licence will need to be attached on your project. Beyond that form then you are free to use whatever you find a relevant items on this project to your need without any obligation from us. 
 
 = TODO List =
 No matter whether your lists are work related or just for fun. No matter what you’re planning, how big or small the task may be, TODO list makes it easy to get stuff done.
