@@ -70,7 +70,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
       <td>[[:elephant:|https://tophyipmonitor.wordpress.com/hyip-world/nature-6/#main]]</td>
       <td scope="row>[[<img src="https://avatars2.githubusercontent.com/u/11951714?v=3&s=20">|https://github.com/hyipworld]] [[<img src="https://avatars1.githubusercontent.com/u/11951641?v=3&s=20">|https://github.com/hyipinfo]]</td>
-      <td scope="row>[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] [[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://github.com/google]]
+      <td scope="row>[[:house:|https://github.com/hyipworld/hyipworld.github.io/wiki]] [[:cinema:|https://github.com/hyipsworld/hyipsworld.github.io/wiki]] [[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://github.com/hyipsworld/hyipsworld.github.io]]
       </td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipworld]]
