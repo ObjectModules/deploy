@@ -272,7 +272,7 @@ In ''[[maps#by-tabulation|the table]]'', on each rows of <code>main</code>, foll
 == License ==
 We believe that until this concept is written by us, there is no such thing similar to our concept. You may use, copy and distributed this concept under our ''[[maps#license|License]]''. 
 
-Please note that we are not implementing any ''License Key'' on this project as the mapping itself will stand as the same for this purpose.
+Please note that we are not implementing any ''License Key'' on this project as the form of our mapping itself will stand as the same for this purpose.
 
 The easiest way to indicate when you are using this concept is when there are staying a form of ''hexagonal pairing sets'' where ''each sets'' is implementing a total of ''six (6) routes'' and ''twelve (12) channels'' that are in a combination for a such kind of a project development. 
 
