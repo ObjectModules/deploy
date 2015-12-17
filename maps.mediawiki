@@ -274,7 +274,7 @@ We believe that until this concept is written by us, there is no such thing simi
 
 Please note that we are not implementing any ''License Key'' on this project as the mapping itself will stand as the same for this purpose.
 
-The easiest way to indicate when you are using this concept is when there are staying a kind of ''hexagonal pairing sets'' where ''each sets'' is implementing a total of ''six (6) routes'' and ''twelve (12) channels'' that are in a combination for a development. 
+The easiest way to indicate when you are using this concept is when there are staying a form of ''hexagonal pairing sets'' where ''each sets'' is implementing a total of ''six (6) routes'' and ''twelve (12) channels'' that are in a combination for a such kind of a project development. 
 
 On this case we consider that the licence will need to be attached on your project. Beyond that form then you are free to use whatever you find a relevant items on this project without any obligation from us. 
 
