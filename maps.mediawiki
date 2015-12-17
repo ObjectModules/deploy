@@ -226,7 +226,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>main</code></td>
       <td>[[<code>world</code>|https://github.com/hyip/world]]</td>
       <td>[[:elephant:|https://tophyipmonitor.wordpress.com/hyip-world/nature-6/#main]]</td>
-      <td scope="row">[[<img src="https://avatars0.githubusercontent.com/u/16049713?v=20&s=20">|https://github.com/hyipsworld]] [[<img src="https://avatars2.githubusercontent.com/u/10099662?v=20&s=20">|https://github.com/hyipsinfo]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://github.com/hyip]] [[<img src="https://avatars0.githubusercontent.com/u/16049713?v=20&s=20">|https://github.com/hyipsworld]]</td>
       <td scope="row">[[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://www.google.com/intx/en_sg/work/apps/business/products/sites/]] [[:twisted_rightwards_arrows:|https://en.wikipedia.org/wiki/User:Hyipworld]] :house_with_garden:</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
@@ -242,7 +242,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io]]</td>
       <td>[[:cow2:|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>
-      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951641?v=3&s=20">|https://github.com/hyipinfo]] [[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://github.com/hyip]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951641?v=3&s=20">|https://github.com/hyipinfo]] [[<img src="https://avatars2.githubusercontent.com/u/10099662?v=20&s=20">|https://github.com/hyipsinfo]]</td>
       <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] [[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program]]
       </td>
       <td scope="row">
