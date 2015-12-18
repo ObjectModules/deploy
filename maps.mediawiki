@@ -276,7 +276,7 @@ Please note that we are not implementing any kind of ''License Key'' on this pro
 
 The easiest way to define whether a system uses this concept is when it stays an assignment of ''six (6) corresponding sets'' in ''hexagonal form'' while ''each sets'' implement a total of ''six (6) routes'' with a pairing  of ''six (6) channels'' on each of the associated elements for such kind of development. 
 
-On this case we consider the licence will need to be attached. Beyond that form then it is free to use whatever items you find on this project without any obligation from us. 
+On this case we consider the licence will need to be attached. Beyond that form then it is free to use whatever the items you find on this project without any obligation from us. 
 
 = TODO List =
 No matter whether your lists are work related or just for fun. No matter what you’re planning, how big or small the task may be, TODO list makes it easy to get stuff done.
