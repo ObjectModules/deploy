@@ -263,7 +263,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 * :cinema: Assigned Domain. [[Mapping-Routine#portraying|Portraying]] the content of each process on the web  
 '''''Guidance:'''''
 * ''As shown in [[maps#by-tabulation|the table]]. You may choose one (1) kind of '''Nature''' per rows. Plus (2) links in '''Form''' column, and three (3) in '''Route''' column become six (6) in total. This six (6) will need to be on pair with another six (6) links on '''Channel''' column.''  
-* ''You may choose whatever the 6 (six) of channel links you like. However, the first four (4) brands on each of '''twelve (12) channels''' will need to be the same. They also need to be arranged on pair in '''six (6) groups''' of '''two (2) channels''' each.''  
+* ''You may choose whatever the 6 (six) of channel links you like. However, '''the first four (4) brands''' on each of twelve (12) channel groups will need to be the same. They also need to be arranged on pair in '''six (6) groups''' of '''two (2) channels''' each.''  
 * ''You may follow us on assignment of your domain(s). Take a look at the assigned ones for '''the last two (2)''' :cinema:. These two (2) shall use subdomains of the assigned domain for the first :cinema: as they will be used in implementing <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing" target="_blank">cross domain</a>''.
 
 == Formation ==
