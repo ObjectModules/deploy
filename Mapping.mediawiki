@@ -367,7 +367,7 @@ Despite it is proven that variable letters can be shortened to ''six (6)'' or ev
 We believe that since Google is proven as the best one dealing with ''keywords'', there should be a good reason that Google is remain using this word of ''seven (7)'' variable letters. 
 
 Unfortunately we could not find if Google made it with the word of `isogram` is in a purpose to correlate ''what the word means'' it self into ''what they really want'' with the function.
-=== The ''Seven (7)'' ===
+=== The Seven (7) ===
 <a href="http://marketingland.com/google-analytics-is-installed-on-more-than-10-million-websites-9935" target="_blank">This report</a> state that while not providing a specific number, Web Technology Surveys ''<a href="http://w3techs.com/technologies/details/ta-googleanalytics/all/all" target="_blank">says</a>'' that <a href="https://en.wikipedia.org/wiki/Google_Analytics" target="_blank">Google Analytics</a> is appears to be approaching a market share similar to <a href="https://en.wikipedia.org/wiki/Google_Search" target="_blank">Google Search</a> itself.
 
 It is far and away the number one analytics tool on the web, installed by people on the websites more than ''ten (10) times'' from the number two ''<a href="https://statcounter.com/" target="_blank">(StatCounter)</a>'' and used by about ''56 percent'' of all websites.. 
