@@ -272,11 +272,11 @@ In ''[[maps#by-tabulation|the table]]'', on each rows of <code>main</code>, foll
 == License ==
 We believe that until this concept is written by us, there is no such thing similar to our concept. You may use, copy, and distribute the concept under our ''[[maps#license|License]]''. 
 
-Please note that we are not implementing any kind of ''License Key'' on this project as the form of our mapping itself will stand as the same for this purpose.
+Please note that we are not implementing any kind of ''[[License Key|https://en.wikipedia.org/w/index.php?title=Special:Search&search=licence+key&profile=default&wprov=cirrusDYM-suggestion]]'' on this project as the form of our mapping itself will stand as the same for this purpose.
 
 The easiest way to define whether you use our concept is when it lies [[Mapping#All_The_Seven_7|a unified assignment]] in [[Mapping-Routine#the-six-6|hexagonal form]] of '''''six (6)''''' [[Mapping-Spreading|corresponding sets]] while [[Mapping-Employment|each sets]] implement [[Mapping-Merging|a combination]] of '''''six (6)''''' [[Mapping-Settlement|routes]] with [[Mapping-Comparison|a pairing]] of '''''six (6)''' to '''six (6)''''' of their associated [[Mapping-Overall|channels]] for a kind of development. 
 
-On this case we consider the licence will need to be attached. Beyond that form then it is free to use whatever the items you find on this project without any obligation from us. 
+On this case we consider the licence will need to be attached. Beyond that form then it is free to use whatever the items you may find on this project without any obligation from us. 
 
 = TODO List =
 No matter whether your lists are work related or just for fun. No matter what you’re planning, how big or small the task may be, TODO list makes it easy to get stuff done.
