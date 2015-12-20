@@ -274,7 +274,7 @@ We believe that until this concept is written by us, there is no such thing simi
 
 Please note that we are not implementing any kind of ''License Key'' on this project as the form of our mapping itself will stand as the same for this purpose.
 
-An easiest way to define whether you use our concept is when it lies [[Mapping#All_The_Seven_7|a unified assignment]] in [[Mapping-Routine#the-six-6|hexagonal form]] of '''''six (6)''''' [[Mapping-Spreading|corresponding sets]] while [[Mapping-Employment|each sets]] implement [[Mapping-Merging|a combination]] of '''''six (6)''''' [[Mapping-Settlement|routes]] with [[Mapping-Comparison|a pairing]] of '''''six (6)''' to '''six (6)''''' of their associated [[Mapping-Overall|channels]] for a kind of development. 
+The easiest way to define whether you use our concept is when it lies [[Mapping#All_The_Seven_7|a unified assignment]] in [[Mapping-Routine#the-six-6|hexagonal form]] of '''''six (6)''''' [[Mapping-Spreading|corresponding sets]] while [[Mapping-Employment|each sets]] implement [[Mapping-Merging|a combination]] of '''''six (6)''''' [[Mapping-Settlement|routes]] with [[Mapping-Comparison|a pairing]] of '''''six (6)''' to '''six (6)''''' of their associated [[Mapping-Overall|channels]] for a kind of development. 
 
 On this case we consider the licence will need to be attached. Beyond that form then it is free to use whatever the items you find on this project without any obligation from us. 
 
