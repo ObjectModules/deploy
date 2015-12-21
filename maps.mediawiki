@@ -276,7 +276,7 @@ Please note that we are not implementing any kind of ''<a href="https://en.wikip
 
 <blockquote>The easiest way to <a href="https://www.google.com/search?q=define">define</a> whether you are using our concept is when it <a href="https://www.google.com/search?q=lies">lies</a> a [[Mapping#All_The_Seven_7|unified assignment]] in [[Mapping-Routine#the-six-6|hexagonal form]] of '''''six (6)''' [[Mapping-Spreading|corresponding sets]]'', while [[Mapping-Employment|each sets]] implement [[Mapping-Merging|a combination]] of '''''six (6)''' [[Mapping-Settlement|routes]]'' with [[Mapping-Comparison|a pairing]] of '''''six (6)''' to '''six (6)''' of [[Mapping-Overall|all the associated channels]]'', for a kind of <a href="https://www.google.com/search?q=development">development</a>.</blockquote> 
 
-On that case we consider ''[[maps#license|The License]]'' will need to be attached. Out of ''[[maps#the-formation|The Formation]]'', you are welcome then to use whatever the items you may find on this project without any License from us. 
+On that case we consider ''[[maps#license|The License]]'' will need to be attached. Out of ''[[maps#the-formation|The Formation]]'', you are welcome then to use whatever the items on this project without any License from us. 
 
 = TODO List =
 No matter whether your lists are work related or just for fun. No matter what you’re planning, how big or small the task may be, TODO list makes it easy to get stuff done.
