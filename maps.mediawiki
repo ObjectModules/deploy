@@ -272,7 +272,7 @@ In ''[[maps#by-tabulation|the table]]'', on each rows of <code>main</code>, foll
 == The License ==
 We believe that until this concept is written by us, there is no such thing similar to our concept. You may use, copy, and distribute the concept under ''[[maps#license|Our License]]''. 
 
-Please note that we are not implementing any kind of ''<a href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=licence+key&profile=default&wprov=cirrusDYM-suggestion">License Key</a>'' on this project. ''[[maps#the-formation|The Formation]]'' of our mapping will stand as ''the key'' itself for this purpose:
+Please note that we are not implementing any kind of ''<a href="https://en.wikipedia.org/w/index.php?title=Special:Search&search=licence+key&profile=default&wprov=cirrusDYM-suggestion">License Key</a>'' on this project. ''[[maps#the-formation|The Hexagonal Formation]]'' of our mapping itself will stand as ''the key'' for this purpose:
 
 <blockquote>The <a href="https://www.google.com/search?q=definite">definite</a> key to <a href="https://www.google.com/search?q=identify">identify</a> whether you use our concept is when there a kind of <a href="https://www.google.com/search?q=development">development</a> item <a href="https://www.google.com/search?q=lies">lies</a> a [[Mapping#All_The_Seven_7|unified assignment]] in [[Mapping-Routine#the-six-6|hexagonal form]] by '''''six (6)''' [[Mapping-Spreading|corresponding sets]]'' while [[Mapping-Employment|each sets]] pick [[Mapping-Merging|a combination]] of '''''six (6)''' [[Mapping-Settlement|routes]]'' with [[Mapping-Comparison|a pairing]] of '''''six (6)''' to '''six (6)''' of [[Mapping-Overall|all channels]]''.</blockquote> 
 
