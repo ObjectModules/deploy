@@ -236,7 +236,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/]]
 [[<img src="https://avatars3.githubusercontent.com/u/366151?v=3&s=20">|http://tophyipmonitor.tumblr.com/]]
-[[<img src="https://lh3.googleusercontent.com/-twtF1nolk44/VipbLIVZVVI/AAAAAAAAAW4/Lvv3Poy6yZQ/s20/Internetarchive.jpg">|https://archive.org/bookmarks/Hyip]]
+[[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipsinfo]]
       </td>
     </tr>
   </tbody>
