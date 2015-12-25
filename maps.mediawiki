@@ -53,8 +53,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td>[[<code>info</code>|https://github.com/hyip/info]]</td>
       <td>[[:cow2:|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://github.com/hyip]] [[<img src="https://avatars1.githubusercontent.com/u/11951641?v=3&s=20">|https://github.com/hyipinfo]]</td>
-      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://github.com/hyip/info/wiki]] [[:twisted_rightwards_arrows:|https://github.com/hyipinfo/info/wiki]] [[:house_with_garden:|https://github.com/hyipinfo/info]]
-      </td>
+      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://github.com/hyip/info/wiki]] [[:twisted_rightwards_arrows:|https://github.com/hyipinfo/info/wiki]] [[:house_with_garden:|https://github.com/hyipinfo/info]]</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipproject]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/BeSweetRetweets]]
@@ -70,8 +69,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
       <td>[[:elephant:|https://tophyipmonitor.wordpress.com/hyip-world/nature-6/#main]]</td>
       <td scope="row>[[<img src="https://avatars2.githubusercontent.com/u/11951714?v=3&s=20">|https://github.com/hyipworld]] [[<img src="https://avatars0.githubusercontent.com/u/16049713?v=20&s=20">|https://github.com/hyipsworld]]</td>
-      <td scope="row>[[:house:|https://github.com/hyipworld/hyipworld.github.io/wiki]] [[:cinema:|https://github.com/hyipsworld/hyipsworld.github.io/wiki]] [[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://github.com/hyipsworld/hyipsworld.github.io]]
-      </td>
+      <td scope="row>[[:house:|https://github.com/hyipworld/hyipworld.github.io/wiki]] [[:cinema:|https://github.com/hyipsworld/hyipsworld.github.io/wiki]] [[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://github.com/hyipsworld/hyipsworld.github.io]]</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipworld]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/hyip_world]]
@@ -102,10 +100,8 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>hyip</code></td>
       <td>[[<code>monitor</code>|https://github.com/hyipmonitor/hyipmonitor.github.io]] </td>
       <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/nature-3/#main]]</td>
-      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951330?v=3&s=20">|https://github.com/hyipmonitor]] [[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/tophyipmonitor]]
-      </td>
-      <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] [[<img src="https://avatars3.githubusercontent.com/u/9919?v=3&s=20">|https://github.com/hyip/rating/wiki/HYIP-Monitors]]
-      </td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951330?v=3&s=20">|https://github.com/hyipmonitor]] [[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/tophyipmonitor]]</td>
+      <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] [[<img src="https://avatars3.githubusercontent.com/u/9919?v=3&s=20">|https://github.com/hyip/rating/wiki/HYIP-Monitors]]</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/tophyipmonitors/]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/tophyipmonitor]]
@@ -137,8 +133,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td>[[<code>rating</code>|https://github.com/hyiprating/hyiprating.github.io]]</td>
       <td>[[:honeybee:|https://tophyipmonitor.wordpress.com/hyip-rating/nature-2/#main]]</td>
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951695?v=20&s=20">|https://github.com/hyiprating]] [[<img src="https://avatars1.githubusercontent.com/u/16017028?v=20&s=20">|https://github.com/tophyip]]</td>
-      <td scope="row">[[:house:|https://github.com/hyiprating]] [[:cinema:|http://tophyips.info/]] [[<img src="http://lh3.googleusercontent.com/-dK5aS3tBne0/AAAAAAAAAAI/AAAAAAAAL-Q/wktL27CoDNE/s20-c-a/photo.jpg">|http://blog.tophyips.info/]]
-      </td>
+      <td scope="row">[[:house:|https://github.com/hyiprating]] [[:cinema:|http://tophyips.info/]] [[<img src="http://lh3.googleusercontent.com/-dK5aS3tBne0/AAAAAAAAAAI/AAAAAAAAL-Q/wktL27CoDNE/s20-c-a/photo.jpg">|http://blog.tophyips.info/]]</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/tophyips.info]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
@@ -154,7 +149,6 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td>[[<code>team</code>|https://github.com/hyip/team]]</td>
       <td>[[:ant:|https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main]]</td>
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://github.com/hyip]] [[<img src="https://avatars1.githubusercontent.com/u/11951641?v=3&s=20">|https://github.com/hyipinfo]]</td>
-      </td>
       <td scope="row">[[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://github.com/atlassian]] [[:twisted_rightwards_arrows:|https://bitbucket.org/hyips/]] :house_with_garden:</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
@@ -171,8 +165,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td>[[<code>script</code>|https://github.com/hyipscript/hyipscript.github.io]]</td>
       <td>[[:horse_racing:|https://tophyipmonitor.wordpress.com/hyip-scripts/nature-5/#main]]</td>
       <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11951705?v=3&s=20">|https://github.com/hyipscript]] [[<img src="https://avatars2.githubusercontent.com/u/11951884?v=3&s=20">|https://github.com/hyipteam]]</td>
-      <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] [[<img src="http://lh3.googleusercontent.com/-xSKJbyl_5ZA/AAAAAAAAAAI/AAAAAAAAAGs/87PBRUKgmr0/s20-c-a/photo.jpg">|https://plus.google.com/+WordPress/]]
-      </td>
+      <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] [[<img src="http://lh3.googleusercontent.com/-xSKJbyl_5ZA/AAAAAAAAAAI/AAAAAAAAAGs/87PBRUKgmr0/s20-c-a/photo.jpg">|https://plus.google.com/+WordPress/]]</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipscript.info]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/hyip_script]]
@@ -187,14 +180,8 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>main</code></td>
       <td>[[<code>script</code>|https://github.com/hyip/script]]</td>
       <td>[[:horse_racing:|https://tophyipmonitor.wordpress.com/hyip-scripts/nature-5/#main]]</td>
-      <td scope="row">
-[[<img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20">|https://github.com/hyipscripts]]
-[[<img src="https://avatars0.githubusercontent.com/u/16302900?v=3&s=20">|https://github.com/hyipforum]]
-      </td>
-      <td scope="row">
-[[<img src="https://lh3.googleusercontent.com/-RS9W3yX70kQ/Vi0QinVIOsI/AAAAAAAAAX4/AsHcKfYT54c/s20/sf-logo.png">|http://sourceforge.net/p/hyipscript/wiki/]]
-[[:twisted_rightwards_arrows:|https://feedburner.google.com/fb/a/myfeeds]] :house_with_garden:
-      </td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20">|https://github.com/hyipscripts]] [[<img src="https://avatars0.githubusercontent.com/u/16302900?v=3&s=20">|https://github.com/hyipforum]]</td>
+      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-RS9W3yX70kQ/Vi0QinVIOsI/AAAAAAAAAX4/AsHcKfYT54c/s20/sf-logo.png">|http://sourceforge.net/p/hyipscript/wiki/]] [[:twisted_rightwards_arrows:|https://feedburner.google.com/fb/a/myfeeds]] :house_with_garden:</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipscripts]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
@@ -210,8 +197,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td>[[<code>team</code>|https://github.com/hyipteam/hyipteam.github.io]]</td>
       <td>[[:ant:|https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main]]</td>
       <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11951884?v=3&s=20">|https://github.com/hyipteam]] [[<img src="https://avatars2.githubusercontent.com/u/11951705?v=3&s=20">|https://github.com/hyipscript]]</td>
-      <td scope="row">[[:house:|https://github.com/hyipteam]] [[:cinema:|http://team.hyip.world/]] [[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://confluence.atlassian.com/bitbucket/publishing-a-website-on-bitbucket-cloud-221449776.html]]
-      </td>
+      <td scope="row">[[:house:|https://github.com/hyipteam]] [[:cinema:|http://team.hyip.world/]] [[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://confluence.atlassian.com/bitbucket/publishing-a-website-on-bitbucket-cloud-221449776.html]]</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
@@ -243,8 +229,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io]]</td>
       <td>[[:cow2:|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>
       <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951641?v=3&s=20">|https://github.com/hyipinfo]] [[<img src="https://avatars2.githubusercontent.com/u/10099662?v=20&s=20">|https://github.com/hyipsinfo]]</td>
-      <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] [[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program]]
-      </td>
+      <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] [[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program]]</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipblogs]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/#be_sweet_rt]]
