@@ -172,7 +172,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://google.com/+HyipScript]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-scripts/]]
 [[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-script]]
-[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyipscript.info]]
+[[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipscript]]
       </td>
     </tr>
     <tr>
@@ -188,7 +188,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip-script/]]
 [[<img src="https://lh3.googleusercontent.com/-DEYxYN_riUY/VipEhu1PPyI/AAAAAAAAAHg/UzX9Nw8QE8I/s20/stackoverflow.png">|http://stackoverflow.com/users/4058484]]
-[[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipscript]]
+[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyipscript.info]]
       </td>
     </tr>
     <tr>
