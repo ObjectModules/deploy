@@ -91,7 +91,9 @@ As you know that it is really difficult to find such a good services when you ha
 
 [[https://github.com/hyip/info/wiki/Mapping|<img src="https://tophyipmonitor.files.wordpress.com/2015/08/hyip-target.jpg">]]  
 
-As ''[[https://tophyipmonitor.wordpress.com/hyip-business/|HYIP]]'' is a part of the world of Investment it does not rule out the possibility for us to provide such kind of real business information like ''best investment return'', ''best short term investment'', ''low risk investments'', ''investment fund'', that can be also some more valuable ones like ''short or long term loans'', ''reliable insurance company'', as well as for ''finance'', ''trading'' etc. 
+This project will limit the scope up to the mapping as shown in ''[[https://github.com/hyip/info/wiki/maps#by-tabulation|The Project Map]]'' which direction is digging in the scope of ''[[https://tophyipmonitor.wordpress.com/hyip-business/|HYIP]]''. As HYIP is a part of the world of Investment it does not rule out the possibility to attched this project into up direction.
+
+This will open a wider chalenge for us to provide such kind of real business information like ''best investment return'', ''best short term investment'', ''low risk investments'', ''investment fund'', that can be also some more valuable ones like ''short or long term loans'', ''reliable insurance company'', as well as for ''finance'', ''trading'' etc. 
 
 <blockquote><p>And that we are able to provide all of them in an accountable manner.</p></blockquote>
 
@@ -102,7 +104,6 @@ As Google has made a nice and beautiful documentation for each of their product 
 We have also setup our [[https://tophyipmonitor.wordpress.com/hyip-world/|Official Blog]] for public discussion. The project discussion will not only cover the [[https://tophyipmonitor.wordpress.com/hyip-rating/|HYIP Sites and Rating Analysis]] but also the [[https://tophyipmonitor.wordpress.com/hyip-forums/|HYIP Forum]], [[https://tophyipmonitor.wordpress.com/hyip-monitors/|HYIP Monitor]], [[https://tophyipmonitor.wordpress.com/hyip-scripts/|HYIP Script]], and every other sources that are involved in this business model.
 
 At last but not least we welcome for your comments or [[https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program|opinion to our project]]. Please feel free to try your hand at building other formats; any discussion will be opened later once the application is meeting the most targets as described above.
-
 
 == Update ==
 As an update we would like to announce that we have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer.:pray:    
