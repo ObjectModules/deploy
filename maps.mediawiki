@@ -86,7 +86,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>main</code></td>
       <td>[[<code>rating</code>|https://github.com/hyip/rating]]</td>
       <td>[[:honeybee:|https://tophyipmonitor.wordpress.com/hyip-rating/nature-2/#main]]</td>
-      <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/16017028?v=20&s=20">|https://github.com/tophyip]] [[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/tophyipmonitor]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://github.com/hyip]] [[<img src="https://avatars1.githubusercontent.com/u/11951641?v=3&s=20">|https://github.com/hyipinfo]]</td>
       <td scope="row">[[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/rating/wiki/HYIP-Forums]] :house_with_garden:</td>
       <td scope="row">
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/TopHyipsDotInfo]]
@@ -153,7 +153,7 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
       <td scope="row"><code>main</code></td>
       <td>[[<code>team</code>|https://github.com/hyip/team]]</td>
       <td>[[:ant:|https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main]]</td>
-      <td scope="row">[[<img src="https://avatars0.githubusercontent.com/u/16302900?v=3&s=20">|https://github.com/hyipforum]] [[<img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20">|https://github.com/hyipscripts]]
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://github.com/hyip]] [[<img src="https://avatars1.githubusercontent.com/u/11951641?v=3&s=20">|https://github.com/hyipinfo]]</td>
       </td>
       <td scope="row">[[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://github.com/atlassian]] [[:twisted_rightwards_arrows:|https://bitbucket.org/hyips/]] :house_with_garden:</td>
       <td scope="row">
