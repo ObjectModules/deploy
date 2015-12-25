@@ -84,7 +84,7 @@ This is just a model to give you a figure on how we are going to start.
 
 === Destination ===
 
-This project will limit the scope up to the mapping as shown in ''[[https://github.com/hyip/info/wiki/maps#by-tabulation|The Project Map]]'' which direction is digging in the scope of ''[[https://tophyipmonitor.wordpress.com/hyip-business/|HYIP]]''. As HYIP is a part of the world of Investment it does not rule out the possibility to attache this project into up direction along with other scope to become an Integrated Investment Application.
+This project will limit the scope up to the mapping as shown in ''[[https://github.com/hyip/info/wiki/maps#by-tabulation|The Project Map]]'' which direction is digging in the scope of ''[[https://tophyipmonitor.wordpress.com/hyip-business/|HYIP]]''. As HYIP is a part of the world of Investment it does not rule out the possibility to attache this project into up direction along with other scope to become an ''[[https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program|Integrated Investment Application System]''.
 
 This will open a wider chalenge for us to provide such kind of real business information like ''best investment return'', ''best short term investment'', ''low risk investments'', ''investment fund'', that can be also some more valuable ones like ''short or long term loans'', ''reliable insurance company'', as well as for ''finance'', ''trading'' etc. 
 
