@@ -542,7 +542,6 @@ The page location and position on a site are not mandatory. They will become imp
 
 An easy way to figure out the kind of channel you can see them on [[our blog|https://tophyipmonitor.wordpress.com/]] which have ''six (6)'' main pages that also stand as main menu. Here are the tabulation of the pages and their configuration of the concept implementation.
 
-As shown on our main site, you may check on each of our profile on networking scheme, this kind of hexagonal configuration will also be our key mapping in globalization of this concept which consist of Hyip Monitoring & Rating (1), Marketing Strategy (2), Application Script (3), Topic Discussion (4), News & Blogging (5), and Social Coding (6).
 <table>
    <thead><tr><th>#</th><th>:camera:</th><th>Page Title</th><th>[[:cow:|https://tophyipmonitor.wordpress.com/hyip-world/project/#main]]</th></tr></thead>
    <tbody><tr><td>1</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/what_is_high_yield_investment_programs.jpg?w=20"|https://tophyipmonitor.wordpress.com/hyip-business/what_is_high_yield_investment_programs/#main]]</td><td>[[Hyip Business|https://tophyipmonitor.wordpress.com/hyip-business/]]</td><td>[[:cow2:|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td></tr></tbody>
@@ -556,6 +555,9 @@ As shown on our main site, you may check on each of our profile on networking sc
 Try to click the picture (:camera:) or nature ([[:cow:|https://tophyipmonitor.wordpress.com/hyip-world/project/#main]]) of each pages, you will see a map showing a pair of our related repos and wikis that connected to the page as a user profile. You may see also that every other page than the ''six (6) main pages'' like ''[[mapping|https://tophyipmonitor.wordpress.com/hyip-world/mapping/]]'' is put under the sub menus. 
 
 Beside the ''six (6)'' pages there also a main link stand as ''[[the site address|https://tophyipmonitor.wordpress.com/]]''. The link is assigned to display every other posting that are made and set to be correlated to each of the pages using ''[[category|https://en.support.wordpress.com/posts/categories/]]'' and ''[[tagging|https://en.support.wordpress.com/posts/tags/]]''.
+
+On a wider scope, this kind of hexagonal configuration will also be our mapping key. As shown at our main site our networking scheme assign our profile on each of Hyip Monitoring & Rating (1), Marketing Strategy (2), Application Script (3), Topic Discussion (4), News & Blogging (5), and Social Coding (6).
+
 === Comparation ===
 When all the routes on 2nd and 3rd employment is completed then the mapping will come to the main repo of <code>world </code> which is the 1st route of the 1st-employment as shown below:
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_route_21.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_21/#main]]<br />
