@@ -29,7 +29,7 @@ We hope you have enjoyed to what we have explained. You can consider to check al
 This slideshow is presenting ''[[Step by Step Process|https://tophyipmonitor.wordpress.com/hyip-world/mapping/#step-by-step-process]]'' is assigned from and back to ''[[Mapping-Routine|a routine]]''. Now we are going to explain what we are going to do with this concept in our project.
 
 === Routine ===
-As we have explained about ''[[Mapping-Routine#portraying|portraying]]'', to make clear separation between the processes here we take a new repo and wiki named '''''[[hyip|https://tophyipmonitor.wordpress.com/hyip-business/]]''''' taken from our project title. 
+As we have explained about ''[[Mapping-Routine#portraying|portraying]]'', to make clear separation between the processes here we take a new repo and wiki and named it as '''''[[hyip|https://tophyipmonitor.wordpress.com/hyip-business/]]''''' which we took from our project title. 
 
 Based on our documentation about ''[[GitHub Pages|https://github.com/hyipworld/hyipworld.github.io/wiki/GitHub-Pages]]'' we recommend to use User Repository for the ''main process'', and take the Organization for ''hyip process''.
 
