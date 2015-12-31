@@ -160,7 +160,7 @@ Let's put it this way:<br />
 === Portraying ===
 We will need also to display the process to the web. Here we make a separation between the flowing of the process to become able to be displayed (''<a href="https://en.wikipedia.org/wiki/Cartography#Map_generalization" target="_blank">portraying</a>''). 
 
-We also need to give a different title of on it to be easily defined. So just simply make the same diagram but add another word to the process of this displaying. Here we put our project name `hyip` as our choice on the displaying process.   
+We also need to give a different title of on it to be easily defined. So just simply make the same diagram but add another word to the process of this displaying. Here we put our project name ''[[`hyip`|https://tophyipmonitor.wordpress.com/hyip-business/]]'' as our choice on the displaying process.   
 
 Here is now the diagram will look like:  
 [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]]  
