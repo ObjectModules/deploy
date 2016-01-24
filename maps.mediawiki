@@ -255,7 +255,7 @@ You may choose whatever the 6 (six) of channel links you like as long as the can
 * ''<a href="https://en.gravatar.com/connect/" target="_blank">Gravatar</a>''.
 * ''<a href="https://wordpress.com/sharing/" target="_blank">Wordpress</a>''. 
 
-It is recommended that '''the first four (4) brands''' on each of  channels will need to be the same. They also need to be arranged on pair in '''six (6) groups''' of '''two (2) channels''' each.
+It is recommended that '''the first four (4) brands''' on each of  channels will need to be the same. They also need to be arranged on pair in '''six (6) groups''' of '''two (2) channels''' each.<br /><br />
 
 You may follow us on assignment of your domain(s). Take a look at the assigned ones for '''the last two (2)''' :cinema:. These two (2) shall use subdomains of the assigned domain for the first :cinema: as they will be used in implementing <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing" target="_blank">cross domain</a>.
 
