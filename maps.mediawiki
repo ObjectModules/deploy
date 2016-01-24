@@ -245,15 +245,19 @@ Here are the tabulation showing the list of ''[[Mapping-Overall|overall process]
 * :radio_button: Progress Status, Defined by Clock, :clock12: = 0%
 * :cow: Nature of Content, Provided with the Link to each Wiki  
 * :house: Organization Page, The List of Repositories (User+Forked)  
-* :cinema: Assigned Domain. [[Mapping-Routine#portraying|Portraying]] the content of each process on the web  
-'''''Guidance:'''''
-* ''As shown in [[maps#by-tabulation|the table]]. You may choose one (1) kind of '''Nature''' per rows. Plus (2) links in '''Form''' column, and three (3) in '''Route''' column become six (6) in total. This six (6) will need to be on pair with another six (6) links on '''Channel''' column.''  
-* ''You may choose whatever the 6 (six) of channel links you like as long as the can be connected each other. However, they will need to be one-by-one mapping. Confusing them can destroy the power of our concept. Please login to all your channel then make sure them by checking:''
+* :cinema: Assigned Domain. [[Mapping-Routine#portraying|Portraying]] the content of each process on the web.
+  
+== By Configuration ==
+As shown in [[maps#by-tabulation|the table]]. You may choose one (1) kind of '''Nature''' per rows. Plus (2) links in '''Form''' column, and three (3) in '''Route''' column become six (6) in total. This six (6) will need to be on pair with another six (6) links on '''Channel''' column.  
+
+You may choose whatever the 6 (six) of channel links you like as long as the can be connected each other. However, they will need to be one-by-one mapping. Confusing them can destroy the power of our concept. Please login to all your channel then make sure them by checking:
 ** ''<a href="https://profiles.google.com/connectedaccounts" target="_blank">Google+</a>''.
 ** ''<a href="https://en.gravatar.com/connect/" target="_blank">Gravatar</a>''.
 ** ''<a href="https://wordpress.com/sharing/" target="_blank">Wordpress</a>''. 
-* ''It is recommended that '''the first four (4) brands''' on each of  channels will need to be the same. They also need to be arranged on pair in '''six (6) groups''' of '''two (2) channels''' each.''  
-* ''You may follow us on assignment of your domain(s). Take a look at the assigned ones for '''the last two (2)''' :cinema:. These two (2) shall use subdomains of the assigned domain for the first :cinema: as they will be used in implementing <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing" target="_blank">cross domain</a>''.
+
+It is recommended that '''the first four (4) brands''' on each of  channels will need to be the same. They also need to be arranged on pair in '''six (6) groups''' of '''two (2) channels''' each.  
+
+You may follow us on assignment of your domain(s). Take a look at the assigned ones for '''the last two (2)''' :cinema:. These two (2) shall use subdomains of the assigned domain for the first :cinema: as they will be used in implementing <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing" target="_blank">cross domain</a>.
 
 == The Formation ==
 In ''[[maps#by-tabulation|the table]]'', on each rows of <code>main</code>, follow to the '''''one (1)''''' link of their nature in kind of ''repo or wiki'', the '''''two (2)''''' kind of links in the ''Form Column'' will represent ''[[Mapping-Spreading|a spreading]]'' while the '''''three (3)''''' links in ''Route Column'' will present ''[[Mapping-Employment|an employment]]''.<br /><br />When these links are combined with the '''''six (6)''''' ''Channel Links'' by ''[[Mapping-Merging|a merging]]'' they will generate a group of '''''twelve (12)''''' new kind of processes. Pairing the twelve (12) with the associated group on the row of <code>hyip</code> then it will become '''''twenty four (24)''''' of new processes all together.<br /><br />See that the ''twenty four (24)'' formation is the same again with the '''''six (6)''' to '''six (6)''''' mapping shown ''[[by diagram|https://github.com/hyip/info/wiki/maps#by-mapping-diagram]]''. So it will let the mapping always be the same in ''[[Mapping-Routine#the-six-6|hexagonal form]]'' for all of '''''up''''' direction (attaching), '''''side by side''''' direction (combining), or evenso '''''spread''''' direction (digging).<br /><br />This kind of configuration will then allow ''[[the unique system|https://github.com/hyip/info/wiki/Mapping#what-we-offer]]'' to be implemented throughout an unlimited ''[[destination|https://github.com/hyip/info/blob/master/README.wiki#destination]]'' as their formation will always become unified on every directions.
