@@ -10,6 +10,8 @@ This project is made in the purpose of getting a possibility to build an interfa
 
 It aim to have the access and running all available program language like ''[[https://developers.google.com/appengine/docs/python/|Python]], [[https://developers.google.com/appengine/docs/java/|Java]], [[https://developers.google.com/appengine/docs/php/|PHP]], [[https://developers.google.com/appengine/docs/go/|Go]]'' with possible also ''[[http://www.scala-lang.org/old/node/1831|Scala]] and [[http://code.google.com/p/appengine-jruby/|Ruby]]'' and run them in the ''same time'' into a SINGLE PAGE using a SINGLE DOMAIN without even need any sub domains! 
 
+[[https://github.com/hyip|<img src="https://tophyipmonitor.files.wordpress.com/2015/10/programming.png">]]
+
 Thanks to Google for bring this possibility to the world and making it happen.
 
 == Structure ==
@@ -18,8 +20,6 @@ In order to run all program language in the same time then they are configured a
 * '''''[[https://www.java.com/en/|Java]]''''' is used to access all javascript file with an access to Servlet Application run from Java / Javascript Framework such as ''[[http://www.gwtproject.org/|GWT]]'' and compiled as ''scripts module''.
 * '''''[[http://php.net/|PHP]]''''' is used to generate the front page run from PHP Framework such as ''[[http://www.zend.com/|Zend]], [[http://kohanaframework.org/|Kohana]]'' etc and collected altogether in a ''default module''.
 * '''''[[http://golang.org/|Go]]''''' is used to access any application that Support for ''[[https://www.docker.com/|Docker images]]'' in Google Cloud Platform with an intention to have a possibility to run and gain access a global structure application that run in other languages such as ''[[http://www.perl.org/|Perl]], [[http://en.wikipedia.org/wiki/C%2B%2B|C, C++]]'', etc.
-
-[[https://github.com/hyip|<img src="https://tophyipmonitor.files.wordpress.com/2015/10/programming.png">]]
 
 === Application ===
 Having possibility to run all language then we have no more resistant to gain a ''simultaneously'' access to any other [[https://developers.google.com/products/|GOOGLE PRODUCT]] including ''Google Talk, [[https://developers.google.com/android/|Google Play Androids]], [[https://developers.google.com/maps/|Google Maps]], [[https://drive.google.com/|Google Drive]], [[https://developers.google.com/wallet/|Google Wallet]], [[http://www.google.co.id/analytics/tag-manager/|Google Tag Manager]], [[https://developers.google.com/youtube/|Youtube]]'', etc. which also open an access to more ''widely and global'' application such as ''[[https://developers.google.com/compute/|Compute Engine]] and [[https://developers.google.com/bigquery/|Big Query]]''.
