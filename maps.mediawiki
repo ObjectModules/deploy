@@ -274,7 +274,7 @@ On that case we consider ''[[maps#license|The License]]'' need to be attached. O
 = TODO List =
 No matter whether your lists are work related or just for fun. No matter what you’re planning, how big or small the task may be, TODO list makes it easy to get stuff done.
 == Further Development ==
-We are going to develop further our concept on mapping. We would like to have it displayed on the mapping section of ''[[our main site|http://hyip.world/#templatemo-contact]]'' using a kind of [[programmatic way|https://hub.docker.com/u/hyip/]]. 
+We are going to develop further our concept on mapping. We would like to have it displayed on the mapping section of ''[[our main site|http://hyip.world/#templatemo-contact]]'' using a kind of [[programmatic way|https://hub.docker.com/r/hyip/mapping/]]. 
 
 We have found some projects on GitHub that we can start to do so. Following are the list of URL's which is generated from our forked repository of the said projects.
 * http://hyip.world/GoJS  
