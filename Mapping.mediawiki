@@ -310,7 +310,7 @@ You may agree that this concept is basically applicable for general case. Since 
 
 You can find our explanation about this concept in more detail. We are going also to explain on how we manage a kind of ''[[maps#the-formation|formation]]'' on our section, how we assign each of them to hold that unique task, and finally how they are getting combined on achieving ''[[Mapping-Settlement|a settlement]]''.
 
-You will also find later that we are going to test our concept in such a way that you can easily find whether it is work on ''[[the real world|http://hyip.world/]]'' or not.  
+You will also find later that we are going to test our concept thru our ''[[project mapping|http://maps.hyip.world/]]'' in such a way that you can easily find whether it is work on ''[[the real world|http://hyip.world/]]'' or not.  
 
 == Nonpattern Word (isogram) ==
 Having made a research on what people has been doing a similar with ''[[Mapping#our-concept|our concept]]'', we found this on ''<a href="https://en.wikipedia.org/wiki/Isogram" target="''blank">isogram</a>'' which is a word that doesn't contain any repeating letters.  
