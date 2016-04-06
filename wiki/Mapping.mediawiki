@@ -1,0 +1,402 @@
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Appearance|:arrow_backward:]] [[Appearance|Prev]]</th>
+      <th>[[Mapping|:repeat:]] [[Mapping|Reload|]]</th>
+      <th>[[Mapping-Routine|Next]] [[Mapping-Routine|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>
+
+= Mapping System =
+Welcome to our Mapping Section. You just come to our section that we gonna explain our own concept in detail about the mapping on ''[[our project|https://github.com/hyip]]''.<br />
+
+''Please consider this as a unique concept that you shouldn't find it anywhere without our [[license|https://github.com/hyip/info/wiki/Mapping#license]]. So here we want you to have an open mind. If you're not enjoying it, don't do it.''
+== Background ==
+As we have named this project as ''[['The HYIP Project'|https://github.com/hyip]]'', we would like invite you to visit our ''[[blog page|https://tophyipmonitor.wordpress.com/hyip-project/]]'' that describe in general of what target that we want to achieve.  
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/08/hyip-target.jpg?w=700" alt="High Yard Investment Program">|https://tophyipmonitor.wordpress.com/hyip-world/]]
+
+To achieve on what we have planned there shall be a process involved. Every process from an input to became the output will need an entry and exit points
+
+To make it more clear, let take an example on our daily live. We have to take an example that definitely has an entry and exit points. 
+
+An easy case is when we are hungry so that we need a food to eat. If we don't eat ''the hungry'' will not became an end point, it is stack there. You can see easily find that this process will need to be settled in order to continue our living. 
+
+=== Routines ===
+Consider our living is the global process. If you don't eat then it will jeopardize the global process. So this particular process need to be settled and it will end when take a food to eat. So then global process is run normally.
+
+Here we make a mapping of the process from ''the hungry'':
+
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+
+This is just a simple case. It is a normal process in your live. It is just a routine. 
+
+It will become to your concern if we put a parameter. Say you are hungry. You want to have the best food to eat but you don't know yet which the one is. What are you going to do? 
+
+Let's go for a simple way then. We are going for searching. Try to put a keyword ''<a href="https://www.google.com/search?q=best+food" target="''blank">'best food'</a>'' on Google Search. You will find a huge result which is processed by Google from may be more than a billion pages to choose. 
+
+So which one do you think the best food for you to eat? Are you going to take the food on the top of result? Are you sure if that is the best one for you?
+=== How to find it? ===
+We can say that from what we have explained above, there is a little chance that you able to find your best food from the search result. One thing you should need to aware is that Google and other search engines concern with the pages, ''not the food''.
+
+When a page has a good scoring in term of their algorithm then the page will go up on their search result so you can easily find it. 
+
+It might be somewhere there exist a page that made by someone that contain really your best food but it has only a poor score on the page they are presented, so chance is little for you to find it. The worst case is that it might be there is no page about it so you can't find it anywhere. 
+
+Another thing that you will need to concern is how to be sure that when you find an information about your best food is really your best food. Here chance is also little. None of search engine can guarantee that their result is really the answer to your need. 
+
+''It could even never ever happen on your whole live that you find your best food!''
+
+Say here you agree that you can't get it but you insist to get it. So you better then go to a doctor to know what is the best food for you. Would you define what your doctor is going to do? 
+
+Of course the doctor will do examine yourself, make a diagnosis, and find a food on his/her library that best match to your data. Here the important thing is that the doctor will define the food base on your data, ''not the food that you want''.
+
+It is really different with what if you are going to get the food by yourself, you will find the food with the one you want, ''not the food that best match to your data''. 
+
+=== Just do the way they want ===
+See that the best way you shall do is take the food that the ''doctor want'' you to eat. Not the food that ''you think'' it is the best one for you.
+
+In an extreme case it will be the same. Say you are a very very important person. You are the president of a country. The country will for sure provide you a team of the best doctors in the country. ''They will do their best to find and recommend the best food for you''.
+
+So here, because you are the president, it is not only the doctors but the country and most probably the world would also want you to eat the food base on the recommendation from the doctors. ''Not the food that match to what you think it is the best one for you.''
+
+<blockquote>'''''[[Mapping-Merging#algorithm|Just do the way they want. Not of what you think.<br />Let them find their way to help you get what you want.]]'''''</blockquote>
+
+== Our Concept ==
+Here we are going to do the same way when you go to a doctor. We have to collect out all information in related to all kind of the food and make it to become a library. 
+
+We will also need to examine all of your data, including your age, your genre, your blood structure and everything else that required to find your best food. 
+
+Hopefully then you can follow all the method on getting your best food. 
+
+=== Parameter ===
+See that, getting the library of all kind of the food is one process. Getting the data of yourself is also another process. Both are different.   
+
+Let's define how we are going to get the library in related with the food and the data of yourself in the same way as we made the mapping of the process from ''[[Mapping#background|the hungry]]''. 
+
+Let's put ''best'' as the parameter of the food.
+
+Mapping of the change to your routine process:
+```
+* Looking for your best food will become an entry point
+* An information of best food is what we need 
+* Looking is the process
+* Exit point  
+```
+Mapping of the process to collect the library in related with all kind of the food:
+```
+* All the kind of food will become an entry point
+* Library of all kind of food is what we need 
+* Collection is the process
+* Exit point  
+```
+Then we need also the mapping to examine yourself to get your data:
+```
+* You yourself of looking your best food will become an entry point
+* All your data to define your best food is what we need 
+* Examine is the process
+* Exit point  
+```
+Let's map about the process of getting the best food for you the same way as your doctor do:
+```
+* Both of food library and your data will become the entry point
+* A best food on library for you is what we need 
+* Matching the data is the process
+* Exit point  
+```
+You may see that to get your best food the whole process is divided to ''four (4) mappings''. You can see that each of the process has a different assignment. Each of them hold a unique task, nothing is repeated. <br />   
+<br />
+Check also that none of them is meaningless. These mappings all together are required to give the result that we are going to achieve. <br /> 
+<br />
+At this point it is a big chance that a best food for you out from the library is founded.. <br /> 
+So now you can eat your best food. Your life will become more valuable. 
+
+Congrats!  
+
+=== All back to routines ===
+One thing you shall note here that the original mapping, lets call it as ''[[Mapping-Routine|a routine]]'', is always remain included in the process on getting your best food. It is counted as the part of all of the ''four (4) mappings''. It is still remain do its task of its routine. 
+
+Consider this in a sense way. Let's say you are in the process on finding your best food. Are you going to stop your routines of eating your daily food until you get your best food?
+
+Other thing is that when you already get to know what is the best food for you then the food is ''no more stand as a best food''. It is only the one which is founded as the best for you. 
+
+So it is just a food. You will eat it normally as usual. Nothing special.
+
+Once it is happen then the other processes are remain stay but no more required to be carry out as the whole process will return back the original process. All back to routines.
+
+=== Factors ===
+The power of ''[[Mapping#our-concept|this concept]]'' is that whenever a process is not going to be settled then you can easily spread those factors that making the process stack with the same method as we have explained above. 
+
+You may also identify the factors using ''<a href="https://en.wikipedia.org/wiki/Ishikawa''diagram" target="''blank">Fishbone Diagram</a>'', put the potential ones in to the mapping. Spread it again when a solution is not going to be achieved. 
+
+Here is the diagram is look like:
+
+[[https://tophyipmonitor.files.wordpress.com/2015/10/fishbone.png]]<br />
+One thing you shall note about ''[[Mapping-Spreading|a spreading]]'' is that our concept is work only with a new unique process. Whenever it found the same identical process than the one which is already take a place will do its own spreading and open a new place for the said process. 
+
+On the next step the spreading will take the further process for doing ''[[Mapping-Comparison|a comparison]]'' which will let the one that has a better result to take the place on the main process. This kind of spreading will remain the whole system to stay on its behavior as a unique process. 
+
+Therefore the concept will allow an unlimited number of spreading. You can see that you may go into a wider or a global problem solution whatever you want. Find the effective ideas. Use ''<a href="https://en.wikipedia.org/wiki/Mind_map" target="_balnk">MindMap</a>'' or plan a session if necessary. 
+
+Then finally, get them all into small pieces that you or your team can cope with. Settle them one by one. Once it is going to be settled then it will return automatically to the original process and keep you remain on the track to what you are going to achieve.
+
+=== Settlement ===
+
+See the mapping of the routines, you may count that number of elements is also ''four (4)'', same as the number of the required mapping when a factor is spread. 
+
+In our concept, when ''four (4) mappings'' is going to return to its original of ''four (4) elements'', we call it as ''[[Mapping-Settlement|a settlement]]''.  
+
+So here in our case, whatever you have done as long as you follow the concept, all will back to the original process but now you got already your 'Best Food'.  
+```
+* Hungry will become an entry point
+* 'Best Food' is what we need 
+* Eat is the process
+* Exit point  
+```
+
+Since you still have the original run in the system then it will become as ''two (2) identical sets'' where the 'Best Food' is still considered as ''a new process'' (unrecognized).
+```
+* Hungry will become an entry point
+* 'Best Food' is what we need 
+* Eat is the process
+* Exit point  
+```
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+
+So here a process of ''[[Mapping-Comparison|a comparison]]'' will be called, say The 'Best Food' is the winner. The original one is remain stay as ''a reference'' or ''a backup''.  
+```
+* Hungry will become an entry point
+* 'Best Food' is what we need 
+* Eat is the process
+* Exit point  
+```
+
+Then the 'Best Food' will stand just a 'Food' when it is implemented ''as part'' of ''[[Mapping-Overall|an overall]]'' system. Here ''a regular check'' will be assigned also ''as part'' of the overall system. 
+```
+* Hungry will become an entry point
+* 'Food' is what we need 
+* Eat is the process
+* Exit point  
+```
+
+Finally, it will become the same routine just exactly the same as before we put the parameter of 'best' to the food. Just a process of eating a food.
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+
+See here everything is back to normal. <br /> 
+All back to ''[[Mapping-Routine|a routine]]''.<br /> 
+Settled.
+
+= What's Next =
+
+Hopefully you have clear enough to what we have explained above. You see here that we are not going to give your best food, nor even an information about your best food. We just give you a method of how to get an information about your best food.
+
+== What is this project stand for? ==
+Why are we intend to do it then?  <br />
+Simple, it is because you cannot find your best food on search engine, correct?  <br />
+If you can find easily there then for sure this project will never come to exist. No point for us.
+
+=== Our Target ===
+Unfortunately we are not making this project to give an information about your best food.  <br />
+What is really people deeply seeking? A best food? Nope..   
+
+A search engine? You got some already.   <br />
+We shall go wider.. 
+
+Money? Yes!   <br />
+How to get the money then..  <br />
+Of course  we have to do some business.  
+
+Which business then? 
+
+Here a big question mark is coming again. What shall we do?  <br />
+Are we going for searching again? Of course not.  <br />
+Let's do the same way as the method of finding your best food. 
+
+You are correct!  <br />
+We need to get a library of the business. Then we can find the best business.  
+
+How to define the best one then.  <br />
+No other way.. we have to match them to what we need and get them scored one by one.
+
+This is our point!  <br />
+That is where we want to go.
+
+As we have mentioned in our ''[[project description|https://github.com/hyip/info]]'', we intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ‘keyword base’ search result to the world.
+
+So how to become the best one then?<br />  
+Let's find first how people define about the best it self is. 
+
+=== How to become the best? ===
+Most probably we can say that Google Still World's Most Popular Search Engine By Far.  <br />
+Why is Google successful?  As usual, Let's try ''<a href="https://www.google.com/search?q=what+makes+google+the+best+search+engine" target="''blank">searching</a>'' again.
+
+Here are what we got. We put here just for example:
+* <a href="http://www.googleguide.com/searchLeader.html" target="''blank">Why is Google Popular?</a>
+* <a href="http://www.todayszaman.com/blog/mustafa-gerdan/why-is-google-successful''337734.html" target="''blank">Why is Google successful?</a>
+* <a href="http://www.answers.com/Q/Why''is''Google''the''best''search''engine" target="''blank">Why is Google the best search engine</a> 
+* <a href="http://www.entrepreneur.com/article/224639" target="''blank">Bing vs. Google: Which Search Engine is Best?</a>
+* <a href="http://searchengineland.com/google-worlds-most-popular-search-engine-148089" target="''blank">Google Still World's Most Popular Search Engine By Far</a>
+* <a href="http://www.businessinsider.com/accurate-contrarian-theories-2011-5" target="''blank">Why Google Succeeded Where Other Search Engines Failed</a>
+
+Here you can see that there are a number of reasons or parameters that people say to describe how Google become the best search engine.<br /><br />
+
+It is quite amazing because usually when people put different criteria then the result can be different, let take an example, say what is the best food now in the world? Every one can give different answer based on their parameter or criteria. 
+
+But when people is asked what the best search engine is, although there are so many search engines in the world, most probably you will find that Google is the answer whatever criteria that people use. 
+
+''We can define the best is when people have a different criteria but the same answer.''
+
+Are you with us? We would think so. But it sound unfair, right? Why?  <br />
+You have already the answer to your best search engine easily.  <br />
+How about your best food? Do you have already find one? 
+
+This is the real world.
+
+=== Unique Mapping ===
+Now we are going to find how that a different criteria will come to the same answer.
+
+How you think if there is another site provides exactly the same or better service like Google? Of course you will get two choice, so there will be difficult to find which one as the best.
+
+The logical thing to answer this is that "there is one and only one", so wherever the criteria is used then the answer going to that one since there is no other one to choose.
+
+They can do get as the best because people can only find such of the service in Google. Means here Google can provide a service that is unique. 
+
+So "there is one and only one". 
+=== Overall Implementation ===
+In mathematics and logic, the phrase "there is one and only one" is used to indicate that exactly one object with a certain property exists. In mathematical logic, this sort of quantification is known as uniqueness quantification or unique existential quantification.
+
+The most common technique to proving uniqueness is to first prove existence of entity with the desired condition; then, to assume there exist two entities (say, a and b) that should both satisfy the condition, and logically deduce their equality, i.e. a = b.
+
+=== Encoding and Decoding ===
+From ''<a href="http://searchnetworking.techtarget.com/definition/encoding-and-decoding" title="_blank">this page</a>'' we can describe that in computers, encoding is the process of putting a sequence of characters (letters, numbers, punctuation, and certain symbols) into a specialized format for efficient transmission or storage. Decoding is the opposite process -- the conversion of an encoded format back into the original sequence of characters.
+
+The terms encoding and decoding are often used in reference to the processes of analog-to-digital conversion and digital-to-analog conversion.
+In this sense, these terms can apply to any form of data, including text, images, audio, video, multimedia, computer programs, or signals in sensors, telemetry, and control systems. 
+
+Encoding should not be confused with encryption, a process in which data is deliberately altered so as to conceal its content. Encryption can be done without changing the particular code that the content is in, and encoding can be done without deliberately concealing the content.
+=== What we offer ===
+Here we expect that you got already the bottom line of ''[[Mapping#our-concept|our concept]]''. You can say that this project is about a ''[[Mapping#mapping-system|Mapping System]]''. ''A unique mapping system to define between what we do want with the way that we are going to achieve it''.  
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/mapping.jpg" alt="Project Mapping">|https://github.com/hyip/info/wiki/maps#project-map]]
+
+You may agree that this concept is basically applicable for general case. Since we decided to port this project on GitHub, then we are going to explain on how we make an ''[[overall mapping|https://github.com/hyip/info/wiki/Mapping-Overall]]'' to manage our repositories of the project follow to the concept.
+
+You can find our explanation about this concept in more detail. We are going also to explain on how we manage a kind of ''[[maps#the-formation|formation]]'' on our section, how we assign each of them to hold that unique task, and finally how they are getting combined on achieving ''[[Mapping-Settlement|a settlement]]''.
+
+You will also find later that we are going to test our concept thru our ''[[project mapping|http://maps.hyip.world/]]'' in such a way that you can easily find whether it is work on ''[[the real world|http://hyip.world/]]'' or not.  
+
+== Nonpattern Word (isogram) ==
+Having made a research on what people has been doing a similar with ''[[Mapping#our-concept|our concept]]'', we found this on ''<a href="https://en.wikipedia.org/wiki/Isogram" target="''blank">isogram</a>'' which is a word that doesn't contain any repeating letters.  
+
+On ''<a href="http://www.thefreedictionary.com/isogram" target="blank">this page</a>'' the isogram is described as ''a line drawn on a map connecting points having the same numerical value of some variable''.
+
+<blockquote>An isogram (also known as a "nonpattern word") is a logological term for a word or phrase without a repeating letter. It is also used by some to mean a word or phrase in which each letter appears the same number of times, not necessarily just once.</blockquote>
+This `isogram` can be useful as keys in ''<a href="https://en.wikipedia.org/wiki/Cipher" target="''blank">ciphers</a>'', since `isogram` sequences of the same length make for simple one-to-one mapping between the symbols. 
+=== Cipher ===
+Cipher was the European pronunciation of sifr, and cipher came to mean a message or communication not easily understood. There are many theories about how the word "cipher" may have come to mean "encoding".
+
+Codes generally substitute different length strings of characters in the output, while ciphers generally substitute the same number of characters as are input. There are exceptions and some cipher systems may use slightly more, or fewer, characters when output versus the number that were input.
+
+If the algorithm is symmetric, the key must be known to the recipient and sender and to no one else. If the algorithm is an asymmetric one, the enciphering key is different from, but closely related to, the deciphering key. If one key cannot be deduced from the other, the asymmetric key algorithm has the public/private key property and one of the keys may be made public without loss of confidentiality.
+
+<a href="https://en.wikipedia.org/wiki/Claude_Shannon" target="_blank">Claude Shannon</a> proved, using information theory considerations, that any theoretically unbreakable cipher must have keys which are at least as long as the plaintext, and ''used only once'': such as ''one-time pad''.
+=== Google Analytics.js ===
+The word of `isogram` it self is a good sample. It contains of ''seven (7)'' kind of letters. You will not find any repeating on it. So all of them is unique. 
+
+We have found also that Google has made a single function using this word of `isogram`, this function is used worldwide since many years on their JavaScript Snippet called <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced" target="''blank">Advanced Configuration - Web Tracking (analytics.js)</a>.
+
+`The JavaScript tracking tag for Google's new Universal Analytics uses a letter variable names - i, s, o, g, r, a, m, and become ''seven (7)'' variables all together`
+
+Here is the function look likes:
+```js
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+```
+
+We can breakdown the assignment on each kind of the ''seven (7)'' variables as below
+```js
+letter i stand as window  
+letter s stand as document  
+letter o stand as 'script'  
+letter g stand as '//www.google-analytics.com/analytics.js'  
+letter r stand as 'ga'  
+letter a stand as s.createElement(o)  
+letter m stand as s.getElementsByTagName(o)[0]  
+```
+=== Letter Assignment ===
+See that each letter has a different assignment, each of them hold a unique task. None of them is meaningless. All is important especially when they are getting combined. You may try to eliminate one or more characters or elements, see if the function is still work.
+
+It's even built short but the `isogram` itself is really compact that made Google able to asynchronously loads their library called `analytics.js` onto a page and use it for a broad way ''<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/sending-hits" target="''blank">utilization</a>''. 
+
+=== Modification ===
+Since Google made a beta-testing their asynchronous Analytics snippet, the code has been revised several times already, but still people think it can use some more optimizations.
+
+There are some optimized version of the official Google Universal Analytics snippet. Infact the letters can be shorten using six (6) letters as shown on ''<a href="https://github.com/h5bp/html5-boilerplate/commit/48d49e96d6db282eb9686d31ebbc5cbbbdd4d966#all_commit_comments" title="_blank">(b,o,i,l,e,r)</a>'', or even ''five (5) letters'' as shown on ''<a href="https://github.com/shinnn/isogram" target="_blank">isogrammic words</a>''.
+=== Remain ''Seven (7)'' ===
+Despite it is proven that variable letters can be shortened to ''six (6)'' or even exist ''<a href="https://mathiasbynens.be/notes/async-analytics-snippet" target="_blank">a long time discussion</a>'' (since 2010), that involve so many parties to get it in to ''five (5)'', we ''<a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/#the_javascript_tracking_snippet" target="_blank">find</a>'' that Google is remain using ''the seven (7)'' letters of `isogram`. 
+
+We believe that since Google is proven as the best one dealing with ''keywords'', there should be a good reason that Google is remain using this word of ''seven (7)'' variable letters. 
+
+Unfortunately we could not find if Google made it with the word of `isogram` is in a purpose to correlate ''what the word means'' it self into ''what they really want'' with the function.
+=== All The Seven (7) ===
+<a href="http://marketingland.com/google-analytics-is-installed-on-more-than-10-million-websites-9935" target="_blank">This report</a> state that while not providing a specific number, Web Technology Surveys ''<a href="http://w3techs.com/technologies/details/ta-googleanalytics/all/all" target="_blank">says</a>'' that <a href="https://en.wikipedia.org/wiki/Google_Analytics" target="_blank">Google Analytics</a> is appears to be approaching a market share similar to <a href="https://en.wikipedia.org/wiki/Google_Search" target="_blank">Google Search</a> itself.
+
+It is far and away the number one analytics tool on the web, installed by people on the websites more than ''ten (10) times'' from the number two ''<a href="https://statcounter.com/" target="_blank">(StatCounter)</a>'' and used by about ''56 percent'' of all websites.. 
+
+Means that Google is more than successful bring the snippet to the world so that `[[Mapping#nonpattern-word-isogram|isogram]]` is exist and used on more than half of the websites in the globe combined all together ! 
+
+They only failed to assign ''[[Mapping#google-analyticsjs|all the seven (7)]]'' as unified so it cannot be shortened.<br />Means here the ''[[Mapping#cipher|Cipher]]'' is not achieved.<br />''Nobody's Perfect''.
+
+Nevertheless, compare to what we have seen, we found this as a beautiful concept that close enough to ''[[Mapping#our-concept|our concept]]'', which coincidentally, or not coincidentally, is also consist of ''seven (7)'' kind of unique processes.
+
+Let's start on the ''[[Mapping-Routine|the first one]]''. 
+
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Appearance|:arrow_backward:]] [[Appearance|Prev]]</th>
+      <th>[[Mapping|:repeat:]] [[Mapping|Reload|]]</th>
+      <th>[[Mapping-Routine|Next]] [[Mapping-Routine|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,422 @@
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Employment|:arrow_backward:]] [[Mapping-Employment|Prev]]</th>
+      <th>[[Mapping-Merging|:repeat:]] [[Mapping-Merging|Reload]]</th>
+      <th>[[Mapping-Settlement|Next]] [[Mapping-Settlement|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>
+= Merging =
+
+Now we will explain about ''a merging'' in our concept. The process of ''The Last Employment''. Please be prepared your self as this section is the hardest part to follow. 
+
+''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Employment|previous section]]''.
+
+== The Form ==
+Combining all together we have now 3 kind of Employments which are:<br />   
+* ''1. [[Mapping-Employment#1st-employment|Info & World]]: info - world'' <br /> 
+* ''2. [[Mapping-Employment#2nd-employment|Monitor & Rating]]: monitor - rating'' <br /> 
+* ''3. [[Mapping-Employment#3rd-employment|Script & Team]]: script - team''  
+
+Employment can be all kind of process that you want. In our concept we just need ''three (3) of employments''. One for Routine, and the other two for the process in related to the parameter.
+
+You may see that each kind of these ''three (3) of employments'' has four (4) processes, becoming twelve (12)  processes all together.
+
+We have pronounced since the beginning that all the mappings has always got ''four (4) parts''. 
+
+Either mapping for ''[[Mapping-Routine|a routine]]'', diagram for ''[[Mapping-Spreading|a spreading]]'', also for an employment. All of them got always ''four (4) parts'' So why we only take ''three (3) of employments''. Not four (4)? 
+
+Actually there is ''The Fourth (4th)''. Stand as ''The Last Employment''. Very special. The key of all this concept. So let's stop the employments until this point. 
+
+Base the method of mapping, as you have found the the ''[[Mapping-Employment|previous section]]'', we have defined ''[[Mapping-Employment#the-three|the three (3) employments]]'' that represent the first three (3) of our mappings.
+
+So now it is left only the last one. Let put the mapping here:
+```
+* Both of food library and your data will become the entry point
+* A best food on library for you is what we need 
+* Matching the data is the process
+* Exit point  
+```
+See that this mapping is also a process just the same as other mappings. However instead of looking for a kind of a process, this mapping is simply bring all other mapping into its process.<br /><br />
+
+Therefore the kind of employment that represent this mapping will also bring ''[[Mapping-Employment#the-three|the three (3) employments]]'' into the employment task. In our concept we call this process as ''a merging''.<br />
+
+This will make the number of all employments even. It will be also four (4) exactly the same number as when we do every step of mapping of this concept since the beginning.
+
+Counting sequentially from ''a routine'', ''a spreading'', and ''an employment'' then ''a merging'' stand as ''the fourth (4th) unique process'' in our concept.
+
+See also that the 1st Employment is produced by ''a spreading'', the 2nd and 3rd are produced by ''an employment''. The basic different with other employments is that ''The Fourth is not produced''. 
+=== 1st Placement ===
+Let put again all the diagrams that we have got until the ''[[Mapping-Employment|previous section]]''.
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]] 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_spreading.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_spreading/#main]]  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment/#main]]  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment_1.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment_1/#main]]   
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment_2.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment_2/#main]]   
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment_3.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment_3/#main]]  
+
+See that there is a separated line. The line is separating a dotted line. Means they are the exit points. Here we can place another employment.  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_merging_1.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_merging_1/#main]]  
+=== 2nd Placement ===
+Let start put the Employment of [[Mapping-Employment#hyip-monitoring--rating|HYIP Monitoring & Rating]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_merging_2.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_merging_2/#main]] 
+
+See that a ''dotted line'' is meeting a ''straight line'' which not correct. You cannot put another Employment that breaking in the middle into a process that are still not settled.  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_merging_3.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_merging_3/#main]]  
+
+See that the Employment has also a dotted line. Here you can break it, let try to put ''the rating'' first into the Merging. So the result will be as below:   
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_merging_4.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_merging_4/#main]]<br />
+Mapping of the process to collect the library in related with the food:
+```
+* Food will become an entry point
+* Library is what we need 
+* Collect is the process
+* Exit point  
+```
+Here you get the correct merging! 
+=== Overall ===
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_merging_5.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_merging_5/#main]]<br /> 
+Then the digram will be as below:
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_merging_6.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_merging_6/#main]]<br /> 
+Then we need also the mapping to examine your self to get your data:
+```
+* You will become an entry point
+* Your data is what we need 
+* Examine is the process
+* Exit point  
+```
+
+Let's clean the mapping that we get on the last result, now we can get it as shown below:  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_overall.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_overall/#main]] 
+
+This is the result of the employment of ''The Fourth''. The same as other mappings, this result has also four (4) parts, each of them are separated by a line.
+
+You may see that the result is remain consist of ''[[Mapping-Employment#the-three|the three (3) employments]]''. Each of them has ''four (4) processes'' that remain become ''twelve (12) processes'' all together. 
+
+You may count also that ''this twelve'' processes are also remain consist of ''six (6) main'' & ''six (6) displaying'' processes exactly the same when we collect ''[[Mapping-Employment#the-three|the three (3) employments]]''. 
+
+'''So where is ''The Fourth'' then?'''
+
+You may agree that ''The Fourth'' is not ever seen anywhere. But in fact ''The Fourth'' is ''THE ONE'' that bring the merging of ''[[Mapping-Routine|a routine]]'', ''[[Mapping-Spreading|a spreading]]'', ''[[Mapping-Employment|an employment]]'' all together.
+
+So it means that ''The Fourth'' is exist from the beginning till the end. ''The Fourth'' is exist everywhere. From the smallest thing till the biggest part. So ''The Fourth'' is overall. 
+
+'''Without ''The Fourth'' all is nothing!''' 
+
+You may found that on every step of process, we always gave you an example or more in sense way on our daily lives for a kind of every processes that we presented. 
+
+Here we apologize for not doing so. 
+
+Since the time when we found this concept, we took our position to always give our respect to ''The Fourth''. So, again, we leave this to you as you may find such of the sense way by yourself. 
+
+== The Route ==
+Let talk again about the creature of employments. 
+
+You can consider the above diagram is ''the form'' that dominated by ''the spider'' and ''the honeybees''. We will show ''the route'' that dominated by ''the ants'' and ''the horses''.
+=== Flow ===
+Now we are going to tabulate the flow of ''a merging'' similar to what we done for each of the employments. Let's put again all of the tabulations here.
+'''1st Employment'''
+<table> 
+  <thead>
+    <tr>
+      <th>type</th>
+      <th>flow</th>
+      <th>repo</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><i>query</i></td>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write</i><sup><i>1</i></sup></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Query</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write</i><sup><i>3</i></sup></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Result</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row"><i>result</i></td>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>4</sup></i></li>
+          <li>way: <i>display</i></li>
+          <li>object: <i>Result</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>2</sup></i></li>
+          <li>way: <i>receive</i></li>
+          <li>object: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+'''2nd Employment'''
+<table>
+  <thead>
+    <tr>
+      <th>type</th>
+      <th>flow</th>
+      <th>repo</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><i>query</i></td>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup><i>1</i></sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Query</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup>3</sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Result</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row"><i>result</i></td>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>4</sup></i></li>
+          <li>way: <i>display</i></li>
+          <li>object: <i>Result</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>2</sup></i></li>
+          <li>way: <i>receive</i></li>
+          <li>object: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+'''3rd Employment'''
+<table>
+  <thead>
+    <tr>
+      <th>type</th>
+      <th>flow</th>
+      <th>repo</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><i>query</i></td>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup>1</sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Query</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup>3</sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Result</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row"><i>result</i></td>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>4</sup></i></li>
+          <li>way: <i>display</i></li>
+          <li>object: <i>Result</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>2</sup></i></li>
+          <li>way: <i>receive</i></li>
+          <li>object: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+=== All The Creatures ===
+Let's try to tabulate the flow diagram on the merging. Take only the arrow flow on ''all the creatures'' of each employments and connect them each others.
+
+You will find then the flow as shown below:
+<table>
+  <tbody>
+    <tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td><strong><i>R</i></strong></td><td>3</td><td>3</td><td>3</td><td>3</td></tr>
+    <tr><td>:arrow_right:</td><td></td><td></td><td></td><td></td><td></td><td></td><td>:arrow_left:</td><td>3</td><td>:arrow_left:</td><td></td><td></td><td>:arrow_heading_down:</td></tr>
+    <tr><td></td><td>:arrow_lower_right:</td><td></td><td></td><td></td><td></td><td>:arrow_lower_left:</td><td></td><td>3</td><td></td><td>:arrow_upper_left:</td><td>:arrow_upper_right:</td><td>:arrow_down:</td></tr>
+    <tr><td></td><td></td><td>:arrow_lower_right:</td><td></td><td></td><td>:arrow_lower_left:</td><td></td><td></td><td>3</td><td></td><td>:arrow_upper_right:</td><td>:arrow_upper_left:</td><td>:arrow_down:</td></tr>
+    <tr><td></td><td></td><td></td><td>:arrow_lower_right:</td><td>:arrow_lower_left:</td><td></td><td></td><td></td><td>3</td><td>:arrow_upper_right:</td><td></td><td></td><td>:arrow_upper_left:</td></tr>
+    <tr><td></td><td></td><td></td><td>:arrow_lower_left:</td><td>:arrow_lower_right:</td><td></td><td></td><td></td><td>2</td><td>:arrow_up:</td><td></td><td></td><td>:arrow_heading_down:</td></tr>
+    <tr><td></td><td></td><td>:arrow_lower_left:</td><td></td><td></td><td>:arrow_lower_right:</td><td></td><td></td><td>2</td><td></td><td>:arrow_upper_left:</td><td>:arrow_upper_right:</td><td>:arrow_down:</td></tr>
+    <tr><td></td><td>:arrow_lower_left:</td><td></td><td></td><td></td><td></td><td>:arrow_lower_right:</td><td></td><td>2</td><td></td><td>:arrow_upper_right:</td><td>:arrow_upper_left:</td><td>:arrow_down:</td></tr>
+    <tr><td>:arrow_left:</td><td></td><td></td><td></td><td></td><td></td><td></td><td>:arrow_right:</td><td>2</td><td>:arrow_right:</td><td></td><td></td><td>:arrow_upper_left:</td></tr>
+    <tr><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td><strong><i>Q</i></strong></td><td>2</td><td>2</td><td>2</td><td>2</td></tr>
+  </tbody>
+</table>
+
+If you find the same as shown on the above tabulation then let's turn it around from the left to right (just like when you see it from the backside).    
+
+Now, try to compare the flow that you see with the process of ''<a href="https://en.wikipedia.org/wiki/DNA#Replication" target="_blank">DNA Replication</a>'' when they are on the process to be joined together as shown in the figure below:
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/DNA_replication_en.svg">  
+
+Are the both identical? Is there any correlation between them?<br />  
+Again, we leave the answer of this question to yourself.  
+
+== How It Works ==
+Let's talk again about the creatures.
+
+We haven't come yet to ''our target''. We shall find now how ''The Fourth'' bring all those creatures on getting ''the elephant''. 
+
+To discover this we shall go in details, we are going to explain by step-by-step set of operations to be performed. So generally it will be a kind of ''<a href="https://en.wikipedia.org/wiki/Algorithm" target="_blank">algorithm</a>''. 
+
+Let's find the way it is done in detail.
+=== Isomorphism ===
+Since we are talking now about a '''''Specific Target''''' then we want to bring you again to discuss in more details about the ''[[Mapping-Spreading#symbiotic-morphism|Symbiotic Morphism]]'' that we have mentioned before. 
+
+In many fields of mathematics, ''<a href="https://en.wikipedia.org/wiki/Morphism#Definition" target="_blank">morphism</a>'' refers to a structure-preserving map from one mathematical structure to another. The notion of morphism recurs in much of contemporary mathematics. In set theory, morphisms are functions; in linear algebra, linear transformations; in group theory, group ''<a href="https://en.wikipedia.org/wiki/Homomorphism" target="_blank">homomorphism</a>''; in topology, continuous functions, and so on.
+
+In category theory, morphism is a broadly similar idea, but somewhat more abstract: the mathematical objects involved need not be sets, and the relationship between them may be something more general than a map.
+
+The study of morphisms and of the structures (called objects) over which they are defined is central to category theory. Much of the terminology of morphisms, as well as the intuition underlying them, comes from concrete categories, where the objects are simply sets with some additional structure, and morphisms are structure-preserving functions. In category theory, morphisms are sometimes also called ''arrows''.
+
+In mathematics, an ''<a href="https://en.wikipedia.org/wiki/Isomorphism" target="_blank">isomorphism</a>'' (from the Ancient Greek: ἴσος isos "equal", and μορφή morphe "form" or "shape") is a homomorphism (or more generally a morphism) that admits an inverse.[note 1] Two mathematical objects are isomorphic if an isomorphism exists between them. An automorphism is an isomorphism whose source and target coincide. 
+
+The interest of isomorphisms lies in the fact that two isomorphic objects cannot be distinguished by using only the properties used to define morphisms; thus isomorphic objects may be considered the same as long as one considers only these properties and their consequences.
+
+For most algebraic structures, including groups and rings, a homomorphism is an isomorphism if and only if it is bijective.
+
+In topology, where the morphisms are continuous functions, isomorphisms are also called homeomorphisms or bicontinuous functions. In mathematical analysis, where the morphisms are differentiable functions, isomorphisms are also called diffeomorphisms.
+
+A canonical isomorphism is a canonical map that is an isomorphism. Two objects are said to be canonically isomorphic if there is a canonical isomorphism between them. For example, the canonical map from a finite-dimensional vector space V to its second dual space is a canonical isomorphism; on the other hand, V is isomorphic to its dual space but not canonically in general.
+=== Four Color Theorem ===
+A <a href="https://en.wikipedia.org/wiki/Random_graph" target="_blank">random graph</a> is obtained by starting with a set of n isolated vertices and adding successive edges between them at random. The theory of random graphs lies at the intersection between graph theory and probability theory. 
+
+It turns out that if the vertex set is countable then there is, up to isomorphism, only a single graph with this property, namely the Rado graph. Thus any countably infinite random graph is almost surely the Rado graph, which for this reason is sometimes called simply the random graph. However, the analogous result is not true for uncountable graphs, of which there are many (nonisomorphic) graphs satisfying the above property.
+
+In related to the <a href="https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms" target="_blank">Ant colony optimization algorithms (ACO)</a> on ''<a href="https://en.wikipedia.org/wiki/Graph_theory" target="_blank">Graph theory</a>'' exist the <a href="https://en.wikipedia.org/wiki/Four_color_theorem" target="_blank">four color theorem</a>, or the four color map theorem, states that, given any separation of a plane into contiguous regions, producing a figure called a map, no more than four colors are required to color the regions of the map so that no two adjacent regions have the same color. 
+
+Two regions are called adjacent if they share a common boundary that is not a corner, where corners are the points shared by three or more regions. For example, in the map of the United States of America, Utah and Arizona are adjacent, but Utah and New Mexico, which only share a point that also belongs to Arizona and Colorado, are not.
+
+The following discussion is a summary based on the introduction to Appel and Haken's book Every Planar Map is Four Colorable (Appel & Haken 1989). Although flawed, Kempe's original purported proof of the four color theorem provided some of the basic tools later used to prove it. The explanation here is reworded in terms of the modern graph theory formulation.<br /><br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/vertex.png">|https://en.wikipedia.org/wiki/Four_color_theorem#Summary_of_proof_ideas]]<br /><br />
+Which finally recalled as: <br /><br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/formula.png">|https://en.wikipedia.org/wiki/Four_color_theorem#Summary_of_proof_ideas]]<br /><br />
+Each vertex is assigned an initial charge of 6-deg(v). Then one "flows" the charge by systematically redistributing the charge from a vertex to its neighboring vertices according to a set of rules, the discharging procedure. Since charge is preserved, some vertices still have positive charge. The rules restrict the possibilities for configurations of positively charged vertices, so enumerating all such possible configurations gives an unavoidable set.
+=== How Hexagon is work ===
+A simple way to explain this is thru the utilizing the power of each creatures. You could imagine this is done like the process of ''cell cycle''.
+
+The process begin with process to do a monitoring similar like when ''the spider'' on making and catch '''their food''' using their nets. Then it will be managed like ''the honeybee'' when they are making their perfect combs to sort and store '''their food'''. 
+
+The further process is like when we drive ''a horse'' and force its power into a destination which is made like ''the ants'' when they are working as a team to find ''their route'' on getting '''their food'''.
+
+Now let's consider the word of '''their food''' in the above explanation is referring the same thing. Do you find a correlation on it? 
+
+=== The Cow ===
+Let's get back to ''[[Mapping-Spreading#employment|the creature for our 1st employment]]''. Please note that choosing the creatures may free to whatever you like. However they will need to be in pairs all together.
+
+So either for ''[[Mapping-Merging#the-form|the form]]'' or ''[[Mapping-Merging#the-route|the route]]'' we shall find them in '''pairs'''.
+
+This is kind of ''[[Mapping-Merging#the-form|the form]]'' of those creatures. We have set ''the elephant'' there, which is ''a mammal''. Horse is also ''a mammal''. The others which are ''spiders, honeybees and ants'' are ''three (3) non mammals''
+
+To become pair here we need to take another mammal. Just call it ''the mammal''. So combine ''the mammal'' with''the horses'' and ''the elephant'' then it will be ''three (3) mammals''.
+
+Take also the creatures that dealing with kind of ''[[Mapping-Merging#the-route|the route]]'' then we will get ''ants, honeybees and horses''. Let's call them as ''three (3) route''. 
+
+To become pair here we shall get the ''three (3) non route'' which are ''the elephant, the spider and the mammal''. So the ''the mammal'' shall be ''non route'' as ''the elephant'' and shall be not like ''the horses'' which are route.
+=== Algorithm ===
+So all creatures are managed either for ''[[Mapping-Merging#the-form|the form]]'' or ''[[Mapping-Merging#the-route|the route]]'' in ''[[Mapping-Merging#Isomorphism|Isomorphism]]'' (''pairs''), ''[[Mapping-Merging#four-color-theorem|four color]]'', and ''[[Mapping-Merging#how-hexagon-is-work|hexagonal]]''.
+
+Later we will discuss that this result applies to a wide variety of data sets, including electricity bills, street addresses, stock prices, population numbers, death rates, lengths of rivers, physical and mathematical constants, and processes as described in ''[[Benford's law|https://en.wikipedia.org/wiki/Benford%27s_law]]''.
+
+That is a simple way to figure out how it is work where the process are carried out on piece by piece within ''[[Mapping-Merging#The_Form|the form]]'' and flowing through ''[[Mapping-Merging#The_Route|the route]]''.
+
+<blockquote>'''''[[Mapping-Overall#conclusion|Just do the way they want. Not of what you think.<br />Let them find their way to help you get what you want.]]'''''</blockquote>
+
+That is the basic on getting ''[[Mapping-Settlement|a settlement]]''.
+
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Employment|:arrow_backward:]] [[Mapping-Employment|Prev]]</th>
+      <th>[[Mapping-Merging|:repeat:]] [[Mapping-Merging|Reload]]</th>
+      <th>[[Mapping-Settlement|Next]] [[Mapping-Settlement|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>

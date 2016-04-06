@@ -1,0 +1,652 @@
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Comparison|:arrow_backward:]] [[Mapping-Comparison|Prev]]</th>
+      <th>[[Mapping-Overall|:repeat:]] [[Mapping-Overall|Reload]]</th>
+      <th>[[maps|Next]] [[maps|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>
+= Overall Map =
+You have reached the last section of our ''[[Mapping|Mapping System]]''. Here we are going to locate a set of ''[[Mapping-Overall#key-value-mapping|key-value mappings]]'' on our [[project repositories|https://github.com/hyip?tab=repositories]] and drive them towards an [[maps|overall project map]].
+
+''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Comparison|previous section]].''
+
+== Algorithm ==
+We hope you have enjoyed to what we have explained. You can consider to check all diagram of our mapping on a slideshow available on our [[blog page|https://tophyipmonitor.wordpress.com/hyip-world/mapping/]]. 
+
+This slideshow is presenting ''[[Step by Step Process|https://tophyipmonitor.wordpress.com/hyip-world/mapping/#step-by-step-process]]'' is assigned from and back to ''[[Mapping-Routine|a routine]]''. Now we are going to explain what we are going to do with this concept in our project.
+
+=== Routine ===
+As we have explained about ''[[Mapping-Routine#portraying|portraying]]'', to make clear separation between the processes here we take a new repo and wiki and named it as '''''[[hyip|https://tophyipmonitor.wordpress.com/hyip-business/]]''''' which we took from our project title. 
+
+Based on our documentation about ''[[GitHub Pages|https://github.com/hyipworld/hyipworld.github.io/wiki/GitHub-Pages]]'' we recommend to use User Repository for the ''main process'', and take the Organization for ''hyip process''.
+
+* The process of `info` will stand as User Repository
+* The Process of `hyip info` will stand as Organization Repository
+
+Tip: As recomended by GitHub on ''[[multiple accounts|https://help.github.com/articles/merging-multiple-user-accounts/]]'' it is recomended using only one user account to manage both personal and professional repositories.
+=== Portraying ===
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]]
+* The Process of `hyip info` be displayed as Organization Pages
+* The process of `info` will be displayed as Project Pages  
+
+Follow to the diagram, all the code of main process will be put on User. Out of those main processes such of code will be arranged so it can be displayed on Organization and described on their correspond wikis. 
+=== Parameter ===
+When applying the steps outside a routine then the diagram will be shown as below:  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_spreading.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_spreading/#main]]
+So an Organizational will get two of main repos. One for its own routine and another one is the associated repo when ''[[Mapping-Spreading|a spreading]]'' is taken a place.
+=== Spreading ===
+Here is the appearance of repositories will look like:<br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipwordorg.png">|https://github.com/hyipworld]]<br />
+Taken the picture above then the arrangement of repositories can be explained as below:
+* The Organization Pages of [[<code>hyipworld.github.io</code>|https://github.com/hyipworld/hyipworld.github.io]] will stand as ''[[portraying|https://github.com/hyip/info/wiki/Mapping-Routine#portraying]]''.  
+* The Project Pages of [[<code>info</code>|https://github.com/hyipworld/info]] will stand as a process when a [[Mapping-Overall#parameter|parameter]] is assigned.
+* The Project Pages of [[<code>world</code>|https://github.com/hyipworld/world]] will stand as main process on ''[[Mapping-Routine|a routine]]''
+
+Since we are on spreading direction so we take the [[<code>info</code>|https://github.com/hyipworld/info]] and [[<code>hyipworld.github.io</code>|https://github.com/hyipworld/hyipworld.github.io]] in to the mapping which development on each processes are consist of ''3 (three) routes'' as listed below:<br /><br />
+* Read & selecting the valuable information for writing them in to the associated wiki
+* Writing the repo, scripting in to the appropriate ''[[programming language(s)|https://github.com/hyip/info#structure]]''
+* Reading the repo, process of portraying the current status of repo
+
+Each of process will need to put either user or organization accounts under which the writing for the development is taken a place. This formation shall be provided by ''two (2) accounts'', consist of an account that associated with the place where the wiki is written and another one for the repo.<br /><br />So when they goes in to a tabulation it will look like as shown below:<br /><br />
+<table>
+  <thead>
+    <tr>
+      <th>:radio_button:</th>
+      <th>Type</th>
+      <th>Repo</th>
+      <th>:cow:</th>
+      <th>Form</th>
+      <th>Route</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">:clock3:</td>
+      <td scope="row"><code>main</code></td>
+      <td>[[<code>info</code>|https://github.com/hyip/info]]</td>
+      <td>[[:cow2:|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://github.com/hyip]]</td>
+      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/info/wiki/Reading]] [[:house_with_garden:|https://github.com/hyip/info]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">:clock4:</td>
+      <td scope="row"><code>hyip</code></td>
+      <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
+      <td>[[:elephant:|https://tophyipmonitor.wordpress.com/hyip-world/nature-6/#main]]</td>
+      <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|http://hyip.kinja.com/]]</td>
+      <td scope="row>[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] [[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://github.com/google]]
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Chanel Group on main <code>info</code>
+<table>
+  <thead>
+    <tr><th>#</th><th>Form</th><th>Route</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Repo</td><td>Writing</td></tr>
+    <tr><td>2</td><td>Wiki</td><td>Writing</td></tr>
+    <tr><td>3</td><td>Repo</td><td>Scripting</td></tr>
+    <tr><td>4</td><td>Wiki</td><td>Scripting</td></tr>
+    <tr><td>5</td><td>Repo</td><td>Portraying</td></tr>
+    <tr><td>6</td><td>Wiki</td><td>Portraying</td></tr>
+  </tbody>
+</table>
+
+Chanel Group on hyip <code>world</code>
+<table>
+  <thead>
+    <tr><th>#</th><th>Form</th><th>Route</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Repo</td><td>Writing</td></tr>
+    <tr><td>2</td><td>Wiki</td><td>Writing</td></tr>
+    <tr><td>3</td><td>Repo</td><td>Scripting</td></tr>
+    <tr><td>4</td><td>Wiki</td><td>Scripting</td></tr>
+    <tr><td>5</td><td>Repo</td><td>Portraying</td></tr>
+    <tr><td>6</td><td>Wiki</td><td>Portraying</td></tr>
+  </tbody>
+</table>
+
+Combine the Groups
+<table>
+  <thead>
+    <tr><th>#</th><th>Form</th><th>Route</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Repo</td><td>[[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/]] Writing</td></tr>
+    <tr><td>2</td><td>Repo</td><td>[[:twisted_rightwards_arrows:|https://github.com/hyip/info/wiki/Reading]] Scripting</td></tr>
+    <tr><td>3</td><td>Repo</td><td>[[:house_with_garden:|https://github.com/hyip/info]] Portraying</td></tr>
+    <tr><td>4</td><td>Wiki</td><td>[[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://github.com/google]] Writing</td></tr>
+    <tr><td>5</td><td>Wiki</td><td>[[:cinema:|http://hyip.world/]] Scripting</td></tr>
+    <tr><td>6</td><td>Wiki</td><td>[[:house:|https://github.com/hyipworld]] Portraying</td></tr>
+  </tbody>
+</table>
+
+So the result of combination of the above will be as below:
+<table>
+  <thead>
+    <tr>
+      <th>:radio_button:</th>
+      <th>Type</th>
+      <th>Repo</th>
+      <th>:cow:</th>
+      <th>Form</th>
+      <th>Route</th>
+      <th>Channel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">:clock3:</td>
+      <td scope="row"><code>main</code></td>
+      <td>[[<code>info</code>|https://github.com/hyip/info]]</td>
+      <td>[[:cow2:|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://github.com/hyip]]</td>
+      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/info/wiki/Reading]] [[:house_with_garden:|https://github.com/hyip/info]]
+      </td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipproject]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/BeSweetRetweets]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://google.com/+TopHYIPsinfoGigafeed]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip/]]
+[[<img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20">|https://www.reddit.com/user/hyips/]]
+[[<img src="https://lh3.googleusercontent.com/-jKtpsvVitSk/VipNbfjC1KI/AAAAAAAAAV4/dgoCUDLzyLw/s20/delicious.png">|https://delicious.com/tophyipsinfo]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">:clock4:</td>
+      <td scope="row"><code>hyip</code></td>
+      <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
+      <td>[[:elephant:|https://tophyipmonitor.wordpress.com/hyip-world/nature-6/#main]]</td>
+      <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|http://hyip.kinja.com/]]</td>
+      <td scope="row>[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] [[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://github.com/google]]
+      </td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipworld]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/hyip_world]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://google.com/+TopHYIPsinfoGigafeed]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-world/]]
+[[<img src="https://lh3.googleusercontent.com/-cV5C51pgAbg/VipJ2i2FGLI/AAAAAAAAAVM/e8N-UaHMRpw/w20-h20-p/disqus.png">|https://disqus.com/by/hyips/]]
+[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyip.world]]
+      </td>
+    </tr>
+  </tbody>
+</table>
+'''''Note:'''''
+* ''The selection on the brand of channel links are not mandatory to be the same as per our selection shown on the tabulation above. You can choose the brands to whatever you like.''
+* ''However four (4) of the same brands will be required to be uniform as the combination of routes will get always four (4) internal processes which symbols are :twisted_rightwards_arrows:, :house_with_garden:, :cinema:, and :house:.''
+=== Opposite ===
+The same also applied to the correspond Organization:<br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/hyipinfo.png">|https://github.com/hyipinfo]]<br />
+Similar explanation is also applied to the above repos:<br />
+* The Organization Pages of [[<code>hyipinfo.github.io</code>|https://github.com/hyipinfo/hyipinfo.github.io]] will stand as ''[[portraying|https://github.com/hyip/info/wiki/Mapping-Routine#portraying]]''.  
+* The Project Pages of [[<code>world</code>|https://github.com/hyipinfo/world]] will stand as a process outside the routine
+* The Project Pages of [[<code>info</code>|https://github.com/hyipinfo/info]] will stand as main process on ''[[Mapping-Routine|a routine]]''<br />
+
+By the same explanation as the appearance then the combination will be as shown below:
+
+<table>
+  <thead>
+    <tr>
+      <th>:radio_button:</th>
+      <th>Type</th>
+      <th>Repo</th>
+      <th>:cow:</th>
+      <th>Form</th>
+      <th>Route</th>
+      <th>Channel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">:clock1:</td>
+      <td scope="row"><code>main</code></td>
+      <td>[[<code>world</code>|https://github.com/hyip/world]]</td>
+      <td>[[:elephant:|https://tophyipmonitor.wordpress.com/hyip-world/nature-6/#main]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://en.wikipedia.org/wiki/User:Hyipworld]]</td>
+      <td scope="row">[[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://www.google.com/intx/en_sg/work/apps/business/products/sites/]] :twisted_rightwards_arrows: :house_with_garden:</td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/our-project/]]
+[[<img src="https://avatars1.githubusercontent.com/u/359869?v=3&s=20">|http://www.stumbleupon.com/stumbler/TopHyipMonitor]]
+[[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipworld]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">:clock12:</td>
+      <td scope="row"><code>hyip</code></td>
+      <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io]]</td>
+      <td>[[:cow2:|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program]] [[<img src="https://avatars2.githubusercontent.com/u/11951714?v=3&s=20">|https://en.wikipedia.org/wiki/User:Hyipworld]]</td>
+      <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] [[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program]]
+      </td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipblogs]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/#be_sweet_rt]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/]]
+[[<img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20">|http://tophyipmonitor.tumblr.com/]]
+[[<img src="https://lh3.googleusercontent.com/-twtF1nolk44/VipbLIVZVVI/AAAAAAAAAW4/Lvv3Poy6yZQ/s20/Internetarchive.jpg">|https://archive.org/bookmarks/Hyip]]
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+=== Forming ===
+Let's combine the tabulation:
+
+<table>
+  <thead>
+    <tr>
+      <th>:radio_button:</th>
+      <th>Type</th>
+      <th>Repo</th>
+      <th>:cow:</th>
+      <th>Form</th>
+      <th>Route</th>
+      <th>Channel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">:clock3:</td>
+      <td scope="row"><code>main</code></td>
+      <td>[[<code>info</code>|https://github.com/hyip/info]]</td>
+      <td>[[:cow2:|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://github.com/hyip]]</td>
+      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/info/wiki/Reading]] [[:house_with_garden:|https://github.com/hyip/info]]
+      </td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipproject]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/BeSweetRetweets]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://google.com/+TopHYIPsinfoGigafeed]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip/]]
+[[<img src="https://avatars0.githubusercontent.com/u/14248?v=20&s=20">|https://www.reddit.com/user/hyips/]]
+[[<img src="https://lh3.googleusercontent.com/-jKtpsvVitSk/VipNbfjC1KI/AAAAAAAAAV4/dgoCUDLzyLw/s20/delicious.png">|https://delicious.com/tophyipsinfo]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">:clock4:</td>
+      <td scope="row"><code>hyip</code></td>
+      <td>[[<code>world</code>|https://github.com/hyipworld/hyipworld.github.io]]</td>
+      <td>[[:elephant:|https://tophyipmonitor.wordpress.com/hyip-world/nature-6/#main]]</td>
+      <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|http://hyip.kinja.com/]]</td>
+      <td scope="row>[[:house:|https://github.com/hyipworld]] [[:cinema:|http://hyip.world/]] [[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://github.com/google]]
+      </td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipworld]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/hyip_world]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://google.com/+TopHYIPsinfoGigafeed]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-world/]]
+[[<img src="https://lh3.googleusercontent.com/-cV5C51pgAbg/VipJ2i2FGLI/AAAAAAAAAVM/e8N-UaHMRpw/w20-h20-p/disqus.png">|https://disqus.com/by/hyips/]]
+[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyip.world]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">:clock1:</td>
+      <td scope="row"><code>main</code></td>
+      <td>[[<code>world</code>|https://github.com/hyip/world]]</td>
+      <td>[[:elephant:|https://tophyipmonitor.wordpress.com/hyip-world/nature-6/#main]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://en.wikipedia.org/wiki/User:Hyipworld]]</td>
+      <td scope="row">[[<img src="https://avatars0.githubusercontent.com/u/1342004?v=20&s=20">|https://www.google.com/intx/en_sg/work/apps/business/products/sites/]] :twisted_rightwards_arrows: :house_with_garden:</td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/our-project/]]
+[[<img src="https://avatars1.githubusercontent.com/u/359869?v=3&s=20">|http://www.stumbleupon.com/stumbler/TopHyipMonitor]]
+[[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipworld]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">:clock12:</td>
+      <td scope="row"><code>hyip</code></td>
+      <td>[[<code>info</code>|https://github.com/hyipinfo/hyipinfo.github.io]]</td>
+      <td>[[:cow2:|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=20&s=20">|https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program]] [[<img src="https://avatars2.githubusercontent.com/u/11951714?v=3&s=20">|https://en.wikipedia.org/wiki/User:Hyipworld]]</td>
+      <td scope="row">[[:house:|https://github.com/hyipinfo]] [[:cinema:|http://info.hyip.world/]] [[<img src="https://lh3.googleusercontent.com/-EldBrDTTmUA/AAAAAAAAAAI/AAAAAAAAAIA/-bt7sByI8-Q/s20-c-a/photo.jpg">|https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program]]
+      </td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipblogs]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/#be_sweet_rt]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/]]
+[[<img src="https://avatars0.githubusercontent.com/u/366151?v=20&s=20">|http://tophyipmonitor.tumblr.com/]]
+[[<img src="https://lh3.googleusercontent.com/-twtF1nolk44/VipbLIVZVVI/AAAAAAAAAW4/Lvv3Poy6yZQ/s20/Internetarchive.jpg">|https://archive.org/bookmarks/Hyip]]
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+This form showing the process that is happened on ''[[Mapping-Spreading|a spreading]]'' as the beginning phase when a parameter is assigned. 
+
+However the complete process is happened on ''[[Mapping-Settlement|a settlement]]'' which is involving all the ''three (3) employments'' that generated on ''[[Mapping-Employment|an employment]]'' and combined by ''[[Mapping-Merging|a merging]]''. 
+
+=== Employment ===
+By the concept of forming as explained above then ''three (3)'' kind of employments will be generated. This concept will be applied through all the elements involved and that consequently also including our sites as well. 
+
+We have declared that this project is stand as our employments. As the concept implementation, our main site consist of ''[[three (3) main programs|http://hyip.world/#templatemo-welcome]]'' that is presenting each of the ''three (3) employments'' named ''site monitor & rating, online news / blogspot, and project map and team''.
+
+The table above is represent the form and route on the ''1st-employment'' which form is generated on the beginning phase but the settlement on it is done on the last step of the whole process when the ''2nd and 3rd employment'' are completed.
+
+=== Routing ===
+Forming of 2nd-employment:
+<table>
+  <thead>
+    <tr>
+      <th>:radio_button:</th>
+      <th>Type</th>
+      <th>Repo</th>
+      <th>:cow:</th>
+      <th>Form</th>
+      <th>Route</th>
+      <th>Channel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">:clock1:</td>
+      <td scope="row"><code>main</code></td>
+      <td>[[<code>rating</code>|https://github.com/hyip/rating]]</td>
+      <td>[[:honeybee:|https://tophyipmonitor.wordpress.com/hyip-rating/nature-2/#main]]</td>
+      <td scope="row>[[<img src="https://avatars1.githubusercontent.com/u/16017028?v=20&s=20">|https://github.com/tophyip]]</td>
+      <td scope="row">[[<img src="https://lh3.googleusercontent.com/-omK5VvCxkAA/Vi3ltBWG_3I/AAAAAAAAACQ/-Xmbv78FWTg/s20/blog.png">|http://tophyipsinfo.blog.com/]] [[:twisted_rightwards_arrows:|https://github.com/hyip/rating/wiki]] :house_with_garden:</td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/TopHyipsDotInfo]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/#growsafely]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://www.youtube.com/user/TophyipsInfoNetwork]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip-rating/]]
+[[<img src="https://avatars3.githubusercontent.com/u/541152?v=20&s=20">|https://www.pinterest.com/HyipMonitor/]]
+[[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyips]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">[[:clock1:|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_6/#main]]</td>
+      <td scope="row"><code>hyip</code></td>
+      <td>[[<code>monitor</code>|https://github.com/hyipmonitor/hyipmonitor.github.io]] </td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/nature-3/#main]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951330?v=3&s=20">|https://github.com/hyipmonitor]] [[<img src="https://avatars3.githubusercontent.com/u/16017099?s=20">|https://github.com/hyipmonitors]]
+      </td>
+      <td scope="row">[[:house:|https://github.com/hyipmonitor]] [[:cinema:|http://hyipmonitors.info/]] [[<img src="https://avatars3.githubusercontent.com/u/9919?v=3&s=20">|https://github.com/hyip/rating/wiki/HYIP-Monitors]]
+      </td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/tophyipmonitors/]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/tophyipmonitor]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://plus.google.com/+TopHyipMonitors]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/]]
+[[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-monitor]]
+[[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipmonitor]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">:clock1:</td>
+      <td scope="row"><code>main</code></td>
+      <td>[[<code>monitor</code>|https://github.com/hyip/monitor]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/nature-3/#main]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/14018681?v=20&s=20">|https://github.com/tophyipmonitor]]</td>
+      <td scope="row">[[<img src="https://lh5.googleusercontent.com/-LNdqhqT7v3w/T4itJ_UEeFI/AAAAAAAAJUE/B9Os5cJUxUA/s20-no/GooglePlusProfileImage.png">|https://github.com/aws]] :twisted_rightwards_arrows: :house_with_garden:</td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipmonitors.info]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/tophyipmonitor/timelines/671271380554555392]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://google.com/+TopHyipMonitors]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip-monitor/]]
+[[<img src="http://lh3.googleusercontent.com/-PdKcIPUm-Cs/AAAAAAAAAAI/AAAAAAAALEI/HV6em-KZ-yU/s20-c-a/photo.jpg">|https://moz.com/community/users/4037583]]
+[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyipmonitors.info]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">:clock1:</td>
+      <td scope="row"><code>hyip</code></td>
+      <td>[[<code>rating</code>|https://github.com/hyiprating/hyiprating.github.io]]</td>
+      <td>[[:honeybee:|https://tophyipmonitor.wordpress.com/hyip-rating/nature-2/#main]]</td>
+      <td scope="row">[[<img src="https://avatars1.githubusercontent.com/u/11951695?v=20&s=20">|https://github.com/hyip/rating/wiki/HYIP-Forums]]</td>
+      <td scope="row">[[:house:|https://github.com/hyiprating]] [[:cinema:|http://tophyips.info/]] [[<img src="http://lh3.googleusercontent.com/-dK5aS3tBne0/AAAAAAAAAAI/AAAAAAAAL-Q/wktL27CoDNE/s20-c-a/photo.jpg">|http://blog.tophyips.info/]]
+      </td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/tophyips.info]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-rating/]]
+[[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-analysis]]
+[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/tophyips.info]]
+      </td>
+    </tr>
+  </tbody>
+</table>
+The process of 2nd-employment is begin as shown on mapping below: <br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_route_5.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_5/#main]]<br />
+'''''Note:'''''
+* ''The routing of the 2nd-employment is indicated by the first (1st) and the 2nd of separated lines''
+* ''Therefore it is started on the repo of main <code>rating</code> and finished on the wiki of main <code>monitor</code>''
+* ''Counting on all the steps then it will be eight (8) routes all together.''
+=== Settlement ===
+Forming of 3rd employment:
+<table>
+  <thead>
+    <tr>
+      <th>:radio_button:</th>
+      <th>Type</th>
+      <th>Repo</th>
+      <th>:cow:</th>
+      <th>Form</th>
+      <th>Route</th>
+      <th>Channel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">:clock1:</td>
+      <td scope="row"><code>main</code></td>
+      <td>[[<code>team</code>|https://github.com/hyip/team]]</td>
+      <td>[[:ant:|https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main]]</td>
+      <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11927583?v=10&s=20">|https://github.com/hyip/info/blob/master/README.md#languange-structure]]
+[[<img src="https://avatars2.githubusercontent.com/u/11951884?v=3&s=20">|https://bitbucket.org/hyips/]]
+      </td>
+      <td scope="row">[[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://github.com/atlassian]] :twisted_rightwards_arrows: :house_with_garden:</td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://plus.google.com/111175374489306423505]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip-forum/]]
+[[<img src="https://avatars0.githubusercontent.com/u/6815105?v=20&s=20">|https://www.quora.com/profile/Hyip-Gigafeed]]
+[[<img src="https://avatars3.githubusercontent.com/u/173374?v=3&s=20">|http://mashable.com/people/hyip/]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">:clock12:</td>
+      <td scope="row"><code>hyip</code></td>
+      <td>[[<code>script</code>|https://github.com/hyipscript/hyipscript.github.io]]</td>
+      <td>[[:horse_racing:|https://tophyipmonitor.wordpress.com/hyip-scripts/nature-5/#main]]</td>
+      <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11951705?v=3&s=20">|https://github.com/orgs/hyipscript/teams]]</td>
+      <td scope="row">[[:house:|https://github.com/hyipscript]] [[:cinema:|http://hyipscript.info/]] [[<img src="http://lh3.googleusercontent.com/-xSKJbyl_5ZA/AAAAAAAAAAI/AAAAAAAAAGs/87PBRUKgmr0/s20-c-a/photo.jpg">|https://plus.google.com/+WordPress/]]
+      </td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipscript.info]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://twitter.com/hyip_script]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://google.com/+HyipScript]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-scripts/]]
+[[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|http://www.linkedin.com/company/hyip-script]]
+[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyipscript.info]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">:clock1:</td>
+      <td scope="row"><code>main</code></td>
+      <td>[[<code>script</code>|https://github.com/hyip/script]]</td>
+      <td>[[:horse_racing:|https://tophyipmonitor.wordpress.com/hyip-scripts/nature-5/#main]]</td>
+      <td scope="row">
+[[<img src="https://avatars1.githubusercontent.com/u/14160646?v=20&s=20">|https://github.com/hyipscripts]]
+[[<img src="https://avatars1.githubusercontent.com/u/11951705?v=3&s=20">|http://sourceforge.net/u/hyipscript/profile/]]
+      </td>
+      <td scope="row">
+[[<img src="https://lh3.googleusercontent.com/-RS9W3yX70kQ/Vi0QinVIOsI/AAAAAAAAAX4/AsHcKfYT54c/s20/sf-logo.png">|http://sourceforge.net/p/hyipscript/wiki/]]
+[[:twisted_rightwards_arrows:|https://feedburner.google.com/fb/a/myfeeds]] :house_with_garden:
+      </td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://www.facebook.com/hyipscripts]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/category/hyip-script/]]
+[[<img src="https://lh3.googleusercontent.com/-DEYxYN_riUY/VipEhu1PPyI/AAAAAAAAAHg/UzX9Nw8QE8I/s20/stackoverflow.png">|http://stackoverflow.com/users/4058484]]
+[[<img src="http://www.gravatar.com/avatar/00000000000000000000000000000000?s=20">|http://en.gravatar.com/tophyipscript]]
+      </td>
+    </tr>
+    <tr>
+      <td scope="row">:clock12:</td>
+      <td scope="row"><code>hyip</code></td>
+      <td>[[<code>team</code>|https://github.com/hyipteam/hyipteam.github.io]]</td>
+      <td>[[:ant:|https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main]]</td>
+      <td scope="row">[[<img src="https://avatars2.githubusercontent.com/u/11927583?v=10&s=20">|http://hyip.world/#templatemo-blog]]</td>
+      <td scope="row">[[:house:|https://github.com/hyipteam]] [[:cinema:|http://team.hyip.world/]] [[<img src="https://avatars3.githubusercontent.com/u/168166?v=20&s=20">|https://confluence.atlassian.com/bitbucket/publishing-a-website-on-bitbucket-cloud-221449776.html]]
+      </td>
+      <td scope="row">
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/facebook.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/tweeter.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/google.png?w=20">|https://github.com/hyip/info/wiki/maps#project-map]]
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/wordpress.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-forums/]]
+[[<img src="http://www.gravatar.com/avatar/7155494da5d4092de2988069d5534d00?s=20">|https://www.linkedin.com/company/hyip-reviews]]
+[[<img src="https://avatars0.githubusercontent.com/u/951002?v=20&s=20">|https://about.me/hyipmonitor]]
+      </td>
+    </tr>
+  </tbody>
+</table>
+While the process of 3rd-employment is begin as shown on mapping below: <br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_route_13.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_13/#main]]<br />
+'''''Note:'''''
+* ''The routing of the rdd-employment is indicated by the 2nd and the 3rd of separated lines''
+* ''Therefore it is started on the repo of main <code>team</code> and finished on the wiki of main<code>script</code>'' 
+* ''Counting on all the steps then it will be also eight (8) routes all together.''
+=== Channel ===
+On our concept the channel links will stand as an important role particularly on focusing ''[[Mapping-Settlement|a settlement]]'' on every step of process. They will also be taken as initial form on further development when a parameter is assigned in the child processes.
+
+The channel selection will best if they are set in ''[[hexagonal|https://github.com/hyip/info/wiki/Mapping-Spreading#hexagon]]'' configuration plus one general link that works as a combination of all of them. You can then configure them to ''twelve (12)'' or ''twenty four (24)'' child processes so it will be able to implement ''[[one-to-one-mapping|https://github.com/hyip/info/wiki/Mapping-Routine#one-to-one-mapping]]''.
+
+The page location and position on a site are not mandatory. They will become important when a nature is assigned to a page as it will become the base on further development. 
+
+An easy way to figure out the kind of channel you can see them on [[our blog|https://tophyipmonitor.wordpress.com/]] which have ''six (6)'' main pages that also stand as main menu. Here are the tabulation of the pages and their configuration of the concept implementation.
+
+<table>
+   <thead><tr><th>#</th><th>:camera:</th><th>Page Title</th><th>[[:cow:|https://tophyipmonitor.wordpress.com/hyip-world/project/#main]]</th></tr></thead>
+   <tbody><tr><td>1</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/what_is_high_yield_investment_programs.jpg?w=20"|https://tophyipmonitor.wordpress.com/hyip-business/what_is_high_yield_investment_programs/#main]]</td><td>[[Hyip Business|https://tophyipmonitor.wordpress.com/hyip-business/]]</td><td>[[:cow2:|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td></tr></tbody>
+   <tbody><tr><td>2</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/hyip-rating.gif?w=20"|https://tophyipmonitor.wordpress.com/hyip-rating/hyips-rating/#main]]</td><td>[[Hyip Rating|https://tophyipmonitor.wordpress.com/hyip-rating/]]</td><td>[[:honeybee:|https://tophyipmonitor.wordpress.com/hyip-rating/nature-2/#main]]</td></tr></tbody>
+   <tbody><tr><td>3</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/hyip-monitor.jpg?w=20"|https://tophyipmonitor.wordpress.com/hyip-monitors/hyip-monitor/#main]]</td><td>[[Hyip Monitors|https://tophyipmonitor.wordpress.com/hyip-monitors/]]</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/spider.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-monitors/nature-3/#main]]</td></tr></tbody>
+   <tbody><tr><td>4</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/hyip_forum.png?w=20"|https://tophyipmonitor.wordpress.com/hyip-forums/hyipforum/#main]]</td><td>[[Hyip Forums|https://tophyipmonitor.wordpress.com/hyip-forums/]]</td><td>[[:ant:|https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main]]</td></tr></tbody>
+   <tbody><tr><td>5</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/hyipscript.gif?w=20"|https://tophyipmonitor.wordpress.com/hyip-scripts/hyipscripts/#main]]</td><td>[[Hyip Script|https://tophyipmonitor.wordpress.com/hyip-scripts/]]</td><td>[[:horse_racing:|https://tophyipmonitor.wordpress.com/hyip-scripts/nature-5/#main]]</td></tr></tbody>
+   <tbody><tr><td>6</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2014/11/hyipworld.jpeg?w=20"|https://tophyipmonitor.wordpress.com/hyip-world/hyipworld/#main]]</td><td>[[Hyip World|https://tophyipmonitor.wordpress.com/hyip-world/]]</td><td>[[:elephant:|https://tophyipmonitor.wordpress.com/hyip-world/nature-6/#main]]</td></tr></tbody>
+</table>
+
+Try to click the picture (:camera:) or nature ([[:cow:|https://tophyipmonitor.wordpress.com/hyip-world/project/#main]]) of each pages, you will see a map showing a pair of our related repos and wikis that connected to the page as a user profile. You may see also that every other page than the ''six (6) main pages'' like ''[[mapping|https://tophyipmonitor.wordpress.com/hyip-world/mapping/]]'' is put under the sub menus. 
+
+Beside the ''six (6)'' pages there also a main link stand as ''[[the site address|https://tophyipmonitor.wordpress.com/]]''. The link is assigned to display every other posting that are made and set to be correlated to each of the pages using ''[[category|https://en.support.wordpress.com/posts/categories/]]'' and ''[[tagging|https://en.support.wordpress.com/posts/tags/]]'' and that together with the pages follow our concept of ''[[Mapping-Routine#the-six-6|the six (6)]]'' to become ''[[Mapping#all-the-seven-7|all the (7)]]''.
+
+This ''[[maps#the-formation|kind of formation]]'' will also be ''[[maps#the-license|the mapping key]]'' elsewhere. Check our networking profiles of ''<a href="http://www.talkgold.com/forum/group.php?discussionid=1019&do=discuss#pagetitle">Hyip Monitoring & Rating</a><sup>(1)</sup>, <a href="http://www.warriorforum.com/groups/marketing-strategy.html">Marketing Strategy</a><sup>(2)</sup>, <a href="https://stackoverflow.com/users/4058484">Application Script</a><sup>(3)</sup>, <a href="https://disqus.com/by/hyips/">Topic Discussion</a><sup>(4)</sup>, <a href="https://tophyipmonitor.wordpress.com/">News & Blogging</a><sup>(5)</sup>, and <a href="https://github.com/hyip">Social Coding</a><sup>(6)</sup>'' that all is shown in the bottom of our ''<a href="http://hyip.world/#templatemo-bottom">main site</a><sup>(7)</sup>''.
+
+=== Comparation ===
+When all the routes on 2nd and 3rd employment is completed then the mapping will come to the main repo of <code>world </code> which is the 1st route of the 1st-employment as shown below:
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_route_21.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_21/#main]]<br />
+Here the process will be step further the same as the 2nd and the 3rd employment for another ''three (3) routes'' for doing ''[[Mapping-Comparison|a comparison]]'' up to the condition of the mapping as shown below: [[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_route_24.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_24/#main]]<br />
+This mapping condition will be ''[[Mapping-Overall#key-value-mapping|the key value]]'' of our mapping system. Where the result of all the process are began to be verified in correlation to our setting target which we have written in 'the info's wiki'. On our case 'the info's wiki' is no other than ''[[this wiki|https://github.com/hyip/info/wiki]]'' that you are reading now..
+
+== Unrouting ==
+When you follow the step which has been passed by the process you can mark that there are the same number of ''eight (8) steps'' happen either by the 2nd and the 3rd employment.
+
+This is a kind of pairing that you will find by the whole of our system. Every kind of process that was occurred then it will got the same kind of form or route by the opposite direction.
+
+The ''eight (8) steps'' were done. You see there is ''three (3) steps'' also happen which did their task for ''a comparison''. So then another ''three (3) steps'' will also happen to make they even.<br />
+
+The another ''three (3) steps'' will happen on opposite direction just exactly follow to what we have explained where they will be occurred on the paired form of the first ''three (3) steps'' is happen means it will be occurred on the main of <code>info</code> and the hyip <code>world</code>.<br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_quest_4.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_quest_4/#main]]<br />
+
+See the grey box that staying now on the wiki of main <code>info</code>. It will go ''three (3) steps'' on opposite direction of the route from the ''three (3) steps'' of the black box up to the mapping condition as shown below:<br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_1.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_1/#main]]<br />
+The opposite route of the grey box is called ''UnRouting'' stand as the verification to the result of comparison process.<br /> 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_2.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_2/#main]]<br />
+The special thing with the ''UnRouting'' is that the process involves the whole system as a part of overall mapping which we have described on the beginning of our concept explanation.<br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_3.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_3/#main]]
+=== Portraying on Repo ===
+The ''eight (8) steps'' were done. You see there is ''three (3) steps'' also happen which did their task for ''a comparison''. So then another ''three (3) steps'' will also happen to make they even.<br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_4.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_4/#main]]
+=== On Repo ===
+By this ''UnRouting'' so now it left only the last process that happen within ''two (2) steps'' consist of one step of black box and one step of grey box formed in an opposite direction to each other.
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_5.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_5/#main]]
+
+== Unforming ==
+The another ''three (3) steps'' will happen on opposite direction just exactly follow to what we have explained where they will be occurred on the paired form of the first ''three (3) steps'' is happen means it will be occurred on the main of <code>info</code> and the hyip <code>world</code>.
+
+This step is in correlation with ''[[the structure|https://github.com/hyip/info#structure]]'' and ''[[GitHub API|https://github.com/hyipworld/hyipworld.github.io/wiki/Using-Jekyll#github-api]]''. <br />
+
+We shall get a programmatic way to translate what we have written on this wiki to become the process on the repo.
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_6.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main]]<br />
+We have do the writing in this wiki then we shall go this vise versa (''unrouted'').<br />That will become the ''key value'' of all the mapping.
+=== Key Value Mapping ===
+Means that what you ''[[read|https://github.com/hyip/info/wiki/Reading]]'' on this wiki is what that ''[[written|https://github.com/hyip/info/wiki/Writing]]'' in the repo.
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_direction_7.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_7/#main]]<br />
+It is left now the last (two) steps to finalize all the process. 
+
+This step is called "UnFormed". Stand as the key of all process that were done where the whole process can be declared as successfully gain the target when the ''two (2) box'' are satisfy each other. 
+
+Means the repo and wiki are in the same ''[[algorithm|https://github.com/hyip/info#algorithm]]''.
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_basic_routine.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_routine_1/#main]]<br />
+See here everything is back to normal.<br />All back to [[Mapping-Routine|a routine]].<br />Settled.
+
+== Conclusion ==
+Congratulations! You've finally reached the end of our Documentation Section of Mapping on our project. Hopefully you can follow and enable to understand to what we have explained.  
+
+It might be on your question now about what really the content of each repos and wikis are. Well they will be a quite similar with what we have described on this section.
+
+As you are aware this section is about a process of what we called as [[`info`|https://github.com/hyip/info/wiki]]. We collect, create and write on the code to proceed all aspect into the repo in related to its part on the concept, and explain it in the same configuration into the topics arrangement of its wiki. 
+
+You may find that we started this wiki with the concept on how we are going to [[Reading|read]] an info, how we [[Writing|write]] the info, following with on how we manage and organize it till a kind of [[Mapping-Overall#Routing|its routing]] in mapping system on the last chapter of the section that you are reading now.
+
+You will get also a similar thing on other sections as well. Just for example you may see a kind of ''[[route mapping|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_6/#main]]'' on our blog that correlated with our [[`monitor`|https://github.com/hyip/monitor/wiki]] section, or you may find a site ranking of ''[[hyip forum|https://github.com/hyip/rating/wiki/HYIP-Forums]]'' and ''[[hyip monitor|https://github.com/hyip/rating/wiki/HYIP-Monitors]]'' that were made in relevant with the topic of [[`rating`|https://github.com/hyip/rating/wiki]]. 
+
+So kind of the same thing are done also on each of sections provided in a different topic and purposes as they have their own assignment on the system follow to the concept.
+
+That is all what we can say about our concept. We can’t say that all are true but at least here is our chance of to explain a way to find something that we believe is being true.
+
+Every empirical case on the nature or in our live on this universe are sometimes not easy to define of what the true is. ''So the best is to let them answer by themselves. What we need is only to find a way to understand when they speak on their languages.''
+
+<blockquote>'''''[[Just do the way they want. Not of what you think.<br />Let them find their way to help you get what you want.|https://tophyipmonitor.wordpress.com/hyip-world/#just-do-the-way-they-want]]'''''</blockquote>
+
+Thank you for reading our concept. We appreciate your taking the time for it. You may now just take a look to the appearance of all the system on our ''[[maps|Project Map]]''. 
+
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Comparison|:arrow_backward:]] [[Mapping-Comparison|Prev]]</th>
+      <th>[[Mapping-Overall|:repeat:]] [[Mapping-Overall|Reload]]</th>
+      <th>[[maps|Next]] [[maps|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>

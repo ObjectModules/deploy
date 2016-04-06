@@ -1,0 +1,422 @@
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Merging|:arrow_backward:]] [[Mapping-Merging|Prev]]</th>
+      <th>[[Mapping-Settlement|:repeat:]] [[Mapping-Settlement|Reload]]</th>
+      <th>[[Mapping-Comparison|Next]] [[Mapping-Comparison|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>
+= Settlement =
+
+In this section we will explain in details about ''[[Mapping#settlement|settlement]]'' in our concept. The process of handed over from ''[[Mapping-Merging|a merging]]'' in related to the assigned parameter of ''[[Mapping-Routine|a routine]]''. 
+
+''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Merging|previous section]].''  
+
+== Storing ==
+=== Form ===
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_overall.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_overall/#main]] 
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_17.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_17/#main]]
+
+=== Route ===
+'''1st Employment'''<ref>[[1st Employment|https://github.com/hyip/info/tree/master/root/srv]]</ref>.<br />
+<table> 
+  <thead>
+    <tr>
+      <th>type</th>
+      <th>flow</th>
+      <th>repo</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><i>query</i></td>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write</i><sup><i>1</i></sup></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Query</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write</i><sup><i>3</i></sup></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Result</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row"><i>result</i></td>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>4</sup></i></li>
+          <li>way: <i>display</i></li>
+          <li>object: <i>Result</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>2</sup></i></li>
+          <li>way: <i>receive</i></li>
+          <li>object: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+
+'''2nd Employment'''C<ref>[[2nd Employment|https://github.com/hyip/info/tree/master/root/srv]]</ref>.<br />
+<table>
+  <thead>
+    <tr>
+      <th>type</th>
+      <th>flow</th>
+      <th>repo</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><i>query</i></td>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup><i>1</i></sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Query</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup>3</sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Result</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row"><i>result</i></td>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>4</sup></i></li>
+          <li>way: <i>display</i></li>
+          <li>object: <i>Result</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>2</sup></i></li>
+          <li>way: <i>receive</i></li>
+          <li>object: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+
+'''3rd Employment'''<ref>[[3rd Employment|https://github.com/hyip/info/tree/master/root/srv]]</ref>.<br />
+<table>
+  <thead>
+    <tr>
+      <th>type</th>
+      <th>flow</th>
+      <th>repo</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><i>query</i></td>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup>1</sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Query</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup>3</sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Result</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row"><i>result</i></td>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>4</sup></i></li>
+          <li>way: <i>display</i></li>
+          <li>object: <i>Result</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>2</sup></i></li>
+          <li>way: <i>receive</i></li>
+          <li>object: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+
+== Linking ==
+<references/>
+
+== Querying ==
+We shall do again the same process for opposite direction. Please note that the link to repo are the same. Different thing is just a matter of flowing data.
+=== Form ===
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_18.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_18/#main]]
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_19.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_19/#main]]
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_20.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_20/#main]]
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_quest_1.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_quest_1/#main]]
+
+=== Route ===
+'''1st Employment'''<sup>[<a href="#repo">1</a>]</sup>
+<table> 
+  <thead>
+    <tr>
+      <th>type</th>
+      <th>flow</th>
+      <th>repo</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><i>query</i></td>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write</i><sup><i>1</i></sup></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Query</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write</i><sup><i>3</i></sup></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Result</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row"><i>result</i></td>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>4</sup></i></li>
+          <li>way: <i>display</i></li>
+          <li>object: <i>Result</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>2</sup></i></li>
+          <li>way: <i>receive</i></li>
+          <li>object: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+'''2nd Employment'''<sup>[<a href="#repo">2</a>]</sup>
+<table>
+  <thead>
+    <tr>
+      <th>type</th>
+      <th>flow</th>
+      <th>repo</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><i>query</i></td>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup><i>1</i></sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Query</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup>3</sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Result</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row"><i>result</i></td>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>4</sup></i></li>
+          <li>way: <i>display</i></li>
+          <li>object: <i>Result</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>2</sup></i></li>
+          <li>way: <i>receive</i></li>
+          <li>object: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+'''3rd Employment'''<sup>[<a href="#repo">3</a>]</sup>
+<table>
+  <thead>
+    <tr>
+      <th>type</th>
+      <th>flow</th>
+      <th>repo</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><i>query</i></td>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup>1</sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Query</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup>3</sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Result</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row"><i>result</i></td>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>4</sup></i></li>
+          <li>way: <i>display</i></li>
+          <li>object: <i>Result</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>2</sup></i></li>
+          <li>way: <i>receive</i></li>
+          <li>object: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+
+Now we are going to bring you to [[Mapping-Comparison|Comparison]]
+
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Merging|:arrow_backward:]] [[Mapping-Merging|Prev]]</th>
+      <th>[[Mapping-Settlement|:repeat:]] [[Mapping-Settlement|Reload]]</th>
+      <th>[[Mapping-Comparison|Next]] [[Mapping-Comparison|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>

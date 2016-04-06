@@ -1,0 +1,85 @@
+<table>
+  <thead>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
+      <th>[[:arrow_backward:|Introduction]] [[Prev|Introduction]]</th>
+      <th>[[:repeat:|Reserved1]] [[Reload|Reserved1]]</th>
+      <th>[[Next|Reserved2]] [[:arrow_forward:|Reserved2]]</th>
+      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </thead>
+</table>
+h2. level 2 heading
+
+h3. level 3 heading
+
+h4. level 4 heading
+
+bq. this is blockquoted text
+
+fn1. footnote 1
+
+fn2. footnote 2
+
+This text refernces a footnote[1]
+
+# numbered list item 1
+# numbered list item 2
+
+* bulleted list first item
+* bulleted list second item
+
+_emphasis_
+*strong*
+??citation??
+-deleted text-
++inserted text+
+^superscript^
+~subscript~
+%span%
+
+p(class). paragraph with a classname
+
+p(#id). paragraph with an ID
+
+p{color:red}. paragrah with a CSS style
+
+p[fr]. paragraphe en français
+
+p<. right aligned paragraph
+
+p>. left aligned paragraph
+
+p=. centered aligned paragraph
+
+p<>. justified text paragraph
+
+|_. head |_. table |_. row |
+| a | table | row 1 |
+| a | table | row 2 |
+
+"linktext":%5BWriting%5D-Textile
+
+!https://hyipworld.github.io/images/github/doc/figure16.png!
+
+ABBR(Abbreviation)
+
+<table>
+  <thead>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[:rewind:|Introduction]] [[Intro|Introduction]]</th>
+      <th>[[:arrow_backward:|Introduction]] [[Prev|Introduction]]</th>
+      <th>[[:repeat:|Reserved1]] [[Reload|Reserved1]]</th>
+      <th>[[Next|Reserved2]] [[:arrow_forward:|Reserved2]]</th>
+      <th>[[Last|[Mapping]-Overall]] [[:fast_forward:|[Mapping]-Overall]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </thead>
+</table>

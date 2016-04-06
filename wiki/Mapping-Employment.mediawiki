@@ -1,0 +1,321 @@
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Spreading|:arrow_backward:]] [[Mapping-Spreading|Prev]]</th>
+      <th>[[Mapping-Employment|:repeat:]] [[Mapping-Employment|Reload]]</th>
+      <th>[[Mapping-Merging|Next]] [[Mapping-Merging|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>
+
+= Employment =
+In this section we will explain about ''an employment'' in our concept. The generated symbiotic processes from ''[[Mapping-Spreading|a spreading]]'' as a further step of factoring ''[[Mapping-Routine|a routine]]'' due to a parameter. 
+
+''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Spreading|previous section]]''.
+
+== 2nd Employment ==
+Here we will explain further how the spreading will continue to another process when a settlement is not going to be achieved. We will also explain how these processes are going to present the above 2nd and 3rd mapping.
+=== By Diagram ===
+In line to what he have explained about ''[[Mapping#nonpattern-word-isogram|isogram]]'' here you can see the breakdown of the assigned letters as below: 
+```js
+letter a stand as monitor  
+letter b stand as rating  
+letter c stand as hyip  
+```
+So we can now put the mapping schema into a standardization as shown below: <br /> 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment/#main]]<br />  
+
+Then diagram will be shown as below: <br /> 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment_2.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment_2/#main]]
+
+=== Monitoring ===
+To became a valuable info then we need to rate the data and became a library. The info it self is got from searching and investigation which in the business is known as monitoring or in a short: ''<a href="https://en.wiktionary.org/wiki/monitor" target="_blank">monitor</a>''.  
+* Someone who watches over something; a person in charge of something or someone.
+* A device that detects and informs on the presence, quantity, etc., of something.
+On our case we use this monitoring by means of a one who admonishes; one who warns of faults, informs of duty, or gives advice and instruction by way of reproof or caution and capable of being revolved so as to bring the several tools successively into position.
+=== Rating ===
+A ''<a href="https://en.wikipedia.org/wiki/Rating" target="_blank">rating</a>'' is the evaluation or assessment of something, in terms of quality (as with a critic rating a novel), quantity (as with an athlete being rated by his or her statistics), or some combination of both. 
+
+''<a href="https://en.wiktionary.org/wiki/rating" target="_blank">Rating</a>'' can be means also:
+* A position on a scale
+* An evaluation of status, especially of financial status
+* A number, letter, or other mark that refers to the ability of something.
+On our case we use this rating by means of a ''<a href="https://en.wikipedia.org/wiki/Reputation_system" target="_blank">reputation system</a>'', a score for a set of objects within the community based on a collection of opinions. 
+
+=== Spider ===
+<table>
+    <tr>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-centered.png?h=300">|https://pixabay.com/en/cobweb-spiderweb-spider-s-web-151265/]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-spider.png?h=300">|https://pixabay.com/en/cobweb-spiderweb-spider-s-web-151265/]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/spider-web.jpg?h=300">|https://pixabay.com/en/spider-web-tree-branches-pattern-617769/]]</td>   
+  </tr>
+</table>
+We wonder if these nets don’t have anything mathematical in them. 
+
+''<a href="http://austega.com/florin/CharmOfGeometry.htm" target="_blank">This page</a>'' is explaining  that the answer is positive, and is incredible how an insect with few thousands of neurons know this mathematics. 
+
+Look at the following figure and try to solve spider’s problem.
+
+The most interesting fact is that spiders create their nets making inscriptible quadrilaterals. So A’ABB’ is inscriptible, and all the others are the same. Prove that if ABCDEFGHIJ is a polygon with all its vertexes on the same circle, than A’B’C’D’E’F’G’H’I’J’ has all vertexes also on the same circle. The trick is simple, you need first to prove that OA·OA’=OB·PB’=OC·OC’ etc.
+<table>
+    <tr>
+      <td>[[<img src="http://austega.com/florin/CharmOfGeometry_files/image066.jpg?h=300">|http://austega.com/florin/CharmOfGeometry.htm]]</td>
+      <td>[[<img src="http://austega.com/florin/CharmOfGeometry_files/image068.jpg?h=300">|http://austega.com/florin/CharmOfGeometry.htm]]</td>
+  </tr>
+</table>
+In fact we have here another transformation, “the inversion”. In this case this transformation transform a circle into a different circle. The inversion can transform a circle into a line if the point O (the center of inversion) is on the circle (see the figure).<br /><br /> 
+
+In this case the circle determined by OABCDE is transformed in a line A’B’C’D’E’F’. It seems that this transformation creates another interesting instrument for geometry. First we have to notice that OAB and OA’B’ are similar triangle, but with '''inverse similarity'''. This means that we can ‘t obtain one from the second one by magnifying and rotating it. So the angle OAB equals the angle OB’A’.
+
+=== Honeybees ===
+<table>
+    <tr>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-centered.png?h=300">|https://pixabay.com/en/cobweb-spiderweb-spider-s-web-151265/]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-bee.png?h=300">|https://pixabay.com/p-156568/?no_redirect]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/bee-web.jpg?h=300">|http://news.wisc.edu/13739]]</td>   
+  </tr>
+</table>
+The perfect hexagonal shape of honeycomb cells — once thought to be an incredible feat of math-savvy insects — has now been explained by simple mechanics.
+
+Two possible explanations exist as to why honeycomb is composed of hexagons, rather than any other shape. First, the hexagonal tiling creates a partition with equal-sized cells, while minimizing the total perimeter of the cells.Thus, a hexagonal structure uses the least material to create a lattice of cells within a given volume. 
+
+A second reason is that the shape simply results from the process of individual bees putting cells together: somewhat analogous to the boundary shapes created in a field of soap bubbles. In support of this, he notes that queen cells, which are constructed singly, are irregular and lumpy with no apparent attempt at efficiency.
+<table>
+    <tr>
+      <td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Honeycomb_cell_3d_rot.svg/320px-Honeycomb_cell_3d_rot.svg.png">|http://www.nbcnews.com/science/bees-dont-do-math-hexagonal-honeycombs-emerge-naturally-6C10677058]]</td>
+      <td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Honeycomb_3d_rot.svg/320px-Honeycomb_3d_rot.svg.png">|https://en.wikipedia.org/wiki/Honeycomb]]</td>
+  </tr>
+</table>
+The shape of the cells is such that two opposing honeycomb layers nest into each other, with each facet of the closed ends being shared by '''opposing cells'''. Opposing layers of honeycomb cells fit together.
+
+Individual cells do not show this geometric perfection: in a regular comb, deviations of a few percent from the "perfect" hexagonal shape occur. In transition zones between the larger cells of drone comb and the smaller cells of worker comb, or when the bees encounter obstacles, the shapes are often distorted. Cells are also angled up about 13° from horizontal to prevent honey from dripping out
+
+=== By Route ===
+Then the content flow for the ''2nd Employment'' can be tabulated as below:
+<table>
+  <thead>
+    <tr>
+      <th>type</th>
+      <th>flow</th>
+      <th>repo</th>
+      <th>monitor</th>
+      <th>flow</th>
+      <th>rating</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">query</td>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write</i></li>
+          <li>target: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write</i></li>
+          <li>target: <strong><i>Library</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row"><strong><i>Library</i></strong></td>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>task: <strong><i>read</i></strong></li>
+          <li>object: <strong><i>Library</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <strong><i>read</i></strong></li>
+          <li>object: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+Until this point our section for ''the 2nd-employment'' is completed.
+
+== 3rd Employment ==
+As a symbiotic relationship with the 2nd employment so the 3rd employment is simply produce ''a query'' in such a way that it will give ''a result'' when it is implemented to the library.  
+
+On the 2nd employment, ''<a href="https://en.wikipedia.org/wiki/Monitoring" target="_blank">Monitoring</a>'' is process to gain the data, ''Rating'' is process of sorting the data to become a library. 
+
+Here we need a language so that a library will understand what ''a query'' is. People call this language as ''<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">SQL</a>'' stand as the abbreviation of ''Structured Query Language''.
+
+=== By Diagram ===
+```js
+letter a stand as script  
+letter b stand as team  
+letter c stand as hyip  
+```
+So we can now put the mapping schema into a standardization as shown below: <br /> 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment/#main]]<br />  
+
+Then diagram will be shown as below:<br />  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment_3.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment_3/#main]]
+
+=== Script ===
+When we see the explanation of what ''SQL'' is, it contain of statement that structured as a code to do a process on a Library. So it is actually a scripting language.
+
+Let's call it from here as ''<a href="https://en.wiktionary.org/wiki/script" target="_blank">a script</a>'' then.<br />
+
+So how ''a script'' can be produced? How to get it to become able to be implemented?
+
+=== Team ===
+In our concept the ''Rating'' shall do the same language with the ''Script'' on managing the data. So here the ''Script'' again has become a symbiotic relationship with the ''Rating''.
+
+So now, it is left only what kind of process that become a symbiotic relationship with the ''Monitoring'', right?
+
+As we have mentioned above, ''Monitoring'' generally means to be aware of the state of a system, to observe a situation for any changes. You can also found in more details about definition of the ''Monitoring'' on the ''<a href="https://en.wiktionary.org/wiki/monitoring">Wiktionary</a>''.
+
+Question is how to carry out this kind of process, no other way we have to built a group of people involved in the same activity to carry them all together.
+
+Let's make a little test in a cross way in related to the symbiotic relation
+* The 2nd Employment produce ''a library'' - the 3rd Employment produce ''a query''
+* On 2nd Employment: ''Monitoring'' collect entry data - ''Rating'' convert to ''the library''  
+* On 3rd Employment: ''Team'' collect data on exit point - ''Script'' convert to ''the query'' 
+* ''Script'' is the language of ''Rating'' activity - ''Monitoring'' is the language of ''Team''  activity
+
+Seems everything are correct. So ''<a href="https://en.wiktionary.org/wiki/team" target="_blank">a team</a>'' is supposed to be the one !
+Here we will will show the details of the ''3rd Employment'' by ''diagram'', ''sequence'' and ''tabulation''.
+=== Ants ===
+It is easy to find a creature that working as a '''team''' when the are dealing with a '''route'''. 
+We have no other option better than <a href="https://en.wikipedia.org/wiki/Ant" target="_blank">ants</a>.
+
+Ants are eusocial insects of the family Formicidae /fɔrˈmɪsɨdiː/ and, along with the related wasps and bees, belong to the order Hymenoptera. Ants evolved from wasp-like ancestors in the mid-Cretaceous period between 110 and 130 million years ago and diversified after the rise of flowering plants. More than 12,500 of an estimated total of 22,000 species have been classified. They are easily identified by their elbowed antennae and the distinctive node-like structure that forms their slender waists.
+<table>
+    <tr>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/colony.jpg?h=300">|https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/nest_swarming.jpg?h=300">|https://en.wikipedia.org/wiki/Swarm_behavior]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/ants_safari.jpg?h=300">|http://mathworld.wolfram.com/TravelingSalesmanProblem.html]]</td>   
+  </tr>
+</table>
+Ants form colonies that range in size from a few dozen predatory individuals living in small natural cavities to highly organised colonies that may occupy large territories and consist of millions of individuals. Larger colonies consist mostly of sterile, wingless females forming castes of "workers", "soldiers", or other specialised groups. Nearly all ant colonies also have some fertile males called "drones" and one or more fertile females called "queens". The colonies are described as superorganisms because the ants appear to operate as a unified entity, collectively working together to support the colony.<br /><br />
+Ants have colonised almost every landmass on Earth. The only places lacking indigenous ants are Antarctica and a few remote or inhospitable islands. Ants thrive in most ecosystems and may form 15–25% of the terrestrial animal biomass. Their success in so many environments has been attributed to their social organisation and their ability to modify habitats, tap resources, and defend themselves. Their long co-evolution with other species has led to mimetic, commensal, parasitic, and mutualistic relationships.
+
+Many animals can learn behaviors by imitation, but ants may be the only group apart from ''<a href="https://en.wikipedia.org/wiki/Mammal" target="_blank">a mammal</a>'' where interactive teaching has been observed.<br /><br />Ant societies have division of labour, communication between individuals, and an '''ability to solve complex problems'''. These parallels with human societies have long been an inspiration and subject of study such as ''<a href="https://en.wikipedia.org/wiki/Computational_number_theory" target="_blank">Algorithmic number theory (Ant)</a>'' and ''<a href="https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations" target="blank">Computational complexity of mathematical operations</a>''.
+<table>
+    <tr>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/6n-graf1.png?h=300">|https://en.wikipedia.org/wiki/Graph_theory]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/travelingsalesmanproblem_1000.gif?h=300">|http://mathworld.wolfram.com/TravelingSalesmanProblem.html]]</td>   
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/konigsberg_bridges.png?h=300">|https://en.wikipedia.org/wiki/Graph_theory#History]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/world_map_with_four_colours.png?h=300">|https://en.wikipedia.org/wiki/Four_color_theorem]]</td>   
+  </tr>
+</table>
+There is also a method in computer science and operations research called ''<a href="https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms" target="_blank">Ant Colony Optimization Algorithm (ACO)</a>'' which is a probabilistic technique for solving computational problems which can be reduced to finding good paths through ''<a href="https://en.wikipedia.org/wiki/Graph_theory" target="_blank">graphs</a>''.<br /><br />This algorithm is a member of the ant colony algorithms family, in swarm intelligence methods, and it constitutes some metaheuristic optimizations. Initially proposed by <a href="https://en.wikipedia.org/wiki/Marco_Dorigo" target="_blank">Marco Dorigo</a> in 1992 in his PhD thesis, the first algorithm was aiming to search for an optimal path in a graph, based on the behavior of ants seeking '''a path between their colony and a source of food'''.<br /><br />The original idea has since diversified to solve a wider class of numerical problems, and as a result, several problems have emerged, drawing on various aspects of the behavior of ants which was then leads into a new approach known as '''<a href="https://en.wikipedia.org/wiki/Swarm_robotics" target="_blank">swarm robotics</a>''' as well as the biological studies of insects, ants and other fields in nature, where ''<a href="https://en.wikipedia.org/wiki/Swarm_behavior" target="_blank">swarm behavior</a>'' occurs.
+=== Horses ===
+We just left now the creature to represent '''script'''. Well it is quite difficult to find one that's why we put it on the last part. 
+
+An easy way is seeing from the purpose of script itself. Script is a language and we are talking about '''route'''. Means here the employment shall be the creature that understand what the language of us as the one that will use the source.
+
+This creature shall obey what instructed to follow the route without any objection. When we want left, right, stop, or backoff. So we think only two kind of them which are '''horse and dog'''. Since dog is seldom used for riding then we prefer to choose horse.
+
+Horses have been domesticated for at least 5000 years. They have been used by humans in many different ways for travel, work, food, and pleasure. They are also kept as a pet for humans too.
+
+They are used for riding, as transport, racing, and just plain riding. They are also used for carrying things or pulling carts, or to help plow farmer's fields in agriculture. Horses have also been used for meat, milk, and glue. Today, horses are mostly used for entertainment and sports. They are also still used for work and transportation in some places.
+
+Horses are used by humans in equine sports such as cross-country, showjumping, dressage, horse polo, rodeo events etc. Showjumping, cross-country and dressage are Olympic sports can be competed together in one event (known as one/three day events) or as separate events.
+
+=== By Route ===
+Then the content flow for the ''3rd Employment'' can be tabulated as below:
+<table>
+  <thead>
+    <tr>
+      <th>type</th>
+      <th>flow</th>
+      <th>repo</th>
+      <th>script</th>
+      <th>flow</th>
+      <th>team</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">query</td>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write</i></li>
+          <li>target: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write</i></li>
+          <li>target: <strong><i>Library</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row"><i>Query</i></td>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>task: <strong><i>read</i></strong></li>
+          <li>object: <strong><i>Library</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <strong><i>read</i></strong></li>
+          <li>object: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+
+Until this point our section for ''the 3rd-employment'' is completed.
+
+We are going to bring you to ''[[Mapping-Merging|The Fourth]]''.
+
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Spreading|:arrow_backward:]] [[Mapping-Spreading|Prev]]</th>
+      <th>[[Mapping-Employment|:repeat:]] [[Mapping-Employment|Reload]]</th>
+      <th>[[Mapping-Merging|Next]] [[Mapping-Merging|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>

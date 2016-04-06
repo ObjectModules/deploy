@@ -1,0 +1,98 @@
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Writing|:arrow_backward:]] [[Writing|Prev]]</th>
+      <th>[[Reading|:repeat:]] [[Reading|Reload]]</th>
+      <th>[[Discussion|Next]] [[Discussion|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>
+= Reading =
+Welcome to our Reading Section. You just come to our section that we gonna explain our own concept in detail about the reading on ''[[our project|https://github.com/hyip]]''.<br />
+
+''Please consider this as a unique concept that you shouldn't find it anywhere without our [[license|https://github.com/hyip/info/wiki/Reading#license]]. So here we want you to have an open mind. If you're not enjoying it, don't do it.''
+
+== Background ==
+Before we bring you to our concept, let's talk first about the topic of reading according to that is explained on ''[[Wikipedia|https://en.wikipedia.org/wiki/Reading]]''.
+
+[[Reading|https://en.wikipedia.org/wiki/Reading_(process)]] is a complex cognitive process of decoding symbols in order to construct or derive meaning (reading comprehension). It is a means of language acquisition, of communication, and of sharing information and ideas. 
+
+Beside ''[[Reading#text|text]]'' and ''[[Reading#computer|computer data]]'', there are another form of reading called ''[[Reading#divination|divination]]'' and ''[[Reading#fortune-telling|fortune-telling]]'', which does not rely on specific devices or methods, but rather the practitioner gives the client advice and predictions which are said to have come from spirits or in visions.
+
+=== Text ===
+Like all language, it is a complex interaction between the text and the reader which is shaped by the reader’s prior knowledge, experiences, attitude, and language community which is culturally and socially situated. 
+
+The reading process requires continuous practice, development, and refinement. In addition, reading requires creativity and critical analysis.
+
+The process of recording information to be read later is [[writing|https://en.wikipedia.org/wiki/Writing]]. In the case of computer and microfiche storage there is the separate step of displaying the written text. For humans, reading is usually faster and easier than writing.
+
+[[Literacy|https://en.wikipedia.org/wiki/Literacy]] is the ability to use the symbols of a writing system. It is the ability to interpret what the information symbols represent, and to be able to re-create those same symbols so that others can derive the same meaning. Illiteracy is not having the ability to derive meaning from the symbols used in a writing system.
+=== Computer ===
+[[Reading|https://en.wikipedia.org/wiki/Reading_(computer)]] on computers is to acquire data from a source and place it into their volatile memory for processing. 
+
+For example, a computer may read information off a floppy disk and store it in random access memory to be placed on the hard drive to be processed at a future date. 
+
+Computers may read information from a variety of sources, such as magnetic storage, the Internet, or audio and video input ports.
+
+A read cycle is the act of reading one unit of information (e.g. a byte). A read channel is an electrical circuit that transforms the physical magnetic flux changes into abstract bits. 
+=== Divination ===
+[[Divination|https://en.wikipedia.org/wiki/Divination]] (from Latin divinare "to foresee, to be inspired by a god", related to divinus, divine) is the attempt to gain insight into a question or situation by way of an occultic, standardized process or ritual. 
+
+Used in various forms throughout history, diviners ascertain their interpretations of how a querent should proceed by reading signs, events, or [[omens|https://en.wikipedia.org/wiki/Omen]], or through alleged contact with a supernatural agency.
+
+Psychologist [[Julian Jaynes|https://en.wikipedia.org/wiki/Julian_Jaynes]] categorized divination into four types which are Omens and omen texts, Sortilege ([[cleromancy|https://en.wikipedia.org/wiki/Cleromancy]]), [[Augury|https://en.wikipedia.org/wiki/Augury]], and Spontaneous.
+
+Spontaneous. An unconstrained form of divination, free from any particular medium, and actually a generalization of all types of divination. The answer comes from whatever object the diviner happens to see or hear. Some religions use a form of bibliomancy: they ask a question, riffle the pages of their holy book, and take as their answer the first passage their eyes light upon. Other forms of spontaneous divination include reading [[auras|https://en.wikipedia.org/wiki/Aura_(paranormal)]] and [[New Age|https://en.wikipedia.org/wiki/Aura_(paranormal)]] methods of [[feng shui|https://en.wikipedia.org/wiki/Feng_shui]] such as "intuitive" and "fuzion".
+
+In addition to these four broad categories, there is [[palmistry|https://en.wikipedia.org/wiki/Palmistry]], also called chiromancy, a practice common to many different places on the Eurasian landmass; it has been practised in the cultures of India, Tibet, China, Persia, Sumeria, Ancient Israel and Babylonia. In this practice, the diviner examines the hands of a person for whom they are divining for indications of their future.
+
+Divination can be seen as a systematic method with which to organize what appear to be disjointed, random facets of existence such that they provide insight into a problem at hand. If a distinction is to be made between divination and fortune-telling.
+=== Fortune-telling ===
+[[Fortune-telling|https://en.wikipedia.org/wiki/Fortune-telling]] is the practice of predicting information about a person's life. The scope of fortune-telling is in principle identical with the practice of divination.
+
+The difference is that divination is the term used for predictions considered part of a religious ritual, invoking deities or spirits, while the term fortune-telling implies a less serious or formal setting, even one of popular culture, where belief in occult workings behind the prediction is less prominent than the concept of suggestion, spiritual or practical advisory or affirmation.
+
+Historically, fortune-telling grows out of folkloristic reception of Renaissance magic, specifically associated with Romani people. During the 19th and 20th century, methods of divination from non-Western cultures, such as the I Ching, were also adopted as methods of fortune-telling in western popular culture.
+
+Common methods used for fortune telling in Europe and the Americas include astromancy, horary astrology, pendulum reading, spirit board reading, tasseography (reading tea leaves in a cup), cartomancy (fortune telling with cards), tarot reading, crystallomancy (reading of a crystal sphere), and chiromancy (palmistry, reading of the palms). The last three have traditional associations in the popular mind with the Roma and Sinti people (often called "gypsies").
+
+<table>
+    <tr>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/chart_of_the_hand.png?h=300">|https://en.wikipedia.org/wiki/Fortune-telling]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/the_zodiac_man.jpg?h=300">|https://en.wikipedia.org/wiki/Astrology]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/fengshui_compass1.jpg?h=300">|https://en.wikipedia.org/wiki/Feng_shui]]</td>   
+  </tr>
+</table>
+
+''To be continued..''
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Writing|:arrow_backward:]] [[Writing|Prev]]</th>
+      <th>[[Reading|:repeat:]] [[Reading|Reload]]</th>
+      <th>[[Discussion|Next]] [[Discussion|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>

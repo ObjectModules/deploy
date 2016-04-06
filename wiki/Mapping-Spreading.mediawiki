@@ -1,0 +1,323 @@
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Routine|:arrow_backward:]] [[Mapping-Routine|Prev]]</th>
+      <th>[[Mapping-Spreading|:repeat:]] [[Mapping-Spreading|Reload]]</th>
+      <th>[[Mapping-Employment|Next]] [[Mapping-Employment|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>
+= Spreading =
+
+Here we will explain about ''a spreading'' in our concept. A process of factoring ''[[Mapping-Routine|a routine]]'' due to a parameter. Please be prepared your self as we are going deeper ongoing forward.
+
+''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping-Routine|previous section]]''.
+== Basic ==
+Let's put again all of the mappings here:
+=== Routine ===
+Mapping of ''[[Mapping-Routine|a routine|]]''
+```  
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+=== Parameter ===
+Mappings by ''[[Mapping#parameter|a parameter]]''  
+
+Mapping of the change to your routine process:
+```
+* Looking for your best food will become an entry point
+* An information of best food is what we need 
+* Looking is the process
+* Exit point  
+```
+Mapping of the process to collect the library in related with the food:
+```
+* Food will become an entry point
+* Library is what we need 
+* Collect is the process
+* Exit point  
+```
+Then we need also the mapping to examine your self to get your data:
+```
+* You will become an entry point
+* Your data is what we need 
+* Examine is the process
+* Exit point  
+```
+Let's map about the process of getting the best food for you the same way as your doctor do:
+```
+* Both of food library and your data will become the entry point
+* A best food on library for you is what we need 
+* Matching the data is the process
+* Exit point  
+```
+We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process.   
+=== Rules ===
+Let's take again the mapping of ''[[Mapping-Routine|a routine]]'':    
+```  
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+As we have explained, whenever you put a parameter into ''a routine'' then it will call a process of factoring the routine in related to the parameter. We call this process as ''a spreading''.<br /><br />
+
+Due to the spreading then the mapping of ''a routine'' will change it behaviour to become ''two (2) sets'' of mappings which are not identical.<br />
+
+=== Mapping ===
+Here you can put whatever word you like to name the new mapping. However, based on the concept of mapping then a new process shall follow these basic rules:
+* Have one assigned main process and one assigned displaying process
+* The title of the process shall be different with the Routine
+
+Now left the question on how to combine them, right? Here are the rules:  
+* The new process shall be able to be carried out along with the Routine
+* It shall be a clearly sign that a new process is being carried out of the Routine
+
+=== Implementation ===
+A process is considered as settled whenever it can be run or return to the entry point and processed normally without any adjustment or modification into the Routine.
+
+For instance, let say you have eat the food, then you got that it is not suit to your need. Means it is not the best one for you. So you need to do the searching again at which the process back to the entry point again.   
+
+== Details ==
+Here we will will show the details of spreading by ''diagram'', ''sequence'' and ''tabulation''.
+=== By Diagram ===
+Let's take again the diagram for ''[[Mapping-Routine|a routine]]'':<br />
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]]<br />  
+To show the spreading by diagram simply make it a copy of the Routine, put another word to replace the word of `info`, let's take the word of `world` then. You will got 2 mapping now, one for your Routine and another one for the new process. 
+
+Let's follow ''[[Mapping-Spreading#rules|the rules]]'' one by one. 
+
+So now you have two mapping with a different process. Then, on fulfilling the rule on making a clear sign that a new process is being carried out, just put ''a separated line'' in between.
+
+So when applying those steps all together then the diagram will be shown as below:  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_spreading.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_spreading/#main]]<br />
+
+This diagram will present all the mappings by ''[[Mapping#parameter|a parameter]]''  
+
+You can see that this spreading has ''four (4) processes'', just exactly like when we count the number of elements inside ''[[Mapping-Routine|a routine]]''.
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_employment_1.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_employment_1/#main]]  
+
+=== By Sequence ===
+See the 1st mappings by ''[[Mapping-Spreading#parameter|a parameter]]'', let's put it again here:  
+
+Mapping of the change to your routine process when you search your best food:
+```
+* Looking for your best food will become an entry point
+* An information of best food is what we need 
+* Looking is the process
+* Exit point  
+```
+See also ''the separated line'' on the diagram of ''Figure 5''. We are going to describe this diagram in sequence on what is going on the above and below the line when you search your best food.<br /><br />
+
+Take a copy of the figure then. Let's put this way:
+* Change the `info` as _yourself_, so `hyip info` will stand as ''your computer''
+* Change `hyip world` as ;;Google Search'', so the `world` will stand as ''Google'' itself.<br />
+
+Now you can just consider a sense way when you search your best food as below:  
+* Above the line: ''You'' write<sup><i>1</i></sup> a query to ''Google Search'', then ''Google Search'' read<sup><i>2</i></sup> it
+* Below the line: ''Google'' write<sup><i>3</i></sup> a result then ''your computer'' read<sup><i>4</i></sup> and display it  
+=== By Route ===
+We are going also to represent the diagram in kind of a ''<a href="https://en.wikipedia.org/wiki/Road_map" target="_blank">RoadMap</a>'' by putting all the flowing routes into a tabulation. <br />
+
+Let's put it this way:<br />
+
+Take the copy of of the sample of the sequence when you search your best food. Put back the name of our repos on the said sample. You will get it then as the following:
+* Above the line: `info` write<sup><i>1</i></sup> a query to `hyip world`, then `hyip world` read<sup><i>2</i></sup> it
+* Below the line: `world` write<sup><i>3</i></sup> a result then `hyip info` read<sup><i>4</i></sup> and display it
+
+Now you can tabulate the flow of the processes for ''a spreading'' as shown below:
+<table>
+  <thead>
+    <tr>
+      <th>type</th>
+      <th>flow</th>
+      <th>repo</th>
+      <th>info</th>
+      <th>flow</th>
+      <th>world</th>
+      <th>flow</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><i>query</i></td>
+      <td scope="row">:arrow_right:</td>
+      <td scope="row">main</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup>1</sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <i>Query</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_right:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>write<sup>3</sup></i></li>
+          <li>way: <i>send</i></li>
+          <li>object: <strong><i>Result</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_left:</td>
+    </tr>
+    <tr>
+      <td scope="row"><i>result</i></td>
+      <td scope="row">:arrow_left:</td>
+      <td scope="row">hyip</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>4</sup></i></li>
+          <li>way: <i>display</i></li>
+          <li>object: <i>Result</i></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_lower_left:</td>
+      <td scope="row">
+        <ul>
+          <li>task: <i>read<sup>2</sup></i></li>
+          <li>way: <i>receive</i></li>
+          <li>object: <strong><i>Query</i></strong></li>
+        </ul>
+      </td>
+      <td scope="row">:arrow_heading_up:</td>
+    </tr>
+  </tbody>
+</table>
+Let's take a look at ''the arrows'' and ''the sequence numbers'' as shown on the table above. You may see that they are in the same flow as ''[[Mapping-Spreading#by-diagram|the diagram]]'' and ''[[Mapping-Spreading#by-sequence|the sequence]]''.<br />
+
+
+Until this point our section for ''a spreading'' is completed.
+= What's Next =
+== Hexagon ==
+In a regular hexagon, the radius equals the side length. That is, a line from the center to any vertex will have the same length as any side.
+
+=== Radius ===
+Because of this, a regular hexagon can be thought of as being made of six equilateral triangles.
+<table>
+    <tr>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-radius1.gif?h=120">|http://www.mathopenref.com/hexagon.html]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-equilat.gif?h=120">|http://www.mathopenref.com/hexagon.html]]</td>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-nut.jpg?h=120">|http://www.redblobgames.com/grids/hexagons/#coordinates]]</td>   
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/11/hexagon-hand.jpg?h=120">|http://www.earth360.com/math-naturesnumbers.html]]</td>   
+    </tr>
+</table>
+
+=== The Nuts and Bolts ===
+Most nuts and bolt heads are made in the shape of a hexagon. Because a hexagon has three pairs of parallel faces, a wrench can be placed over any pair. 
+
+In a confined space, the wrench can be turned 60° (the exterior angle of a hexagon) and then the wrench re-positioned on the next pair of sides. Doing this repeatedly will tighten the nut. In this way, you do not need room to rotate the entire wrench a full circle
+== Morphism ==
+From that point you may see that ''a routine'' will turn its behavior and seeking a way to return to its routine by calling another mappings that initiated by the spreading.<br />
+=== Data Mapping ===
+So whenever ''a result'', by a term of ''<a href="https://en.wikipedia.org/wiki/Data_mapping" target="blank">data mapping</a>'',  meet the requirement of ''a query'' then process will end to a settlement which making all process that related to the parameter will no more required. On our case those process are `world` and `hyip world`.<br />
+
+When the `world` and `hyip world` are no more carry out then all of the process is considered settled and will return to ''[[Mapping-Routine|its routine]]''. <br /> 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_spreading.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_spreading/#main]] 
+=== Gene Mapping ===
+However when `a settlement` is not going to be achieved then the spreading will continue to another process which in our concept we call them as ''Employment'' and ''Merging''.
+
+This is identical as described on ''<a href="https://en.wikipedia.org/wiki/Gene_mapping#Physical_Mapping" target="_blank">Gene Mapping</a>'', which explained that since actual base-pair distances are generally hard or impossible to directly measure, physical maps are actually constructed by first shattering the genome into ''hierarchically smaller pieces''. 
+
+By characterizing each single piece and ''assembling back together'', the overlapping path or "tiling path" of these small fragments <u>would allow</u> researchers to infer physical distances between genomic features.
+=== Replication ===
+The employment can be considered as identical with ''<a href="https://en.wikipedia.org/wiki/DNA_replication" target="_blank">DNA Replication</a>'' in ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">cell cycles</a>'', where a number of proteins are associated with the replication fork which helps in terms of the initiation and continuation of ''<a href="https://en.wikipedia.org/wiki/S_phase" target="_blank">DNA synthesis</a>''. 
+
+It is stated also that the ''<a href="https://en.wikipedia.org/wiki/DNA_polymerase" target="_blank">DNA</a>'' synthesizes ''the new DNA'' by adding complementary ''<a href="https://en.wikipedia.org/wiki/Nucleotides" target="_blank">nucleotides</a>'' to the template strand. Here ''the nucleotides'' stand as '''the said media''' as it serve to carry packets of energy within the cell and playing a central role in <a href="https://en.wikipedia.org/wiki/Metabolism" target="_blank">the process</a>. 
+
+=== Potential Factor(s) ===
+As you may guess we are not going for a settlement on this point. We have explained that, in our case, you will not be able to find your best food on search engines.<br />
+
+See again the tabulation of a spreading. Let's try to figure out which potential factor(s) that making your searching stack is.<br />
+
+Better we put the on the list one by one:<br />
+* You write a query of 'best food'. Seems nothing is wrong with it. Your search is correct.
+* Your computer read and displaying the result. Nothing is wrong with your computer.
+* Google receive your Query. Nothing is wrong with Google.
+* Google write the Result. That's it! The result is not meet your query.
+
+So we found a potential factor. Now just think how to solve this..<br />
+See that the result is too big too choose. Is it might be your query?<br /><br />
+
+Yes may be your query. But you don't know what is the right query to find your best food.<br />
+So the only way is you have to put your query to somewhere else.
+
+So now you have another potential factor become two (2) all together.<br />
+We have put the potential factors in bold. They are the '''Query''' and '''Result'''.
+=== Result vs Query ===
+Follow to our explanation above, there will be two kind of employments called. One to settle the Query and another one for the Result. You may see also that each employment will represent the 2nd and the 3rd mapping of a Routine by a parameter.
+
+The employments for the Result is represent the 2nd mapping:  
+```
+* Food will become an entry point
+* Library is what we need 
+* Collect is the process
+* Exit point  
+```
+The employments for the Query is represent the 3rd mapping:  
+```
+* You will become an entry point
+* Your data is what we need 
+* Examine is the process
+* Exit point  
+```
+=== Symbiotic Morphism ===
+See that one mapping is doing a process making ''a library'' which is concern to collect data to get it to become more specific '''Source''' to only related to the parameter.
+
+Another is doing a process of making a '''''Specific Target''''' by examine to the one who is going to use it in related also to the parameter.<br />
+
+Therefore, in purpose of getting ''a settlement'', both will goes to different processes but they work in related to the same parameter. So it will be a kind of '''Symbiotic Morphism''', where in the fields of mathematics ''[[Mapping-Merging#morphism|a morphism]]'' is represented by an arrow from its source to its target.<br />
+
+=== Elephant ===
+Here you have define the factors. On this point you will need to find another tool or a person that will understand to your need. 
+
+So there shall be a process of finding a tool or a person or other '''media''' that is required to achieve a settlement. In our concept we call this process as ''an employment''.
+
+As we have explained, ''a spreading'' an early step to get something. Whenever we want something that for sure we need to do an effort. 
+
+Say here that we are going to get something big. Let's make it easy. What is the biggest creature that you know? Of course an elephant. Easy right? 
+
+So what will you do when you want an elephant?
+
+In our concept, as also normally happen in our live, whenever you want something then you will need to provide something that worth for it. 
+
+On our case this project is an exact sample. We have set that our target is getting a very valuable information. So we shall give our valuable information as well. 
+
+We aware that we are not good in writing but we believe that the concept is valuable for people. So we just do our best to ''[[Writing|write]]'' it here. The place that is well known to share something and everyone can easily reach. ''So this project is simply our employment''.
+
+So back to the elephant, since it is a creature, you will also need to provide a creature which is worth to get an elephant, something is also big. Something worth for an elephant.
+
+Let's find it in more details on our ''[[Mapping-Employment|next section]]''.
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping-Routine|:arrow_backward:]] [[Mapping-Routine|Prev]]</th>
+      <th>[[Mapping-Spreading|:repeat:]] [[Mapping-Spreading|Reload]]</th>
+      <th>[[Mapping-Employment|Next]] [[Mapping-Employment|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>

@@ -1,0 +1,329 @@
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping|:arrow_backward:]] [[Mapping|Prev]]</th>
+      <th>[[Mapping-Routine|:repeat:]] [[Mapping-Routine|Reload]]</th>
+      <th>[[Mapping-Spreading|Next]] [[Mapping-Spreading|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>
+= Routines =
+
+We have explained the [[Mapping|background of our concept]]. Now we will explain the mapping of this project. We will start to explain about ''a routine''. Stand as the basic process in our concept.
+
+''Here we do our best to explain as you might get confused. However, in order to get easier on following this section we recommend you to make clear yourself to our [[Mapping|previous section]].''
+== Mapping ==
+Let's put again all of the mappings here:
+=== Basic Mapping ===
+Mapping of ''[[Mapping#routines|a routine]]''
+```  
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+=== Mapping by Parameter ===
+Mappings by ''[[Mapping#parameter|a parameter]]''  
+
+Mapping of the change to your routine process:
+```
+* Looking for your best food will become an entry point
+* An information of best food is what we need 
+* Looking is the process
+* Exit point  
+```
+Mapping of the process to collect the library in related with the food:
+```
+* Food will become an entry point
+* Library is what we need 
+* Collect is the process
+* Exit point  
+```
+Then we need also the mapping to examine your self to get your data:
+```
+* You will become an entry point
+* Your data is what we need 
+* Examine is the process
+* Exit point  
+```
+Let's map about the process of getting the best food for you the same way as your doctor do:
+```
+* Both of food library and your data will become the entry point
+* A best food on library for you is what we need 
+* Matching the data is the process
+* Exit point  
+```
+=== Mapping by Settlement ===
+Let's put again all the map about the process after getting the best food.
+
+In our concept, when ''four (4) mappings'' is going to return to its original of ''four (4) elements'', we call it as ''[[Mapping-Settlement|a settlement]]''.  
+
+So here in our case, whatever you have done as long as you follow the concept, all will back to the original process but now you got already your 'Best Food'.  
+```
+* Hungry will become an entry point
+* 'Best Food' is what we need 
+* Eat is the process
+* Exit point  
+```
+
+Since you still have the original run in the system then it will become as ''two (2) identical sets'' where the 'Best Food' is still considered as ''a new process'' (unrecognized).
+```
+* Hungry will become an entry point
+* 'Best Food' is what we need 
+* Eat is the process
+* Exit point  
+```
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+
+So here a process of ''[[Mapping-Comparison|a comparison]]'' will be called, say The 'Best Food' is the winner. The original one is remain stay as ''a reference'' or ''a backup''.  
+```
+* Hungry will become an entry point
+* 'Best Food' is what we need 
+* Eat is the process
+* Exit point  
+```
+
+Then the 'Best Food' will stand just a 'Food' when it is implemented ''as part'' of ''[[Mapping-Overall|an overall]]'' system. Here ''a regular check'' will be assigned also ''as part'' of the overall system. 
+```
+* Hungry will become an entry point
+* 'Food' is what we need 
+* Eat is the process
+* Exit point  
+```
+
+Finally, it will become the same routine just exactly the same as before we put the parameter of 'best' to the food. Just a process of eating a food.
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+
+See here everything is back to normal. <br /> 
+All back to ''[[Mapping-Routine|a routine]]''.<br /> 
+Settled.
+
+== Basic Diagram ==
+Here on this section, we will explain about our way on making the mapping using layout diagram. We are going to get it applicable for all the above mappings.
+=== Symbology ===
+See that all of the mappings are consist of ''four (4) elements'' which function in all of mappings are the same. So we can define a kind of ''<a href="https://en.wikipedia.org/wiki/Cartography#Map_symbology" target="_blank">symbolization</a>'' for each of elements. 
+
+Let's put this way:
+```
+1. A straight line for entry point
+2. A text to define what we need
+4. A box to indicate the process 
+2. A Dotted line for exit point  
+```
+
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_routine_1.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_routine_1/#main]] 
+
+The diagram as shown in ''Figure 1'' has ''four (4) elements''. Each represent each element inside the mapping. We just need to put ''what we need'' as a text above the box. 
+
+Let's take a look into each mapping one by one. You may find that in our case this text can be each of the followings:
+* `Food`
+* `Library`
+* `Your Data`
+* `An information of best food`  
+* `A best food on library for you` 
+
+To identify each of them, here we simply put the word `info` above the box. Basically it can be any word you want. Let's take this word to continue further.
+
+=== Naming ===
+The further step is we are going to identify the process inside the box. This will become a repository. We shall better provide it with a documentation to describe the process. 
+
+So just in purpose of ''<a href="https://en.wikipedia.org/wiki/Cartography#Naming_conventions" target="_blank">naming</a>'', let's put a repo and a wiki inside the box.  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_routine_2.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_routine_2/#main]]  
+
+=== Navigation ===
+As we are going to make a kind of ''<a href="https://en.wikibooks.org/wiki/Robotics/Navigation/Mapping" target="_blank">robotic route system</a>'' on this project. Then in order to have a clear navigation we need to define a flowing diagram between the repo and the wiki. 
+
+Let's put it this way:<br /> 
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_navigation.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_navigation/#main]] 
+
+=== Portraying ===
+We will need also to display the process to the web. Here we make a separation between the flowing of the process to become able to be displayed (''<a href="https://en.wikipedia.org/wiki/Cartography#Map_generalization" target="_blank">portraying</a>''). 
+
+We also need to give a different title of on it to be easily defined. So just simply make the same diagram but add another word to the process of this displaying. Here we put our project name ''[[`hyip`|https://tophyipmonitor.wordpress.com/hyip-business/]]'' as our choice on the displaying process.   
+
+Here is now the diagram will look like:  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]]  
+
+You can see that this mapping has ''four (4) elements'', consist of ''two (2) repos'' and ''two (2) wikis''. Just like the number of elements inside a routines.
+```
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+
+Until this point the diagram for a mapping is completed.
+
+= What Next =
+We are going to explain further what going on with a basic diagram when we are putting a parameter into of a routine process. 
+
+== Behavior by Parameter ==
+Now we are going to explain the behavior of a mapping when a parameter is putting inside. On our case you are going to put `the best` as your parameter to your food. 
+
+=== Identical Sets ===
+Let's take mapping of ''Figure 4'' as ''[[Mapping#routines|a routine]]''.  
+[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/map_portraying.png">|https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_portraying/#main]]<br /> 
+Let's put again the mapping here.
+```  
+* Hungry will become an entry point
+* Food is what we need 
+* Eat is the process
+* Exit point  
+```
+Take a look at the process. Eat is the process. Consider it as a routine process. What is going on when you want to find your best food to eat but you don't know yet which one is.
+
+Of course you remain eat whatever the food you have on hand. Since you insist to get one so you will have to do something to get it.
+
+So here for sure your routine will not be the same again. You have to do another effort out of your routines. Another effort means another process. 
+
+In our case this will consist of ''two (2) identical'' processes of eating a food which are:  
+* one process is remain eating ''your original food''
+* another new process which is the process of eating ''your best food''
+
+=== Comparison ===
+As we have explained in the ''[[Mapping#settlement|settlement]]'' about the behavior of this concept, whenever an identical process is founded then the system will call for ''[[Mapping-Comparison|a comparison]]''.
+
+This comparison process will let the one which giving a better result to take the position as the part of the main process via another process which we call as ''[[Mapping-Overall|an overall]]''. 
+
+The one which is not taken in the position will keep remain stay but no more carry out. It will stay as a reference or a back-up.
+
+Consider is a sense way. When you have already know what your best food is then for sure you have to choose whether you remain back to your original routines or change your routines to the new process. In our concept another process means another mapping.  
+
+''You cannot carry out both all together in the same time''.
+
+We are going to explain further how a mapping will become ''two (2)''. 
+=== Where is it happen? ===
+You won't believe us that this kind of process is happen as a normal case in our live. It is happen in your routines especially when you want something to get. 
+
+It is happen on a wider thing like the routines in a company when they shall make a change on their management structure or makes its branches for a development.
+
+It is even happen normally on a smallest thing that you can find it lives in this world !
+
+What is the smallest thing? A cell right? Do you know how many cells in your body? Do you know how your body is having so many cells from you baby time till as big as you are right now? How many of them is making a separation from one (1) to become two (2) each day?
+
+So just to make it short, this kind of process can be identical with when a kind of cell is separated into ''two (2) identical sets''.
+
+People call the process as ''<a href="https://en.wikipedia.org/wiki/Mitosis" target="_blank">a mitosis</a>'', part of ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">a cell cycle</a>''. Let's us just simply copy and highlight the explanation in the following two chapters.
+
+=== Mitosis ===
+<a href="https://en.wikipedia.org/wiki/Mitosis" target="_blank">Mitosis</a> is a part of the cell cycle in which chromosomes in a cell nucleus are separated into ''two identical sets of chromosomes'', each in its own nucleus. 
+
+In general, mitosis (division of the nucleus) is often followed by cytokinesis, which divides the cytoplasm, organelles and cell membrane into two new cells containing roughly equal shares of these cellular components. Mitosis and cytokinesis together define the mitotic (M) phase of an animal cell cycle—the division of the mother cell into two daughter cells, '''genetically identical''' to each other and to their parent cell.
+
+The process of mitosis is divided into stages corresponding to ''the completion of one set of activities and the start of the next''. These stages are prophase, prometaphase, metaphase, anaphase, and telophase. 
+
+During mitosis, the chromosomes, which have already duplicated, condense and attach to fibers that pull one copy of each chromosome to '''opposite sides''' of the cell. The result is two genetically identical daughter nuclei. 
+
+The cell may then divide by cytokinesis to produce two daughter cells. Producing three or more daughter cells instead of normal two is '''a mitotic error''' called tripolar mitosis or multipolar mitosis (direct cell triplication / multiplication). 
+
+Other errors during mitosis can induce apoptosis (programmed cell death) or cause mutations. Certain types of cancer can arise from such mutations.
+
+Mitosis occurs only in eukaryotic cells and the process varies in different organisms. For example, animals undergo an "open" mitosis, where the nuclear envelope breaks down before the chromosomes separate, while fungi undergo a "closed" mitosis, where chromosomes divide within an intact cell nucleus.
+
+Furthermore, most animal cells undergo a shape change, known as mitotic cell rounding, to adopt a near spherical morphology at the start of mitosis. Prokaryotic cells, which lack a nucleus, divide by a different process called '''binary fission'''.
+=== Cell Cycle  ===
+<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">Cell cycle</a> or cell-division cycle is the series of events that take place in a cell leading to its division and duplication (replication) that produces two daughter cells. In prokaryotes which lack a cell nucleus, the cell cycle occurs via a process termed ''binary fission''. 
+
+In cells with a nucleus, as in eukaryotes, the cell cycle can be divided into three periods: interphase, the mitotic (M) phase, and cytokinesis. 
+
+During interphase, the cell grows, '''accumulating nutrients needed for mitosis''', preparing it for cell division and duplicating its DNA. 
+
+During the mitotic phase, the cell splits itself into two distinct daughter cells. During the final stage, cytokinesis, the new cell is completely divided. To ensure the proper division of the cell, there are control mechanisms known as '''cell cycle checkpoints'''.
+
+The cell-division cycle is a vital process by which a single-celled fertilized egg develops into a mature organism, as well as the process by which hair, skin, blood cells, and some internal organs are renewed. 
+
+After cell division, each of the daughter cells begin the interphase of a '''new cycle'''. 
+=== Two (2) Daughter ===
+As explained in ''<a href="https://en.wikipedia.org/wiki/Cell_cycle" target="_blank">cell cycle</a>'', ''the mitosis'' is one of the series of events that take place in a cell leading to its division and duplication ''<a href="https://en.wikipedia.org/wiki/DNA_replication" target="_blank">(replication)</a>'' of its ''<a href="https://en.wikipedia.org/wiki/DNA" target="_blank">DNA</a>'' that produces ''two (2) daughter cells''.
+
+Here are the ''process of a Mitosis'' and the structure ''of two base pairs DNA'' look like:   
+<table>
+    <tr>
+      <td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/mitosis.jpg?h=313">|https://en.wikipedia.org/wiki/Cell_cycle]]</td><td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/ADN_animation.gif">|https://en.wikipedia.org/wiki/DNA]]</td>   
+  </tr>
+</table>
+==  Hexagonal Form  ==
+You may see from figure above that showing the process of a mitosis, the process of a cell to become ''two (2) identical sets'' is consist of ''four (4) steps''. 
+=== Identical Steps === 
+Identically with the process of ''a mitosis'', in our concept the final result will also produce ''two (2) identical sets'', which the step up to the final result itself will also consist of ''four (4) steps'' which we call them as ''[[Mapping-Spreading|a spreading]]'', ''[[Mapping-Employment|an employment]]'', ''[[Mapping-Merging|a merging]]'' and ''[[Mapping-Settlement|a settlement]]''. 
+
+As we have explained, to become all settled this result of ''two (2) identical sets'' will be followed then by ''[[Mapping-Comparison|a comparison]]'' and ''[[Mapping-Overall|an overall]]'', stand as a control mechanisms that identical as ''<a href="https://en.wikipedia.org/wiki/Cell_cycle_checkpoint" target="_blank">cell cycle checkpoint</a>'' and ''<a href="https://en.wikipedia.org/wiki/Dam_methylase" target="_blank">mismatch repair</a>'' which ensure proper division of the cell.
+=== One-to-One Mapping ===
+You will see that ''[[Mapping-Merging|a merging]]'' will be the central of our concept. So the steps from ''[[Mapping-Routine#routines|a routine]]'' to ''[[Mapping-Merging|a merging]]'' is ''three (3) steps''. From ''[[Mapping-Merging|a merging]]'' there also ''three (3) steps'' to return back to ''[[Mapping-Routine#routines|a routine]]''. That the cycle come to begin again.
+
+Starting from ''[[Mapping-Routine#routines|a routine]]'' then the whole steps is done within ''six (6)'' steps in a kind of ''one-to-one'' mapping as 'isogram' that produce an hexagonal form. 
+
+We try to illustrate this kind of processes, well it is quite difficult. However, the picture below are considered by us as close to represent what it means.
+<table>
+    <tr>
+      <td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Three_by_Four.svg/300px-Three_by_Four.svg.png">|https://en.wikipedia.org/wiki/Multiplication]]</td><td>[[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Centered_hexagonal_%3D_1_%2B_6triangular.svg/576px-Centered_hexagonal_%3D_1_%2B_6triangular.svg.png">|https://en.wikipedia.org/wiki/Centered_hexagonal_number]]</td>   
+  </tr>
+</table>
+=== ''Three (3)'' by ''Four (4)'' ===
+Here we have explained the routine in ''three (3)'' by ''four (4)'' that became ''twelve (12)'' which come by ''six (6)'' pairs of ''sequential unique processes'' each presents by ''six (6)'' steps in hexagonal form as explained above.
+
+You may find later the kind of our hexagonal form as well as its contents which in the figure are represented by the ''twelve (12)'' blue dots that are circling in ''the seven (7)'' in hexagonally pairs of two (2) dots each.  
+=== Kind of Direction ===
+See that whenever the content is completed then the overall form is remain in hexagonal. 
+
+This kind of form will allow us to attache '''(up direction)''' our own project to the other bigger project that follow to the same form, the same way when we want connect to other projects '''(side by side direction)''', or even so when we need to make it deeper '''(spread direction)'''.
+
+When it is '''side by side direction''' then it is identical when a numbers of ''<a href="https://en.wikipedia.org/wiki/DNA" target="_blank">DNA</a>'' built in a packaged and organized structure become ''<a href="https://en.wikipedia.org/wiki/Chromosome" target="_blank">a chromosome</a>''. The same story  of become a part and finally combined all together as our human body, when it go on '''up direction'''.
+
+As you may know, the ''<a href="https://en.wikipedia.org/wiki/DNA" target="_blank">DNA</a>'' are the same form but come with different ''contents'' on every species by pairs (male and female), even that is in the same form but still found unique so it can be identified as part of a body between every single human, plant or animals.
+=== Spread Direction ===
+On our case we haven't come yet to ''the contents'' of the ''Project DNA'' so we shall go deeper '''(spread direction)'''. However, before we come to detail into it of course we need first to find a kind of ''the form'' that will be filled in with ''that contents''. 
+
+So similar with what we have explained, this kind of form will be the same for every ''single part (DNA)'' of our project and so we can get them in a kind of ''six (6)'' steps in hexagonal to be able to be combined all together on achieving our target.
+=== The Six (6) ===
+See again [[Mapping-Routine#one-to-one-mapping|the figure]] of hexagonal form. 
+
+The ''six (6) steps'' above are represented by the violet dot, they are circling one black dot that you may guess it is ''[[Mapping-Routine#routines|a routine]]'' that the one we explained on this page. 
+
+This ''six (6)'' combine with ''[[Mapping-Routine#routines|a routine]]'' become ''seven (7)'' all together. This is what we means by ''[[Mapping#All_The_Seven_7|'all the seven']]'' that explained on the [[Mapping|previous section]].
+
+As we have explained about ''[[Mapping-Routine#routines|a routine]]'', so we are going to bring you to the details of other ''six (6)'' processes in a separated page one by one. 
+
+Let's start first on ''[[Mapping-Spreading|a spreading]]''.
+
+<table>
+  <thead>
+    <tr>
+      <td>[[<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20" class="avatar">|https://github.com/hyip]]</td><td colspan="7">This [[wiki|https://github.com/hyip/info/wiki]] is courtesy of '''[[The HYIP Project|https://github.com/hyip]]'''. Find all of them on '''[[The Project Map|https://github.com/hyip/info/wiki/maps#project-map]]'''.</td><td>[[<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">|https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main]]</td>   
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>[[:arrow_double_up:|https://github.com/hyip/world/wiki/Introduction]]</th>
+      <th>[[:arrow_up_small:|https://github.com/hyipworld/hyipworld.github.io/wiki/Introduction]]</th>
+      <th>[[Introduction|:rewind:]] [[Introduction|Intro]]</th>
+      <th>[[Mapping|:arrow_backward:]] [[Mapping|Prev]]</th>
+      <th>[[Mapping-Routine|:repeat:]] [[Mapping-Routine|Reload]]</th>
+      <th>[[Mapping-Spreading|Next]] [[Mapping-Spreading|:arrow_forward:]]</th>
+      <th>[[maps|Last]] [[maps|:fast_forward:]]</th>
+      <th>[[:arrow_down_small:|https://github.com/hyip/rating]]</th>
+      <th>[[:arrow_double_down:|https://github.com/hyip/rating/wiki/Introduction]]</th>
+    </tr>
+  </tbody>
+</table>
