@@ -4,7 +4,7 @@ exclude:
   - Capfile
   - config
 
-url: http://hyip.github.io/rest
+url: http://hyip.github.io/info
 name: restcookbook.com
 disqus_shortname: restcookbook
 
