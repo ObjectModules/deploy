@@ -1,6 +1,6 @@
 permalink: /:categories/:title/
 exclude:
-  - README.md
+  - README.wiki
   - Capfile
   - config
 
