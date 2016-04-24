@@ -1,0 +1,42 @@
+---
+layout: recipe
+title: How do I version my REST API?
+category: Basics
+author: joshua thijssen
+author_email: jthijssen@noxlogic.nl
+needs_anwser: true
+---
+
+<h2 class="question">What is the correct way to version my API?</h2>
+
+<p>The "URL" way</p>
+A commonly used way to version your API is to add a version number in the URL. For instance:
+
+{% highlight xml %}
+/api/v1/article/1234
+{% endhighlight %}
+
+To "move" to another API, one could increase the version number:
+
+{% highlight xml %}
+/api/v2/article/1234
+{% endhighlight %}
+
+
+<p>The hypermedia way</p>
+
+{% highlight xml %}
+GET /api/article/1234 HTTP/1.1
+Accept: application/vnd.api.article+xml; version=1.0
+{% endhighlight %}
+
+
+<h3>See also</h3>
+<ul>
+    <li><a href="#"></a>
+</ul>
+
+<h3>Caveats</h3>
+<ul>
+    <li></li>
+</ul>
