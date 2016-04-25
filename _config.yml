@@ -4,7 +4,7 @@ exclude:
   - Capfile
   - config
 
-url: http://hyip.github.io/info
+url: http://hyip.github.io
 name: The HYIP Project
 disqus_shortname: restcookbook
 
