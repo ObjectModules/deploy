@@ -5,8 +5,8 @@
   {% endfor %}
 {% endcapture %}
 {% assign sortedtags = tags | split:' ' | sort %}
-{% for tag in sortedtags %}
 <ul class="topics">
+{% for tag in sortedtags %}
     <li class="topic-header"><b>{{ tag }}</b>
         <ul class='subnavlist'>
   {% for post in site.categories[tag] %}
