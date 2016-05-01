@@ -1,25 +1,19 @@
 <h2>Topics</h2>
 <ul class="topics">
-{% for post in site.posts %}
-    <li>
-        <ul class='subnavlist'>
-            <li class='recipe'><a href="/{{ site.github.project_title }}{{ post.url }}">{{ post.title }}</a></li>
-        </ul>
-    </li>
-{% endfor %}
-</ul>
+
 {% capture tags %}
   {% for tag in site.categories %}
     {{ tag[0] }}
   {% endfor %}
 {% endcapture %}
 {% assign sortedtags = tags | split:' ' | sort %}
-
 {% for tag in sortedtags %}
-  <h3 id="{{ tag }}">{{ tag }}</h3>
-  <ul>
+    <li class="topic-header"><b>{{ tag }}</b>
+        <ul class='subnavlist'>
   {% for post in site.categories[tag] %}
-    <li class='recipe'><a href="/{{ site.github.project_title }}{{ post.url }}">{{ post.title }}</a></li>
+            <li class='recipe'><a href="/{{ site.github.project_title }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
-  </ul>
+        </ul>
+    </li>
 {% endfor %}
+</ul>
