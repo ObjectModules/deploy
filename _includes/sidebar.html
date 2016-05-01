@@ -1,11 +1,11 @@
 <h2 class="question">Topics</h2>
+<ul class="topics">
 {% capture tags %}
   {% for tag in site.categories %}
     {{ tag[0] }}
   {% endfor %}
 {% endcapture %}
 {% assign sortedtags = tags | split:' ' | sort %}
-<ul class="topics">
 {% for tag in sortedtags %}
     <li class="topic-header"><b>{{ tag }}</b>
         <ul class='subnavlist'>
