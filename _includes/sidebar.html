@@ -1,5 +1,9 @@
 <h2 class="question">Topics</h2>
-{% capture tags %}{% for tag in site.categories %}{{ tag[0] }}{% endfor %}{% endcapture %}
+{% capture tags %}
+  {% for tag in site.categories %}
+    {{ tag[0] }}
+  {% endfor %}
+{% endcapture %}
 {% assign sortedtags = tags | split:' ' | sort %}
 {% for tag in sortedtags %}
 <ul class="topics">
