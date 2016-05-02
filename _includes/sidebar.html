@@ -7,7 +7,7 @@
 {% endcapture %}
 {% assign sortedtags = tags | split:' ' | sort %}
 {% for tag in sortedtags %}
-    <li class="topic-header"><b>{{ tag }}({{ site.categories[tag].posts | size }} topics)</b>
+    <li class="topic-header"><b>{{ tag }} ({{ tag.posts | size }} topics)</b>
         <ul class='subnavlist'>
   {% for post in site.categories[tag] %}
             <li class='recipe'><a href="/{{ site.github.project_title }}{{ post.url }}">{{ post.title }}</a></li>
