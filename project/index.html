@@ -25,3 +25,7 @@ layout: base
     site.</p>
 
 <p>We accept no responsibility for any issues that may arise from the use of the recipes found on this site.</p>
+
+{% for repository in site.github.public_repositories %}
+  * [{{ repository.name }}]({{ repository.html_url }})<br>
+{% endfor %}
