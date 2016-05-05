@@ -28,4 +28,7 @@ layout: base
 
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})<br>
+  {% for post in repository.posts reversed %}
+  **{{ post.title }}
+  {% endfor %}
 {% endfor %}
