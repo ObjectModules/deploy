@@ -26,9 +26,20 @@ layout: base
 
 <p>We accept no responsibility for any issues that may arise from the use of the recipes found on this site.</p>
 
+<h3>repository</h3>
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})<br>
   {% for post in repository.posts reversed %}
   **{{ post.title }}
   {% endfor %}
+{% endfor %}
+
+<h3>member</h3>
+{% for member in site.github.organization_members %}
+  * [{{ member.name }}]<br>
+{% endfor %}
+
+<h3>contributor</h3>
+{% for contributor in site.github.contributors %}
+  * [{{ contributor.name }}]<br>
 {% endfor %}
