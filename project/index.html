@@ -36,10 +36,10 @@ layout: base
 
 <h3>member</h3>
 {% for member in site.github.organization_members %}
-  * [{{ member.name }}]<br>
+  * {{ member.name }}<br>
 {% endfor %}
 
 <h3>contributor</h3>
 {% for contributor in site.github.contributors %}
-  * [{{ contributor.name }}]<br>
+  * {{ contributor.name }}<br>
 {% endfor %}
