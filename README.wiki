@@ -17,9 +17,7 @@ The project is made in the purpose of getting a possibility to build an interfac
 <a href="http://node.hyipscript.info/" target="_blank">Node.js</a>, 
 <a href="http://scala.hyipscript.info/" target="_blank">Scala</a> and 
 <a href="http://ruby.hyipscript.info/" target="_blank">Ruby</a>.<br/>
-[[https://github.com/hyip|<img src="https://tophyipmonitor.files.wordpress.com/2015/10/programming.png">]]
-
-Thanks to Google for bring this possibility to the world and making it happen.
+[[http://hyipscript.info/|<img src="https://tophyipmonitor.files.wordpress.com/2015/10/programming.png">]]
 
 == Structure ==
 In order to run all program language in the same time then they are configured as below:
