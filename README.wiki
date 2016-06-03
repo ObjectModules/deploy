@@ -6,10 +6,9 @@
 __TOC__
 
 = Project Info =
-The HYIP Project is a kind of Mapping System that is formed to find and recommend the best for you. We develop this Unique Mapping System as an Open Source Project by taking a business called High Yield Investment Programs (HYIP) as a starting model.This project is made in the purpose of getting a possibility to build an interface to generate an ''integrated info'' from all ''[[https://cloud.google.com/developers/|GOOGLE CLOUDS PLATFORM]]'' including ''[[https://developers.google.com/apis-explorer/#p/|API's]], [[https://developers.google.com/google-apps/app-apis|Application API]], [[https://developers.google.com/apps-script/|Application Sripts]], [[https://developers.google.com/appengine/|Application Engine]]; [[https://developers.google.com/storage/|Cloud Storage]], [[https://developers.google.com/datastore/|Cloud Datastore]], [[https://developers.google.com/cloud-sql/|Cloud SQL]]'' etc. 
+The HYIP Project is a kind of Mapping System that is formed to find and recommend the best for you. We develop this Unique Mapping System as an Open Source Project by taking a business called High Yield Investment Programs (HYIP) as a starting model.  
 
-The project is made in the purpose of getting a possibility to build an interface to generate an integrated info by setting up our 
-<a href="http://hyipscript.info/" target="_blank">Script Portal</a> on the most well-known programming languages like 
+This project is made in the purpose of getting a possibility to build an interface to generate an ''integrated info'' from all ''[[https://cloud.google.com/developers/|GOOGLE CLOUDS PLATFORM]]'' including ''[[https://developers.google.com/apis-explorer/#p/|API's]], [[https://developers.google.com/google-apps/app-apis|Application API]], [[https://developers.google.com/apps-script/|Application Sripts]], [[https://developers.google.com/appengine/|Application Engine]]; [[https://developers.google.com/storage/|Cloud Storage]], [[https://developers.google.com/datastore/|Cloud Datastore]], [[https://developers.google.com/cloud-sql/|Cloud SQL]]'' etc. We have setup our <a href="http://hyipscript.info/" target="_blank">Script Portal</a> on the most well-known programming languages like 
 <a href="http://php.hyipscript.info/" target="_blank">PHP</a>, 
 <a href="http://python.hyipscript.info/" target="_blank">Python</a>, 
 <a href="http://java.hyipscript.info/" target="_blank">Java</a>, 
