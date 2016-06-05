@@ -6,13 +6,18 @@
 __TOC__
 
 = Project Info =
-This project is made in the purpose of getting a possibility to build an interface to generate an ''integrated info'' from all ''[[https://cloud.google.com/developers/|GOOGLE CLOUDS PLATFORM]]'' including ''[[https://developers.google.com/apis-explorer/#p/|API's]], [[https://developers.google.com/google-apps/app-apis|Application API]], [[https://developers.google.com/apps-script/|Application Sripts]], [[https://developers.google.com/appengine/|Application Engine]]; [[https://developers.google.com/storage/|Cloud Storage]], [[https://developers.google.com/datastore/|Cloud Datastore]], [[https://developers.google.com/cloud-sql/|Cloud SQL]]'' etc. 
+[[http://hyip.github.io/|The HYIP Project]] is a kind of [[https://github.com/hyip/info/wiki/Mapping#mapping-system|Mapping System]] that is formed to do its best to find and recommend the best for you. It relays deeply on a kind of a unique formation that will always become unified on every directions. We develop the concept of this Unique Mapping System as an Open Source Project by taking a business called [[https://tophyipmonitor.wordpress.com/hyip-business/|High Yield Investment Programs (HYIP)]] as a starting model. Assuring you of our best intentions, there is no such thing similar with this kind of concept.
 
-It aim to have the access and running all available program language like ''[[https://developers.google.com/appengine/docs/python/|Python]], [[https://developers.google.com/appengine/docs/java/|Java]], [[https://developers.google.com/appengine/docs/php/|PHP]], [[https://developers.google.com/appengine/docs/go/|Go]]'' with possible also ''[[http://www.scala-lang.org/old/node/1831|Scala]] and [[http://code.google.com/p/appengine-jruby/|Ruby]]'' and run them in the ''same time'' into a SINGLE PAGE using a SINGLE DOMAIN without even need any sub domains! 
-
-[[https://github.com/hyip|<img src="https://tophyipmonitor.files.wordpress.com/2015/10/programming.png">]]
-
-Thanks to Google for bring this possibility to the world and making it happen.
+We have started the phase of this project with the main purpose of getting a possibility to build an interface to generate an ''integrated info'' from all ''[[https://cloud.google.com/developers/|GOOGLE CLOUDS PLATFORM]]'' including ''[[https://developers.google.com/apis-explorer/#p/|API's]], [[https://developers.google.com/google-apps/app-apis|Application API]], [[https://developers.google.com/apps-script/|Application Sripts]], [[https://developers.google.com/appengine/|Application Engine]]; [[https://developers.google.com/storage/|Cloud Storage]], [[https://developers.google.com/datastore/|Cloud Datastore]], [[https://developers.google.com/cloud-sql/|Cloud SQL]]'' etc. We have also setup our <a href="http://hyipscript.info/" target="_blank">Script Portal</a> on the most well-known programming languages like 
+<a href="http://php.hyipscript.info/" target="_blank">PHP</a>, 
+<a href="http://python.hyipscript.info/" target="_blank">Python</a>, 
+<a href="http://java.hyipscript.info/" target="_blank">Java</a>, 
+<a href="http://go.hyipscript.info/" target="_blank">Go</a> with possible also 
+<a href="http://node.hyipscript.info/" target="_blank">Node.js</a>, 
+<a href="http://scala.hyipscript.info/" target="_blank">Scala</a>, 
+<a href="http://clojure.hyipscript.info/" target="_blank">Clojure</a>, and 
+<a href="http://ruby.hyipscript.info/" target="_blank">Ruby</a>.<br/>
+[[http://hyipscript.info/|<img src="https://tophyipmonitor.files.wordpress.com/2015/10/programming.png">]]
 
 == Structure ==
 In order to run all program language in the same time then they are configured as below:
