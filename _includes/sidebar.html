@@ -7,9 +7,9 @@
 {% endcapture %}
 {% assign sortedtags = tags | split:' ' | sort %}
     {% for tag in sortedtags %}
-    <li class="topic-header"><b>{{ tag }} ({{ site.categories[tag] | size }} topics)</b>
+         {% assign posts = site.categories[tag] | sort:"weight" %}
+   <li class="topic-header"><b>{{ tag }} ({{ posts | size }} topics)</b>
         <ul class='subnavlist'>
-        {% assign posts = site.categories[tag] | sort:"weight" %}
         {% for post in posts %}
             <li class='recipe {% if post.url == page.url %}active{% endif %}'>
     			<a href="/{{ site.github.project_title }}{{ post.url }}">{{ post.title }}</a>
