@@ -121,6 +121,6 @@ You may start to browse the documentation. Usually people begin with a tutorial 
 
 {|
 | [[https://github.com/hyip|<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">]]
-| This [[https://github.com/hyip/info|repo]] is courtesy of '''[[https://github.com/hyip|The HYIP Project]]'''. Find all of them on '''[[https://github.com/hyip/info/wiki/maps#project-map|The Project Map]]'''.
+| This [[https://github.com/hyip/info|repo]] is courtesy of '''[[https://github.com/eq19|The Quantum Project]]'''. Find all of them on '''[[https://github.com/hyip/info/wiki/maps#project-map|The Project Map]]'''.
 | [[https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main|<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">]]  
 |}
