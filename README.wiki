@@ -1,12 +1,13 @@
 {|
-| [[https://github.com/hyip|<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">]]
-| This [[https://github.com/hyip/info|repo]] is courtesy of '''[[https://github.com/eq19|The Quantum Project]]'''. Find all of them on '''[[https://github.com/hyip/info/wiki/maps#project-map|The Project Map]]'''.
-| [[https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main|<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">]]  
+| [[https://github.com/eq19|<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">]]
+| This [[https://github.com/eq19/info|repo]] is courtesy of '''[[https://github.com/eq19|The Quantum Project]]'''. Find all of them on '''[[https://github.com/eq19/info/wiki/maps#project-map|The Project Map]]'''.
+| [[https://eq19.wordpress.com/eq19-business/nature-1/#main|<img src="https://eq19.files.wordpress.com/2015/06/cow.png?w=20">]]  
 |}
+
 __TOC__
 
 = Project Info =
-[[https://github.com/hyip|The HYIP Project]] is a kind of [[http://hyip.github.io/|Mapping System]] that is formed to do its best to find and recommend the best for you. It relays deeply on a kind of a unique formation that will always become unified on every directions. We develop ''[[https://github.com/hyip/info/wiki/Mapping#mapping-system|the concept]]'' of this Unique Mapping System as an Open Source Project by taking a business called ''[[https://tophyipmonitor.wordpress.com/hyip-business/|High Yield Investment Programs (HYIP)]]'' as a starting model. Assuring you of our best intentions, there is no such thing similar with this kind of concept.
+[[https://github.com/eq19|The Quantum Project]] is a kind of [[http://eq19.github.io/|Mapping System]] that is formed to do its best to find and recommend the best for you. It relays deeply on a kind of a unique formation that will always become unified on every directions. We develop ''[[https://github.com/eq19/info/wiki/Mapping#mapping-system|the concept]]'' of this Unique Mapping System as an Open Source Project by taking a business called ''[[https://eq19.wordpress.com/eq19-business/|Quantum Prime Programs]]'' as a starting model. Assuring you of our best intentions, there is no such thing similar with this kind of concept.
 
 We have started the phase of this project with the main purpose of getting a possibility to build an interface to generate an ''integrated info'' from all ''[[https://cloud.google.com/developers/|GOOGLE CLOUDS PLATFORM]]'' including ''[[https://developers.google.com/apis-explorer/#p/|API's]], [[https://developers.google.com/google-apps/app-apis|Application API]], [[https://developers.google.com/apps-script/|Application Sripts]], [[https://developers.google.com/appengine/|Application Engine]]; [[https://developers.google.com/storage/|Cloud Storage]], [[https://developers.google.com/datastore/|Cloud Datastore]], [[https://developers.google.com/cloud-sql/|Cloud SQL]]'' etc. We have also setup our <a href="http://hyipscript.info/" target="_blank">Script Portal</a> on the most well-known programming languages like 
 <a href="http://php.hyipscript.info/" target="_blank">PHP</a>, 
@@ -17,7 +18,7 @@ We have started the phase of this project with the main purpose of getting a pos
 <a href="http://scala.hyipscript.info/" target="_blank">Scala</a>, 
 <a href="http://clojure.hyipscript.info/" target="_blank">Clojure</a>, and 
 <a href="http://ruby.hyipscript.info/" target="_blank">Ruby</a>.<br/>
-[[http://hyipscript.info/|<img src="https://tophyipmonitor.files.wordpress.com/2015/10/programming.png">]]
+[[http://hyipscript.info/|<img src="https://eq19.files.wordpress.com/2015/10/programming.png">]]
 
 == Structure ==
 In order to run all program language in the same time then they are configured as below:
@@ -26,7 +27,7 @@ In order to run all program language in the same time then they are configured a
 * '''''[[http://php.net/|PHP]]''''' is used to generate the front page run from PHP Framework such as ''[[http://www.zend.com/|Zend]], [[http://kohanaframework.org/|Kohana]]'' etc and collected altogether in a ''default module''.
 * '''''[[http://golang.org/|Go]]''''' is used to access any application that Support for ''[[https://hub.docker.com/u/hyip/|Docker images]]'' in Google as well as Amazon Cloud Platform with an intention to run a global structure application in other languages such as ''[[http://www.perl.org/|Perl]], [[http://en.wikipedia.org/wiki/C%2B%2B|C, C++]]'', etc.
 
-[[https://hub.docker.com/u/hyip/|<img src="https://tophyipmonitor.files.wordpress.com/2015/10/docker-use-cases.png">]]
+[[https://hub.docker.com/u/hyip/|<img src="https://eq19.files.wordpress.com/2015/10/docker-use-cases.png">]]
 
 === Application ===
 Having possibility to run all language then we have no more resistant to gain a ''simultaneously'' access to any other [[https://developers.google.com/products/|GOOGLE PRODUCT]] including ''Google Talk, [[https://developers.google.com/android/|Google Play Androids]], [[https://developers.google.com/maps/|Google Maps]], [[https://drive.google.com/|Google Drive]], [[https://developers.google.com/wallet/|Google Wallet]], [[http://www.google.co.id/analytics/tag-manager/|Google Tag Manager]], [[https://developers.google.com/youtube/|Youtube]]'', etc. which also open an access to more ''widely and global'' application such as ''[[https://developers.google.com/compute/|Compute Engine]] and [[https://developers.google.com/bigquery/|Big Query]]''.
@@ -42,6 +43,7 @@ front page (generated by Php)
 The application development is limited until gain the access only means once the communication to a targeted product is successfully provided then no further development will be made unless a necessary improvement required. This will also covering the selection to the *most reliable code* using most appropriated program language to do the job. 
 
 Others programming language like ''[[http://www.scala-lang.org/|Scala]]'' and ''[[https://www.ruby-lang.org/en/|Ruby]]'' will also brought in to the projects. 
+
 === Development ===
 ''The following development is on the way'': 
 * Build the Front Page using PHP Frame Work ([[(http://stackoverflow.com/questions/19824594/zend-framework-1-x-on-google-app-engine|Zend]] and [[http://raivoratsep.com/52/kohana-mvc-framework-on-google-app-engine-or-not/|Kohana]])
@@ -57,7 +59,7 @@ Others programming language like ''[[http://www.scala-lang.org/|Scala]]'' and ''
 * [[https://www.google.com/analytics/|Google Analitycs]] to measure the pageview
 * [[http://www.google.com/talk/whatsnew_more.html|Google Talk]] for online communication
 
-The ''[[https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_6/#main|link]]'' to develop in deeper will be provided in the discussed section.
+The ''[[https://eq19.wordpress.com/eq19-world/mapping/map_direction_6/#main|link]]'' to develop in deeper will be provided in the discussed section.
 
 == Algorithm ==
 
@@ -65,34 +67,34 @@ For the time being this project is developed using all benefits on Google Produc
 
 It is quite hard to find such of business model that easily to be scored or whether our score is really represent the actual situation in the business live. 
 
-To rectify ''[[https://github.com/hyip/info/wiki/Mapping|our concept]]'' in a short time basis, means that the script is going to present a ''[[https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_direction_7/#main|correct algorithm]]'', we need to test it on a kind of business model that also can be measured in a short time period as well.   
+To rectify ''[[https://github.com/eq19/info/wiki/Mapping|our concept]]'' in a short time basis, means that the script is going to present a ''[[https://eq19.wordpress.com/eq19-world/mapping/map_direction_7/#main|correct algorithm]]'', we need to test it on a kind of business model that also can be measured in a short time period as well.   
 
-=== High-yield investment program ===
-Having reviewing many alternatives we came to a business category called <em><a href="https://tophyipmonitor.wordpress.com/hyip-business/#what-is-hyip" title"What is HYIP?">HYIP</a></em> known as the abbreviation of <em><a href="https://tophyipmonitor.wordpress.com/hyip-business/#what-is-hyip" title"What is High Yield Investment Programs?">High Yield Investment Programs</a></em>, which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
+=== Quantum Prime Programs ===
+Having reviewing many alternatives we came to a business category called <em><a href="https://eq19.wordpress.com/eq19-business/#what-is-hyip" title"What is Quantum?">Quantum</a></em> known as the abbreviation of <em><a href="https://eq19.wordpress.com/eq19-business/#what-is-hyip" title"What is High Yield Investment Programs?">High Yield Investment Programs</a></em>, which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
 
-* Site that running hyip business are mostly online within short period (''a year or less'') and hyip business has to present  exact profit to the user in a short time basis to market their services.
-* Most important is since the hyip is mostly a *ponzi scheme* so hyip site cannot be run in a long time period so we could  find whether our algorithm in our script is giving a correct scoring result in a short time as well.
-* Hyip site is easily to be considered as dead or as a ''hyip scam'' when the site is stop paying so we consider that they could not blame our scoring (as we still on start to test it) in the same way that we cannot blame when they collapse or even run and take our investment away.
+* Site that running quantum business are mostly online within short period (''a year or less'') and quantum business has to present  exact profit to the user in a short time basis to market their services.
+* Most important is since the quantum is mostly a *ponzi scheme* so quantum site cannot be run in a long time period so we could  find whether our algorithm in our script is giving a correct scoring result in a short time as well.
+* Hyip site is easily to be considered as dead or as a ''quantum scam'' when the site is stop paying so we consider that they could not blame our scoring (as we still on start to test it) in the same way that we cannot blame when they collapse or even run and take our investment away.
 
-So base on the above measurement we can take all information of hyip service being offered compare to the trust of the domain that can be put altogether to ''[[https://tophyipmonitor.wordpress.com/hyip-rating/|score and rank the hyip sites]]''. 
+So base on the above measurement we can take all information of quantum service being offered compare to the trust of the domain that can be put altogether to ''[[https://eq19.wordpress.com/eq19-rating/|score and rank the quantum sites]]''. 
 
-Despite we are still trying hard to predict how long a hyip site can be running online we have came to have a scoring result of best site which is more or less are the same as represent by other site that comparing those hyip sites. 
+Despite we are still trying hard to predict how long a quantum site can be running online we have came to have a scoring result of best site which is more or less are the same as represent by other site that comparing those quantum sites. 
 
 However as additional features compares to others we are providing the score with a numbers of category base on the investment or ''budget level'' start from as low as US$ 1. 
 
 === Released Software ===
-''[[https://tophyipmonitor.wordpress.com/2015/05/17/hyip-analysis/|Here]]'' we have released our first project so far:
+''[[https://eq19.wordpress.com/2015/05/17/eq19-analysis/|Here]]'' we have released our first project so far:
 
-[[http://all.hyip.world/|HYIP Score Analysis v1.2]]<br />  
-[[http://all.hyip.world/|<img src="https://hyip-world.appspot.com/UA-51930984-2/github/info?gif=v1.2">]]
+[[http://all.hyip.world/|Quantum Score Analysis v1.2]]<br />  
+[[http://all.hyip.world/|<img src="https://eq19-world.appspot.com/UA-51930984-2/github/info?gif=v1.2">]]
 
-This software will be the basic core of our project used for further development and to be widely open to the world on the future at our main site called ''[[http://hyip.world/|The World of High Yield Investment Program (HYIP)]]''. You may also get in detail later in ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|our tutorial]]'' on how we started to get this site ''Up and Running on Github''.
+This software will be the basic core of our project used for further development and to be widely open to the world on the future at our main site called ''[[http://hyip.world/|Quantum Prime Programs]]''. You may also get in detail later in ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|our tutorial]]'' on how we started to get this site ''Up and Running on Github''.
 
 This is just a model to give you a figure on how we are going to start. 
 
 === Destination ===
 
-This project will limit the scope up to the mapping as shown in ''[[https://github.com/hyip/info/wiki/maps#by-tabulation|The Project Map]]'' which direction is digging in the scope of ''[[https://tophyipmonitor.wordpress.com/hyip-business/|HYIP]]''. As HYIP is a part of the world of Investment it does not rule out the possibility on attaching this project into up [[https://github.com/hyip/info/wiki/maps#the-formation|formation]] along with other scope to become an ''[[https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program|Integrated Investment Application System]]''.
+This project will limit the scope up to the mapping as shown in ''[[https://github.com/eq19/info/wiki/maps#by-tabulation|The Project Map]]'' which direction is digging in the scope of ''[[https://eq19.wordpress.com/eq19-business/|HYIP]]''. As Quantum is a part of the world of Investment it does not rule out the possibility on attaching this project into up [[https://github.com/eq19/info/wiki/maps#the-formation|formation]] along with other scope to become an ''[[https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program|Integrated Investment Application System]]''.
 
 This will open a wider chalenge for us to provide such kind of real business information like ''best investment return'', ''best short term investment'', ''low risk investments'', ''investment fund'', that can be also some more valuable ones like ''short or long term loans'', ''reliable insurance company'', as well as for ''finance'', ''trading'' etc. 
 
@@ -100,7 +102,7 @@ This will open a wider chalenge for us to provide such kind of real business inf
 
 On the long time running we also want to go to ''other widely business'' such as scoring of who is ''the best domain registrant'', who is ''the best web designer'', who is ''the best of hosting provider'', who is ''the best in seo service'' etc. 
 
-[[https://github.com/hyip/info/wiki/Mapping|<img src="https://tophyipmonitor.files.wordpress.com/2015/08/hyip-target.jpg">]]  
+[[https://github.com/eq19/info/wiki/Mapping|<img src="https://eq19.files.wordpress.com/2015/08/eq19-target.jpg">]]  
 
 We are going to present the result in the style as business scoring so even the user only have a small amount in their budget they could find our scoring is useful for them. 
 
@@ -108,19 +110,21 @@ As you know that it is really difficult to find such a good services when you ha
 
 That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ''keyword base'' search result to the world.
 = Documentation =
-As Google has made a nice and beautiful documentation for each of their product then the documentation of this project will be [[https://github.com/hyip/info/wiki/maps#by-tabulation|combined]] as simple as possible in only to explain a specific task on how to make the code running and successfully gain the access to each Google Product. 
+As Google has made a nice and beautiful documentation for each of their product then the documentation of this project will be [[https://github.com/eq19/info/wiki/maps#by-tabulation|combined]] as simple as possible in only to explain a specific task on how to make the code running and successfully gain the access to each Google Product. 
 == Official Blog & News ==
-We have also setup our [[https://tophyipmonitor.wordpress.com/hyip-world/|Official Blog]] for public discussion. The project discussion will not only cover the [[https://tophyipmonitor.wordpress.com/hyip-rating/|HYIP Sites and Rating Analysis]] but also the [[https://tophyipmonitor.wordpress.com/hyip-forums/|HYIP Forum]], [[https://tophyipmonitor.wordpress.com/hyip-monitors/|HYIP Monitor]], [[https://tophyipmonitor.wordpress.com/hyip-scripts/|HYIP Script]], and every other sources that are involved in this business model.
+We have also setup our [[https://eq19.wordpress.com/eq19-world/|Official Blog]] for public discussion. The project discussion will not only cover the [[https://eq19.wordpress.com/eq19-rating/|Quantum Sites and Rating Analysis]] but also the [[https://eq19.wordpress.com/eq19-forums/|Quantum Forum]], [[https://eq19.wordpress.com/eq19-monitors/|Quantum Monitor]], [[https://eq19.wordpress.com/eq19-scripts/|Quantum Script]], and every other sources that are involved in this business model.
 
 At last but not least we welcome for your comments or [[https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program|opinion to our project]]. Please feel free to try your hand at building other formats; any discussion will be opened later once the application is meeting the most targets as described above.
 
 == Update ==
+
 As an update we would like to announce that we have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer.:pray:    
 
 You may start to browse the documentation. Usually people begin with a tutorial page titled ''Hello World!''. Here we have a little bit different. Let's call it ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|Hyip World!]]''
 
 {|
 | [[https://github.com/hyip|<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">]]
-| This [[https://github.com/hyip/info|repo]] is courtesy of '''[[https://github.com/eq19|The Quantum Project]]'''. Find all of them on '''[[https://github.com/hyip/info/wiki/maps#project-map|The Project Map]]'''.
-| [[https://tophyipmonitor.wordpress.com/hyip-business/nature-1/#main|<img src="https://tophyipmonitor.files.wordpress.com/2015/06/cow.png?w=20">]]  
+| This [[https://github.com/eq19/info|repo]] is courtesy of '''[[https://github.com/eq19|The Quantum Project]]'''. Find all of them on '''[[https://github.com/eq19/info/wiki/maps#project-map|The Project Map]]'''.
+| [[https://eq19.wordpress.com/eq19-business/nature-1/#main|<img src="https://eq19.files.wordpress.com/2015/06/cow.png?w=20">]]  
 |}
+
