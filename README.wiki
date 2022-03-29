@@ -98,7 +98,11 @@ Having reviewing many alternatives we came to a business category called <em><a 
 
 So base on the above measurement we can take all information of quantum service being offered compare to the trust of the domain that can be put altogether to ''[[https://eq19.wordpress.com/eq19-rating/|score and rank the quantum sites]]''. 
 
+<img width=100% src=https://user-images.githubusercontent.com/36441664/69475248-6cb66080-0dfd-11ea-9fa4-56cb43bc668a.png>
+
 Despite we are still trying hard to predict how long a quantum site can be running online we have came to have a scoring result of best site which is more or less are the same as represent by other site that comparing those quantum sites. 
+
+<img width=100% src=https://user-images.githubusercontent.com/36441664/70721601-75c58e00-1d28-11ea-8329-d780c27ee7bd.png>
 
 However as additional features compares to others we are providing the score with a numbers of category base on the investment or ''budget level'' start from as low as US$ 1. 
 
