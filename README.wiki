@@ -7,7 +7,12 @@
 __TOC__
 
 = Project Info =
-[[https://github.com/eq19|The Quantum Project]] is a kind of [[http://eq19.github.io/|Mapping System]] that is formed to do its best to find and recommend the best for you. It relays deeply on a kind of a unique formation that will always become unified on every directions. We develop ''[[https://github.com/eq19/info/wiki/Mapping#mapping-system|the concept]]'' of this Unique Mapping System as an Open Source Project by taking a business called ''[[https://eq19.wordpress.com/eq19-business/|Quantum Prime Programs]]'' as a starting model. Assuring you of our best intentions, there is no such thing similar with this kind of concept.
+[[https://github.com/eq19|The Quantum Project]] is a kind of [[http://eq19.github.io/|Mapping System]] that is formed to do its best to find and recommend the best for you. It relays deeply on a kind of a unique formation that will always become unified on every directions. 
+
+We develop ''[[https://github.com/eq19/info/wiki/Mapping#mapping-system|the concept]]'' of this Unique Mapping System as an Open Source Project by taking a business called ''[[https://eq19.wordpress.com/eq19-business/|Quantum Prime Programs]]'' as a starting model. Assuring you of our best intentions, there is no such thing similar with this kind of concept.
+
+
+
 
 [[https://github.com/eq19/maps|<img alt="Quantum Project - The Concept of Primes Algorithm by DNA Recombination" src="https://eq19.github.io/images/banner.jpg">]]
 
@@ -20,9 +25,10 @@ We have started the phase of this project with the main purpose of getting a pos
 <a href="http://scala.hyipscript.info/" target="_blank">Scala</a>, 
 <a href="http://clojure.hyipscript.info/" target="_blank">Clojure</a>, and 
 <a href="http://ruby.hyipscript.info/" target="_blank">Ruby</a>.<br/>
-[[http://hyipscript.info/|<img src="https://eq19.files.wordpress.com/2015/10/programming.png">]]
+[[http://hyipscript.info/|<img src="https://tophyipmonitor.files.wordpress.com/2015/10/programming.png">]]
 
-== Structure ==
+== Programming ==
+
 In order to run all program language in the same time then they are configured as below:
 * '''''[[https://www.python.org/|Python]]''''' is used to access all images with an access to any Image Manipulation run from Phyton Frame such as ''[[https://www.djangoproject.com/|Django]]'' and compiled as ''images module''.
 * '''''[[https://www.java.com/en/|Java]]''''' is used to access all javascript file with an access to Servlet Application run from Java / Javascript Framework such as ''[[http://www.gwtproject.org/|GWT]]'' and compiled as ''scripts module''.
@@ -47,6 +53,7 @@ The application development is limited until gain the access only means once the
 Others programming language like ''[[http://www.scala-lang.org/|Scala]]'' and ''[[https://www.ruby-lang.org/en/|Ruby]]'' will also brought in to the projects. 
 
 === Development ===
+
 ''The following development is on the way'': 
 * Build the Front Page using PHP Frame Work ([[(http://stackoverflow.com/questions/19824594/zend-framework-1-x-on-google-app-engine|Zend]] and [[http://raivoratsep.com/52/kohana-mvc-framework-on-google-app-engine-or-not/|Kohana]])
 * Generate Script Manipulation to run Java Servlet using GWT compiled by [[https://developers.google.com/eclipse/|Eclipse]] or [[https://developers.google.com/appengine/docs/java/tools/maven|Maven]].
@@ -67,9 +74,15 @@ The ''[[https://eq19.wordpress.com/eq19-world/mapping/map_direction_6/#main|link
 
 For the time being this project is developed using all benefits on Google Products even all program code available in the planet to generate a widely integrated information to score and rate a group of sites running in ''a same business category''.
 
+<img width=50% src=https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png>
+
 It is quite hard to find such of business model that easily to be scored or whether our score is really represent the actual situation in the business live. 
 
+<img width=70% src=https://user-images.githubusercontent.com/36441664/95028019-445aec00-06c7-11eb-8d41-101dd4cc6d09.jpg>
+
 To rectify ''[[https://github.com/eq19/info/wiki/Mapping|our concept]]'' in a short time basis, means that the script is going to present a ''[[https://eq19.wordpress.com/eq19-world/mapping/map_direction_7/#main|correct algorithm]]'', we need to test it on a kind of business model that also can be measured in a short time period as well.   
+
+<img width=50% src=https://user-images.githubusercontent.com/36441664/131957473-5a815492-a5f6-49be-9762-9a8921d95dc2.png>
 
 === Quantum Prime Programs ===
 Having reviewing many alternatives we came to a business category called <em><a href="https://eq19.wordpress.com/eq19-business/#what-is-hyip" title"What is Quantum?">Quantum</a></em> known as the abbreviation of <em><a href="https://eq19.wordpress.com/eq19-business/#what-is-hyip" title"What is Quantum Prime Programs?">The Quantum Prime Programs</a></em>, which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
