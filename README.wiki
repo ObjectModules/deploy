@@ -63,16 +63,16 @@ The application development is limited until gain the access only means once the
 ```
 
       html
-   --------› head (10)
-  |                 style - 5 -----
-  |                         Δ      |
-  3(29)‹---------------- favicon - 2,3=π(5)
-  |                /style.         |
-  |         /head                (89²)
-   --------› body (19)             |
-                    script - 7 ----
-                   /script
-            /body
+         --› head (10)
+        |          style  - 5 ‹----
+        |                   Δ      |
+        3(29)‹---------- favicon - 2,3,5=π(5)
+        |         /style           |
+        |    /head               (89²)
+         ---› body (19)            |
+                   script - 7 ‹----
+                  /script
+             /body
       /html
 ```
 
