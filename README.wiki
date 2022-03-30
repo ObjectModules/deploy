@@ -64,14 +64,14 @@ Let's say you have a defaut configuration of π(10)=2,3,5,7. How do you present 
 
 ```
 
-      html
-         --› head (10)
+      html (29=10th prime)
+        Δ     head (10)
         |          style  - 5 ‹----
         |                   Δ      |
         3(29)‹---------- favicon - 2,3,5=π(5)
-        |         /style           |
-        |    /head               (89²)
-         ---› body (19)            |
+                  /style           |
+             /head               (89²)
+              body (19)            |
                    script - 7 ‹----
                   /script
              /body
