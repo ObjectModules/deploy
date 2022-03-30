@@ -86,7 +86,7 @@ By this configuration it will left the π(10) converted automatically to the hea
 
 [[https://github.com/eq19/feed|<img src=https://user-images.githubusercontent.com/36441664/105412087-d0892300-5c66-11eb-9c3e-19d8652b478c.png>]]
 
-By prime hexagon the 10 and 19 are in the same direction. So we can then put them all back to the π(10) in pavicon. The next scheme it goes to a deeper primes algorithm of π(10th prime). This will be discussed in details ini [[https://github.com/eq19/feed|another repository]].
+By the prime hexagon the 10 and 19 are in the same direction. Here we can then put them all back to the π(10) in pavicon. So by the next cycles it goes deeper and deeper. This will be discussed in details ini [[https://github.com/eq19/feed|another repository]].
 
 === Development ===
 
