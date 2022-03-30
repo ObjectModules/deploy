@@ -36,12 +36,11 @@ In order to run all program language in the same time then they are configured a
 * '''''[[http://golang.org/|Go]]''''' is used to access any application that Support for ''[[https://hub.docker.com/u/hyip/|Docker images]]'' in Google as well as Amazon Cloud Platform with an intention to run a global structure application in other languages such as ''[[http://www.perl.org/|Perl]], [[http://en.wikipedia.org/wiki/C%2B%2B|C, C++]]'', etc.
 
 https://user-images.githubusercontent.com/8466209/160752823-d9ca1133-b2c9-48ea-8f96-2014ef94dfba.png
+https://user-images.githubusercontent.com/8466209/160752837-72446c13-cc4a-4cbf-83ef-50850252db1a.png
 
 {|
 | [[https://github.com/eq19|<img src="https://user-images.githubusercontent.com/8466209/160752831-334040b4-023b-47f9-8487-1d8546db4890.png">]]
 | [[https://github.com/eq19|<img src="https://user-images.githubusercontent.com/8466209/160752834-97a90fea-b7aa-46ae-b0ee-aa809279da94.png">]]
-| [[https://github.com/eq19|<img src=" https://user-images.githubusercontent.com/8466209/160752837-72446c13-cc4a-4cbf-83ef-50850252db1a.png">]]
-| [[https://github.com/eq19|<img src=" https://user-images.githubusercontent.com/8466209/160752837-72446c13-cc4a-4cbf-83ef-50850252db1a.png">]]
 |}
 
 === Application ===
