@@ -64,13 +64,16 @@ The application development is limited until gain the access only means once the
 
       html
    --------  head
-  |                 style - 5 -------
-  |          /head                   |
-  2          body                    3 - image π(10)= 4 = (2,3,5,7)
-  |                                  |
-  |                script - 7 -------
-   -------   /body
-       /html
+  |                 style - 5 -----
+  |                         Δ      |
+  3(29)‹---------------- favicon - 2,3=π(5)
+  |                /style.         |
+  |         /head                (89²)
+   --------  body                  |
+                    script - 7 ----
+                   /script
+            /body
+      /html
 ```
 
 This will also covering the selection to the *most reliable code* using most appropriated program language to do the job. 
