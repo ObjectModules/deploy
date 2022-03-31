@@ -1,15 +1,15 @@
-|[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=20)](https://github.com/hyip) |This [repo](https://github.com/hyipworld/hyipworld.github.io "Repository") is courtesy of [The Quantum Project](https://github.com/eq19 "Primes Recmbination Program"). Find all of them on [The Project Map](https://github.com/eq19/info/wiki/maps#project-map "Project Mapping").|[![The HYIP Project](https://tophyipmonitor.files.wordpress.com/2015/06/ant.png?w=20)](https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main) |
+|[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=20)](https://github.com/hyip)|This [repo](https://github.com/hyipworld/hyipworld.github.io "Repository") is courtesy of [The Quantum Project](https://github.com/eq19 "Primes Recmbination Program"). Find all of them on [The Project Map](https://github.com/eq19/info/wiki/maps#project-map "Project Mapping").|[![The HYIP Project](https://tophyipmonitor.files.wordpress.com/2015/06/ant.png?w=20)](https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main) |
 |:----|----|----:|
 
 # Introduction
 
-[[https://github.com/eq19|The Quantum Project]] is a kind of [[http://eq19.github.io/|Mapping System]] that is formed to do its best to find and recommend the best for you. It relays deeply on a kind of a unique formation that will always become unified on every directions. 
+[The Quantum Project](https://github.com/eq19) is a kind of [Mapping System](http://eq19.github.io/) that is formed to do its best to find and recommend the best for you. It relays deeply on a kind of a unique formation that will always become unified on every directions. 
 
-We develop ''[[https://github.com/eq19/info/wiki/Mapping#mapping-system|the concept]]'' of this Unique Mapping System as an Open Source Project by taking a business called ''[[https://eq19.wordpress.com/eq19-business/|Quantum Prime Programs]]'' as a starting model. Assuring you of our best intentions, there is no such thing similar with this kind of concept.
+We develop _[the concept](https://github.com/eq19/info/wiki/Mapping#mapping-system)_ of this Unique Mapping System as an Open Source Project by taking a business called _[Quantum Prime Programs](https://eq19.wordpress.com/eq19-business/)_ as a starting model. Assuring you of our best intentions, there is no such thing similar with this kind of concept.
 
-[[https://github.com/eq19/maps|<img alt="Quantum Project - The Concept of Primes Algorithm by DNA Recombination" src="https://eq19.github.io/images/banner.jpg">]]
+[<img alt="Quantum Project - The Concept of Primes Algorithm by DNA Recombination" src="https://eq19.github.io/images/banner.jpg">](https://github.com/eq19/maps)
 
-We have started the phase of this project with the main purpose of getting a possibility to build an interface to generate an ''integrated info'' from all ''[[https://cloud.google.com/developers/|GOOGLE CLOUDS PLATFORM]]'' including ''[[https://developers.google.com/apis-explorer/#p/|API's]], [[https://developers.google.com/google-apps/app-apis|Application API]], [[https://developers.google.com/apps-script/|Application Sripts]], [[https://developers.google.com/appengine/|Application Engine]]; [[https://developers.google.com/storage/|Cloud Storage]], [[https://developers.google.com/datastore/|Cloud Datastore]], [[https://developers.google.com/cloud-sql/|Cloud SQL]]'' etc. We have also setup our <a href="http://hyipscript.info/" target="_blank">Script Portal</a> on the most well-known programming languages like 
+We have started the phase of this project with the main purpose of getting a possibility to build an interface to generate an _integrated info_ from all _[GOOGLE CLOUDS PLATFORM](https://cloud.google.com/developers/)_ including _[API's](https://developers.google.com/apis-explorer/#p/), [Application API](https://developers.google.com/google-apps/app-apis), [Application Sripts](https://developers.google.com/apps-script/), [Application Engine](https://developers.google.com/appengine/); [Cloud Storage](https://developers.google.com/storage/), [Cloud Datastore](https://developers.google.com/datastore/), [Cloud SQL](https://developers.google.com/cloud-sql/)_ etc. We have also setup our <a href="http://hyipscript.info/" target="_blank">Script Portal</a> on the most well-known programming languages like 
 <a href="http://php.hyipscript.info/" target="_blank">PHP</a>, 
 <a href="http://python.hyipscript.info/" target="_blank">Python</a>, 
 <a href="http://java.hyipscript.info/" target="_blank">Java</a>, 
@@ -18,35 +18,31 @@ We have started the phase of this project with the main purpose of getting a pos
 <a href="http://scala.hyipscript.info/" target="_blank">Scala</a>, 
 <a href="http://clojure.hyipscript.info/" target="_blank">Clojure</a>, and 
 <a href="http://ruby.hyipscript.info/" target="_blank">Ruby</a>.<br/>
-[[http://hyipscript.info/|<img src="https://tophyipmonitor.files.wordpress.com/2015/10/programming.png">]]
+
+[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/programming.png">](https://hyipscript.info/)
 
 ## Programming
 
 In order to run all program language in the same time then they are configured as below:
-* '''''[[https://www.python.org/|Python]]''''' is used to access all images with an access to any Image Manipulation run from Phyton Frame such as ''[[https://www.djangoproject.com/|Django]]'' and compiled as ''images module''.
-* '''''[[http://php.net/|PHP]]''''' is used to generate the front page run from PHP Framework such as ''[[http://www.zend.com/|Zend]], [[http://kohanaframework.org/|Kohana]]'' etc and collected altogether in a ''default module''.
-* '''''[[https://www.java.com/en/|Java]]''''' is used to access all javascript file with an access to Servlet Application run from Java / Javascript Framework such as ''[[http://www.gwtproject.org/|GWT]]'' and compiled as ''scripts module''.
-* '''''[[http://golang.org/|Go]]''''' is used to access any application that Support for ''[[https://hub.docker.com/u/hyip/|Docker images]]'' in Google as well as Amazon Cloud Platform with an intention to run a global structure application in other languages such as ''[[http://www.perl.org/|Perl]], [[http://en.wikipedia.org/wiki/C%2B%2B|C, C++]]'', etc.
+* _**[Python](https://www.python.org/)**_ is used to access all images with an access to any Image Manipulation run from Phyton Frame such as _[Django](https://www.djangoproject.com/)_ and compiled as _images module_.
+* _**[PHP](http://php.net/)**_ is used to generate the front page run from PHP Framework such as _[Zend](http://www.zend.com/), [Kohana](http://kohanaframework.org/)_ etc and collected altogether in a _default module_.
+* _**[Java](https://www.java.com/en/)**_ is used to access all javascript file with an access to Servlet Application run from Java / Javascript Framework such as _[GWT](http://www.gwtproject.org/)_ and compiled as _scripts module_.
+* _**[Go](http://golang.org/)**_ is used to access any application that Support for _[Docker images](https://hub.docker.com/u/hyip/)_ in Google as well as Amazon Cloud Platform with an intention to run a global structure application in other languages such as _[Perl](http://www.perl.org/), [C, C++](http://en.wikipedia.org/wiki/C%2B%2B)_, etc.
 
 The reason of above is we get these for text and image:
 
-{|
-| [[https://github.com/eq19|<img src="https://user-images.githubusercontent.com/8466209/160752831-334040b4-023b-47f9-8487-1d8546db4890.png">]]
-| [[https://github.com/eq19|<img src="https://user-images.githubusercontent.com/8466209/160752834-97a90fea-b7aa-46ae-b0ee-aa809279da94.png">]]
-|}
-
-While for object and styling we get as below:
-
-{|
-| [[https://github.com/eq19|<img src="https://user-images.githubusercontent.com/8466209/160752842-40da6049-9459-40b4-ae4d-91bd31645e45.png">]]
-| [[https://github.com/eq19|<img src="https://user-images.githubusercontent.com/8466209/160752823-d9ca1133-b2c9-48ea-8f96-2014ef94dfba.png">]]
-|}
+<table><tr>
+<td><img src="https://user-images.githubusercontent.com/8466209/160752831-334040b4-023b-47f9-8487-1d8546db4890.png"></td>
+<td><img src="https://user-images.githubusercontent.com/8466209/160752834-97a90fea-b7aa-46ae-b0ee-aa809279da94.png"></td>
+<td><img src="https://user-images.githubusercontent.com/8466209/160752823-d9ca1133-b2c9-48ea-8f96-2014ef94dfba.png"></td>
+<td><img src="https://user-images.githubusercontent.com/8466209/160752842-40da6049-9459-40b4-ae4d-91bd31645e45.png"></td>
+</tr></table>
 
 ### Application
 
-Having possibility to run all language then we have no more resistant to gain a ''simultaneously'' access to any other [[https://developers.google.com/products/|GOOGLE PRODUCT]] including ''Google Talk, [[https://developers.google.com/android/|Google Play Androids]], [[https://developers.google.com/maps/|Google Maps]], [[https://drive.google.com/|Google Drive]], [[https://developers.google.com/wallet/|Google Wallet]], [[http://www.google.co.id/analytics/tag-manager/|Google Tag Manager]], [[https://developers.google.com/youtube/|Youtube]]'', etc. which also open an access to more ''widely and global'' application such as ''[[https://developers.google.com/compute/|Compute Engine]] and [[https://developers.google.com/bigquery/|Big Query]]''.
+Having possibility to run all language then we have no more resistant to gain a _simultaneously_ access to any other [[https://developers.google.com/products/|GOOGLE PRODUCT]] including _Google Talk, [[https://developers.google.com/android/|Google Play Androids]], [[https://developers.google.com/maps/|Google Maps]], [[https://drive.google.com/|Google Drive]], [[https://developers.google.com/wallet/|Google Wallet]], [[http://www.google.co.id/analytics/tag-manager/|Google Tag Manager]], [[https://developers.google.com/youtube/|Youtube]]_, etc. which also open an access to more _widely and global_ application such as _[[https://developers.google.com/compute/|Compute Engine]] and [[https://developers.google.com/bigquery/|Big Query]]_.
 
-Find More of Google Products ''[[http://en.wikipedia.org/wiki/Google_Services|here]]''.
+Find More of Google Products _[[http://en.wikipedia.org/wiki/Google_Services|here]]_.
 
 front page (generated by Php)
 * images directory (access by Phyton)
@@ -90,27 +86,27 @@ All of the basic grammars is in the header of favicon which generated by php on 
 
 [[https://hub.docker.com/u/hyip/|<img src="https://tophyipmonitor.files.wordpress.com/2015/10/docker-use-cases.png">]]
 
-Others programming language like ''[[http://www.scala-lang.org/|Scala]]'' and ''[[https://www.ruby-lang.org/en/|Ruby]]'' will also brought in to the projects. 
+Others programming language like _[[http://www.scala-lang.org/|Scala]]_ and _[[https://www.ruby-lang.org/en/|Ruby]]_ will also brought in to the projects. 
 
-''The following development is on the way'': 
+_The following development is on the way_: 
 * Build the Front Page using PHP Frame Work ([[(http://stackoverflow.com/questions/19824594/zend-framework-1-x-on-google-app-engine|Zend]] and [[http://raivoratsep.com/52/kohana-mvc-framework-on-google-app-engine-or-not/|Kohana]])
 * Generate Script Manipulation to run Java Servlet using GWT compiled by [[https://developers.google.com/eclipse/|Eclipse]] or [[https://developers.google.com/appengine/docs/java/tools/maven|Maven]].
 
-''On Going Development'':
+_On Going Development_:
 * Generate Image Manipulation to run Python FrameWorks such as [[https://developers.google.com/appengine/articles/django-nonrel|Django]]
 * Generate Styles Manipulation to run Go Framework using [[https://developers.google.com/compute/docs/containers|Kubernetess/Docker]]
 * Automate deployments on [[https://aws.amazon.com/|Amazon Platform]] using [[https://github.com/integrations/aws-codedeploy|AWS CodeDeploy]] avalaible at [[(https://github.com/integrations|GitHub Integration]]
 
-'' Building items that are being carried out'':
+_ Building items that are being carried out_:
 * [[https://adwords.google.com|Google AdWords]] to promote the front page
 * [[https://www.google.com/analytics/|Google Analitycs]] to measure the pageview
 * [[http://www.google.com/talk/whatsnew_more.html|Google Talk]] for online communication
 
-The ''[[https://eq19.wordpress.com/eq19-world/mapping/map_direction_6/#main|link]]'' to develop in deeper will be provided in the discussed section.
+The _[[https://eq19.wordpress.com/eq19-world/mapping/map_direction_6/#main|link]]_ to develop in deeper will be provided in the discussed section.
 
 ## Algorithm
 
-For the time being this project is developed using all benefits on Google Products even all program code available in the planet to generate a widely integrated information to score and rate a group of sites running in ''a same business category''.
+For the time being this project is developed using all benefits on Google Products even all program code available in the planet to generate a widely integrated information to score and rate a group of sites running in _a same business category_.
 
 <img width=50% src=https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png>
 
@@ -118,7 +114,7 @@ It is quite hard to find such of business model that easily to be scored or whet
 
 <img width=70% src=https://user-images.githubusercontent.com/36441664/95028019-445aec00-06c7-11eb-8d41-101dd4cc6d09.jpg>
 
-To rectify ''[[https://github.com/eq19/info/wiki/Mapping|our concept]]'' in a short time basis, means that the script is going to present a ''[[https://eq19.wordpress.com/eq19-world/mapping/map_direction_7/#main|correct algorithm]]'', we need to test it on a kind of business model that also can be measured in a short time period as well.   
+To rectify _[[https://github.com/eq19/info/wiki/Mapping|our concept]]_ in a short time basis, means that the script is going to present a _[[https://eq19.wordpress.com/eq19-world/mapping/map_direction_7/#main|correct algorithm]]_, we need to test it on a kind of business model that also can be measured in a short time period as well.   
 
 <img width=50% src=https://user-images.githubusercontent.com/36441664/131957473-5a815492-a5f6-49be-9762-9a8921d95dc2.png>
 
@@ -130,11 +126,11 @@ To rectify ''[[https://github.com/eq19/info/wiki/Mapping|our concept]]'' in a sh
 
 Having reviewing many alternatives we came to a business category called <em><a href="https://eq19.wordpress.com/eq19-business/#what-is-hyip" title"What is Quantum?">Quantum</a></em> known as the abbreviation of <em><a href="https://eq19.wordpress.com/eq19-business/#what-is-hyip" title"What is Quantum Prime Programs?">The Quantum Prime Programs</a></em>, which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
 
-* Site that running quantum business are mostly online within short period (''a year or less'') and quantum business has to present  exact profit to the user in a short time basis to market their services.
+* Site that running quantum business are mostly online within short period (_a year or less_) and quantum business has to present  exact profit to the user in a short time basis to market their services.
 * Most important is since the quantum is mostly a *ponzi scheme* so quantum site cannot be run in a long time period so we could  find whether our algorithm in our script is giving a correct scoring result in a short time as well.
-* Hyip site is easily to be considered as dead or as a ''quantum scam'' when the site is stop paying so we consider that they could not blame our scoring (as we still on start to test it) in the same way that we cannot blame when they collapse or even run and take our investment away.
+* Hyip site is easily to be considered as dead or as a _quantum scam_ when the site is stop paying so we consider that they could not blame our scoring (as we still on start to test it) in the same way that we cannot blame when they collapse or even run and take our investment away.
 
-So base on the above measurement we can take all information of quantum service being offered compare to the trust of the domain that can be put altogether to ''[[https://eq19.wordpress.com/eq19-rating/|score and rank the quantum sites]]''. 
+So base on the above measurement we can take all information of quantum service being offered compare to the trust of the domain that can be put altogether to _[[https://eq19.wordpress.com/eq19-rating/|score and rank the quantum sites]]_. 
 
 <img width=100% src=https://user-images.githubusercontent.com/36441664/70721601-75c58e00-1d28-11ea-8329-d780c27ee7bd.png>
 
@@ -142,28 +138,28 @@ Despite we are still trying hard to predict how long a quantum site can be runni
 
 <img width=100% src=https://user-images.githubusercontent.com/36441664/69475248-6cb66080-0dfd-11ea-9fa4-56cb43bc668a.png>
 
-However as additional features compares to others we are providing the score with a numbers of category base on the investment or ''budget level'' start from as low as US$ 1. 
+However as additional features compares to others we are providing the score with a numbers of category base on the investment or _budget level_ start from as low as US$ 1. 
 
 ### Released Software
 
-''[[https://eq19.wordpress.com/2015/05/17/eq19-analysis/|Here]]'' we have released our first project so far:
+_[[https://eq19.wordpress.com/2015/05/17/eq19-analysis/|Here]]_ we have released our first project so far:
 
 [[http://all.hyip.world/|Quantum Score Analysis v1.2]]<br />  
 [[http://all.hyip.world/|<img src="https://eq19-world.appspot.com/UA-51930984-2/github/info?gif=v1.2">]]
 
-This software will be the basic core of our project used for further development and to be widely open to the world on the future at our main site called ''[[http://hyip.world/|Quantum Prime Programs]]''. You may also get in detail later in ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|our tutorial]]'' on how we started to get this site ''Up and Running on Github''.
+This software will be the basic core of our project used for further development and to be widely open to the world on the future at our main site called _[[http://hyip.world/|Quantum Prime Programs]]_. You may also get in detail later in _[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|our tutorial]]_ on how we started to get this site _Up and Running on Github_.
 
 This is just a model to give you a figure on how we are going to start. 
 
 ### Destination
 
-This project will limit the scope up to the mapping as shown in ''[[https://github.com/eq19/info/wiki/maps#by-tabulation|The Project Map]]'' which direction is digging in the scope of ''[[https://eq19.wordpress.com/eq19-business/|HYIP]]''. As Quantum is a part of the world of Investment it does not rule out the possibility on attaching this project into up [[https://github.com/eq19/info/wiki/maps#the-formation|formation]] along with other scope to become an ''[[https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program|Integrated Investment Application System]]''.
+This project will limit the scope up to the mapping as shown in _[[https://github.com/eq19/info/wiki/maps#by-tabulation|The Project Map]]_ which direction is digging in the scope of _[[https://eq19.wordpress.com/eq19-business/|HYIP]]_. As Quantum is a part of the world of Investment it does not rule out the possibility on attaching this project into up [[https://github.com/eq19/info/wiki/maps#the-formation|formation]] along with other scope to become an _[[https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program|Integrated Investment Application System]]_.
 
-This will open a wider chalenge for us to provide such kind of real business information like ''best investment return'', ''best short term investment'', ''low risk investments'', ''investment fund'', that can be also some more valuable ones like ''short or long term loans'', ''reliable insurance company'', as well as for ''finance'', ''trading'' etc. 
+This will open a wider chalenge for us to provide such kind of real business information like _best investment return_, _best short term investment_, _low risk investments_, _investment fund_, that can be also some more valuable ones like _short or long term loans_, _reliable insurance company_, as well as for _finance_, _trading_ etc. 
 
 <blockquote><p>And that we are able to provide all of them in an accountable manner.</p></blockquote>
 
-On the long time running we also want to go to ''other widely business'' such as scoring of who is ''the best domain registrant'', who is ''the best web designer'', who is ''the best of hosting provider'', who is ''the best in seo service'' etc. 
+On the long time running we also want to go to _other widely business_ such as scoring of who is _the best domain registrant_, who is _the best web designer_, who is _the best of hosting provider_, who is _the best in seo service_ etc. 
 
 [[https://github.com/eq19/info/wiki/Mapping|<img src="https://eq19.files.wordpress.com/2015/08/eq19-target.jpg">]]  
 
@@ -171,7 +167,7 @@ We are going to present the result in the style as business scoring so even the 
 
 As you know that it is really difficult to find such a good services when you have only a little budget. In the contrary you have to be more wise and careful to decide whether you still doing a business with your current partner or go to other more reputable business partner when your budget is growing up. 
 
-That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on ''keyword base'' search result to the world.
+That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on _keyword base_ search result to the world.
 # Documentation =
 As Google has made a nice and beautiful documentation for each of their product then the documentation of this project will be [[https://github.com/eq19/info/wiki/maps#by-tabulation|combined]] as simple as possible in only to explain a specific task on how to make the code running and successfully gain the access to each Google Product. 
 
@@ -186,13 +182,10 @@ At last but not least we welcome for your comments or [[https://en.wikipedia.org
 
 As an update we would like to announce that we have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer.:pray:    
 
-You may start to browse the documentation. Usually people begin with a tutorial page titled ''Hello World!''. Here we have a little bit different. Let's call it ''[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|Hyip World!]]''
+You may start to browse the documentation. Usually people begin with a tutorial page titled _Hello World!_. Here we have a little bit different. Let's call it _[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|Hyip World!]]_
 
 {|
 | [[https://github.com/hyip|<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">]]
-| This [[https://github.com/eq19/info|repo]] is courtesy of '''[[https://github.com/eq19|The Quantum Project]]'''. Find all of them on '''[[https://github.com/eq19/info/wiki/maps#project-map|The Project Map]]'''.
+| This [[https://github.com/eq19/info|repo]] is courtesy of **[[https://github.com/eq19|The Quantum Project]]**. Find all of them on **[[https://github.com/eq19/info/wiki/maps#project-map|The Project Map]]**.
 | [[https://eq19.wordpress.com/eq19-business/nature-1/#main|<img src="https://eq19.files.wordpress.com/2015/06/cow.png?w=20">]]  
 |}
-
-
-
