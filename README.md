@@ -21,23 +21,6 @@ We have started the phase of this project with the main purpose of getting a pos
 
 [<img src="https://tophyipmonitor.files.wordpress.com/2015/10/programming.png">](https://hyipscript.info/)
 
-## Programming
-
-In order to run all program language in the same time then they are configured as below:
-* _**[Python](https://www.python.org/)**_ is used to access all images with an access to any Image Manipulation run from Phyton Frame such as _[Django](https://www.djangoproject.com/)_ and compiled as _images module_.
-* _**[PHP](http://php.net/)**_ is used to generate the front page run from PHP Framework such as _[Zend](http://www.zend.com/), [Kohana](http://kohanaframework.org/)_ etc and collected altogether in a _default module_.
-* _**[Java](https://www.java.com/en/)**_ is used to access all javascript file with an access to Servlet Application run from Java / Javascript Framework such as _[GWT](http://www.gwtproject.org/)_ and compiled as _scripts module_.
-* _**[Go](http://golang.org/)**_ is used to access any application that Support for _[Docker images](https://hub.docker.com/u/hyip/)_ in Google as well as Amazon Cloud Platform with an intention to run a global structure application in other languages such as _[Perl](http://www.perl.org/), [C, C++](http://en.wikipedia.org/wiki/C%2B%2B)_, etc.
-
-The reason of above is we get these for text and image:
-
-<table><tr>
-<td><img src="https://user-images.githubusercontent.com/8466209/160752831-334040b4-023b-47f9-8487-1d8546db4890.png"></td>
-<td><img src="https://user-images.githubusercontent.com/8466209/160752834-97a90fea-b7aa-46ae-b0ee-aa809279da94.png"></td>
-<td><img src="https://user-images.githubusercontent.com/8466209/160752823-d9ca1133-b2c9-48ea-8f96-2014ef94dfba.png"></td>
-<td><img src="https://user-images.githubusercontent.com/8466209/160752842-40da6049-9459-40b4-ae4d-91bd31645e45.png"></td>
-</tr></table>
-
 ### Application
 
 Having possibility to run all language then we have no more resistant to gain a _simultaneously_ access to any other [[https://developers.google.com/products/|GOOGLE PRODUCT]] including _Google Talk, [[https://developers.google.com/android/|Google Play Androids]], [[https://developers.google.com/maps/|Google Maps]], [[https://drive.google.com/|Google Drive]], [[https://developers.google.com/wallet/|Google Wallet]], [[http://www.google.co.id/analytics/tag-manager/|Google Tag Manager]], [[https://developers.google.com/youtube/|Youtube]]_, etc. which also open an access to more _widely and global_ application such as _[[https://developers.google.com/compute/|Compute Engine]] and [[https://developers.google.com/bigquery/|Big Query]]_.
@@ -80,6 +63,59 @@ By this configuration it will left the π(10) converted automatically to the hea
 
 By the prime hexagon the 10 and 19 are in the same direction. Here we can then put them all back to the π(10) in pavicon. So by the next cycles it goes deeper and deeper. This will be discussed in details ini [[https://github.com/eq19/feed|another repository]].
 
+### Quantum Prime Programs
+
+Having reviewing many alternatives we came to a business category called <em><a href="https://eq19.wordpress.com/eq19-business/#what-is-hyip" title"What is Quantum?">Quantum</a></em> known as the abbreviation of <em><a href="https://eq19.wordpress.com/eq19-business/#what-is-hyip" title"What is Quantum Prime Programs?">The Quantum Prime Programs</a></em>, which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
+
+* Site that running quantum business are mostly online within short period (_a year or less_) and quantum business has to present  exact profit to the user in a short time basis to market their services.
+* Most important is since the quantum is mostly a *ponzi scheme* so quantum site cannot be run in a long time period so we could  find whether our algorithm in our script is giving a correct scoring result in a short time as well.
+* Hyip site is easily to be considered as dead or as a _quantum scam_ when the site is stop paying so we consider that they could not blame our scoring (as we still on start to test it) in the same way that we cannot blame when they collapse or even run and take our investment away.
+
+So base on the above measurement we can take all information of quantum service being offered compare to the trust of the domain that can be put altogether to _[[https://eq19.wordpress.com/eq19-rating/|score and rank the quantum sites]]_. 
+
+<img width=100% src=https://user-images.githubusercontent.com/36441664/70721601-75c58e00-1d28-11ea-8329-d780c27ee7bd.png>
+
+Despite we are still trying hard to predict how long a quantum site can be running online we have came to have a scoring result of best site which is more or less are the same as represent by other site that comparing those quantum sites. 
+
+<img width=100% src=https://user-images.githubusercontent.com/36441664/69475248-6cb66080-0dfd-11ea-9fa4-56cb43bc668a.png>
+
+However as additional features compares to others we are providing the score with a numbers of category base on the investment or _budget level_ start from as low as US$ 1. 
+
+## Algorithm
+
+For the time being this project is developed using all benefits on Google Products even all program code available in the planet to generate a widely integrated information to score and rate a group of sites running in _a same business category_.
+
+<img width=50% src=https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png>
+
+It is quite hard to find such of business model that easily to be scored or whether our score is really represent the actual situation in the business live. 
+
+<img width=70% src=https://user-images.githubusercontent.com/36441664/95028019-445aec00-06c7-11eb-8d41-101dd4cc6d09.jpg>
+
+To rectify _[[https://github.com/eq19/info/wiki/Mapping|our concept]]_ in a short time basis, means that the script is going to present a _[[https://eq19.wordpress.com/eq19-world/mapping/map_direction_7/#main|correct algorithm]]_, we need to test it on a kind of business model that also can be measured in a short time period as well.   
+
+<img width=50% src=https://user-images.githubusercontent.com/36441664/131957473-5a815492-a5f6-49be-9762-9a8921d95dc2.png>
+
+<img width=100% src=https://user-images.githubusercontent.com/36441664/160698918-395f9ba0-0c2f-418d-a2e2-b1bbbbbe058c.jpg>
+
+[[https://github.com/chetabahana/chetabahana.github.io/wiki/%23#logics|<img width=100% src=https://user-images.githubusercontent.com/36441664/160710442-f5a16989-8f62-4ed7-bb7f-2b76f2a461ea.png>]]
+
+## Programming
+
+In order to run all program language in the same time then they are configured as below:
+* _**[Python](https://www.python.org/)**_ is used to access all images with an access to any Image Manipulation run from Phyton Frame such as _[Django](https://www.djangoproject.com/)_ and compiled as _images module_.
+* _**[PHP](http://php.net/)**_ is used to generate the front page run from PHP Framework such as _[Zend](http://www.zend.com/), [Kohana](http://kohanaframework.org/)_ etc and collected altogether in a _default module_.
+* _**[Java](https://www.java.com/en/)**_ is used to access all javascript file with an access to Servlet Application run from Java / Javascript Framework such as _[GWT](http://www.gwtproject.org/)_ and compiled as _scripts module_.
+* _**[Go](http://golang.org/)**_ is used to access any application that Support for _[Docker images](https://hub.docker.com/u/hyip/)_ in Google as well as Amazon Cloud Platform with an intention to run a global structure application in other languages such as _[Perl](http://www.perl.org/), [C, C++](http://en.wikipedia.org/wiki/C%2B%2B)_, etc.
+
+The reason of above is we get these for text and image:
+
+<table><tr>
+<td><img src="https://user-images.githubusercontent.com/8466209/160752831-334040b4-023b-47f9-8487-1d8546db4890.png"></td>
+<td><img src="https://user-images.githubusercontent.com/8466209/160752834-97a90fea-b7aa-46ae-b0ee-aa809279da94.png"></td>
+<td><img src="https://user-images.githubusercontent.com/8466209/160752823-d9ca1133-b2c9-48ea-8f96-2014ef94dfba.png"></td>
+<td><img src="https://user-images.githubusercontent.com/8466209/160752842-40da6049-9459-40b4-ae4d-91bd31645e45.png"></td>
+</tr></table>
+
 ### Development
 
 All of the basic grammars is in the header of favicon which generated by php on the fly. When html page is generated it shall first run the style so the html of python will be processed only if the header is ready. This will also covering the selection to the *most reliable code* using most appropriated program language to do the job. 
@@ -104,53 +140,6 @@ _ Building items that are being carried out_:
 
 The _[[https://eq19.wordpress.com/eq19-world/mapping/map_direction_6/#main|link]]_ to develop in deeper will be provided in the discussed section.
 
-## Algorithm
-
-For the time being this project is developed using all benefits on Google Products even all program code available in the planet to generate a widely integrated information to score and rate a group of sites running in _a same business category_.
-
-<img width=50% src=https://user-images.githubusercontent.com/36441664/96919622-3930fa00-14d6-11eb-86d9-ef60643ed7e5.png>
-
-It is quite hard to find such of business model that easily to be scored or whether our score is really represent the actual situation in the business live. 
-
-<img width=70% src=https://user-images.githubusercontent.com/36441664/95028019-445aec00-06c7-11eb-8d41-101dd4cc6d09.jpg>
-
-To rectify _[[https://github.com/eq19/info/wiki/Mapping|our concept]]_ in a short time basis, means that the script is going to present a _[[https://eq19.wordpress.com/eq19-world/mapping/map_direction_7/#main|correct algorithm]]_, we need to test it on a kind of business model that also can be measured in a short time period as well.   
-
-<img width=50% src=https://user-images.githubusercontent.com/36441664/131957473-5a815492-a5f6-49be-9762-9a8921d95dc2.png>
-
-<img width=100% src=https://user-images.githubusercontent.com/36441664/160698918-395f9ba0-0c2f-418d-a2e2-b1bbbbbe058c.jpg>
-
-[[https://github.com/chetabahana/chetabahana.github.io/wiki/%23#logics|<img width=100% src=https://user-images.githubusercontent.com/36441664/160710442-f5a16989-8f62-4ed7-bb7f-2b76f2a461ea.png>]]
-
-### Quantum Prime Programs
-
-Having reviewing many alternatives we came to a business category called <em><a href="https://eq19.wordpress.com/eq19-business/#what-is-hyip" title"What is Quantum?">Quantum</a></em> known as the abbreviation of <em><a href="https://eq19.wordpress.com/eq19-business/#what-is-hyip" title"What is Quantum Prime Programs?">The Quantum Prime Programs</a></em>, which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
-
-* Site that running quantum business are mostly online within short period (_a year or less_) and quantum business has to present  exact profit to the user in a short time basis to market their services.
-* Most important is since the quantum is mostly a *ponzi scheme* so quantum site cannot be run in a long time period so we could  find whether our algorithm in our script is giving a correct scoring result in a short time as well.
-* Hyip site is easily to be considered as dead or as a _quantum scam_ when the site is stop paying so we consider that they could not blame our scoring (as we still on start to test it) in the same way that we cannot blame when they collapse or even run and take our investment away.
-
-So base on the above measurement we can take all information of quantum service being offered compare to the trust of the domain that can be put altogether to _[[https://eq19.wordpress.com/eq19-rating/|score and rank the quantum sites]]_. 
-
-<img width=100% src=https://user-images.githubusercontent.com/36441664/70721601-75c58e00-1d28-11ea-8329-d780c27ee7bd.png>
-
-Despite we are still trying hard to predict how long a quantum site can be running online we have came to have a scoring result of best site which is more or less are the same as represent by other site that comparing those quantum sites. 
-
-<img width=100% src=https://user-images.githubusercontent.com/36441664/69475248-6cb66080-0dfd-11ea-9fa4-56cb43bc668a.png>
-
-However as additional features compares to others we are providing the score with a numbers of category base on the investment or _budget level_ start from as low as US$ 1. 
-
-### Released Software
-
-_[[https://eq19.wordpress.com/2015/05/17/eq19-analysis/|Here]]_ we have released our first project so far:
-
-[[http://all.hyip.world/|Quantum Score Analysis v1.2]]<br />  
-[[http://all.hyip.world/|<img src="https://eq19-world.appspot.com/UA-51930984-2/github/info?gif=v1.2">]]
-
-This software will be the basic core of our project used for further development and to be widely open to the world on the future at our main site called _[[http://hyip.world/|Quantum Prime Programs]]_. You may also get in detail later in _[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|our tutorial]]_ on how we started to get this site _Up and Running on Github_.
-
-This is just a model to give you a figure on how we are going to start. 
-
 ### Destination
 
 This project will limit the scope up to the mapping as shown in _[[https://github.com/eq19/info/wiki/maps#by-tabulation|The Project Map]]_ which direction is digging in the scope of _[[https://eq19.wordpress.com/eq19-business/|HYIP]]_. As Quantum is a part of the world of Investment it does not rule out the possibility on attaching this project into up [[https://github.com/eq19/info/wiki/maps#the-formation|formation]] along with other scope to become an _[[https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program|Integrated Investment Application System]]_.
@@ -168,21 +157,12 @@ We are going to present the result in the style as business scoring so even the 
 As you know that it is really difficult to find such a good services when you have only a little budget. In the contrary you have to be more wise and careful to decide whether you still doing a business with your current partner or go to other more reputable business partner when your budget is growing up. 
 
 That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on _keyword base_ search result to the world.
-# Documentation =
+
+# Documentation
+
 As Google has made a nice and beautiful documentation for each of their product then the documentation of this project will be [[https://github.com/eq19/info/wiki/maps#by-tabulation|combined]] as simple as possible in only to explain a specific task on how to make the code running and successfully gain the access to each Google Product. 
 
 <img width=100% src=https://user-images.githubusercontent.com/36441664/90973443-4e2bf400-e54c-11ea-9f8b-de0981890297.png>
-
-## Official Blog & News
-We have also setup our [[https://eq19.wordpress.com/eq19-world/|Official Blog]] for public discussion. The project discussion will not only cover the [[https://eq19.wordpress.com/eq19-rating/|Quantum Sites and Rating Analysis]] but also the [[https://eq19.wordpress.com/eq19-forums/|Quantum Forum]], [[https://eq19.wordpress.com/eq19-monitors/|Quantum Monitor]], [[https://eq19.wordpress.com/eq19-scripts/|Quantum Script]], and every other sources that are involved in this business model.
-
-At last but not least we welcome for your comments or [[https://en.wikipedia.org/wiki/User:Hyipworld/High-yard_investment_program|opinion to our project]]. Please feel free to try your hand at building other formats; any discussion will be opened later once the application is meeting the most targets as described above.
-
-## Update
-
-As an update we would like to announce that we have started to make our project documentation. Please don't expect to much on it. We are not a professional author nor even a good writer.:pray:    
-
-You may start to browse the documentation. Usually people begin with a tutorial page titled _Hello World!_. Here we have a little bit different. Let's call it _[[https://github.com/hyipworld/hyipworld.github.io/blob/master/README.md|Hyip World!]]_
 
 {|
 | [[https://github.com/hyip|<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">]]
