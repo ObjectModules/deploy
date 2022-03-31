@@ -64,7 +64,7 @@ By the prime hexagon the 10 and 19 are in the same direction. Here we can then p
 
 ### Quantum Prime Programs
 
-Having reviewing many alternatives we came to a business category called <em><a href="https://eq19.wordpress.com/eq19-business/#what-is-hyip" title"What is Quantum?">Quantum</a></em> known as the abbreviation of <em><a href="https://eq19.wordpress.com/eq19-business/#what-is-hyip" title"What is Quantum Prime Programs?">The Quantum Prime Programs</a></em>, which we found as a perfect model for us to be started. Following are some reason behind this selection to this busines model:
+Following are some reason behind this selection to this busines model:
 
 * Site that running quantum business are mostly online within short period (_a year or less_) and quantum business has to present  exact profit to the user in a short time basis to market their services.
 * Most important is since the quantum is mostly a *ponzi scheme* so quantum site cannot be run in a long time period so we could  find whether our algorithm in our script is giving a correct scoring result in a short time as well.
