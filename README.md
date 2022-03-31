@@ -153,7 +153,7 @@ This will open a wider chalenge for us to provide such kind of real business inf
 
 On the long time running we also want to go to _other widely business_ such as scoring of who is _the best domain registrant_, who is _the best web designer_, who is _the best of hosting provider_, who is _the best in seo service_ etc. 
 
-[<img src="https://eq19.files.wordpress.com/2015/08/eq19-target.jpg">]]  
+<img src="https://tophyipmonitor.files.wordpress.com/2015/08/hyip-target.jpg">  
 
 We are going to present the result in the style as business scoring so even the user only have a small amount in their budget they could find our scoring is useful for them. 
 
