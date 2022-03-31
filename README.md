@@ -139,7 +139,7 @@ _ Building items that are being carried out_:
 
 The _[link](https://eq19.wordpress.com/eq19-world/mapping/map_direction_6/#main)_ to develop in deeper will be provided in the discussed section.
 
-### Destination
+## Destination
 
 This project will limit the scope up to the mapping as shown in _[The Project Map](https://github.com/eq19/info/wiki/maps#by-tabulation)_ which direction is digging. 
 
@@ -161,7 +161,7 @@ As you know that it is really difficult to find such a good services when you ha
 
 That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on _keyword base_ search result to the world.
 
-# Documentation
+### Documentation
 
 As Google has made a nice and beautiful documentation for each of their product then the documentation of this project will be [combined](https://github.com/eq19/info/wiki/maps#by-tabulation) as simple as possible in only to explain a specific task on how to make the code running and successfully gain the access to each Google Product. 
 
