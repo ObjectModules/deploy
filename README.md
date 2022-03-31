@@ -9,7 +9,11 @@ We develop _[the concept](https://github.com/eq19/info/wiki/Mapping#mapping-syst
 
 [<img alt="Quantum Project - The Concept of Primes Algorithm by DNA Recombination" src="https://eq19.github.io/images/banner.jpg">](https://github.com/eq19/maps)
 
-We have started the phase of this project with the main purpose of getting a possibility to build an interface to generate an _integrated info_ from all _[GOOGLE CLOUDS PLATFORM](https://cloud.google.com/developers/)_ including _[API's](https://developers.google.com/apis-explorer/#p/), [Application API](https://developers.google.com/google-apps/app-apis), [Application Sripts](https://developers.google.com/apps-script/), [Application Engine](https://developers.google.com/appengine/); [Cloud Storage](https://developers.google.com/storage/), [Cloud Datastore](https://developers.google.com/datastore/), [Cloud SQL](https://developers.google.com/cloud-sql/)_ etc. We have also setup our <a href="http://hyipscript.info/" target="_blank">Script Portal</a> on the most well-known programming languages like 
+We have started the phase of this project with the main purpose of getting a possibility to build an interface to generate an _integrated info_ from all _[GOOGLE CLOUDS PLATFORM](https://cloud.google.com/developers/)_ including _[API's](https://developers.google.com/apis-explorer/#p/), [Application API](https://developers.google.com/google-apps/app-apis), [Application Sripts](https://developers.google.com/apps-script/), [Application Engine](https://developers.google.com/appengine/); [Cloud Storage](https://developers.google.com/storage/), [Cloud Datastore](https://developers.google.com/datastore/), [Cloud SQL](https://developers.google.com/cloud-sql/)_ etc.
+
+[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/programming.png">](https://hyipscript.info/)
+
+We have also setup our <a href="http://hyipscript.info/" target="_blank">Script Portal</a> on the most well-known programming languages like 
 <a href="http://php.hyipscript.info/" target="_blank">PHP</a>, 
 <a href="http://python.hyipscript.info/" target="_blank">Python</a>, 
 <a href="http://java.hyipscript.info/" target="_blank">Java</a>, 
@@ -18,8 +22,6 @@ We have started the phase of this project with the main purpose of getting a pos
 <a href="http://scala.hyipscript.info/" target="_blank">Scala</a>, 
 <a href="http://clojure.hyipscript.info/" target="_blank">Clojure</a>, and 
 <a href="http://ruby.hyipscript.info/" target="_blank">Ruby</a>.<br/>
-
-[<img src="https://tophyipmonitor.files.wordpress.com/2015/10/programming.png">](https://hyipscript.info/)
 
 ## Programming
 
