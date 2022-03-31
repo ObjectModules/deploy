@@ -1,8 +1,5 @@
-{|
-| [[https://github.com/eq19|<img src="https://avatars1.githubusercontent.com/u/8466209?v=3&s=20">]]
-| This [[https://github.com/eq19/info|repo]] is courtesy of '''[[https://github.com/eq19|The Quantum Project]]'''. Find all of them on '''[[https://github.com/eq19/info/wiki/maps#project-map|The Project Map]]'''.
-| [[https://eq19.wordpress.com/eq19-business/nature-1/#main|<img src="https://eq19.files.wordpress.com/2015/06/cow.png?w=20">]]  
-|}
+|[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=20)](https://github.com/hyip) |This [repo](https://github.com/hyipworld/hyipworld.github.io "Repository") is courtesy of [The Quantum Project](https://github.com/eq19 "Primes Recmbination Program"). Find all of them on [The Project Map](https://github.com/eq19/info/wiki/maps#project-map "Project Mapping").|[![The HYIP Project](https://tophyipmonitor.files.wordpress.com/2015/06/ant.png?w=20)](https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main) |
+|:----|----|----:|
 
 __TOC__
 
@@ -196,4 +193,6 @@ You may start to browse the documentation. Usually people begin with a tutorial 
 | This [[https://github.com/eq19/info|repo]] is courtesy of '''[[https://github.com/eq19|The Quantum Project]]'''. Find all of them on '''[[https://github.com/eq19/info/wiki/maps#project-map|The Project Map]]'''.
 | [[https://eq19.wordpress.com/eq19-business/nature-1/#main|<img src="https://eq19.files.wordpress.com/2015/06/cow.png?w=20">]]  
 |}
+
+
 
