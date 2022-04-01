@@ -157,13 +157,13 @@ We are going to present the result in the style as business scoring so even the 
 
 As you know that it is really difficult to find such a good services when you have only a little budget. In the contrary you have to be more wise and careful to decide whether you still doing a business with your current partner or go to other more reputable business partner when your budget is growing up. 
 
-That is all what we want to go. We intent to be among the best and trusted company in scoring any business in the same way as how people see Google on giving their amazing service on _keyword base_ search result to the world.
-
 ### Documentation
 
 As Google has made a nice and beautiful documentation for each of their product then the documentation of this project will be [combined](https://github.com/eq19/info/wiki/maps#by-tabulation) as simple as possible in only to explain a specific task on how to make the code running and successfully gain the access to each Google Product. 
 
 <img width=100% src=https://user-images.githubusercontent.com/36441664/90973443-4e2bf400-e54c-11ea-9f8b-de0981890297.png>
+
+That is all what we want to go. We intent to be among the best and trusted source in scoring any business in the same way as how people see Google on giving their amazing service on _keyword base_ search result to the world.
 
 |[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=20)](https://github.com/hyip)|This [repo](https://github.com/hyipworld/hyipworld.github.io "Repository") is courtesy of [The Quantum Project](https://github.com/eq19 "Primes Recmbination Program"). Find all of them on [The Project Map](https://github.com/eq19/info/wiki/maps#project-map "Project Mapping").|[![The HYIP Project](https://tophyipmonitor.files.wordpress.com/2015/06/ant.png?w=20)](https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main) |
 |:----|----|----:|
