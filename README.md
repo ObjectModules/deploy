@@ -75,14 +75,14 @@ The application development is limited until gain the access only means once the
 Let's say you have a defaut configuration of π(10)=2,3,5,7. How do you present your html page in order that all of the page elements are represented by the primes without any missing parts?
 
 ```html
-      <html> (29=10th prime)
-        Δ     <head> (10)
+      <html> → (29=10th prime) → next favicon
+        Δ     <head> ← (10)
         |          <style>  - 5 ‹----
         |                     Δ      |
-        3(29)‹------------ favicon - 2,3,5=π(5)
+        3(29=10+19)‹------ favicon - 2,3,5=π(5)
                    </style>          |
              </head>               (89²)
-              <body> (19)            |
+              <body> ← (19)          |
                    <script> - 7 ‹----
                    </script>
              </body
