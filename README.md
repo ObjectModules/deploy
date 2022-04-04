@@ -165,5 +165,7 @@ As Google has made a nice and beautiful documentation for each of their product 
 
 That is all what we want to go. We intent to be among the best and trusted source in scoring any business in the same way as how people see Google on giving their amazing service on _keyword base_ search result to the world.
 
+The difference is that if Google give some best items for you choose then we give you the best items it self.
+
 |[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=20)](https://github.com/hyip)|This [repo](https://github.com/hyipworld/hyipworld.github.io "Repository") is courtesy of [The Quantum Project](https://github.com/eq19 "Primes Recmbination Program"). Find all of them on [The Project Map](https://github.com/eq19/info/wiki/maps#project-map "Project Mapping").|[![The HYIP Project](https://tophyipmonitor.files.wordpress.com/2015/06/ant.png?w=20)](https://tophyipmonitor.wordpress.com/hyip-forums/nature-4/#main) |
 |:----|----|----:|
