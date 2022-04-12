@@ -1,5 +1,3 @@
-title: eQuantum
-
 debug:
   dist: false
   compress: true
