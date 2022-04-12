@@ -8,6 +8,3 @@ google:
   adsense: ca-pub-3677197599836940
 
 remote_theme: FeedTheme/jekyll-rtd-theme
-#remote_theme: pages-themes/tactile@v0.2.0
-#remote_theme: rundocs/jekyll-rtd-theme@v2.0.10
-#remote_theme: FeedTheme/jekyll-rtd-theme@v2.0.10
