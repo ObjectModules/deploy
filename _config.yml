@@ -7,7 +7,7 @@ exclude:
 url: http://hyip.github.io
 name: The HYIP Project
 topic: Project Introduction
-path: /info/project
+path: /classes/project
 
 disqus_shortname: tophyips
 google_analytics: UA-79558814-1
