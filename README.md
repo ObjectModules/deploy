@@ -3,7 +3,7 @@
 
 # Introduction
 
-[The Quantum Project](https://github.com/eq19) is a kind of [Mapping System](http://eq19.github.io/) that is formed to do its best to find and recommend the best for you. It relays deeply on a kind of a unique formation that will always become unified on every directions. 
+[The Quantum Project](https://github.com/eq19) is a kind of [Mapping System](http://eq19.github.io/) that is formed to do its best to find and recommend the best for you. It relays deeply on a kind of a unique formation that will always become unified on every directions.
 
 We develop _[the concept](https://github.com/eq19/info/wiki/Mapping#mapping-system)_ of this Unique Mapping System as an Open Source Project by taking a business called _[Quantum Prime Programs](https://eq19.wordpress.com/eq19-business/)_ as a starting model. Assuring you of our best intentions, there is no such thing similar with this kind of concept.
 
