@@ -21,7 +21,7 @@ We have also setup our <a href="http://hyipscript.info/" target="_blank">Script 
 <a href="http://node.hyipscript.info/" target="_blank">Node.js</a>, 
 <a href="http://scala.hyipscript.info/" target="_blank">Scala</a>, 
 <a href="http://clojure.hyipscript.info/" target="_blank">Clojure</a>, and 
-<a href="http://ruby.hyipscript.info/" target="_blank">Ruby</a>.<br/>
+<a href="http://ruby.hyipscript.info/" target="_blank">Ruby</a>.
 
 ## Programming
 
