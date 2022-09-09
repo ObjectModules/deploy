@@ -1,0 +1,3 @@
+[submodule "docs/recycling/grammar"]
+	path = docs/recycling/grammar
+	url = https://github.com/eq19/grammar
